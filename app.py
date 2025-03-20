@@ -134,7 +134,7 @@ def generate_insight_agent(sql_query, result_df):
     
     try:
         response = openai.chat.completions.create(
-            model="GPT-4o",
+            model="GPT-4",
             messages=[{"role": "user", "content": prompt}],
             temperature=0.2
         )
