@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Releaf AI Assistant</title>
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/plotly.js@2.16.1/dist/plotly.min.js"></script>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; font-family: Arial, sans-serif; }
+        body { display: flex; height: 100vh; background-color: #2f2f2f; color: #ffffff; }
+        .sidebar { width: 300px; background-color: #021a0c; color: #ffffff; padding: 20px; display: flex; flex-direction: column; align-items: center; }
+        .sidebar img { width: 100px; margin-bottom: 10px; }
+        .sidebar h1 { margin-bottom: 120px; }
+        .dropdown { margin-bottom: 120px; width: 100%; }
+        .chart-button, .query-button { margin-top: 10px; padding: 10px; width: 100%; background-color: #444444; color: #ffffff; border: none; border-radius: 5px; cursor: pointer; text-align: center; }
+        .chart-button:hover, .query-button:hover { background-color: #555555; }
+        .main-container { flex-grow: 1; display: flex; flex-direction: column; background-color: #2f2f2f; }
+        .chat-container { flex-grow: 1; padding: 20px; display: flex; flex-direction: column; justify-content: flex-end; border-right: 2px solid #444444; }
+        .chat-box { flex-grow: 1; overflow-y: auto; padding: 10px; border: 1px solid #444444; height: 400px; background-color: #333333; }
+        .message { padding: 10px; border-radius: 10px; margin-bottom: 10px; max-width: 70%; }
+        .user-message { background-color: #713c00; color: #ffffff; align-self: flex-end; text-align: right; }
+        .bot-message { background-color: #012a32; color: #ffffff; align-self: flex-start; text-align: left; }
+        .data-section { padding: 20px; display: none; background-color: #021a0c; }
+        .query-container { margin-top: 20px; padding: 10px; border: 1px solid #444444; display: none; background-color: #333333; white-space: pre-wrap; }
+        .insight-container { margin-top: 20px; padding: 10px; border: 1px solid #021a0c; display: none; background-color: #333333; }
+        .input-container { display: flex; padding: 10px; background-color: #2f2f2f; border-top: 2px solid #444444; }
+        .input-container input { flex-grow: 1; padding: 10px; border: 1px solid #444444; border-radius: 5px; font-size: 16px; background-color: #333333; color: #ffffff; }
+        .input-container button { padding: 10px 15px; margin-left: 10px; background-color: #444444; color: #ffffff; border: none; border-radius: 5px; cursor: pointer; }
+        .input-container button:hover { background-color: #555555; }
+        .prediction-button { margin-top: 10px; padding: 10px; width: 100%; background-color: #444444; color: #ffffff; border: none; border-radius: 5px; cursor: pointer; text-align: center; }
+        .prediction-button:hover { background-color: #555555; }
+        .typing-animation {display: inline-block;}
+        .typing-cursor {
+        display: inline-block;
+        width: 8px;
+        height: 1em;
+        background: #4a90e2;
+        margin-left: 2px;
+        animation: blink 1s infinite;
+        }
+
+        @keyframes blink {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0; }
+        }
+    </style>
+</head>
+<body>
+    <div class="sidebar">
+        <img src="/static/releaf_africa_logo_nbg.png" alt="Releaf Logo">
+        <h1>Releaf</h1>
+        <h5>Select Model</h5>
+        <select id="model-select" class="dropdown">
+            <option value="gpt-4">GPT-4o</option>
+            <option value="gpt-3.5-turbo">o3-mini</option>
+        </select>
+        <button class="chart-button" onclick="toggleSection('chart-container')">View Chart</button>
+        <button class="query-button" onclick="toggleSection('query-container')">View SQL</button>
+        <button class="insight-button query-button" onclick="toggleSection('insight-container')">View Insights</button>
+        <button class="prediction-button" onclick="window.open('prediction.html', '_blank')">Prediction/Recommendation</button>
+    </div>
+    <div class="main-container">
+        <div class="chat-container">
+            <div class="chat-box" id="chat-box"></div>
+            <div class="input-container">
+                <input type="text" id="user-input" placeholder="Ask a question..." onkeypress="handleKeyPress(event)">
+                <button onclick="sendMessage()">Send</button>
+            </div>
+        </div>
+        <div class="data-section" id="data-section">
+            <h2>Query Result</h2>
+            <div class="query-container" id="query-container">No query executed</div>
+            <div class="insight-container" id="insight-container">No insights available.</div>
+            <h2>Chart</h2>
+            <div id="chart-container">
+                <div id="chart"></div>
+            </div>
+        </div>
+    </div>
+    <script>
+        function typeMessage(message, element, delay = 50) {
+            let index = 0;
+            const words = message.split(' ');
+            element.innerHTML = '<span class="typing-animation"></span><span class="typing-cursor"></span>';
+        
+            return new Promise(resolve => {
+                const interval = setInterval(() => {
+                    if (index < words.length) {
+                        element.querySelector('.typing-animation').textContent += words[index] + ' ';
+                        index++;
+                    } else {
+                        element.querySelector('.typing-cursor').remove();
+                        clearInterval(interval);
+                        resolve();
+                    }
+                }, delay);
+            });
+        }
+
+        function handleKeyPress(event) {
+            if (event.key === "Enter") sendMessage();
+        }
+        function sendMessage() {
+            const userInput = document.getElementById('user-input').value;
+            const model = document.getElementById('model-select').value;
+            if (userInput.trim() === "") return;
+        
+            const chatBox = document.getElementById('chat-box');
+            chatBox.innerHTML += `<div class='message user-message'>${userInput}</div>`;
+        
+            axios.post('/ask', { query: userInput, model: model })
+                .then(response => {
+                    const data = response.data;
+                    document.getElementById("query-container").textContent = data.query;
+                
+                    // Add data result immediately
+                    chatBox.innerHTML += `
+                        <div class='message bot-message'>
+                            ${data.result}
+                        </div>
+                    `;
+                
+                    // Create insight container
+                    const insightDiv = document.createElement('div');
+                    insightDiv.className = 'message bot-message insight-message';
+                    insightDiv.innerHTML = '<strong>AI Analysis:</strong><br>';
+                    chatBox.appendChild(insightDiv);
+                
+                    // Type out insight
+                    const contentDiv = document.createElement('div');
+                    insightDiv.appendChild(contentDiv);
+                
+                    typeMessage(data.insight, contentDiv).then(() => {
+                        updateChart(data.chart_data);
+                        chatBox.scrollTop = chatBox.scrollHeight;
+                    });
+                
+                    // Keep scrolling updated during typing
+                    const scrollInterval = setInterval(() => {
+                        chatBox.scrollTop = chatBox.scrollHeight;
+                    }, 100);
+                
+                    setTimeout(() => clearInterval(scrollInterval), 5000);
+                })
+                .catch(() => {
+                    chatBox.innerHTML += "<div class='message bot-message'>Error processing request.</div>";
+                });
+        
+            document.getElementById("user-input").value = "";
+        }
+
+        function toggleSection(sectionId) {
+            const section = document.getElementById(sectionId);
+            section.style.display = section.style.display === "none" ? "block" : "none";
+        }
+        function updateChart(chartData) {
+            if (!chartData) return;
+            const layout = {
+                ...chartData.layout,
+                paper_bgcolor: '#1a1a1a',
+                plot_bgcolor: '#2d2d2d',
+                font: { color: '#e0e0e0' },
+                xaxis: { ...chartData.layout.xaxis, gridcolor: '#404040' },
+                yaxis: { ...chartData.layout.yaxis, gridcolor: '#404040' }
+            };
+            Plotly.newPlot('chart', chartData.data, layout);
+            document.getElementById('data-section').style.display = 'block';
+        }
+    </script>
+</body>
+</html>
