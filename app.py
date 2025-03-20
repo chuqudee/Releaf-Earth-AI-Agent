@@ -11,7 +11,7 @@ import numpy as np
 import pickle
 
 # Initialize OpenAI API
-openai.api_key = "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"
+openai.api_key = "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"
 
 app = Flask(__name__)
 
