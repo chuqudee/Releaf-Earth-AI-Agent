@@ -16,10 +16,6 @@ from dotenv import load_dotenv
 #app.config['SECRET_KEY'] = os.environ.get('SECRET_KEY', 'default-secret-key')  # Fallback if not set
 openai.api_key = os.environ.get('OPENAI_API_KEY')
 
-@app.route('/')
-def index():
-    return "Environment variables are set!"
-
 app = Flask(__name__)
 
 # Database setup
