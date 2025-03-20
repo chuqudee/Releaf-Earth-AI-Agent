@@ -113,20 +113,25 @@ def format_response(df):
 def generate_insight_agent(sql_query, result_df):
     """Agent that generates natural language insights from SQL and results"""
     prompt = f"""
-    Analyze this SQL query and its results to provide a professional business insight:
+    Analyze this SQL query and its results to provide professional business insights:
     
     SQL Query: {sql_query}
     
     Query Results:
     {result_df.to_string()}
     
-    Provide a concise summary highlighting key findings and business implications.
-    Focus on trends, anomalies, and actionable insights.
+    Provide a concise summary with:
+    1. Key numerical findings
+    2. Notable patterns/trends
+    3. Data quality observations
+    4. Business implications
+    5. Recommended actions
+    Use clear, non-technical language.
     """
     
     try:
         response = openai.chat.completions.create(
-            model="gpt-4",
+            model="o3-mini",
             messages=[{"role": "user", "content": prompt}],
             temperature=0.2
         )
