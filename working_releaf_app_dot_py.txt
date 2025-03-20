@@ -1,0 +1,121 @@
+working_app_dot_py
++++++++++++++++++++++++++++
+
+
+from flask import Flask, request, jsonify, render_template
+import openai
+import sqlite3
+import pandas as pd
+import re
+import os
+
+
+# Load OpenAI API Key
+openai.api_key = "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"
+
+# CSV file path
+CSV_FILE = "C:\\Users\\niky4\\Releaf_ai_agent_test_run\\cleaned_machinery_expenses.csv"
+DB_FILE = "expenses.db"
+
+# Convert CSV to SQLite database
+def csv_to_sqlite():
+    df = pd.read_csv(CSV_FILE)
+    
+    # Connect to SQLite database
+    conn = sqlite3.connect(DB_FILE)
+    df.to_sql("expenses", conn, if_exists="replace", index=False)
+    conn.close()
+
+# Ensure database is created
+if not os.path.exists(DB_FILE):
+    csv_to_sqlite()
+
+app = Flask(__name__)
+
+# Function to extract SQL query from AI response
+def extract_sql_query(response_text):
+    sql_pattern = re.search(r"(?i)(SELECT|INSERT|UPDATE|DELETE).*?(;)", response_text, re.DOTALL)
+    if sql_pattern:
+        return sql_pattern.group(0).strip()
+    return None
+
+# Function to generate SQL query using GPT model
+def generate_sql_query(user_request):
+    messages = [
+        {"role": "system", "content": """
+        You are an AI assistant specialized in querying an SQLite database named 'expenses' based on user requests.
+        
+        **Database Schema (expenses.db):**
+        - Date (DATE) – Date of the transaction.
+        - Ticket No. (TEXT) – Unique identifier for each transaction.
+        - receiver department (TEXT) – The department receiving the item.
+        - Item (TEXT) – The category of the purchased item.
+        - measurement (TEXT) – Unit of measurement (e.g., pieces, litres).
+        - Description (TEXT) – Additional details about the item.
+        - Quantity (INTEGER) – Number of units purchased.
+        - Unit Cost (REAL) – Price per unit.
+        - total cost (REAL) – Total cost of the transaction.
+        - Weeks (TEXT) – Weekly reporting period.
+        
+        **Instructions:**
+        - Convert user requests into precise **SQLite-compatible** SQL queries.
+        - Ensure correct column names and apply appropriate filtering conditions.
+        - Return either a **single value** (for aggregated queries like total cost) or a **table** (for listing transactions).
+        - **DO NOT display the SQL query or execution details**—only return the final output.
+        - If the query produces a single numeric value, return it as: "The total cost is $X."
+        - If the query involves multiple rows, return the results in a formatted table.
+        """},
+        {"role": "user", "content": user_request}
+    ]
+    
+    response = openai.ChatCompletion.create(
+        model="gpt-4",
+        messages=messages,
+        max_tokens=500,
+        temperature=0,
+    )
+    
+    return response['choices'][0]['message']['content'].strip()
+
+# Function to execute SQL and return results
+def execute_sql_query(user_request):
+    query_text = generate_sql_query(user_request)
+    
+    # Extract SQL query
+    sql_query = extract_sql_query(query_text)
+    if not sql_query:
+        return {"error": "No valid SQL query found."}
+    
+    connection = sqlite3.connect("expenses.db")
+    try:
+        df = pd.read_sql_query(sql_query, connection)
+        connection.close()
+        
+        # Handle single value vs. table output
+        if df.shape == (1, 1):  
+            return {"result": f"{df.iloc[0, 0]}"}  # Return the single value
+        else:
+            return {"result": df.to_dict(orient='records')}  # Return table as JSON
+        
+    except Exception as e:
+        connection.close()
+        return {"error": f"Error executing query: {str(e)}"}
+
+# Route for rendering the frontend
+@app.route('/')
+def index():
+    return render_template('index.html')
+
+# API route for handling user queries
+@app.route('/ask', methods=['POST'])
+def ask():
+    data = request.json
+    user_query = data.get("query", "")
+    if not user_query:
+        return jsonify({"error": "No query provided."}), 400
+    
+    response = execute_sql_query(user_query)
+    return jsonify(response)
+
+if __name__ == '__main__':
+    app.run(debug=True)

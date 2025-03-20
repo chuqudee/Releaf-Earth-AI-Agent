@@ -1,0 +1,123 @@
+app_dot_py_releaf_2
++++++++++++++++++++++++++
+
+import sqlite3
+import pandas as pd
+import os
+import openai
+from flask import Flask, request, render_template, jsonify
+
+# Set OpenAI API Key
+openai.api_key = "your_openai_api_key"
+
+# CSV and Database File
+CSV_FILE = "cleaned_machinery_expenses.csv"
+DB_FILE = "expenses.db"
+
+# Convert CSV to SQLite
+def csv_to_sqlite():
+    df = pd.read_csv(CSV_FILE)
+    
+    # Connect to SQLite and save data
+    conn = sqlite3.connect(DB_FILE)
+    df.to_sql("expenses", conn, if_exists="replace", index=False)
+    conn.close()
+
+# Ensure database exists
+if not os.path.exists(DB_FILE):
+    csv_to_sqlite()
+
+# Initialize Flask app
+app = Flask(__name__)
+
+# AI Prompt for SQL Generation
+def generate_sql_query(user_query):
+    system_prompt = """
+    You are an AI assistant that specializes in querying an SQLite database named 'expenses' based on user requests. 
+    The database contains the following columns:
+    - Date (TEXT) – Date of the transaction.
+    - Month/Week (TEXT) – The corresponding month and week of the transaction.
+    - Ticket No. (TEXT) – Unique identifier for each transaction.
+    - Receiver_department (TEXT) – The department receiving the item.
+    - Item (TEXT) – The category of the purchased item.
+    - UoM (TEXT) – Unit of measurement (e.g., pieces, litres).
+    - Description (TEXT) – Additional details about the item.
+    - Quantity (INTEGER) – Number of units purchased.
+    - Unit Cost (REAL) – Price per unit.
+    - Cost (REAL) – Total cost of the transaction.
+    - Weeks (TEXT) – Weekly reporting period.
+
+    **Your task:**
+    - Convert natural language queries into accurate **SQLite-compatible** SQL queries.
+    - Always ensure correct column names and appropriate filtering.
+    - If the user asks for a summary (e.g., total cost), return a **single value**.
+    - If the query involves multiple rows (e.g., listing transactions), return a **table**.
+    - NEVER include the SQL syntax in the response—just provide the final output.
+    - Be concise and only return what the user asked for.
+
+    **Examples:**
+    - User: "Total cost of diesel purchases last week."
+      - AI: "The total cost of diesel purchases last week was $2,345.50."
+    - User: "Show me all expenses for the Production department."
+      - AI: (Returns a table with relevant expenses)
+    - User: "What was the highest unit cost recorded?"
+      - AI: "The highest unit cost recorded was $450.00."
+
+    Now generate an SQL query for the following request:
+    """
+
+    response = openai.ChatCompletion.create(
+        model="gpt-4",
+        messages=[
+            {"role": "system", "content": system_prompt},
+            {"role": "user", "content": user_query}
+        ]
+    )
+
+    return response["choices"][0]["message"]["content"].strip()
+
+# Execute SQL Query
+def execute_query(sql_query):
+    conn = sqlite3.connect(DB_FILE)
+    cursor = conn.cursor()
+    try:
+        cursor.execute(sql_query)
+        rows = cursor.fetchall()
+        columns = [desc[0] for desc in cursor.description]
+        conn.close()
+
+        # If single result, return as text
+        if len(rows) == 1 and len(rows[0]) == 1:
+            return {"output": rows[0][0]}
+
+        # Otherwise, return table
+        return {"columns": columns, "rows": rows}
+
+    except Exception as e:
+        conn.close()
+        return {"error": str(e)}
+
+# Home Route (Web UI)
+@app.route("/", methods=["GET", "POST"])
+def index():
+    results = None
+
+    if request.method == "POST":
+        user_query = request.form["query"]
+        sql_query = generate_sql_query(user_query)
+        results = execute_query(sql_query)
+
+    return render_template("index.html", results=results)
+
+# API Route
+@app.route("/api/query", methods=["POST"])
+def api_query():
+    data = request.get_json()
+    user_query = data.get("query", "")
+    sql_query = generate_sql_query(user_query)
+    results = execute_query(sql_query)
+    return jsonify(results)
+
+# Run Flask App
+if __name__ == "__main__":
+    app.run(debug=True)

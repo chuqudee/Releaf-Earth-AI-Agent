@@ -1,0 +1,240 @@
+first_index_html_like_wren
++++++++++++++++++++++++++++++
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Releaf AI Assistant</title>
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: Arial, sans-serif;
+        }
+        body {
+            display: flex;
+            height: 100vh;
+            background-color: #f8f9fa;
+        }
+        /* Left Sidebar */
+        .sidebar {
+            width: 250px;
+            background-color: #1e293b;
+            color: white;
+            display: flex;
+            flex-direction: column;
+            padding: 20px;
+        }
+        .sidebar h1 {
+            font-size: 24px;
+            margin-bottom: 20px;
+        }
+        /* Main Container */
+        .main-container {
+            flex-grow: 1;
+            display: flex;
+            flex-direction: column;
+            background-color: white;
+        }
+        .content {
+            display: flex;
+            flex-grow: 1;
+        }
+        /* Chat Section */
+        .chat-container {
+            width: 50%;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            border-right: 2px solid #ddd;
+        }
+        .chat-box {
+            flex-grow: 1;
+            overflow-y: auto;
+            padding: 20px;
+        }
+        .message {
+            padding: 10px;
+            border-radius: 10px;
+            margin-bottom: 10px;
+            max-width: 70%;
+        }
+        .user-message {
+            background-color: #007bff;
+            color: white;
+            align-self: flex-end;
+            text-align: right;
+        }
+        .bot-message {
+            background-color: #f1f1f1;
+            color: black;
+            align-self: flex-start;
+            text-align: left;
+        }
+        /* SQL & Chart Section */
+        .data-section {
+            width: 50%;
+            display: flex;
+            flex-direction: column;
+            padding: 20px;
+        }
+        .data-section h2 {
+            margin-bottom: 10px;
+            font-size: 20px;
+        }
+        #sql-view {
+            border: 1px solid #ccc;
+            padding: 10px;
+            background-color: #fafafa;
+            min-height: 100px;
+            overflow-y: auto;
+        }
+        #chart-container {
+            margin-top: 20px;
+            width: 100%;
+            height: 300px;
+        }
+        /* Input Section */
+        .input-container {
+            display: flex;
+            padding: 10px;
+            background-color: #ffffff;
+            border-top: 2px solid #ddd;
+        }
+        .input-container input {
+            flex-grow: 1;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            font-size: 16px;
+        }
+        .input-container button {
+            padding: 10px 15px;
+            margin-left: 10px;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        .input-container button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Left Sidebar -->
+    <div class="sidebar">
+        <h1>Releaf</h1>
+    </div>
+
+    <!-- Main Container -->
+    <div class="main-container">
+        <div class="content">
+            <!-- Chat Section -->
+            <div class="chat-container">
+                <div class="chat-box" id="chat-box"></div>
+                <div class="input-container">
+                    <input type="text" id="user-input" placeholder="Ask a question..." onkeypress="handleKeyPress(event)">
+                    <button onclick="sendMessage()">Send</button>
+                </div>
+            </div>
+
+            <!-- SQL & Chart Section -->
+            <div class="data-section">
+                <h2>SQL View</h2>
+                <div id="sql-view">No query results yet.</div>
+
+                <h2>Chart</h2>
+                <canvas id="chart-container"></canvas>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        function handleKeyPress(event) {
+            if (event.key === "Enter") {
+                sendMessage();
+            }
+        }
+
+        function sendMessage() {
+            let userInput = document.getElementById("user-input").value;
+            if (userInput.trim() === "") return;
+
+            let chatBox = document.getElementById("chat-box");
+
+            // Display user message
+            let userMessage = document.createElement("div");
+            userMessage.className = "message user-message";
+            userMessage.textContent = userInput;
+            chatBox.appendChild(userMessage);
+
+            // Send query to backend
+            axios.post('/query', { query: userInput })
+                .then(response => {
+                    let data = response.data;
+
+                    // Display Assistant Response
+                    let botResponse = document.createElement("div");
+                    botResponse.className = "message bot-message";
+                    botResponse.textContent = data.response || "No response received.";
+                    chatBox.appendChild(botResponse);
+
+                    // Update SQL View if available
+                    if (data.sql_result) {
+                        document.getElementById("sql-view").innerHTML = data.sql_result;
+                    }
+
+                    // Update Chart if available
+                    if (data.chart_data) {
+                        updateChart(data.chart_data);
+                    }
+
+                    // Scroll to bottom
+                    chatBox.scrollTop = chatBox.scrollHeight;
+                })
+                .catch(error => {
+                    let errorMessage = document.createElement("div");
+                    errorMessage.className = "message bot-message";
+                    errorMessage.textContent = "Error processing request.";
+                    chatBox.appendChild(errorMessage);
+                });
+
+            // Clear input field
+            document.getElementById("user-input").value = "";
+        }
+
+        function updateChart(chartData) {
+            let ctx = document.getElementById("chart-container").getContext("2d");
+            new Chart(ctx, {
+                type: 'bar',
+                data: {
+                    labels: chartData.labels,
+                    datasets: [{
+                        label: 'Values',
+                        data: chartData.values,
+                        backgroundColor: 'rgba(54, 162, 235, 0.6)',
+                        borderColor: 'rgba(54, 162, 235, 1)',
+                        borderWidth: 1
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    scales: {
+                        y: { beginAtZero: true }
+                    }
+                }
+            });
+        }
+    </script>
+
+</body>
+</html>

@@ -1,0 +1,8 @@
+Flask==2.2.3
+sqlite3==0.0.1
+pandas==1.4.4
+plotly==5.10.0
+openai==0.27.8
+scikit-learn==1.2.2
+numpy==1.24.2
+gunicorn==20.1.0

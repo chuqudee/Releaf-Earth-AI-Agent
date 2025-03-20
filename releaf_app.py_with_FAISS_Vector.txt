@@ -1,0 +1,159 @@
+releaf_app.py_with_FAISS_Vector
++++++++++++++++++++++++++++++++++
+
+
+from flask import Flask, request, jsonify, render_template
+import openai
+import sqlite3
+import pandas as pd
+import re
+import faiss
+import numpy as np
+import os
+from sentence_transformers import SentenceTransformer
+
+app = Flask(__name__)
+
+# Load OpenAI API Key
+openai.api_key = "your-api-key-here"
+
+# Load embedding model
+embedding_model = SentenceTransformer("all-MiniLM-L6-v2")
+
+FAISS_INDEX_FILE = "faiss_index.bin"
+CSV_FILE = "cleaned_machinery_expenses.csv"
+
+# Load and prepare FAISS index with persistence
+def create_faiss_index():
+    df = pd.read_csv(CSV_FILE)
+    descriptions = df['Description'].astype(str).tolist()
+    
+    # If index exists, load it
+    if os.path.exists(FAISS_INDEX_FILE):
+        index = faiss.read_index(FAISS_INDEX_FILE)
+        return index, df
+    
+    # Otherwise, compute embeddings and save index
+    embeddings = embedding_model.encode(descriptions)
+    index = faiss.IndexFlatL2(embeddings.shape[1])
+    index.add(np.array(embeddings, dtype=np.float32))
+    
+    # Save index to file
+    faiss.write_index(index, FAISS_INDEX_FILE)
+    
+    return index, df
+
+faiss_index, df = create_faiss_index()
+
+# Function to determine if FAISS should be used
+def needs_faiss_search(user_request):
+    fuzzy_keywords = ["similar to", "like", "related", "find alike", "closest match"]
+    structured_keywords = ["total", "max", "min", "average", "sum", "group by", "where", "filter"]
+
+    user_request_lower = user_request.lower()
+    
+    if any(keyword in user_request_lower for keyword in fuzzy_keywords):
+        return True
+    if any(keyword in user_request_lower for keyword in structured_keywords):
+        return False
+    return True  # Default to FAISS for non-explicit SQL queries
+
+# Function to retrieve similar records from FAISS
+def retrieve_similar_records(query):
+    query_embedding = embedding_model.encode([query])
+    distances, indices = faiss_index.search(np.array(query_embedding, dtype=np.float32), k=5)
+    return df.iloc[indices[0]].to_dict(orient='records')
+
+# Function to extract SQL query from AI response
+def extract_sql_query(response_text):
+    sql_pattern = re.search(r"(?i)(SELECT|INSERT|UPDATE|DELETE).*?(;)", response_text, re.DOTALL)
+    if sql_pattern:
+        return sql_pattern.group(0).strip()
+    return None
+
+# Function to generate SQL query using GPT model
+def generate_sql_query(user_request, context_records):
+    context_text = "\n".join([str(record) for record in context_records])
+    messages = [
+        {"role": "system", "content": f"""
+        You are an AI assistant specialized in querying an SQLite database named 'expenses' based on user requests.
+        
+        **Database Schema (expenses.db):**
+        - Date (TEXT) – Date of the transaction.
+        - Month/Week (TEXT) – The corresponding month and week of the transaction.
+        - Ticket No. (TEXT) – Unique identifier for each transaction.
+        - Receiver_department (TEXT) – The department receiving the item.
+        - Item (TEXT) – The category of the purchased item.
+        - UoM (TEXT) – Unit of measurement (e.g., pieces, litres).
+        - Description (TEXT) – Additional details about the item.
+        - Quantity (INTEGER) – Number of units purchased.
+        - Unit Cost (REAL) – Price per unit.
+        - Cost (REAL) – Total cost of the transaction.
+        - Weeks (TEXT) – Weekly reporting period.
+        
+        **Relevant Data Context:**
+        {context_text}
+        
+        **Instructions:**
+        - Convert user requests into precise **SQLite-compatible** SQL queries.
+        - Ensure correct column names and apply appropriate filtering conditions.
+        - Return either a **single value** (for aggregated queries like total cost) or a **table** (for listing transactions).
+        - **DO NOT display the SQL query or execution details**—only return the final output.
+        """},
+        {"role": "user", "content": user_request}
+    ]
+    
+    response = openai.ChatCompletion.create(
+        model="gpt-4",
+        messages=messages,
+        max_tokens=500,
+        temperature=0,
+    )
+    
+    return response['choices'][0]['message']['content'].strip()
+
+# Function to execute SQL and return results
+def execute_sql_query(user_request):
+    if needs_faiss_search(user_request):
+        context_records = retrieve_similar_records(user_request)
+    else:
+        context_records = []  # Skip FAISS if not needed
+
+    query_text = generate_sql_query(user_request, context_records)
+    
+    sql_query = extract_sql_query(query_text)
+    if not sql_query:
+        return {"error": "No valid SQL query found."}
+    
+    connection = sqlite3.connect("expenses.db")
+    try:
+        df_result = pd.read_sql_query(sql_query, connection)
+        connection.close()
+        
+        if df_result.shape == (1, 1):  
+            return {"result": f"{df_result.iloc[0, 0]}"}
+        else:
+            return {"result": df_result.to_dict(orient='records')} 
+        
+    except Exception as e:
+        connection.close()
+        return {"error": f"Error executing query: {str(e)}"}
+
+# Route for rendering the frontend
+@app.route('/')
+def index():
+    return render_template('index.html')
+
+# API route for handling user queries
+@app.route('/ask', methods=['POST'])
+def ask():
+    data = request.json
+    user_query = data.get("query", "")
+    if not user_query:
+        return jsonify({"error": "No query provided."}), 400
+    
+    response = execute_sql_query(user_query)
+    return jsonify(response)
+
+if __name__ == '__main__':
+    app.run(debug=True)

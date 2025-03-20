@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prediction/Recommendation</title>
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/plotly.js@2.16.1/dist/plotly.min.js"></script>
+    <style>
+        body { padding: 20px; font-family: Arial, sans-serif; }
+        .container { max-width: 800px; margin: auto; padding: 20px; background-color: #f8f9fa; border: 1px solid #ddd; border-radius: 10px; }
+        .prediction-type { margin-bottom: 20px; }
+        .input-group { margin-bottom: 20px; }
+        .input-group label { display: block; margin-bottom: 10px; }
+        .input-group input { padding: 10px; border: 1px solid #ccc; border-radius: 5px; width: 100%; }
+        .button { padding: 10px 15px; background-color: #007bff; color: white; border: none; border-radius: 5px; cursor: pointer; }
+        .button:hover { background-color: #0056b3; }
+        #p1-price-chart { width: 100%; height: 400px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Prediction/Recommendation</h2>
+        <div class="prediction-type">
+            <select id="prediction-type-select">
+                <option value="maintenance">Vehicle Maintenance</option>
+                <option value="p1_price">P1 Price Over Time</option>
+            </select>
+        </div>
+        
+        <div id="maintenance-inputs" style="display: none;">
+            <div class="input-group">
+                <label for="distance-covered">Distance Covered:</label>
+                <input type="number" id="distance-covered" placeholder="Distance Covered">
+            </div>
+            <div class="input-group">
+                <label for="time-on-down-time">Time on Down Time:</label>
+                <input type="number" id="time-on-down-time" placeholder="Time on Down Time">
+            </div>
+            <button class="button" onclick="predictMaintenance()">Predict</button>
+        </div>
+        
+        <div id="p1-price-inputs" style="display: none;">
+            <div class="input-group">
+                <label for="date">Date:</label>
+                <input type="date" id="date" placeholder="Date">
+            </div>
+            <div class="input-group">
+                <label for="name">Name:</label>
+                <input type="text" id="name" placeholder="Name">
+            </div>
+            <div class="input-group">
+                <label for="supplier-type">Supplier Type:</label>
+                <input type="text" id="supplier-type" placeholder="Supplier Type">
+            </div>
+            <div class="input-group">
+                <label for="lga">LGA:</label>
+                <input type="text" id="lga" placeholder="LGA">
+            </div>
+            <button class="button" onclick="predictP1Price()">Predict</button>
+        </div>
+        
+        <div id="prediction-result"></div>
+        <div id="p1-price-chart"></div>
+    </div>
+    
+    <script>
+        document.getElementById('prediction-type-select').addEventListener('change', function() {
+            const selectedType = this.value;
+            if (selectedType === 'maintenance') {
+                document.getElementById('maintenance-inputs').style.display = 'block';
+                document.getElementById('p1-price-inputs').style.display = 'none';
+            } else if (selectedType === 'p1_price') {
+                document.getElementById('maintenance-inputs').style.display = 'none';
+                document.getElementById('p1-price-inputs').style.display = 'block';
+            }
+        });
+        
+        function predictMaintenance() {
+            const distanceCovered = document.getElementById('distance-covered').value;
+            const timeOnDownTime = document.getElementById('time-on-down-time').value;
+            
+            axios.post('/predict', {
+                prediction_type: 'maintenance',
+                distance_covered: distanceCovered,
+                time_on_down_time: timeOnDownTime
+            })
+            .then(response => {
+                document.getElementById('prediction-result').textContent = response.data.prediction;
+            })
+            .catch(() => {
+                document.getElementById('prediction-result').textContent = 'Error predicting maintenance';
+            });
+        }
+        
+        function predictP1Price() {
+            const date = document.getElementById('date').value;
+            const name = document.getElementById('name').value;
+            const supplierType = document.getElementById('supplier-type').value;
+            const lga = document.getElementById('lga').value;
+            
+            axios.post('/predict', {
+                prediction_type: 'p1_price',
+                date: date,
+                name: name,
+                supplier_type: supplierType,
+                lga: lga
+            })
+            .then(response => {
+                const historicalData = response.data.historical_data;
+                const prediction = response.data.prediction;
+                
+                // Plot historical data
+                const x = historicalData.map(d => d.week_code);
+                const y = historicalData.map(d => d.p1_price_per_ton);
+                
+                Plotly.newPlot('p1-price-chart', {
+                    data: [{ x: x, y: y, type: 'line' }],
+                    layout: { title: 'P1 Price Over Time', xaxis: { title: 'Week Code' }, yaxis: { title: 'Price per Ton' } }
+                });
+                
+                document.getElementById('prediction-result').textContent = `Predicted P1 Price: ${prediction}`;
+            })
+            .catch(() => {
+                document.getElementById('prediction-result').textContent = 'Error predicting P1 price';
+            });
+        }
+    </script>
+</body>
+</html>

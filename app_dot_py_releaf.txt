@@ -1,0 +1,88 @@
+app_dot_py_releaf
++++++++++++++++++++
+
+import openai
+import sqlite3
+import pandas as pd
+import re
+
+# Load OpenAI API Key
+openai.api_key = "your-api-key-here"
+
+# Function to extract SQL query from AI response
+def extract_sql_query(response_text):
+    sql_pattern = re.search(r"(?i)(SELECT|INSERT|UPDATE|DELETE).*?(;)", response_text, re.DOTALL)
+    if sql_pattern:
+        return sql_pattern.group(0).strip()
+    return None
+
+# Function to generate SQL query using GPT model
+def generate_sql_query(user_request):
+    messages = [
+        {"role": "system", "content": """
+        You are an AI assistant specialized in querying an SQLite database named 'expenses' based on user requests. 
+        
+        **Database Schema (expenses.db):**
+        - Date (TEXT) – Date of the transaction.
+        - Month/Week (TEXT) – The corresponding month and week of the transaction.
+        - Ticket No. (TEXT) – Unique identifier for each transaction.
+        - Receiver_department (TEXT) – The department receiving the item.
+        - Item (TEXT) – The category of the purchased item.
+        - UoM (TEXT) – Unit of measurement (e.g., pieces, litres).
+        - Description (TEXT) – Additional details about the item.
+        - Quantity (INTEGER) – Number of units purchased.
+        - Unit Cost (REAL) – Price per unit.
+        - Cost (REAL) – Total cost of the transaction.
+        - Weeks (TEXT) – Weekly reporting period.
+
+        **Instructions:**
+        - Convert user requests into precise **SQLite-compatible** SQL queries.
+        - Ensure correct column names and apply appropriate filtering conditions.
+        - Return either a **single value** (for aggregated queries like total cost) or a **table** (for listing transactions).
+        - **DO NOT display the SQL query or execution details**—only return the final output.
+        - If the query produces a single numeric value, return it as: `"The total cost is $X."`
+        - If the query involves multiple rows, return the results in a formatted table.
+
+        **Examples:**
+        - User: "Total cost of diesel purchases last week."
+          - AI: "The total cost of diesel purchases last week was $2,345.50."
+        - User: "Show all expenses for the Production department."
+          - AI: (Returns a table with relevant expenses)
+        - User: "What was the highest unit cost recorded?"
+          - AI: "The highest unit cost recorded was $450.00."
+        """}, 
+        {"role": "user", "content": user_request}
+    ]
+    
+    response = openai.ChatCompletion.create(
+        model="gpt-4",
+        messages=messages,
+        max_tokens=500,
+        temperature=0,
+    )
+    
+    return response['choices'][0]['message']['content'].strip()
+
+# Function to execute SQL and return results
+def execute_sql_query(user_request):
+    query_text = generate_sql_query(user_request)
+    
+    # Extract SQL query
+    sql_query = extract_sql_query(query_text)
+    if not sql_query:
+        return "Error: No valid SQL query found."
+
+    connection = sqlite3.connect("expenses.db")
+    try:
+        df = pd.read_sql_query(sql_query, connection)
+        connection.close()
+
+        # Handle single value vs. table output
+        if df.shape == (1, 1):  
+            return f"{df.iloc[0, 0]}"  # Return the single value
+        else:
+            return df  # Return table as DataFrame
+        
+    except Exception as e:
+        connection.close()
+        return f"Error executing query: {str(e)}"
