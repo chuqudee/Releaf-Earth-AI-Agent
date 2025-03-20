@@ -1,0 +1,163 @@
+issue_#,date_reported,reporter,lmv,issue_description,type_of_issue,type_of_maintenance,diagnosis,maintenance_action(s),replace_parts?,parts_to_be_replaced,cost_of_parts,cost_of_maintenance,total_cost,technician,start_date_of_maintenance,end_date_of_maintenance,time_on_down_time_(hrs),maintenance_status,lmv_status,remarks,week
+LMVIS001,2022-06-15,Simon Eyare,Dyna,The driver entered a ditch,Mechanical,Corrective,"button plate breakage,iol spealage,damaged,shockabsorbers",not yet repaired,Yes,,,0,0,,,,,Not started,Poor,"the driver entered a gutter damaging the sump,shorkabsorbers etc he did not report the incidet it was Simon Eyare that reported it to me later in the night of 15/06/2022.",Jun wk 3 - 22
+LMVIS001,2024-03-21,Emmanuel,Dyna2,propeller bearing defect,Mechanical,Corrective,bearing got damaged due to wear,replace bearing,Yes,,15000,0,0,Releaf,,,,Complete,,,Mar wk 3 - 24
+LMVIS002,2024-03-21,Emmanuel,Dyna2,Clutch defect,Mechanical,Corrective,wear and tear of the clutch port and kit,replace clutch pot and kit,Yes,,,0,0,,,,,Complete,,,Mar wk 3 - 24
+LMVIS003,2024-03-19,Emmanuel,Dyna 3,overheating,Mechanical,Corrective,overheating due to crack top,replaced gasket,Yes,,,0,0,,,,,Complete,,,Mar wk 3 - 24
+LMVIS004,2024-03-19,Emmanuel,Dyna2,air hose defect,Mechanical,Corrective,dameged air hose due to wear,replaced hose,Yes,,,0,0,,,,,Complete,,,Mar wk 3 - 24
+LMVIS005,2024-03-19,Emmanuel,Dyna2,clutch fluid,Mechanical,Preventive,low fluid level due to flutch defect,buy brake flude,Yes,,,0,0,,,,,Complete,,,Mar wk 3 - 24
+LMVIS006,2024-03-19,Emmanuel,Dyna2,cut fan belt,Mechanical,Corrective,dameged fan belt due to wear,replaced fan belt,yes,,,0,0,,,,,Complete,,,Mar wk 3 - 24
+LMVIS007,2024-03-19,Emmanuel,Dyna2,warn out wheel nut,Mechanical,Preventive,wheel nut got broken due to wear and tear,replace wheel nut,yes,,,0,0,,,,,Complete,,,Mar wk 3 - 24
+LMVIS008,2024-03-19,Emmanuel,Dyna2,welding of clutch hose,Mechanical,Corrective,metal hose got dameged due to wear and tear,welded broken metal hose,no,,,0,0,,,,,Complete,,,Mar wk 3 - 24
+LMVIS009,2024-03-19,Emmanuel,Dyna2,dameged clutch hose,Mechanical,Corrective,cluch hose defect,replace hose,yes,,,0,0,,,,,Complete,,,Mar wk 3 - 24
+LMVIS010,2024-03-09,Emmanuel,Dyna2,clutch pot defect,Mechanical,Corrective,the clutch pot and connecting hose got dmeged.,replace clutch pot,yes,clutch pot,9000,0,0,,,,,Complete,,,Mar wk 1 - 24
+LMVIS011,2023-03-19,Emmanuel,Dyna2,hydrolic pip,Mechanical,Corrective,hydrolic pip defect as clutch system got dameged,replace hydrolic pip,yes,hydrolic pip,4000,0,0,,,,,Complete,,,Mar wk 3 - 23
+LMVIS012,2024-03-27,emmanuel,Ford2,clutch plate defect,Mechanical,Corrective,wear and of the clutch plate.,replace clutchplate,yes,clutch plate,13000,0,0,,,,,Complete,,,Mar wk 4 - 24
+LMVIS013,2024-03-27,emmanuel,Dyna 3,welding of exhust basket,Mechanical,Corrective,welding of exhust basket,welding of new basket,yes,exhust basket,5000,0,0,,,,,Complete,,,Mar wk 4 - 24
+LMVIS014,2024-03-27,emmanuel,Dyna 3,water hose defect and clip,Mechanical,Corrective,replace water hose,replace water hose,yes,water hose,700,0,0,,,,,Complete,,,Mar wk 4 - 24
+LMVIS015,2024-04-18,emmanuel,Dyna 3,gasket for Dyna3,Mechanical,Corrective,overheating due to gasket defect,replace Gasket,yes,gasket,15000,0,0,,,,,Complete,,,Apr wk 3 - 24
+LMVIS016,2024-04-18,emmanuel,Dyna 3,u-bolt and nut / spring center bolt,Mechanical,Corrective,defective u-bolt and nut/ spring center bolt,replace defective part,yes,u-bolt and nut/spring center bolt,10000,0,0,,,,,Complete,,,Apr wk 3 - 24
+LMVIS017,2024-04-18,emmanuel,Dyna2,relay for fuel guage and meters,Electrical,Corrective,relay for fuel guage and meters,replace relay,yes,relay,6000,0,0,,,,,Complete,,,Apr wk 3 - 24
+LMVIS018,2024-04-18,emmanuel,Dyna 3,relay for fuel guage and meters,Electrical,Corrective,relay for fuel guage and meters,replace relay,yes,relay,6000,0,0,,,,,Complete,,,Apr wk 3 - 24
+LMVIS019,2024-04-18,emmanuel,Dyna2,u-bolt and nut/spring center bolt,Mechanical,Corrective,u-bolt and nut/spring center bolt,replace defective part,yes,u-bolt and nut/spring center bolt,10000,0,0,,,,,Complete,,,Apr wk 3 - 24
+LMVIS020,2024-04-18,emmanuel,Dyna2,patching of tire,Mechanical,Corrective,tire got bosted,patching of tire,no,,2000,0,0,,,,,Complete,,,Apr wk 3 - 24
+LMVIS021,2024-04-18,emmanuel,Dyna 3,paper gasket,Mechanical,Corrective,overheating issue got paper gasket,replace Gasket,yes,Gasket,10000,0,0,,,,,Complete,,,Apr wk 3 - 24
+LMVIS022,2024-04-18,emmanuel,Dyna 3,clutch plate dameged,Mechanical,Corrective,clutch plate dameged,replace clutch plate,yes,clutch plate,15000,0,0,,,,,Complete,,,Apr wk 3 - 24
+LMVIS023,2024-04-18,emmanuel,Ford2,pluge for ford,Mechanical,Corrective,defective pluge,replace pluge,yes,pluges,5000,0,0,,,,,Complete,,,Apr wk 3 - 24
+LMVIS024,2024-04-18,emmanuel,MB 814,welding of the body of MB1,Mechanical,Corrective,welding of the body of MB1,welding,no,,30000,0,0,,,,,,,,Apr wk 3 - 24
+LMVIS025,2024-04-18,emmanuel,Dyna2,adjustment of gear cable,Mechanical,Corrective,adjustment of gear cable due to nukle lenght,join the cable,no,,10000,0,0,Releaf,,,,Complete,,,Apr wk 3 - 24
+LMVIS026,2024-04-18,emmanuel,Ford2,bearing defect,Mechanical,Corrective,replacement of two front bearing,replace bearing,yes,bearing,14500,0,0,Releaf,,,,Complete,,,Apr wk 3 - 24
+LMVIS027,2024-04-18,emmanuel,Dyna 3,kick stater defect,Electrical,Corrective,kick starter defect as the bruch and element are bad,replace kickstarter,yes,kickstater,45000,0,0,Outsourced,,,,Complete,,,Apr wk 3 - 24
+LMVIS028,2024-04-18,emmanuel,MB 814,volcanizing/changing of tire,Mechanical,Corrective,volcanizing/changing of tire,volcanizing,no,,4500,0,0,Outsourced,,,,Complete,,,Apr wk 3 - 24
+LMVIS029,2024-04-18,Emmanuel,MB 814,topping of engine oil,Mechanical,Corrective,topping of engine oil,additional oil,no,,14000,0,0,Releaf,,,,Complete,,,Apr wk 3 - 24
+LMVIS030,2024-04-18,Emmanuel,Dyna2,gear cable defect,Mechanical,Corrective,gear cable defect,get 2 new cable,yes,gear cable,40000,0,0,Releaf,,,,Complete,,,Apr wk 3 - 24
+LMVIS031,2024-04-23,Emmanuel,Dyna 4,belgium engine purches,Mechanical,Corrective,belgium engine purches,new engine,yes,new engine,43000000,0,0,Releaf,,,,Complete,,,Apr wk 4 - 24
+LMVIS032,2024-04-24,Emmanuel,Dyna2,rotor defect,Mechanical,Corrective,rotor defect,get new roto,yes,rotor,850000,0,0,Outsourced,,,,Complete,,,Apr wk 4 - 24
+LMVIS033,2024-04-28,Emmanuel,Dyna,patching of 4 tire,Mechanical,Corrective,patching of 4 tire,patching of 4 tire,no,,12000,0,0,Outsourced,,,,Complete,,,Apr wk 4 - 24
+LMVIS034,2024-05-08,Emmanuel,MB 814,clutch plate defect,Mechanical,Corrective,clutch plate defect,replace clutch plate,yes,clutch plate,18000,0,0,Outsourced,,,,Complete,,,May wk 2 - 24
+LMVIS035,2024-05-09,Emmanuel,Dyna 4,routine maintenance,Routine Checkup,Corrective,routine maintenance,"oil,hydrulic,stearing oil, filter,etc",yes,"oil,hydrulic,stearing oil, filter,etc",103500,0,0,Releaf,,,,Complete,,,May wk 2 - 24
+LMVIS036,2024-05-11,Emmanuel,Dyna2,main bearing defect,Mechanical,Corrective,main bearing defect,reolace main bearing,yes,reolace main bearing,20000,0,0,Releaf,,,,Complete,,,May wk 2 - 24
+LMVIS037,2024-05-17,Emmanuel,Dyna 4,injector and nozzel repairs,Mechanical,Corrective,injector and nozzel repairs,injector and nozzel repairs,no,,33000,0,0,Outsourced,,,,Complete,,,May wk 3 - 24
+LMVIS038,2024-05-23,Emmanuel,Dyna 3,"metals,rings,gasket defect",Mechanical,Corrective,"metals,rings,gasket defect","replace metals,rings,gasket.",yes,"metals,rings,gasket.",142000,0,0,Releaf,,,,In Progress,,,May wk 4 - 24
+LMVIS039,2024-05-23,Emmanuel,Dyna2,"metals,rings,gasket defect",Mechanical,Corrective,"metals,rings,gasket defect","replace metals,rings,gasket.",yes,"metals,rings,gasket.",142000,0,0,Releaf,,,,In Progress,,,May wk 4 - 24
+LMVIS040,2024-05-24,Emmanuel,Ford2,shorck absorber defect,Mechanical,Corrective,shorck absorber defect,replace shock absorber,yes,shock absorber,15000,0,0,Releaf,,,,Complete,,,May wk 4 - 24
+LMVIS041,2024-05-26,Emmanuel,MB 814,u-bolt defect,Mechanical,Corrective,u-bolt defect,replace 2 u-bolt,yes,u-bolt,10000,0,0,Releaf,,,,Complete,,,May wk 4 - 24
+LMVIS042,2024-06-21,Emmanuel,Dyna 3,engine repairs,Mechanical,Corrective,additional items for the engine repairs,engine repairs,no,,23250,0,0,Releaf,,,,Complete,OK,,Jun wk 3 - 24
+LMVIS043,2024-06-21,Emmanuel,Ford2,propeller bearing defect,Mechanical,Corrective,propeller bearing defect,replace the propeller bearing,yes,propeller bearing,12000,0,0,Releaf,,,,Complete,OK,,Jun wk 3 - 24
+LMVIS044,2024-06-21,Emmanuel,Dyna,engine setting for Dyna3/4/2/,Mechanical,Corrective,engine setting for Dyna3/4/2/,replace engine siting,yes,engine sitting,54000,0,0,Releaf,,,,Not started,,,Jun wk 3 - 24
+LMVIS045,2024-06-21,Emmanuel,Dyna 4,tube damaged,Mechanical,Corrective,tube damaged,replace tube,yes,tube,11000,0,0,Outsourced,,,,Not started,,,Jun wk 3 - 24
+LMVIS046,2024-06-06,Emmanuel,Dyna 4,Dameged tube,Mechanical,Corrective,Dameged tube and lining,replace 2 tubes and 2 lining,yes,tube,30000,0,0,Outsourced,,,,Complete,,,Jun wk 1 - 24
+LMVIS047,2024-06-07,Emmanuel,MB 814,low engine oil level,Mechanical,Corrective,low engine oil level,add engine oil,no,,10000,0,0,Releaf,,,,Complete,,,Jun wk 1 - 24
+LMVIS048,2024-06-07,Emmanuel,MB 814,blue gum for corrective work,Mechanical,Corrective,blue gum for corrective work,blue gum for corrective work,yes,,3000,0,0,Releaf,,,,Complete,,,Jun wk 1 - 24
+LMVIS049,2024-06-07,Emmanuel,Ford2,spark plug defect,Mechanical,Corrective,spark plug defect,replace plugs,yes,plugs,4800,0,0,Releaf,,,,Complete,,,Jun wk 1 - 24
+LMVIS050,2024-06-14,Emmanuel,Dyna 4,low brake flude level,Mechanical,Corrective,low brake flude level,add brake fluid,NO,add brake fluid,5000,0,0,Releaf,,,,Complete,,,Jun wk 2 - 24
+LMVIS051,2024-06-17,Emmanuel,Dyna 3,fuel filter defect,Mechanical,Corrective,fuel filter defect,replace fuel filter,yes,fuel filter,6000,0,0,Releaf,,,,Complete,,,Jun wk 3 - 24
+LMVIS052,2024-06-17,Emmanuel,Dyna 4,fuel filter defect,Mechanical,Corrective,fuel filter defect,replace fuel filter,yes,fuel filter,6000,0,0,Releaf,,,,Complete,,,Jun wk 3 - 24
+LMVIS053,2024-06-19,Emmanuel,Dyna 4,servicing of blocked nozzles,Mechanical,Corrective,servicing of blocked nozzles,servicing of blocked nozzles,NO,,8000,0,0,Releaf,,,,Complete,,,Jun wk 3 - 24
+LMVIS054,2024-06-20,Emmanuel,Dyna 4,oil coolant defect,Mechanical,Corrective,"oil coolant defect,oil filter,blue gum,gasket,gasket gum.",replace oil coolant,yes,"oil coolant,",21100,0,0,Releaf,,,,Complete,,,Jun wk 3 - 24
+LMVIS055,2024-06-20,Emmanuel,Dyna 3,servicing of blocked nozzles,Mechanical,Corrective,servicing of blocked nozzles,servicing of blocked nozzles,no,,8000,0,0,Outsourced,,,,Complete,,,Jun wk 3 - 24
+LMVIS056,2024-06-23,Emmanuel,MB 814,low engine oil level,Mechanical,Preventive,low engine oil level,add engine oil,no,,11000,0,0,Releaf,,,,Complete,,,Jun wk 3 - 24
+LMVIS057,2024-06-23,Emmanuel,Dyna 3,replacement of nozzle,Mechanical,Corrective,replacement of nozzle,replace nozzole,yes,nozzles,32000,0,0,Releaf,,,,Complete,,,Jun wk 3 - 24
+LMVIS058,2024-06-27,Emmanuel,Dyna 4,gear cable defect,Mechanical,Corrective,gear cable defect,replace gear cable,yes,gear cable,17000,0,0,Releaf,,,,Complete,,,Jun wk 4 - 24
+LMVIS059,2024-07-02,Emmanuel,Dyna 3,payment of technician for reset/servicing of nozzle,Mechanical,Corrective,payment of technician for reset/servicing of nozzle,servicing of new nozzles,no,,23000,0,0,Outsourced,,,,Complete,,,Jul wk 1 - 24
+LMVIS060,2024-07-04,Emmanuel,MB 814,low engine oil level,Mechanical,Corrective,low engine oil level,add engine oil,no,,11000,0,0,Releaf,,,,Complete,,,Jul wk 1 - 24
+LMVIS061,2024-07-08,Emmanuel,MB 814,low engine oil level,Mechanical,Corrective,low engine oil level,add engine oil,no,,11000,0,0,Releaf,,,,Complete,,,Jul wk 2 - 24
+LMVIS062,2024-07-10,Emmanuel,MB2,Engine defect,Mechanical,Corrective,"Metal  53,000, Rings 52,000 Piston 118,000, Turbo 120,000 complete top Gasket 36,000  Engine cord 7000, total sum=387,000 .",replace part,yes,"metal,rings,piston,gasket,","389,000",0,0,Releaf,,,,Complete,,,Jul wk 2 - 24
+LMVIS063,2024-07-10,Emmanuel,Ford2,brake caliper defect,Mechanical,Corrective,"brake caliper 28,000",replace caliper,yes,brake caliper,"28,000",0,0,Releaf,,,,Complete,,,Jul wk 2 - 24
+LMVIS064,2024-07-10,Emmanuel,Dyna 3,clutch plate defect,Mechanical,Corrective,clutch plate defect,replace fiber,,fiber,"13,000",0,0,Outsourced,,,,Complete,,,Jul wk 2 - 24
+LMVIS065,2024-07-11,Emmanuel,Dyna 4,propeller bearing defect,Mechanical,Corrective,propeller bearing defect,replace bearing,yes,bearing,"15,000",0,0,Releaf,,,,Complete,,,Jul wk 2 - 24
+LMVIS066,2024-07-11,Emmanuel,Ford2,engine overhualing,Mechanical,Preventive,engine overhualing,overhaul,yes,"Rings,Metal's,Gasket,Valve cover,Valve,Oil seal, plugs,Oil filter,Sand paper,Gasket gum,5 liters engine oil,","98,000",0,0,Releaf,,,,Complete,,,Jul wk 2 - 24
+LMVIS067,2024-07-12,Emmanuel,Dyna 4,engine sitting,Mechanical,Corrective,engine sitting defect,replace sitting,yes,engine sitting,"16,000",0,0,Releaf,,,,Complete,,,Jul wk 2 - 24
+LMVIS068,2024-07-15,Emmanuel,MB 814,low engine oil level,Mechanical,Preventive,low engine oil level,add engine oil,no,,"11,000",0,0,Releaf,,,,Complete,,,Jul wk 3 - 24
+LMVIS069,2024-07-15,Emmanuel,MB 814,u-bolt defect,Mechanical,Corrective,u-bolt defect,replace u-bolt,yes,u-bolt,"10,000",0,0,Releaf,,,,Complete,,,Jul wk 3 - 24
+LMVIS070,2024-07-15,Emmanuel,Ford2,timing belt defect,Mechanical,Corrective,timing belt defect,replace timing belt,yes,timing belt,5000,0,0,Releaf,,,,Complete,,,Jul wk 3 - 24
+LMVIS071,2024-07-17,Emmanuel,MB 814,low engine oil level,Mechanical,Preventive,low engine oil level,add engine oil,,,11000,0,0,Releaf,,,,Complete,,,Jul wk 3 - 24
+LMVIS072,2024-07-22,Emmanuel,MB 814,low engine oil level,Mechanical,Preventive,low engine oil level,add engine oil,,,11000,0,0,Releaf,,,,Complete,,,Jul wk 4 - 24
+LMVIS073,2024-07-22,Emmanuel,Dyna 3,turbo charger,Mechanical,Corrective,turbo charger defect,replace turbo,replace turbo,turbo,"350,000",0,0,Releaf,,,,Complete,,,Jul wk 4 - 24
+LMVIS074,2024-07-24,Emmanuel,MB 814,low engine oil level,Mechanical,Preventive,low engine oil level,add engine oil,,,"22,000",0,0,Releaf,,,,Complete,,,Jul wk 4 - 24
+LMVIS075,2024-07-26,Emmanuel,Dyna 4,propeller bearing defect,Mechanical,Corrective,propeller bearing defect,replace bearing,yes,bearing,"15,000",0,0,Releaf,,,,Complete,,,Jul wk 4 - 24
+LMVIS076,2024-07-26,Emmanuel,Ford2,brake defect,Mechanical,Corrective,brake defect,replace brake pad,yes,brake,8000,0,0,Releaf,,,,Complete,,,Jul wk 4 - 24
+LMVIS077,2024-07-30,Emmanuel,Dyna 3,exhaust block leakage,Mechanical,Corrective,exhaust block leakage,Rethreading of the exhaust block,no,,15000,0,0,Outsourced,,,,Complete,,,Aug wk 1 - 24
+LMVIS078,2024-08-05,Emmanuel,MB2,engine overhualing,Mechanical,Corrective,engine overhualing,engine overhualing,yes,"Piston,rings,metals","340,000",0,0,Releaf,,,,Complete,,,Aug wk 2 - 24
+LMVIS079,2024-08-06,Emmanuel,Ford2,tir-rod defect,Mechanical,Corrective,tir-rod defect,replace tir-rod,yes,tir-rod defect,"25,000",0,0,Releaf,,,,Complete,,,Aug wk 2 - 24
+LMVIS080,2024-08-07,Emmanuel,MB2,additional item request for MB2,Mechanical,Corrective,additional item request for MB2,additional item request for MB2,,"Grease, Blue gum4,Fuel 15 liter, Normal gum,Packing rings,sand paper",32200,0,0,Releaf,,,,Complete,,,Aug wk 2 - 24
+LMVIS081,2024-08-07,Emmanuel,MB2,cranshft defect correction,Mechanical,Corrective,cranshft defect correction,additional items,yes," creeper,sand paper,grinding stone.",17000,0,0,Releaf,,,,Complete,,,Aug wk 2 - 24
+LMVIS082,2024-08-09,Emmanuel,MB2,kirkstarter defect,Mechanical,Corrective,kirkstarter defect,replace kickstarter,yes,kirkstater,120000,0,0,Releaf,,,,Complete,,,Aug wk 2 - 24
+LMVIS083,2024-08-10,Emmanuel,MB 814,low engine oil level,Mechanical,Preventive,low engine oil level,add engine oil,,,22000,0,0,Releaf,,,,Complete,,,Aug wk 2 - 24
+LMVIS084,2024-08-12,Emmanuel,Dyna 3,overheating,Mechanical,Corrective,overheating,replace top gasket and water hose,yes,Top gasket and water hose,22000,0,0,Releaf,,,,Complete,,,Aug wk 3 - 24
+LMVIS085,2024-08-13,Emmanuel,MB2,oil filter housing defect,Mechanical,Corrective,oil filter housing defect,replace housing,yes,oil filter housing,"25,000",0,0,Releaf,,,,Complete,,,Aug wk 3 - 24
+LMVIS086,2024-08-14,Emmanuel,Dyna 3,exhaust block leakage,Mechanical,Corrective,exhaust block leakage,Rethreading of the exhaust block,,,"15,000",0,0,Outsourced,,,,Complete,,,Aug wk 3 - 24
+LMVIS087,2024-08-16,Emmanuel,MB2,compressor adjustment bolt defect,Mechanical,Corrective,compressor adjustment bolt defect,replace bolt,yes,compressor bolt,"15,000",0,0,Releaf,,,,Complete,,,Aug wk 3 - 24
+LMVIS088,2024-08-17,Emmanuel,Ford2,u-bolt defect,Mechanical,Corrective,u-bolt defect,replace u-bolt,yes,u-bolt,8000,0,0,Releaf,,,,Complete,,,Aug wk 3 - 24
+LMVIS089,2024-08-19,Emmanuel,MB2,additional item request for MB2,Mechanical,Corrective,additional item request for MB2,"replace upper clutch,throttle retuning springs,diesel retuning hose, wheel nut,",yes,"upper clutch,throttle retuning springs,diesel retuning hose, wheel nut,","58,000",0,0,Releaf,,,,Complete,,,Aug wk 4 - 24
+LMVIS090,2024-08-22,Emmanuel,MB2,additional item request for MB2,Mechanical,Corrective,additional item request for MB2,"replace clutch high pressure hose, connecting adaptor.",yes,"clutch high pressure hose, connecting adaptor.",32000,0,0,Releaf,,,,Complete,,,Aug wk 4 - 24
+LMVIS091,2024-08-26,Emmanuel,MB 814,low engine oil level,Mechanical,Corrective,low engine oil level,add engine oil,,,"11,000",0,0,Releaf,,,,Complete,,,Aug wk 5 - 24
+LMVIS092,2024-08-28,Emmanuel,MB2,fuel pump defect,Mechanical,Corrective,fuel pump defect,replace fuel pump,yes,fuel pump and 4 tin of grease,"36,000",0,0,Releaf,,,,Complete,,,Aug wk 5 - 24
+LMVIS093,2024-08-28,Emmanuel,MB2,wheel bolt defect,Mechanical,Corrective,wheel bolt defect,reolace 16 wheel bolt,,wheel bolt,"56,000",0,0,Releaf,,,,Complete,,,Aug wk 5 - 24
+LMVIS094,2024-08-28,Emmanuel,MB2,tires defect,Mechanical,Corrective,tires defect,patching of 2 tires,,,"27,000",0,0,Outsourced,,,,Complete,,,Aug wk 5 - 24
+LMVIS095,2024-08-29,Emmanuel,MB 814,low engine oil level,Mechanical,Preventive,low engine oil level,add engine oil,,,22000,0,0,Releaf,,,,Complete,,,Aug wk 5 - 24
+LMVIS096,2024-08-29,Emmanuel,MB2,wheel / tire alignment defect,Mechanical,Corrective,wheel / tire alignment defect,60 washers @500 each for MB2,yes,washers,"30,000",0,0,Releaf,,,,Complete,,,Aug wk 5 - 24
+LMVIS097,2024-08-29,Emmanuel,MB2,brake defect,Mechanical,Corrective,brake defect,replace return spring,,Brake returning spring,10000,0,0,Releaf,,,,Complete,,,Aug wk 5 - 24
+LMVIS098,2024-08-29,Emmanuel,MB2,wheel spanner defect,Mechanical,Corrective,wheel spanner defect,replace wheel spanner,yes,wheel spnner,9000,0,0,Outsourced,,,,Complete,,,Aug wk 5 - 24
+LMVIS099,2024-09-03,Emmanuel,Ford2,engine sitting defect,Mechanical,Corrective,wheel spanner defect,replace engine sitting,yes,engine sitting,7500,0,0,Releaf,,,,Complete,,,Sep wk 1 - 24
+LMVIS100,2024-09-03,Emmanuel,Ford2,bearing defect,Mechanical,Corrective,bearing defect,replace bearing,yes,bearings,5000,0,0,Releaf,,,,Complete,,,Sep wk 1 - 24
+LMVIS101,2024-09-03,Emmanuel,Dyna 4,oil filter defect,Mechanical,Preventive,oil filter defect,replace oil filter,yes,oil filter,5000,0,0,Releaf,,,,Complete,,,Sep wk 1 - 24
+LMVIS102,2024-09-05,Emmanuel,MB 814,spring defect,Mechanical,Corrective,spring defect,replace spring,yes,spring,40000,0,0,Releaf,,,,Complete,,,Sep wk 1 - 24
+LMVIS103,2024-09-05,Emmanuel,MB 814,center bolt,Mechanical,Corrective,center bolt,replace  center bolt,yes,center bolt,1500,0,0,Releaf,,,,Complete,,,Sep wk 1 - 24
+LMVIS104,2024-09-12,Emmanuel,MB 814,low engine oil level,Mechanical,Preventive,low engine oil level,add engine oil,,,22000,0,0,Releaf,,,,Complete,,,Sep wk 2 - 24
+LMVIS105,2024-09-12,Emmanuel,Dyna 4,crankshft seal defect,Mechanical,Corrective,crankshft seal defect,replace seal,yes,seal,4000,0,0,Releaf,,,,Complete,,,Sep wk 2 - 24
+LMVIS106,2024-09-14,Emmanuel,Dyna 3,overheating defect,Mechanical,Corrective,crankshft seal defect,repairs,,"Rethreading of exhaust bolt,Correction of turbo inlet valve,Complete overhauling gasket,Grinding of valve,Suffering of the Top (grinding of the top)","341,000",0,0,Outsourced,,,,Complete,,,Sep wk 2 - 24
+LMVIS107,2024-09-19,Emmanuel,MB 814,low engine oil level,Mechanical,Preventive,low engine oil level,add engine oil,,,"22,000",0,0,Releaf,,,,Complete,,,Sep wk 3 - 24
+LMVIS108,2024-09-20,Emmanuel,MB 814,upper and clutch defect,Mechanical,Corrective,upper and clutch defect,replace upper and lower clutch,yes,upper and lower clutch,"42,000",0,0,Releaf,,,,Complete,,,Sep wk 3 - 24
+LMVIS109,2024-09-25,Emmanuel,Ford2,axial bearing defect,Mechanical,Corrective,axial bearing defect,replace axial bearing defect,yes,axial bearing,"18,000",0,0,Releaf,,,,Complete,,,Sep wk 4 - 24
+LMVIS110,2024-09-25,Emmanuel,Dyna 3,"Injector cleaner, Blue gum for Dyna3",Mechanical,Corrective,"Injector cleaner, Blue gum for Dyna3","Injector cleaner, Blue gum for Dyna3",yes,"blue gum,injector cleaner","12,000",0,0,Releaf,,,,Complete,,,Sep wk 4 - 24
+LMVIS111,2024-09-25,Emmanuel,MB 814,low engine oil level,Mechanical,Preventive,low engine oil level,add engine oil,,,"22,000",0,0,Releaf,,,,Complete,,,Sep wk 4 - 24
+LMVIS112,2024-09-27,Emmanuel,MB 814,add engine oil,Mechanical,Preventive,add engine oil,add engine oil,,,"11,000",0,0,Releaf,,,,Complete,,,Sep wk 4 - 24
+LMVIS113,2024-09-28,Emmanuel,Dyna 4,engine sitting defect,Mechanical,Corrective,engine sitting defect,replace engine sitting,yes,engine sitting,"36,000",0,0,Releaf,,,,Complete,,,Sep wk 4 - 24
+LMVIS114,2024-09-28,Emmanuel,Dyna 3,ballance payment for the overheating repairs,Mechanical,Corrective,ballance payment for the overheating repairs,,,,"100,000",0,0,Outsourced,,,,Complete,,,Sep wk 4 - 24
+LMVIS115,2024-09-30,Emmanuel,Dyna 3,engine overhualing,Mechanical,Corrective,engine overhualing,"replace,metals,trust washers,overhauling gasket,cutting of crankshaft,pilot bearing,sleeves,resleeving of block,set of piston,10 tin of carb and chuck,Rings",yes,"metals,trust washers,overhauling gasket,cutting of crankshaft,pilot bearing,sleeves,resleeving of block,set of piston,10 tin of carb and chuck,Rings","864,000",0,0,Outsourced,,,,Complete,,,Oct wk 1 - 24
+LMVIS116,2024-10-02,Emmanuel,MB 814,add engine oil,Mechanical,Corrective,add engine oil,add engine oil,,,22000,0,0,Releaf,,,,Complete,,,Oct wk 1 - 24
+LMVIS117,2024-10-03,Emmanuel,Dyna 4,gear cable defect,Mechanical,Corrective,gear cable defect,replace gear cable,yes,gear cable,"20,000",0,0,Releaf,,,,Complete,,,Oct wk 1 - 24
+LMVIS118,2024-10-03,Emmanuel,Ford2,clutch fiber defect,Mechanical,Corrective,clutch fiber defect,replace fiber,yes,fiber,6000,0,0,Releaf,,,,Complete,,,Oct wk 1 - 24
+LMVIS119,2024-10-07,Emmanuel,MB 814,low engine oil level,Mechanical,Corrective,low engine oil level,add engine oil,,,"22,000",0,0,Releaf,,,,Complete,,,Oct wk 2 - 24
+LMVIS120,2024-10-08,Emmanuel,Ford2,"kick/ fan defect,",Mechanical,Corrective,"kick/ fan defect,",replace kickstarter and radiator fan,yes,"kick stater,fan and plugs",61500,0,0,Releaf,,,,Complete,,,Oct wk 2 - 24
+LMVIS121,2024-10-10,Emmanuel,Ford2,electrical defect repair charge,Mechanical,Corrective,electrical defect repair charge,,,,"15,000",0,0,Outsourced,,,,Complete,,,Oct wk 2 - 24
+LMVIS122,2024-10-12,Emmanuel,Dyna 3,crankshft defect,Mechanical,Corrective,crankshft defect,replace crankshaft,yes,crankshaft,"400,000",0,0,Outsourced,,,,In Progress,,,Oct wk 2 - 24
+LMVIS123,2024-10-14,Emmanuel,MB 814,low engine oil level,Mechanical,Corrective,low engine oil level,,,,"22,000",0,0,Releaf,,,,Complete,,,Oct wk 3 - 24
+LMVIS124,2024-10-19,Emmanuel,MB 814,low engine oil level,Mechanical,Corrective,low engine oil level,,,,33000,0,0,Releaf,,,,Complete,,,Oct wk 3 - 24
+LMVIS125,2024-10-21,Emmanuel,Dyna 4,fuel filter defect,Mechanical,Corrective,fuel filter defect,replace filter,yes,fuel filter,"10,000",0,0,Releaf,,,,Complete,,,Oct wk 4 - 24
+LMVIS126,2024-10-21,Emmanuel,Dyna 4,shuck absorber bushing defct,Mechanical,Corrective,shuck absorber bushing defct,replace bushings,yes,bushings,"18,000",0,0,Releaf,,,,Complete,,,Oct wk 4 - 24
+LMVIS127,2024-10-24,Emmanuel,Dyna 4,dowm clutch defect,Mechanical,Corrective,dowm clutch defect,replace down clutch,yes,Down clutch,"12,000",0,0,Releaf,,,,Complete,,,Oct wk 4 - 24
+LMVIS136,2025-01-14,Emmanuel,Ford2,panel  Door repairs due to hit by MB1,Mechanical,Corrective,panel  Door repairs due to hit by MB1,panel work,,workmanship,,30000,30000,Outsourced,,,,Complete,,"Rough panel work, the paint work worn off and exposure will cause it to rust. Action: Get paint to seal it off",Jan wk 3 - 25
+LMVIS137,2025-01-14,Emmanuel,Ford2,panel  Door repairs due to hit by MB1,Mechanical,Corrective,panel  Door repairs due to hit by MB1,Door Glass replacement,yes,Door glass,"18,000",0,18000,Outsourced,,,,Complete,,,Jan wk 3 - 25
+LMVIS138,2025-01-14,Emmanuel,MB3,Exhaust Gasket defect,Mechanical,Corrective,gasket defect due to wear,replace gasket,yes,exhuast gasket,"10,000",0,10000,Outsourced,,,,Complete,,,Jan wk 3 - 25
+LMVIS139,2025-01-14,Emmanuel,MB3,welding of exhuast manifold,Mechanical,Corrective,manifold defect to wear,welding,,,,5000,5000,Outsourced,,,,Complete,,,Jan wk 3 - 25
+LMVIS140,2025-01-17,Emmanuel,Dyna 4,brake seal defect,Mechanical,Corrective,seal defect due to wear,replace seal,yes,brake seal,"6,000",0,6000,Releaf,,,,Complete,,"Not a usual occurrence, we now have 4 more seals",Jan wk 3 - 25
+LMVIS141,2025-01-17,Emmanuel,Dyna 4,oil filter defect,Mechanical,Preventive,Due for servicing,replace filter,yes,oil filter,4000,0,4000,Releaf,,,,Complete,,"Was done in december, being payment for part purchased in december",Jan wk 3 - 25
+LMVIS142,2025-01-17,Emmanuel,Dyna 4,fuel filter defect,Mechanical,Preventive,Due for servicing,replace filter,yes,fuel filter,6000,0,6000,Releaf,,,,Complete,,"Was done in december, being payment for part purchased in december",Jan wk 3 - 25
+LMVIS143,2025-01-17,Emmanuel,MB3,bottom plate gasket defect,Mechanical,Corrective,bottom plate gasket defect due to wear,replace gasket,yes,bottom plate gasket,6500,0,6500,Releaf,,,,Complete,,"Was done in december, being payment for part purchased in december",Jan wk 3 - 25
+LMVIS144,2025-01-17,Emmanuel,MB2,fuel filter defect,Mechanical,Preventive,Due for servicing,replace filter,yes,fuel filter,4000,0,4000,Releaf,,,,Complete,,,Jan wk 3 - 25
+LMVIS145,2025-01-21,Emmanuel,MB3,brake pot defect,Mechanical,Corrective,brake pot defect,replace brake pot,yes,brake pot,"15,000",0,15000,Releaf,,,,Complete,,,Jan wk 4 - 25
+LMVIS146,2025-01-21,Emmanuel,MB3,brake pot seal,Mechanical,Corrective,brake pot defect due to wear,replace seal,yes,seal,2000,0,2000,Releaf,,,,Complete,,,Jan wk 4 - 25
+LMVIS147,2025-01-21,Emmanuel,MB3,brake fluide(2 CAN),Mechanical,Corrective,leakage due to broken seal,replace fluid,,,5000,0,5000,Releaf,,,,Complete,,,Jan wk 4 - 25
+LMVIS148,2025-01-21,Emmanuel,Dyna 4,clutch plate defect,Mechanical,Corrective,clutch plate defect due to wear,replace clutch plate fiibre,,,"12,000",0,12000,Releaf,,,,Complete,,Owai is the worst location for our vehicle. Topography can damage the buckets,Jan wk 4 - 25
+LMVIS149,2025-01-21,Emmanuel,Ford2,kickstarter brush defect,Electrical,Corrective,kickstarter brush defect due to wear,replace brush,yes,brushers,7000,0,7000,Outsourced,,,,Complete,,Kickstarter brush lasts for 3 months,Jan wk 4 - 25
+LMVIS150,2025-01-22,Emmanuel,Dyna 4,bucket defect,Mechanical,Corrective,bucket broken from the frame due to unstable road condition,welding,,,,22000,22000,Outsourced,,,,Complete,,,Jan wk 4 - 25
+LMVIS151,2025-01-22,Emmanuel,MB3,alternator defect,Electrical,Corrective,alternator defect due to wear,replace IC,yes,alternator IC,8000,7000,15000,Outsourced,,,,Complete,,,Jan wk 4 - 25
+LMVIS152,2025-01-22,Emmanuel,Dyna 3,broken engine part,Mechanical,Corrective,unstable sitting,brass welding,,,,11000,11000,,,,,Complete,,,Jan wk 4 - 25
+LMVIS153,2025-01-22,Emmanuel,Dyna 3,Wheel bolt replacement,Mechanical,Corrective,6 Missing wheel bolts for the left back tires,Need replacement,wheel bolt,wheel bolt,"32,000",0,0,Releaf,,,,Complete,,,Jan wk 4 - 25
+LMVIS154,2025-01-26,Emmanuel,Dyna 4,Air Filter Replacement,Mechanical,Corrective,Air filter was removed and got bad,Need replacement,,,,0,0,,,,,Not started,,,Jan wk 4 - 25
+LMVIS155,2025-01-27,Emmanuel,Dyna 3,Air Filter Replacement,Mechanical,Corrective,Air filter was removed and got bad,Need replacement,,,,0,0,,,,,Not started,,,Jan wk 5 - 25
+LMVIS156,2025-02-05,Emmanuel,Ford2,no ignition light,Electrical,Corrective,starting coil defect,replace coil,yes,coil,7000,5000,12000,Outsourced,2025-02-05,2025-02-05,6.0,Complete,,,Feb wk 1 - 25
+LMVIS157,2025-01-29,Emmanuel,,extra spanner for the mechanic,Mechanical,Corrective,extra spanner for the mechanic,got more spanners,,,"25,000",0,0,,,,,Complete,,,Jan wk 5 - 25
+LMVIS158,2025-01-30,Emmanuel,Dyna 3,Missing wheel boilt,Mechanical,Corrective,bolt misplaced during reapirs,replace bolt,yes,wheel bolt,"32,000",0,32000,Releaf,,,12.0,Complete,,,Jan wk 5 - 25
+LMVIS159,2025-02-05,Emmanuel,Dyna 3,Dyna3 repairs balance,Mechanical,Corrective,overheating/block/top defect,repairs,yes,top & block,,250000,0,Outsourced,,,,Complete,,,Feb wk 1 - 25
+LMVIS160,2025-02-08,Emmanuel,MB3,truck not charging the battery,Electrical,Corrective,alternator coil & cutout defect,replace coil & cutout,yes,coil and cutout,"25,000",8000,33000,Outsourced,2025-08-02,2025-08-02,8.0,Complete,,,Feb wk 1 - 25
+LMVIS161,2025-02-08,Emmanuel,Dyna 3,Clutch defect,Mechanical,Corrective,clutch plate fibber defect,replace fibber,yes,clutch plate fibber,"12,000",0,12000,Outsourced,2025-08-02,2025-08-02,5.0,Complete,,,Feb wk 1 - 25
+LMVIS162,2025-02-12,Emmanuel,MB3,exhaust damage,Mechanical,Corrective,exhaust position need reconstruction,reconstruction,,,,20000,20000,Outsourced,2025-12-02,2025-12-02,6.0,Complete,,,Feb wk 2 - 25
+LMVIS163,2025-02-14,Emmanuel,MB3,truck could not start,Mechanical,Corrective,fuel pump defect,replace kit,yes,pump kit,1500,0,1500,Releaf,2025-02-14,2025-02-14,5.0,Complete,,,Feb wk 2 - 25
+LMVIS164,2025-02-20,Emmanuel,Dyna 4,"truck discharging engine oil,",Mechanical,Corrective,turbo charger defect,replace turbo,yes,turbo,"440,000",0,450000,Releaf,,,,Not started,,,
+LMVIS165,2025-02-25,Emmanuel,MB3,truck bucket not align,Mechanical,Preventive,bolt not firmly tight due to bad road,tighten bolt,,,,0,0,Releaf,2025-02-25,2025-02-25,1.0,Complete,,,Feb wk 4 - 25
+LMVIS166,2025-02-26,Emmanuel,Dyna 3,gear cable defect,Mechanical,Corrective,bent gear cable due to prsure,adjustment,,,,0,0,Releaf,2025-02-26,2025-02-26,1.0,Complete,,,
+LMVIS167,2025-02-28,Emmanuel,MB2,truck could not accelerate,Mechanical,Corrective,throttle cable defect,get a new cable,yes,throttle cable,,0,0,,,,,,,,
+LMVIS168,2025-02-28,Emmanuel,MB3,center bolt defect,Mechanical,Corrective,center bolt defect,replace centre bolt,yes,centre bolt,,0,0,,,,,,,,
+LMVIS169,2025-03-03,Emmanuel,MB3,broken bucket,Mechanical,Corrective,due to light weight materials,re-enforce the bucket,yes,supporting metals,,0,0,,,,,,,,

@@ -1,0 +1,1809 @@
+date,ticket_no.,receiver_department,item,measurement,description,quantity,unit_cost,total_cost,week_code
+2023-12-01,1,Production,Spares,Pieces,19 Bolts & Nuts,2.0,300,0,Nov wk 4 - 23
+2023-12-01,2,Production,Spares,Pieces,22 Bolts & Nuts,8.0,450,0,Nov wk 4 - 23
+2023-12-01,3,Production,Spares,Pieces,19 Washers,4.0,50,0,Nov wk 4 - 23
+2023-12-01,4,Production,Spares,Pieces,22 washers,16.0,50,0,Nov wk 4 - 23
+2023-12-01,5,Production,Spares,Pieces,24 Bolts & Nuts,4.0,500,0,Nov wk 4 - 23
+2023-12-01,6,Production,Spares,Pieces,24 washers,8.0,100,0,Nov wk 4 - 23
+2023-12-01,7,Production,Spares,Pieces,B86-belt,1.0,2200,0,Nov wk 4 - 23
+2023-12-01,8,Payloader,Diesel,Litres,Payloader,30.0,0,0,Nov wk 4 - 23
+2023-12-01,9,Production,CaC03,bags,Issued to production for the day,10.0,0,0,Nov wk 4 - 23
+2023-12-02,10,Enforcement,PP2,,Issued to enforcement for the day,26.18,0,0,Nov wk 4 - 23
+2023-12-02,11,Production,Diesel,Litres,Issued to production for the day,300.0,0,0,Nov wk 4 - 23
+2023-12-02,12,Production,Diesel,Litres,Issued to production for the day,50.0,0,0,Nov wk 4 - 23
+2023-12-02,13,Sourcing,Diesel,Litres,Issued to sourcing for the day,40.0,0,0,Nov wk 4 - 23
+2023-12-02,14,Production,CaC03,bags,Issued to production for the day,10.0,0,0,Nov wk 4 - 23
+2023-12-02,15,Enforcement,Bags,Pieces,Issued to enforcement for the day,422.0,0,0,Nov wk 4 - 23
+2023-12-04,16,Production,CaC03,bags,Issued to production for the day,16.0,0,0,Dec wk 1 - 23
+2023-12-04,17,Payloader,Diesel,Litres,Payloader,30.0,0,0,Dec wk 1 - 23
+2023-12-04,16,Production,Spares,Pieces,Mild steel electrodes,140.0,4620,0,Dec wk 1 - 23
+2023-12-04,17,Production,Spares,Pieces,19Bolts & Nuts,7.0,2100,0,Dec wk 1 - 23
+2023-12-04,18,Production,Spares,Pieces,19Washers,14.0,700,0,Dec wk 1 - 23
+2023-12-04,19,Production,Spares,Pieces,Cutting Disc,1.0,1500,0,Dec wk 1 - 23
+2023-12-04,20,Production,Spares,Pieces,Low hydrogen electrodes,10.0,460,0,Dec wk 1 - 23
+2023-12-04,21,Production,Spares,Pieces,Rake,3.0,9000,0,Dec wk 1 - 23
+2023-12-05,22,Production,CaC03,bags,Issued to production for the day,5.0,0,0,Dec wk 1 - 23
+2023-12-05,23,Production,Diesel,Litres,Issued to production for the day,300.0,0,0,Dec wk 1 - 23
+2023-12-05,24,Sourcing,Diesel,Litres,Issued to sourcing for the day,80.0,0,0,Dec wk 1 - 23
+2023-12-05,25,Payloader,Diesel,Litres,Payloader,60.0,0,0,Dec wk 1 - 23
+2023-12-05,26,Production,Spares,Pieces,middle shafts,1.0,0,0,Dec wk 1 - 23
+2023-12-05,27,Production,Spares,Pieces,19bolts & nuts,8.0,2400,0,Dec wk 1 - 23
+2023-12-05,28,Production,Spares,Pieces,19washers,16.0,800,0,Dec wk 1 - 23
+2023-12-05,29,Production,Spares,Pieces,hydraulic oil,5.0,8600,0,Dec wk 1 - 23
+2023-12-05,30,Production,Spares,Pieces,10bolts & nuts,4.0,800,0,Dec wk 1 - 23
+2023-12-05,31,Production,Spares,Pieces,10washers,8.0,400,0,Dec wk 1 - 23
+2023-12-05,32,Production,Spares,Pieces,gear oil,2.0,3750,0,Dec wk 1 - 23
+2023-12-05,33,Production,Spares,Pieces,engine oil filters,1.0,12000,0,Dec wk 1 - 23
+2023-12-06,34,Payloader,Diesel,Litres,Payloader,30.0,0,0,Dec wk 1 - 23
+2023-12-06,35,Production,CaC03,bags,Issued to production for the day,9.0,0,0,Dec wk 1 - 23
+2023-12-06,36,Sourcing,Diesel,Litres,Issued to sourcing for day,20.0,0,0,Dec wk 1 - 23
+2023-12-06,37,Enforcement,PP2,,Issued to enforcement for day,31.21,0,0,Dec wk 1 - 23
+2023-12-06,38,Enforcement,Bags,Pieces,Issued to enforcement for day,488.0,0,0,Dec wk 1 - 23
+2023-12-07,39,Production,Diesel,Litres,Issued to production for the day,300.0,0,0,Dec wk 1 - 23
+2023-12-07,40,Payloader,Diesel,Litres,Payloader,60.0,0,0,Dec wk 1 - 23
+2023-12-07,41,Production,CaC03,bags,Issued to production for the day,8.0,0,0,Dec wk 1 - 23
+2023-12-07,42,Production,Spares,Pieces,Cutting Disc,1.0,1500,0,Dec wk 1 - 23
+2023-12-07,43,Sourcing,Diesel,Litres,Issued to sourcing for the day,20.0,0,0,Dec wk 1 - 23
+2023-12-08,44,Payloader,Diesel,Litres,Payloader,60.0,0,0,Dec wk 1 - 23
+2023-12-08,45,Production,CaC03,bags,Issued to production for the day,5.0,0,0,Dec wk 1 - 23
+2023-12-08,46,Production,Spares,Pieces,19 Bolt & Nut,14.0,4200,0,Dec wk 1 - 23
+2023-12-08,47,Production,Spares,Pieces,19 Washers,28.0,1400,0,Dec wk 1 - 23
+2023-12-09,48,Production,CaC03,bags,Issued to production for the day,8.0,0,0,Dec wk 1 - 23
+2023-12-09,49,Payloader,Diesel,Litres,Payloader,60.0,0,0,Dec wk 1 - 23
+2023-12-09,50,Sourcing,Diesel,Litres,Issued to sourcing for the day,30.0,0,0,Dec wk 1 - 23
+2023-12-09,51,Production,Spares,Pieces,Mild steel electrodes,140.0,4620,0,Dec wk 1 - 23
+2023-12-09,52,Production,Spares,Pieces,Low hydrogen electrodes,10.0,460,0,Dec wk 1 - 23
+2023-12-10,53,Production,Spares,Pieces,Fuel filters,3.0,24000,0,Dec wk 2 - 23
+2023-12-10,54,Sourcing,Diesel,Litres,Dyna2,20.0,0,0,Dec wk 2 - 23
+2023-12-10,55,Production,CaC03,bags,Issued to production for the day,8.0,0,0,Dec wk 2 - 23
+2023-12-10,56,Production,Spares,Pieces,Water separator,1.0,0,0,Dec wk 2 - 23
+2023-12-10,57,Production,Spares,Pieces,Electrical extension,1.0,0,0,Dec wk 2 - 23
+2023-12-10,58,Production,Spares,Pieces,Lamp holders,2.0,0,0,Dec wk 2 - 23
+2023-12-10,59,Production,Spares,Pieces,Led buld,1.0,0,0,Dec wk 2 - 23
+2023-12-10,60,Production,Spares,Pieces,Cutting Disc,6.0,6000,0,Dec wk 2 - 23
+2023-12-11,61,Production,PP2,,Issued to enforcement for the day,16.11,0,0,Dec wk 2 - 23
+2023-12-11,62,Payloader,Diesel,Litres,Payloader,30.0,0,0,Dec wk 2 - 23
+2023-12-11,63,Production,Diesel,Litres,Issued to production for the day,300.0,0,0,Dec wk 2 - 23
+2023-12-11,64,Production,CaC03,bags,Issued to production for the day,15.0,0,0,Dec wk 2 - 23
+2023-12-11,65,Enforcement,Bags,Pieces,Issued to enforcement for the day,256.0,0,0,Dec wk 2 - 23
+2023-12-11,66,Production,Spares,Pieces,Stainless electrode,40.0,5800,0,Dec wk 2 - 23
+2023-12-11,67,Production,Spares,Pieces,Welding gloves,1.0,3000,0,Dec wk 2 - 23
+2023-12-11,68,Sourcing,Spares,Pieces,19 bolt and nut,6.0,1800,0,Dec wk 2 - 23
+2023-12-11,69,Production,Spares,Pieces,19 washers,12.0,600,0,Dec wk 2 - 23
+2023-12-12,69,Production,Diesel,Litres,Issued to production for the day,300.0,0,0,Dec wk 2 - 23
+2023-12-12,70,Production,CaC03,bags,Issued to production for the day,8.0,0,0,Dec wk 2 - 23
+2023-12-12,71,Sourcing,Diesel,Litres,Dyna2,15.0,0,0,Dec wk 2 - 23
+2023-12-12,72,Production,Spares,Pieces,Cutting Disc,1.0,1500,0,Dec wk 2 - 23
+2023-12-13,73,Payloader,Diesel,Litres,Payloader,60.0,0,0,Dec wk 2 - 23
+2023-12-13,74,Sourcing,Diesel,Litres,Mb1,10.0,0,0,Dec wk 2 - 23
+2023-12-13,75,Production,CaC03,bags,Issued to production for the day,7.0,0,0,Dec wk 2 - 23
+2023-12-13,76,Production,Spares,Pieces,19 bolt and nut,2.0,600,0,Dec wk 2 - 23
+2023-12-13,77,Production,Spares,Pieces,19 washers,4.0,200,0,Dec wk 2 - 23
+2023-12-14,78,Production,Spares,Pieces,Cracker Rollers,32.0,544000,0,Dec wk 2 - 23
+2023-12-14,79,Production,CaC03,bags,Issued to production for the day,6.0,0,0,Dec wk 2 - 23
+2023-12-14,80,Sourcing,Diesel,Litres,Dyna2,30.0,0,0,Dec wk 2 - 23
+2023-12-14,81,Payloader,Diesel,Litres,Payloader,30.0,0,0,Dec wk 2 - 23
+2023-12-14,82,Production,Spares,Pieces,Body liners,2.0,0,0,Dec wk 2 - 23
+2023-12-15,83,Enforcement,PP2,,Issued to enforcement for the day,17.8,0,0,Dec wk 2 - 23
+2023-12-15,84,Sourcing,Diesel,Litres,Mb1 and dyna2,50.0,0,0,Dec wk 2 - 23
+2023-12-15,85,Payloader,Diesel,Litres,Payloader,60.0,0,0,Dec wk 2 - 23
+2023-12-15,86,Production,CaC03,bags,Issued to production for the day,13.0,0,0,Dec wk 2 - 23
+2023-12-15,87,Enforcement,Bags,bags,Issued to enforcement for the day,294.0,0,0,Dec wk 2 - 23
+2023-12-16,88,Production,Spares,Pieces,10bolt and nut,4.0,800,0,Dec wk 2 - 23
+2023-12-16,89,Payloader,Diesel,Litres,Payloader,80.0,0,0,Dec wk 2 - 23
+2023-12-16,70,Production,CaC03,bags,Issued to production for the day,15.0,0,0,Dec wk 2 - 23
+2023-12-16,71,Production,Diesel,Litres,Issued to production for the day,510.0,0,0,Dec wk 2 - 23
+2023-12-16,72,Production,Spares,Pieces,10washers,8.0,400,0,Dec wk 2 - 23
+2023-12-17,73,Production,Spares,Pieces,hydraulic oil,8.0,13760,0,Dec wk 3 - 23
+2023-12-17,74,Production,Diesel,Litres,Payloader,90.0,0,0,Dec wk 3 - 23
+2023-12-17,75,Sourcing,Diesel,Litres,Dyna2,25.0,0,0,Dec wk 3 - 23
+2023-12-18,76,Payloader,Diesel,Litres,Payloader,50.0,0,0,Dec wk 3 - 23
+2023-12-22,77,Enforcement,PP2,,Issued to enforcement for day,25.71,0,0,Dec wk 3 - 23
+2023-12-22,78,Enforcement,Bags,Pieces,Issued to enforcement for day,410.0,0,0,Dec wk 3 - 23
+2024-01-11,78,Sourcing,Fuel,Litres,Ford2,22.0,0,0,Jan wk 2 - 24
+2024-01-11,79,Payloader,Diesel,Litres,Payloader,30.0,0,1,Jan wk 2 - 24
+2024-01-11,80,Sourcing,Diesel,Litres,dyna2,25.0,0,1,Jan wk 2 - 24
+2024-01-09,81,Sourcing,Fuel,Litres,Ford2,10.0,0,0,Jan wk 2 - 24
+2024-01-10,81,Production,Spares,Pieces,22 bolt & nuts,4.0,1800,1,Jan wk 2 - 24
+2024-01-10,82,Production,Spares,Pieces,22 washers,8.0,400,1,Jan wk 2 - 24
+2024-01-10,83,Production,Spares,Pieces,Low hydrogen electrodes,12.0,552,1,Jan wk 2 - 24
+2024-01-10,84,Production,Spares,Pieces,C78 Belt,2.0,7000,1,Jan wk 2 - 24
+2024-01-10,85,Production,Spares,Pieces,Cutting Disc,1.0,1500,1,Jan wk 2 - 24
+2024-01-10,86,Production,Spares,Pieces,10 washers,5.0,250,1,Jan wk 2 - 24
+2024-01-10,87,Production,Spares,Pieces,24 Bolts & nuts,4.0,2000,1,Jan wk 2 - 24
+2024-01-10,88,Production,Spares,Pieces,24 washers,8.0,400,1,Jan wk 2 - 24
+2024-01-10,89,Production,Spares,Pieces,125A contactor,1.0,20000,1,Jan wk 2 - 24
+2024-01-12,90,Sourcing,Fuel,Litres,Ford2,10.0,0,0,Jan wk 2 - 24
+2024-01-12,90,Production,Spares,Pieces,Electrical Tape,1.0,250,1,Jan wk 2 - 24
+2024-01-12,91,Production,Spares,Pieces,Mild steel electrodes,140.0,4620,1,Jan wk 2 - 24
+2024-01-12,92,Production,Spares,Pieces,Iron Chalk,1.0,200,1,Jan wk 2 - 24
+2024-01-12,93,Production,Spares,Pieces,Cutting Disc,3.0,4500,1,Jan wk 2 - 24
+2024-01-12,94,Production,Spares,Pieces,Welding glass,1.0,700,1,Jan wk 2 - 24
+2024-01-13,95,Production,Spares,Pieces,middle shafts,6.0,0,1,Jan wk 2 - 24
+2024-01-13,96,Production,Spares,Pieces,Ending shafts,4.0,0,1,Jan wk 2 - 24
+2024-01-13,97,Production,Spares,Pieces,Hanger Bearing,6.0,126000,1,Jan wk 2 - 24
+2024-01-13,98,Production,Spares,Pieces,19 bolt & nuts,37.0,11700,1,Jan wk 2 - 24
+2024-01-13,99,Production,Spares,Pieces,19 washers,64.0,3200,1,Jan wk 2 - 24
+2024-01-13,100,Production,Spares,Pieces,22 washers,10.0,500,1,Jan wk 2 - 24
+2024-01-13,101,Sourcing,Diesel,Litres,Mb1,80.0,0,1,Jan wk 2 - 24
+2024-01-13,111,Production,Spares,Pieces,2.5mm 3core wire,100.0,75000,1,Jan wk 2 - 24
+2024-01-15,112,Sourcing,Fuel,Litres,Ford2,20.0,0,0,Jan wk 3 - 24
+2024-01-15,112,Sourcing,Diesel,Litres,Dyna2,30.0,0,1,Jan wk 3 - 24
+2024-01-16,113,Sourcing,Fuel,Litres,Ford2,40.0,0,0,Jan wk 3 - 24
+2024-01-16,113,Production,Spares,Pieces,Cutting Disc,1.0,1500,1,Jan wk 3 - 24
+2024-01-16,114,Production,Spares,Pieces,Elevator belt,20.9,271700,1,Jan wk 3 - 24
+2024-01-16,115,Production,Spares,Pieces,Mild steel electrodes,140.0,4620,1,Jan wk 3 - 24
+2024-01-16,116,Production,Spares,Pieces,Iron rod Y10,10.0,45000,1,Jan wk 3 - 24
+2024-01-16,117,Sourcing,Diesel,Litres,MBI,10.0,0,1,Jan wk 3 - 24
+2024-01-16,118,Sourcing,Diesel,Litres,Dyna2,25.0,0,1,Jan wk 3 - 24
+2024-01-17,119,Sourcing,Diesel,Litres,Dyna2,25.0,0,1,Jan wk 3 - 24
+2024-01-17,120,Production,Spares,Litres,hydraulic oil,8.0,13760,1,Jan wk 3 - 24
+2024-01-17,121,Production,Spares,Pieces,22 washers,40.0,2000,1,Jan wk 3 - 24
+2024-01-17,122,Production,Spares,Pieces,19 Bolt & nut,10.0,3000,1,Jan wk 3 - 24
+2024-01-17,123,Production,Spares,Pieces,19 Washers,20.0,1000,1,Jan wk 3 - 24
+2024-01-17,124,Production,Spares,Pieces,24 Bolts & Nut,10.0,5000,1,Jan wk 3 - 24
+2024-01-17,125,Production,Spares,Pieces,24 Washers,15.0,750,1,Jan wk 3 - 24
+2024-01-17,126,Production,Spares,Pieces,Damper rubbers,2.0,6000,1,Jan wk 3 - 24
+2024-01-18,126,Sourcing,Fuel,Litres,Ford2,40.0,0,0,Jan wk 3 - 24
+2024-01-18,127,Payloader,Diesel,Litres,Payloader,30.0,0,1,Jan wk 3 - 24
+2024-01-18,128,Production,Diesel,Litres,Issued to production,300.0,0,1,Jan wk 3 - 24
+2024-01-18,129,Production,Spares,Pieces,Mild steel electrodes,140.0,4620,1,Jan wk 3 - 24
+2024-01-18,130,Production,Spares,Pieces,U-Bolt22,1.0,1800,1,Jan wk 3 - 24
+2024-01-19,131,Sourcing,Fuel,Litres,Ford2,40.0,0,0,Jan wk 3 - 24
+2024-01-19,131,Production,Spares,Pieces,19 Bolts & nuts,15.0,4500,1,Jan wk 3 - 24
+2024-01-19,132,Production,Spares,Pieces,19 Washers,40.0,2000,1,Jan wk 3 - 24
+2024-01-19,133,Production,Spares,Pieces,middle shafts,6.0,0,1,Jan wk 3 - 24
+2024-01-19,134,Production,Spares,Pieces,Hanger Bearing,6.0,126000,1,Jan wk 3 - 24
+2024-01-19,135,Production,Spares,Pieces,U-Bolt22,6.0,10800,1,Jan wk 3 - 24
+2024-01-19,136,Production,Spares,Pieces,F210 bearing,1.0,15000,0,Jan wk 3 - 24
+2024-01-19,137,Production,Spares,Pieces,13 Bolt & nuts,60.0,12000,1,Jan wk 3 - 24
+2024-01-19,138,Production,Spares,Pieces,13 Washers,120.0,6000,1,Jan wk 3 - 24
+2024-01-19,139,Sourcing,Diesel,Litres,Dyna2,25.0,0,1,Jan wk 3 - 24
+2024-01-20,140,Payloader,Diesel,Litres,Payloader,30.0,0,1,Jan wk 3 - 24
+2024-01-20,141,Production,Spares,Pieces,13Bolt & nuts,24.0,2600,1,Jan wk 3 - 24
+2024-01-20,142,Production,Spares,Pieces,19 Bolt & nuts,25.0,7500,1,Jan wk 3 - 24
+2024-01-20,143,Production,Spares,Pieces,13 Washers,48.0,2400,1,Jan wk 3 - 24
+2024-01-20,144,Production,Spares,Pieces,Ending shafts,1.0,0,1,Jan wk 3 - 24
+2024-01-20,145,Production,Spares,Pieces,F210 bearing,1.0,15000,1,Jan wk 3 - 24
+2024-01-20,146,Production,Spares,Pieces,Cutting Disc,2.0,3000,1,Jan wk 3 - 24
+2024-01-20,147,Production,Spares,Pieces,middle shafts,1.0,0,1,Jan wk 3 - 24
+2024-01-20,148,Production,Spares,Pieces,Welding handle,1.0,4500,1,Jan wk 3 - 24
+2024-01-20,149,Production,Spares,Pieces,17 Bolt & Nuts,3.0,900,1,Jan wk 3 - 24
+2024-01-20,150,Production,Spares,Pieces,17 Washers,6.0,300,1,Jan wk 3 - 24
+2024-01-22,151,Sourcing,Fuel,Litres,Ford2,40.0,0,0,Jan wk 4 - 24
+2024-01-22,151,Production,Spares,Pieces,U-Bolt22,2.0,9600,1,Jan wk 4 - 24
+2024-01-22,152,Production,Spares,Pieces,Hanger Bearing,2.0,42000,1,Jan wk 4 - 24
+2024-01-22,153,Production,Spares,Pieces,Mild steel electrodes,140.0,4620,1,Jan wk 4 - 24
+2024-01-22,154,Production,Spares,Pieces,24 Washers,10.0,500,1,Jan wk 4 - 24
+2024-01-22,155,Payloader,Diesel,Litres,Payloader,30.0,0,1,Jan wk 4 - 24
+2024-01-23,155,Sourcing,Fuel,Litres,Ford2,40.0,0,0,Jan wk 4 - 24
+2024-01-23,156,Payloader,Diesel,Litres,Payloader,30.0,0,1,Jan wk 4 - 24
+2024-01-23,157,Sourcing,Diesel,Litres,Dyna2,25.0,0,1,Jan wk 4 - 24
+2024-01-23,158,Sourcing,Diesel,Litres,Mb1,40.0,0,1,Jan wk 4 - 24
+2024-01-23,159,Production,Spares,Pieces,Cutting Disc,2.0,3000,1,Jan wk 4 - 24
+2024-01-23,200,Production,Spares,Pieces,13-18A manuel starter,2.0,18000,1,Jan wk 4 - 24
+2024-01-23,201,Production,Spares,Pieces,3/4 rods,2.0,20000,1,Jan wk 4 - 24
+2024-01-23,202,Production,Spares,Pieces,3/4 Nuts,3.0,6400,1,Jan wk 4 - 24
+2024-01-24,203,Payloader,Diesel,Litres,Payloader,30.0,0,1,Jan wk 4 - 24
+2024-01-24,204,Production,Diesel,Litres,Issued to production for the day(rented),90.0,0,1,Jan wk 4 - 24
+2024-01-24,205,Sourcing,Diesel,Litres,Dyna3,10.0,0,1,Jan wk 4 - 24
+2024-01-24,206,Production,Spares,Pieces,Cutting Disc,3.0,4500,1,Jan wk 4 - 24
+2024-01-24,207,Production,Spares,Pieces,Electrical tape,2.0,500,1,Jan wk 4 - 24
+2024-01-24,208,Production,Spares,Pieces,Mild steel electrodes,140.0,4620,1,Jan wk 4 - 24
+2024-01-24,209,Production,CaC03,bags,Issued to production for the day,15.0,0,1,Jan wk 4 - 24
+2024-01-25,210,Production,Diesel,Litres,Issued to production (rented 100kav),150.0,0,1,Jan wk 4 - 24
+2024-01-25,211,Production,Diesel,Litres,Issued to production,300.0,0,1,Jan wk 4 - 24
+2024-01-25,212,Payloader,Diesel,Litres,Payloader,30.0,0,1,Jan wk 4 - 24
+2024-01-25,213,Production,Spares,Pieces,hydraulic oil,9.0,15480,1,Jan wk 4 - 24
+2024-01-25,214,Production,Spares,Pieces,Mild steel electrodes,140.0,4620,1,Jan wk 4 - 24
+2024-01-25,215,Production,CaC03,bags,Issued to production for the day,8.0,0,1,Jan wk 4 - 24
+2024-01-26,216,Production,Spares,Pieces,Iron chalk,1.0,250,1,Jan wk 4 - 24
+2024-01-26,217,Production,Spares,Pieces,Welding handle,1.0,4500,1,Jan wk 4 - 24
+2024-01-26,218,Production,Spares,Pieces,Mild steel electrodes,140.0,4620,1,Jan wk 4 - 24
+2024-01-26,219,Payloader,Diesel,Litres,Payloader,30.0,0,1,Jan wk 4 - 24
+2024-01-26,220,Production,Diesel,Litres,Dyna2,30.0,0,1,Jan wk 4 - 24
+2024-01-26,221,Production,Diesel,Litres,Issued to production for the day,150.0,0,1,Jan wk 4 - 24
+2024-01-26,223,Production,CaC03,bags,Issued to production for the day,12.0,0,1,Jan wk 4 - 24
+2024-01-27,224,Production,Diesel,Litres,Issued to production for the day,120.0,0,1,Jan wk 4 - 24
+2024-01-27,225,Sourcing,Diesel,Litres,Dyna2,10.0,0,1,Jan wk 4 - 24
+2024-01-27,226,Payloader,Diesel,Litres,Payloader,30.0,0,1,Jan wk 4 - 24
+2024-01-27,227,Production,Spares,Pieces,13 Bolt & nut,7.0,1400,1,Jan wk 4 - 24
+2024-01-27,228,Production,Spares,Pieces,13 washers,14.0,700,1,Jan wk 4 - 24
+2024-01-27,229,Production,CaC03,bags,Issued to production for the day,14.0,0,1,Jan wk 4 - 24
+2024-01-29,229,Sourcing,Fuel,Litres,Ford2,40.0,0,0,Jan wk 5 - 24
+2024-01-29,230,Production,CaC03,bags,Issued to production for the day,14.0,0,1,Jan wk 5 - 24
+2024-01-29,230,Sourcing,Diesel,Litres,Dyna2,25.0,0,1,Jan wk 5 - 24
+2024-01-29,231,Sourcing,fuel,Litres,Bikes,5.0,0,1,Jan wk 5 - 24
+2024-01-29,231,Payloader,Spares,Pieces,Payloader,12.0,21600,1,Jan wk 5 - 24
+2024-01-29,232,Production,Spares,Pieces,Gear oil,1.0,1875,1,Jan wk 5 - 24
+2024-01-29,233,Production,Spares,Pieces,Mild steel electrodes,140.0,4620,1,Jan wk 5 - 24
+2024-01-29,234,Production,Spares,Pieces,Baskets,4.0,5200,1,Jan wk 5 - 24
+2024-01-29,235,Production,Spares,Pieces,Hand towels,3.0,2500,1,Jan wk 5 - 24
+2024-01-29,236,Production,Spares,Pieces,Condom gloves,1.0,2000,1,Jan wk 5 - 24
+2024-01-30,238,Sourcing,Diesel,Litres,Dyna2,25.0,0,1,Jan wk 5 - 24
+2024-01-30,239,Payloader,Diesel,Litres,Payloader,30.0,0,1,Jan wk 5 - 24
+2024-01-30,240,Production,CaC03,bags,Issued to production for the day,14.0,0,1,Jan wk 5 - 24
+2024-01-30,241,Production,Spares,Pieces,Damper rubbers,1.0,3000,1,Jan wk 5 - 24
+2024-01-30,241,Enforcement,Fuel,Litres,Bikes,10.0,0,1,Jan wk 5 - 24
+2024-01-31,242,Sourcing,Fuel,Litres,Bikes,5.0,0,1,Jan wk 5 - 24
+2024-01-31,242,Production,Spares,Pieces,Electrical tape,2.0,500,1,Jan wk 5 - 24
+2024-01-31,243,Production,Spares,Pieces,B82 Belt,1.0,2200,1,Jan wk 5 - 24
+2024-01-31,244,Production,Spares,Pieces,Nipple,2.0,1000,1,Jan wk 5 - 24
+2024-01-31,245,Production,Spares,Pieces,Pvc bushy,2.0,8000,1,Jan wk 5 - 24
+2024-01-31,246,Production,Spares,Pieces,Damper rubbers,1.0,2200,1,Jan wk 5 - 24
+2024-01-31,247,Production,Spares,Pieces,24 bolt & nuts,2.0,1000,1,Jan wk 5 - 24
+2024-01-31,248,Production,Spares,Pieces,24 Washers,4.0,200,1,Jan wk 5 - 24
+2024-01-31,249,Production,Spares,Pieces,Motor tyre,2.0,175000,1,Jan wk 5 - 24
+2024-01-31,250,Production,Diesel,Litres,Issued to production for the day,300.0,0,1,Jan wk 5 - 24
+2024-01-31,251,Enforcement,PP2,tonnes,Lordtech,28.57,0,0,Jan wk 5 - 24
+2024-02-01,251,Sourcing,Fuel,Litres,Ford2,40.0,0,0,Jan wk 5 - 24
+2024-02-01,251,Sourcing,Fuel,Litres,Bikes,12.0,0,2,Jan wk 5 - 24
+2024-02-02,252,Sourcing,Fuel,Litres,Bikes,5.0,0,2,Jan wk 5 - 24
+2024-02-02,250,Production,Spares,Pieces,Cutting Disc,1.0,1500,2,Jan wk 5 - 24
+2024-02-02,251,Production,Spares,Pieces,Pvc tape,1.0,500,2,Jan wk 5 - 24
+2024-02-02,252,Production,Spares,Pieces,Iron chalk,2.0,500,2,Jan wk 5 - 24
+2024-02-02,253,Production,Spares,Pieces,B61-belt,3.0,5400,2,Jan wk 5 - 24
+2024-02-02,254,Sourcing,Diesel,Litres,dyna2,30.0,0,2,Jan wk 5 - 24
+2024-02-02,255,Production,Diesel,Litres,Payloader,30.0,0,2,Jan wk 5 - 24
+2024-02-03,254,Production,Spares,Pieces,F208 bearings,1.0,10000,2,Jan wk 5 - 24
+2024-02-03,255,Sourcing,Diesel,Litres,dyna2,25.0,0,2,Jan wk 5 - 24
+2024-02-03,256,Sourcing,Diesel,Litres,Mb1,20.0,0,2,Jan wk 5 - 24
+2024-02-03,257,Sourcing,Fuel,Litres,Bikes,10.0,0,2,Jan wk 5 - 24
+2024-02-05,258,Sourcing,Fuel,Litres,Bikes,2.0,0,2,Feb wk 1 - 24
+2024-02-05,257,Sourcing,Diesel,Litres,dyna2,30.0,0,2,Feb wk 1 - 24
+2024-02-05,258,Production,Spares,Pieces,Penitrating oil,1.0,0,2,Feb wk 1 - 24
+2024-02-05,259,Production,Spares,Pieces,17 bolt & nuts,5.0,1500,2,Feb wk 1 - 24
+2024-02-05,260,Production,Spares,Pieces,17 washers,10.0,500,2,Feb wk 1 - 24
+2024-02-05,261,Production,Spares,Pieces,13 bolt & nuts,5.0,500,2,Feb wk 1 - 24
+2024-02-05,262,Production,Spares,Pieces,13 washers,10.0,500,2,Feb wk 1 - 24
+2024-02-06,263,Sourcing,Fuel,Litres,Bikes,9.0,0,2,Feb wk 1 - 24
+2024-02-06,263,Production,Diesel,Litres,Issued to production for the day,600.0,0,2,Feb wk 1 - 24
+2024-02-06,264,Payloader,Diesel,Litres,Payloader,30.0,0,2,Feb wk 1 - 24
+2024-02-06,265,Sourcing,Diesel,Litres,dyna2,30.0,0,2,Feb wk 1 - 24
+2024-02-06,265,Sourcing,Diesel,Litres,Dyna3,20.0,0,2,Feb wk 1 - 24
+2024-02-06,266,Production,Spares,Pieces,Motor battery,1.0,0,2,Feb wk 1 - 24
+2024-02-06,267,Production,Spares,Pieces,hydraulic oil,4.0,18000,2,Feb wk 1 - 24
+2024-02-07,268,Sourcing,Fuel,Litres,Bikes,8.0,0,2,Feb wk 1 - 24
+2024-02-07,268,Production,Spares,Pieces,Gear oil,1.0,1875,2,Feb wk 1 - 24
+2024-02-07,269,Production,Spares,Pieces,Cutting Disc,1.0,1500,2,Feb wk 1 - 24
+2024-02-07,270,Production,Spares,Pieces,Mild steel electrodes,140.0,4620,2,Feb wk 1 - 24
+2024-02-07,271,Production,Diesel,Litres,Sourcing mb1,20.0,0,2,Feb wk 1 - 24
+2024-02-07,272,Enforcement,PKS,tonnes,Issued to enforcement for the day,20.5,0,2,Feb wk 1 - 24
+2024-02-08,273,Sourcing,Fuel,Litres,Bikes,5.0,0,2,Feb wk 1 - 24
+2024-02-08,273,Enforcement,PKS,tonnes,Issued to enforcement for the day,17.3,0,2,Feb wk 1 - 24
+2024-02-08,274,Sourcing,Diesel,Litres,dyna2,30.0,0,2,Feb wk 1 - 24
+2024-02-08,274,Sourcing,Diesel,Litres,Dyna3,25.0,0,2,Feb wk 1 - 24
+2024-02-08,274,Sourcing,Diesel,Litres,mb1,20.0,0,2,Feb wk 1 - 24
+2024-02-08,275,Payloader,Diesel,Litres,payloader,30.0,0,2,Feb wk 1 - 24
+2024-02-09,276,Sourcing,Fuel,Litres,Bikes,8.0,0,2,Feb wk 1 - 24
+2024-02-09,276,Payloader,Diesel,Litres,payloader,60.0,0,2,Feb wk 1 - 24
+2024-02-10,277,Sourcing,Fuel,Litres,Bikes,11.0,0,2,Feb wk 1 - 24
+2024-02-10,277,Enforcement,PKS,tonnes,Issued to enforcement for the day,308.07,0,2,Feb wk 1 - 24
+2024-02-10,278,Payloader,Spares,Pieces,hydraulic oil,8.0,14400,2,Feb wk 1 - 24
+2024-02-10,279,Production,Spares,Pieces,Cutting Disc,1.0,1500,2,Feb wk 1 - 24
+2024-02-10,280,Payloader,Diesel,Litres,payloader,60.0,0,2,Feb wk 1 - 24
+2024-02-10,281,Sourcing,Diesel,Litres,Dyna2,30.0,0,2,Feb wk 1 - 24
+2024-02-10,281,Sourcing,Diesel,Litres,mb1,20.0,0,2,Feb wk 1 - 24
+2024-02-10,282,Enforcement,PKS,tonnes,Issued to enforcement for the day,128.49,0,2,Feb wk 1 - 24
+2024-02-12,283,Sourcing,Diesel,Litres,dyna2,30.0,0,2,Feb wk 2 - 24
+2024-02-12,283,Sourcing,Diesel,Litres,Dyna3,30.0,0,2,Feb wk 2 - 24
+2024-02-12,284,Payloader,Diesel,Litres,payloader,60.0,0,2,Feb wk 2 - 24
+2024-02-12,285,Production,Spares,Pieces,Cutting Disc,1.0,1500,2,Feb wk 2 - 24
+2024-02-12,286,Production,Spares,Pieces,Iron chalk,3.0,750,2,Feb wk 2 - 24
+2024-02-12,287,Production,Spares,Pieces,Welding handle,1.0,4500,2,Feb wk 2 - 24
+2024-02-12,288,Enforcement,PKS,tonnes,Issued to enforcement for the day,78.77,0,2,Feb wk 2 - 24
+2024-02-12,289,Sourcing,Fuel,Litres,Bikes,6.0,0,2,Feb wk 2 - 24
+2024-02-13,290,Production,Spares,Pieces,Engine oil,2.0,3800,2,Feb wk 2 - 24
+2024-02-13,291,Sourcing,Fuel,Litres,Bike,7.0,0,2,Feb wk 2 - 24
+2024-02-13,292,Sourcing,Diesel,Litres,dyna2,30.0,0,2,Feb wk 2 - 24
+2024-02-13,283,Sourcing,Diesel,Litres,Dyna3,30.0,0,2,Feb wk 2 - 24
+2024-02-13,293,Payloader,Diesel,Litres,payloader,60.0,0,2,Feb wk 2 - 24
+2024-02-13,294,Enforcement,PKS,tonnes,Issued to enforcement for the day,112.14,0,2,Feb wk 2 - 24
+2024-02-14,295,Sourcing,Fuel,Litres,Bikes,11.0,0,2,Feb wk 2 - 24
+2024-02-14,296,Sourcing,Diesel,Litres,Dyna3,30.0,0,2,Feb wk 2 - 24
+2024-02-14,297,Payloader,Diesel,Litres,payloader,90.0,0,2,Feb wk 2 - 24
+2024-02-14,298,Enforcement,PKS,tonnes,Issued to enforcement for the day,132.77,0,2,Feb wk 2 - 24
+2024-02-14,299,Production,Spares,Pieces,Cutting Disc,1.0,1500,2,Feb wk 2 - 24
+2024-02-15,300,Sourcing,Diesel,Litres,MB1,20.0,0,2,Feb wk 2 - 24
+2024-02-15,301,Enforcement,PKS,tonnes,Issued to enforcement for the day,12.75,0,2,Feb wk 2 - 24
+2024-02-15,301,Payloader,Spares,Litres,Gear oil,4.0,20000,2,Feb wk 2 - 24
+2024-02-16,301,Sourcing,Fuel,Litres,Ford2,40.0,0,0,Feb wk 2 - 24
+2024-02-16,302,Production,Spares,Pieces,Cutting Disc,1.0,1500,2,Feb wk 2 - 24
+2024-02-16,303,Production,Spares,Pieces,Electrical tape,1.0,250,2,Feb wk 2 - 24
+2024-02-16,304,Production,Spares,Pieces,13bolts & nuts,2.0,400,2,Feb wk 2 - 24
+2024-02-16,305,Production,Spares,Pieces,13 washers,4.0,200,2,Feb wk 2 - 24
+2024-02-16,306,Sourcing,Diesel,Litres,Mb1,20.0,0,2,Feb wk 2 - 24
+2024-02-16,304,Sourcing,Fuel,Litres,Bikes,10.0,0,2,Feb wk 2 - 24
+2024-02-16,305,Production,CaC03,bags,Issued to production for the day,13.0,0,2,Feb wk 2 - 24
+2024-02-19,306,Sourcing,Diesel,Litres,Dyna3,30.0,0,2,Feb wk 3 - 24
+2024-02-19,306,Sourcing,Diesel,Litres,dyna2,30.0,0,2,Feb wk 3 - 24
+2024-02-19,307,Production,Diesel,Litres,production,60.0,0,2,Feb wk 3 - 24
+2024-02-19,308,Sourcing,Fuel,Litres,Bikes,11.0,0,2,Feb wk 3 - 24
+2024-02-19,309,Sourcing,Spares,Pieces,150kg scales,2.0,140000,2,Feb wk 3 - 24
+2024-02-19,310,Sourcing,Spares,Pieces,Basin,3.0,22500,2,Feb wk 3 - 24
+2024-02-19,310,Production,Spares,Pieces,Cutting Disc,4.0,6000,2,Feb wk 3 - 24
+2024-02-19,311,Production,Spares,Pieces,Mild steel electrodes,140.0,4620,2,Feb wk 3 - 24
+2024-02-19,312,Production,CaC03,bags,Issued to production for the day,8.0,0,2,Feb wk 3 - 24
+2024-02-20,313,Payloader,Diesel,Litres,payloader,60.0,0,2,Feb wk 3 - 24
+2024-02-20,314,Production,Diesel,Litres,issued to production for the day,300.0,0,2,Feb wk 3 - 24
+2024-02-20,315,Enforcement,PKS,tonnes,Issued to enforcement for the day,38.33,0,2,Feb wk 3 - 24
+2024-02-20,316,Production,Spares,Pieces,Electrical tape,1.0,250,2,Feb wk 3 - 24
+2024-02-20,317,Production,Spares,Pieces,19bolt & nuts,9.0,2700,2,Feb wk 3 - 24
+2024-02-20,318,Production,Spares,Pieces,19washers,18.0,900,2,Feb wk 3 - 24
+2024-02-20,319,Payloader,Spares,Pieces,hydraulic oil,8.0,14400,2,Feb wk 3 - 24
+2024-02-20,320,Production,Spares,Pieces,17 bolt & nuts,5.0,1500,2,Feb wk 3 - 24
+2024-02-20,321,Production,Spares,Pieces,17washers,10.0,500,2,Feb wk 3 - 24
+2024-02-20,322,Production,Spares,Pieces,Blue tape,4.0,1200,2,Feb wk 3 - 24
+2024-02-20,323,Production,Spares,Pieces,Green tape,2.0,600,2,Feb wk 3 - 24
+2024-02-20,324,Production,Spares,Pieces,Black tape,10.0,3000,2,Feb wk 3 - 24
+2024-02-20,325,Production,Spares,Pieces,yellow tape,4.0,1200,2,Feb wk 3 - 24
+2024-02-20,326,Production,Spares,Pieces,Red tape,4.0,1200,2,Feb wk 3 - 24
+2024-02-20,327,Production,Spares,Pieces,70mm cable lug,4.0,2400,2,Feb wk 3 - 24
+2024-02-20,328,Production,Spares,Pieces,120mm cable lug,4.0,4000,2,Feb wk 3 - 24
+2024-02-20,329,Production,Spares,Pieces,240mm cable lug,12.0,21600,2,Feb wk 3 - 24
+2024-02-20,330,Sourcing,Fuel,Litres,Bikes,4.0,0,0,Feb wk 3 - 24
+2024-02-21,331,Sourcing,Fuel,Litres,Ford2,40.0,0,0,Feb wk 3 - 24
+2024-02-21,331,Sourcing,Diesel,Litres,Dyna3,30.0,0,2,Feb wk 3 - 24
+2024-02-21,332,Payloader,Diesel,Litres,payloader,60.0,0,2,Feb wk 3 - 24
+2024-02-21,334,Sourcing,Fuel,Litres,Bikes,8.0,0,2,Feb wk 3 - 24
+2024-02-21,335,Production,Spares,Pieces,Gear oil,1.0,2500,2,Feb wk 3 - 24
+2024-02-21,336,Sourcing,Spares,Pieces,Motor battery,1.0,42000,2,Feb wk 3 - 24
+2024-02-21,337,Sourcing,Spares,Pieces,Shovel,1.0,6000,2,Feb wk 3 - 24
+2024-02-21,338,Production,Spares,Pieces,22212 bearings,1.0,12000,2,Feb wk 3 - 24
+2024-02-21,339,Sourcing,Spares,Pieces,Motor battery,1.0,42000,2,Feb wk 3 - 24
+2024-02-21,340,Sourcing,Spares,Pieces,Motor tyre,1.0,45000,2,Feb wk 3 - 24
+2024-02-21,341,Sourcing,Spares,Pieces,10T jag,1.0,13000,2,Feb wk 3 - 24
+2024-02-21,342,Production,Spares,Pieces,19 bolt & nuts,24.0,7200,2,Feb wk 3 - 24
+2024-02-21,343,Production,Spares,Pieces,19washers,48.0,2400,2,Feb wk 3 - 24
+2024-02-21,344,Production,Spares,Pieces,F208 bearings,1.0,8000,2,Feb wk 3 - 24
+2024-02-21,345,Production,Spares,Pieces,middle shafts,2.0,0,2,Feb wk 3 - 24
+2024-02-21,346,Production,Spares,Pieces,End shafts,1.0,0,2,Feb wk 3 - 24
+2024-02-21,347,Production,Spares,Pieces,Lubricant oil,25.0,68000,2,Feb wk 3 - 24
+2024-02-21,348,Production,Spares,Pieces,Filling stone,1.0,1000,2,Feb wk 3 - 24
+2024-02-21,349,Enforcement,PKS,tonnes,Issued to enforcement for the day,77.7,0,2,Feb wk 3 - 24
+2024-02-21,350,Production,CaC03,bags,Issued to production for the day,7.0,0,2,Feb wk 3 - 24
+2024-02-22,351,Production,Diesel,Litres,Issued to production for the day,300.0,0,2,Feb wk 3 - 24
+2024-02-22,352,Sourcing,Diesel,Litres,Dyna3,30.0,0,2,Feb wk 3 - 24
+2024-02-22,353,Sourcing,Fuel,Litres,Bikes,5.0,0,2,Feb wk 3 - 24
+2024-02-22,354,Production,Spares,Pieces,F311 bearings,1.0,40000,2,Feb wk 3 - 24
+2024-02-22,356,Production,Spares,Pieces,U-Bolt22,4.0,19200,2,Feb wk 3 - 24
+2024-02-22,357,Production,Spares,Pieces,Hanger Bearing,4.0,84000,2,Feb wk 3 - 24
+2024-02-22,358,Production,Spares,Pieces,Cutting Disc,1.0,1500,2,Feb wk 3 - 24
+2024-02-22,359,Production,CaC03,bags,Issued to production for the day,16.0,0,2,Feb wk 3 - 24
+2024-02-22,340,Enforcement,PKS,tonnes,Issued to enforcement for the day,39.53,0,2,Feb wk 3 - 24
+2024-02-23,341,Production,Spares,Pieces,Engine oil,2.0,3800,2,Feb wk 3 - 24
+2024-02-23,345,Production,Spares,Pieces,hydraulic oil,4.0,7200,2,Feb wk 3 - 24
+2024-02-23,346,Production,Spares,Pieces,water seperator,1.0,98000,2,Feb wk 3 - 24
+2024-02-23,347,Production,Spares,Pieces,Fuel filter,1.0,10000,2,Feb wk 3 - 24
+2024-02-23,348,Production,Spares,Pieces,35mm cable,33.0,99000,2,Feb wk 3 - 24
+2024-02-23,349,Production,Spares,Pieces,24washers,15.0,750,2,Feb wk 3 - 24
+2024-02-23,350,Production,Spares,Pieces,19bolt & nuts,10.0,3000,2,Feb wk 3 - 24
+2024-02-23,351,Production,Spares,Pieces,19washers,20.0,1000,2,Feb wk 3 - 24
+2024-02-23,352,Production,Spares,Pieces,P208 bearings,1.0,0,2,Feb wk 3 - 24
+2024-02-23,353,Production,Spares,Pieces,B86 Belt,1.0,2200,2,Feb wk 3 - 24
+2024-02-23,353,Enforcement,PKS,tonnes,Issued to enforcement for the day,82.12,0,2,Feb wk 3 - 24
+2024-02-23,354,Payloader,Diesel,Litres,payloader,60.0,0,2,Feb wk 3 - 24
+2024-02-23,355,Production,Diesel,Litres,Issued to production for the day,60.0,0,2,Feb wk 3 - 24
+2024-02-23,356,Production,CaC03,bags,Issued to production for the day,13.0,0,2,Feb wk 3 - 24
+2024-02-23,357,Sourcing,Fuel,Litres,Ford2,40.0,0,0,Feb wk 3 - 24
+2024-02-24,358,Enforcement,PP2,,Lordtech,28.29,0,0,Feb wk 3 - 24
+2024-02-24,359,Enforcement,PKS,tonnes,Issued to enforcement for the day,115.62,0,0,Feb wk 3 - 24
+2024-02-24,360,Payloader,Diesel,Litres,payloader,60.0,0,0,Feb wk 3 - 24
+2024-02-24,361,Payloader,Spares,Pieces,hydraulic oil,4.0,7200,0,Feb wk 3 - 24
+2024-02-24,362,Enforcement,Bags,Pieces,Issue to enforcement for the day,399.0,0,0,Feb wk 3 - 24
+2024-02-26,363,Sourcing,Diesel,Litres,Dyna2,30.0,0,2,Feb wk 4 - 24
+2024-02-26,364,Sourcing,Diesel,Litres,Dyna3,30.0,0,2,Feb wk 4 - 24
+2024-02-26,365,Production,Spares,Pieces,Cutting Disc,1.0,1500,0,Feb wk 4 - 24
+2024-02-26,366,Production,Spares,Pieces,Measuring tape,1.0,0,0,Feb wk 4 - 24
+2024-02-26,367,Sourcing,Fuel,Litres,Bikes,4.0,0,0,Feb wk 4 - 24
+2024-02-27,368,Sourcing,Fuel,Litres,Bikes,9.0,0,0,Feb wk 4 - 24
+2024-02-27,369,Sourcing,Diesel,Litres,Dyna2,15.0,0,2,Feb wk 4 - 24
+2024-02-27,370,Payloader,Diesel,Litres,payloader,30.0,0,0,Feb wk 4 - 24
+2024-02-27,371,Production,Diesel,Litres,production,300.0,0,0,Feb wk 4 - 24
+2024-02-27,372,Production,Spares,Pieces,Cutting Disc,2.0,3000,0,Feb wk 4 - 24
+2024-02-27,373,Production,Spares,Pieces,17 bolts & nuts,6.0,1800,0,Feb wk 4 - 24
+2024-02-27,374,Production,Spares,Pieces,17washers,12.0,600,0,Feb wk 4 - 24
+2024-02-27,375,Production,Spares,Pieces,22bolts & nuts,5.0,2250,0,Feb wk 4 - 24
+2024-02-27,376,Production,Spares,Pieces,22washers,10.0,500,0,Feb wk 4 - 24
+2024-02-27,377,Production,CaC03,bags,production,14.0,0,0,Feb wk 4 - 24
+2024-02-27,378,Sourcing,Fuel,Litres,Ford2,40.0,0,0,Feb wk 4 - 24
+2024-02-27,379,Sourcing,Fuel,Litres,Bikes,13.0,0,0,Feb wk 4 - 24
+2024-02-28,380,Production,CaC03,bags,production,8.0,0,0,Feb wk 4 - 24
+2024-02-28,380,Production,Spares,Pieces,Mild steel electrodes,140.0,4620,0,Feb wk 4 - 24
+2024-02-28,381,Production,Spares,Pieces,Cutting Disc,1.0,1500,0,Feb wk 4 - 24
+2024-02-28,382,Sourcing,Diesel,Litres,Dyna3,30.0,0,2,Feb wk 4 - 24
+2024-02-28,383,Sourcing,Diesel,Litres,Mb1,20.0,0,2,Feb wk 4 - 24
+2024-02-28,384,Sourcing,Fuel,Litres,Bikes,11.0,0,0,Feb wk 4 - 24
+2024-02-29,385,Sourcing,Fuel,Litres,Ford2,40.0,0,0,Feb wk 4 - 24
+2024-02-29,386,Payloader,Diesel,Litres,payloader,30.0,0,0,Feb wk 4 - 24
+2024-02-29,387,Sourcing,Diesel,Litres,Dyna3,30.0,0,2,Feb wk 4 - 24
+2024-02-29,388,Production,CaC03,bags,production,21.0,0,0,Feb wk 4 - 24
+2024-03-01,389,Payloader,Diesel,Litres,payloader,60.0,0,0,Feb wk 4 - 24
+2024-03-01,390,Sourcing,Diesel,Litres,dyna3,30.0,0,3,Feb wk 4 - 24
+2024-03-01,391,Production,Diesel,Litres,production,300.0,0,0,Feb wk 4 - 24
+2024-03-01,392,Production,CaC03,bags,production,19.0,0,0,Feb wk 4 - 24
+2024-03-01,393,Enforcement,PKS,tonnes,Enforcement,74.92,0,0,Feb wk 4 - 24
+2024-03-01,393,Payloader,Spares,Pieces,hydraulic oil,8.0,14400,0,Feb wk 4 - 24
+2024-03-01,394,Sourcing,Fuel,Litres,Bikes,10.0,0,0,Feb wk 4 - 24
+2024-03-02,395,Sourcing,Fuel,Litres,Bike,3.0,0,0,Feb wk 4 - 24
+2024-03-02,396,Sourcing,Diesel,Litres,Dyna3,30.0,0,3,Feb wk 4 - 24
+2024-03-02,397,Production,Spares,Pieces,13bolts & nuts,15.0,3000,0,Feb wk 4 - 24
+2024-03-02,398,Production,Spares,Pieces,13washers,30.0,1500,0,Feb wk 4 - 24
+2024-03-02,399,Sourcing,Fuel,Litres,Ford2,40.0,0,0,Feb wk 4 - 24
+2024-03-03,400,Enforcement,PP2,,Lordtech,26.56,0,0,Feb wk 4 - 24
+2024-03-03,401,Enforcement,Bags,Pieces,Enforcement,398.0,0,0,Feb wk 4 - 24
+2024-03-04,402,Sourcing,Diesel,Litres,Dyna3,30.0,0,3,Mar wk 1 - 24
+2024-03-04,403,Sourcing,Fuel,Litres,Bikes,7.0,0,0,Mar wk 1 - 24
+2024-03-05,404,Sourcing,Diesel,Litres,Dyna3,15.0,0,3,Mar wk 1 - 24
+2024-03-05,405,Sourcing,Fuel,Litres,Bikes,10.0,0,0,Mar wk 1 - 24
+2024-03-06,406,Production,Spares,Pieces,F210 bearings,1.0,15000,0,Mar wk 1 - 24
+2024-03-06,407,Sourcing,Fuel,Litres,Bike,11.0,0,0,Mar wk 1 - 24
+2024-03-06,408,Sourcing,Diesel,Litres,Dyna3,15.0,0,3,Mar wk 1 - 24
+2024-03-07,408,Sourcing,Diesel,Litres,dyna3,20.0,0,3,Mar wk 1 - 24
+2024-03-07,409,Sourcing,Fuel,Litres,Ford2,40.0,0,0,Mar wk 1 - 24
+2024-03-07,410,Sourcing,Fuel,Litres,Bike,7.0,0,0,Mar wk 1 - 24
+2024-03-08,411,Sourcing,Diesel,Litres,Mb1,20.0,0,0,Mar wk 1 - 24
+2024-03-08,412,Sourcing,Diesel,Litres,Dyna3,15.0,0,0,Mar wk 1 - 24
+2024-03-08,413,Sourcing,Spares,Pieces,Oil filter 814,1.0,5000,0,Mar wk 1 - 24
+2024-03-08,414,Sourcing,Spares,Pieces,Gas filtre 814,1.0,2000,0,Mar wk 1 - 24
+2024-03-08,415,Sourcing,Spares,Pieces,Oil filter seal,2.0,8000,0,Mar wk 1 - 24
+2024-03-08,416,Sourcing,Spares,Pieces,Gas filtre,2.0,12000,0,Mar wk 1 - 24
+2024-03-08,417,Sourcing,Spares,Pieces,12v adaptor,1.0,2500,0,Mar wk 1 - 24
+2024-03-08,418,Sourcing,Spares,Pieces,Lubricant oil,50.0,140000,0,Mar wk 1 - 24
+2024-03-08,419,Sourcing,Spares,Pieces,Engine oil,4.0,13600,0,Mar wk 1 - 24
+2024-03-08,420,Sourcing,Spares,Pieces,Oil filter,1.0,2000,0,Mar wk 1 - 24
+2024-03-09,421,Sourcing,Diesel,Litres,Dyna2,30.0,0,0,Mar wk 1 - 24
+2024-03-09,422,Sourcing,Diesel,Litres,Dyna3,30.0,0,0,Mar wk 1 - 24
+2024-03-09,423,Sourcing,Fuel,Litres,Bikes,7.0,0,0,Mar wk 1 - 24
+2024-03-09,424,Production,Spares,Pieces,Cutting Disc,1.0,1500,0,Mar wk 1 - 24
+2024-03-09,425,Production,Spares,Pieces,Shaft,1.0,0,0,Mar wk 1 - 24
+2024-03-09,426,Production,Spares,Pieces,fan charger,1.0,0,0,Mar wk 1 - 24
+2024-03-09,427,Production,Spares,Litres,hydraulic oil,16.0,2200,0,Mar wk 1 - 24
+2024-03-11,429,Sourcing,Fuel,Litres,Ford2,40.0,0,0,Mar wk 2 - 24
+2024-03-11,429,Sourcing,Diesel,Litres,dyna2,30.0,0,0,Mar wk 2 - 24
+2024-03-11,430,Sourcing,Diesel,Litres,Mb1,40.0,0,0,Mar wk 2 - 24
+2024-03-11,431,Production,Diesel,Litres,production,300.0,0,0,Mar wk 2 - 24
+2024-03-11,432,Payloader,Diesel,Litres,payloader,30.0,0,0,Mar wk 2 - 24
+2024-03-11,433,Production,CaC03,bags,production,20.0,0,0,Mar wk 2 - 24
+2024-03-11,434,Production,Spares,Pieces,P211 bearings,1.0,0,0,Mar wk 2 - 24
+2024-03-11,435,Production,Spares,Pieces,Filling stone,1.0,1000,0,Mar wk 2 - 24
+2024-03-11,436,Production,Spares,Pieces,17bolts & nuts,5.0,1500,0,Mar wk 2 - 24
+2024-03-11,437,Production,Spares,Pieces,17washers,10.0,500,0,Mar wk 2 - 24
+2024-03-11,438,Production,Spares,Pieces,welding gloves,1.0,3000,0,Mar wk 2 - 24
+2024-03-11,439,Sourcing,Fuel,Litres,Bikes,4.0,0,0,Mar wk 2 - 24
+2024-03-12,440,Sourcing,Fuel,Litres,Ford2,40.0,0,0,Mar wk 2 - 24
+2024-03-12,441,Sourcing,Fuel,Litres,Bikes,6.0,0,0,Mar wk 2 - 24
+2024-03-12,442,Sourcing,Diesel,Litres,Dyna2,30.0,0,0,Mar wk 2 - 24
+2024-03-12,443,Sourcing,Diesel,Litres,Mb1,20.0,0,0,Mar wk 2 - 24
+2024-03-12,444,Payloader,Diesel,Litres,payloader,30.0,0,0,Mar wk 2 - 24
+2024-03-12,445,Sourcing,Fuel,Litres,Bikes,8.0,0,0,Mar wk 2 - 24
+2024-03-12,446,Production,CaC03,bags,production,17.0,0,0,Mar wk 2 - 24
+2024-03-13,447,Sourcing,Fuel,Litres,bike,6.0,0,0,Mar wk 2 - 24
+2024-03-13,448,Sourcing,Diesel,Litres,Dyna3,30.0,0,0,Mar wk 2 - 24
+2024-03-13,449,Sourcing,Diesel,Litres,Mb1,20.0,0,0,Mar wk 2 - 24
+2024-03-13,450,Payloader,Spares,Pieces,hydraulic oil,6.0,12000,0,Mar wk 2 - 24
+2024-03-13,451,Production,Spares,Pieces,Mild steel electrodes,140.0,4620,0,Mar wk 2 - 24
+2024-03-13,452,Production,Spares,Pieces,Cutting Disc,1.0,1500,0,Mar wk 2 - 24
+2024-03-13,453,Production,CaC03,bags,production,14.0,0,0,Mar wk 2 - 24
+2024-03-14,455,Payloader,Diesel,Litres,payloader,30.0,0,0,Mar wk 2 - 24
+2024-03-14,456,Sourcing,Diesel,Litres,Dyna3,30.0,0,0,Mar wk 2 - 24
+2024-03-14,457,Sourcing,Diesel,Litres,Mb1,20.0,0,0,Mar wk 2 - 24
+2024-03-14,458,Sourcing,Fuel,Litres,Bikes,5.0,0,0,Mar wk 2 - 24
+2024-03-14,459,Production,Diesel,Litres,production,300.0,0,0,Mar wk 2 - 24
+2024-03-14,460,Production,CaC03,bags,production,14.0,0,0,Mar wk 2 - 24
+2024-03-14,461,Production,Spares,Pieces,F210 bearings,1.0,0,0,Mar wk 2 - 24
+2024-03-14,462,Production,Spares,Pieces,13botls & nuts,5.0,0,0,Mar wk 2 - 24
+2024-03-14,463,Production,Spares,Pieces,13washers,10.0,0,0,Mar wk 2 - 24
+2024-03-14,464,Sourcing,Spares,Pieces,Basin,3.0,22500,0,Mar wk 2 - 24
+2024-03-15,465,Payloader,Spares,Pieces,hydraulic oil,4.0,8000,0,Mar wk 2 - 24
+2024-03-15,466,Production,Spares,Pieces,Cutting Disc,2.0,3000,0,Mar wk 2 - 24
+2024-03-15,467,Production,Spares,Pieces,Mild steel electrodes,140.0,4620,0,Mar wk 2 - 24
+2024-03-15,468,Sourcing,Diesel,Litres,Dyna3,30.0,0,0,Mar wk 2 - 24
+2024-03-15,469,Sourcing,Diesel,Litres,Mb1,30.0,0,0,Mar wk 2 - 24
+2024-03-15,470,Payloader,Diesel,Litres,payloader,60.0,0,0,Mar wk 2 - 24
+2024-03-15,471,Sourcing,Fuel,Litres,Ford2,40.0,0,0,Mar wk 2 - 24
+2024-03-15,472,Production,CaC03,bags,production,15.0,0,0,Mar wk 2 - 24
+2024-03-15,473,Sourcing,Fuel,Litres,Bikes,6.0,0,0,Mar wk 2 - 24
+2024-03-15,474,Enforcement,PKS,tonnes,Enforcement,20.62,0,0,Mar wk 2 - 24
+2024-03-16,475,Production,Spares,Pieces,19bolts & nuts,10.0,3000,0,Mar wk 2 - 24
+2024-03-16,476,Production,Spares,Pieces,19washers,20.0,1000,0,Mar wk 2 - 24
+2024-03-16,477,Production,Diesel,Litres,production,300.0,0,0,Mar wk 2 - 24
+2024-03-16,478,Sourcing,Diesel,Litres,MB1,40.0,0,0,Mar wk 2 - 24
+2024-03-16,479,Sourcing,Diesel,Litres,Dyna3,30.0,0,0,Mar wk 2 - 24
+2024-03-16,480,Production,Spares,Pieces,17bolts & nuts,5.0,1500,0,Mar wk 2 - 24
+2024-03-16,481,Production,Spares,Pieces,17washers,10.0,500,0,Mar wk 2 - 24
+2024-03-16,482,Production,Spares,Pieces,Flange,4.0,0,0,Mar wk 2 - 24
+2024-03-16,483,Production,Spares,Pieces,Oil filter,1.0,0,0,Mar wk 2 - 24
+2024-03-16,484,Production,Spares,Pieces,Fuel Filters,2.0,0,0,Mar wk 2 - 24
+2024-03-16,489,Production,Spares,Pieces,Filter,1.0,0,0,Mar wk 2 - 24
+2024-03-16,489,Sourcing,Fuel,Litres,Bikes,3.5,0,0,Mar wk 2 - 24
+2024-03-18,490,Sourcing,Fuel,Litres,Ford2,40.0,0,0,Mar wk 3 - 24
+2024-03-18,500,Sourcing,Diesel,Litres,Dyna2,30.0,0,0,Mar wk 3 - 24
+2024-03-18,501,Sourcing,Fuel,Litres,Bikes,4.5,0,0,Mar wk 3 - 24
+2024-03-18,502,Production,Spares,Pieces,Elbow,2.0,13000,0,Mar wk 3 - 24
+2024-03-18,503,Production,Spares,Pieces,Flange,4.0,40000,0,Mar wk 3 - 24
+2024-03-18,504,Production,Spares,Pieces,19bolts & nuts,15.0,4500,0,Mar wk 3 - 24
+2024-03-18,505,Production,Spares,Pieces,19washers,30.0,1500,0,Mar wk 3 - 24
+2024-03-18,505,Production,Spares,Pieces,hydraulic oil,8.0,2520,0,Mar wk 3 - 24
+2024-03-18,506,Production,Spares,Pieces,13bolts & nuts,10.0,2000,0,Mar wk 3 - 24
+2024-03-18,507,Production,Spares,Pieces,13washers,20.0,1000,0,Mar wk 3 - 24
+2024-03-18,508,Production,Spares,Pieces,17bolts & nuts,5.0,1500,0,Mar wk 3 - 24
+2024-03-18,509,Production,Spares,Pieces,17washers,10.0,500,0,Mar wk 3 - 24
+2024-03-18,510,Production,Spares,Pieces,Safety boot,12.0,216000,0,Mar wk 3 - 24
+2024-03-19,511,Enforcement,PP2,,Lordtech,25.95,0,0,Mar wk 3 - 24
+2024-03-19,512,Production,Spares,Pieces,Measuring tape,1.0,0,0,Mar wk 3 - 24
+2024-03-19,513,Production,Spares,Pieces,19bolts& nuts,5.0,1500,0,Mar wk 3 - 24
+2024-03-19,514,Production,Spares,Pieces,19washers,10.0,500,0,Mar wk 3 - 24
+2024-03-19,515,Production,Spares,Pieces,Cutting Disc,2.0,3000,0,Mar wk 3 - 24
+2024-03-19,516,Production,Spares,Pieces,low hydrogen,10.0,470,0,Mar wk 3 - 24
+2024-03-19,517,Sourcing,Diesel,Litres,Dyna3,30.0,0,0,Mar wk 3 - 24
+2024-03-19,518,Production,CaC03,bags,production,17.0,0,0,Mar wk 3 - 24
+2024-03-19,519,Sourcing,Fuel,Litres,Bikes,5.0,0,0,Mar wk 3 - 24
+2024-03-20,520,Sourcing,Fuel,Litres,Ford2,40.0,0,0,Mar wk 3 - 24
+2024-03-20,521,Production,Diesel,Litres,production,300.0,0,0,Mar wk 3 - 24
+2024-03-20,522,Production,CaC03,bags,production,11.0,0,0,Mar wk 3 - 24
+2024-03-20,523,Sourcing,Fuel,Litres,Bikes,4.0,0,0,Mar wk 3 - 24
+2024-03-20,524,Production,Spares,Pieces,Change over 200A,1.0,0,0,Mar wk 3 - 24
+2024-03-20,525,Production,Spares,Pieces,6W AKT surface,2.0,0,0,Mar wk 3 - 24
+2024-03-20,526,Production,Spares,Pieces,Copper cable(2.5),1.0,0,0,Mar wk 3 - 24
+2024-03-20,527,Production,Spares,Pieces,15MG plug,2.0,0,0,Mar wk 3 - 24
+2024-03-20,528,Production,Spares,Pieces,Electrical tape,2.0,500,0,Mar wk 3 - 24
+2024-03-20,529,Production,Spares,Pieces,Mild steel electrodes,140.0,4620,0,Mar wk 3 - 24
+2024-03-21,530,Production,Spares,Pieces,19bolts & nuts,8.0,2400,0,Mar wk 3 - 24
+2024-03-21,531,Production,Spares,Pieces,19washers,16.0,800,0,Mar wk 3 - 24
+2024-03-21,532,Sourcing,Diesel,Litres,Dyna2,30.0,0,0,Mar wk 3 - 24
+2024-03-21,533,Sourcing,Diesel,Litres,production,30.0,0,0,Mar wk 3 - 24
+2024-03-21,532,Production,CaC03,bags,production,12.0,0,0,Mar wk 3 - 24
+2024-03-21,533,Production,Spares,Pieces,17bolt & nuts,5.0,1500,0,Mar wk 3 - 24
+2024-03-21,534,Production,Spares,Pieces,17washers,10.0,500,0,Mar wk 3 - 24
+2024-03-22,535,Sourcing,Diesel,Litres,MB1,40.0,0,0,Mar wk 3 - 24
+2024-03-22,536,Sourcing,Diesel,Litres,Dyna3,30.0,0,0,Mar wk 3 - 24
+2024-03-22,537,Production,Spares,Pieces,19bolts & nuts,5.0,1500,0,Mar wk 3 - 24
+2024-03-22,538,Production,Spares,Pieces,19washers,10.0,500,0,Mar wk 3 - 24
+2024-03-22,539,Sourcing,Diesel,Litres,Dyna3,20.0,0,0,Mar wk 3 - 24
+2024-03-22,540,Sourcing,Diesel,Litres,Dyna2,30.0,0,0,Mar wk 3 - 24
+2024-03-22,541,Production,CaC03,bags,production,16.0,0,0,Mar wk 3 - 24
+2024-03-22,542,Production,Spares,Pieces,Elevator belt,9.1,0,0,Mar wk 3 - 24
+2024-03-22,543,Sourcing,Fuel,Litres,Ford2,40.0,0,0,Mar wk 3 - 24
+2024-03-22,544,Sourcing,Fuel,Litres,Bikes,5.0,0,0,Mar wk 3 - 24
+2024-03-23,545,Sourcing,Diesel,Litres,Dyna3,25.0,0,0,Mar wk 3 - 24
+2024-03-23,546,Sourcing,Diesel,Litres,MB1,40.0,0,0,Mar wk 3 - 24
+2024-03-23,547,Production,Diesel,Litres,production,300.0,0,0,Mar wk 3 - 24
+2024-03-23,548,Production,CaC03,bags,production,14.0,0,0,Mar wk 3 - 24
+2024-03-23,549,Sourcing,Fuel,Litres,Bikes,6.0,0,0,Mar wk 3 - 24
+2024-03-23,550,Production,Spares,Pieces,17bolts & nuts,13.0,3900,0,Mar wk 3 - 24
+2024-03-23,551,Production,Spares,Pieces,17washers,26.0,1350,0,Mar wk 3 - 24
+2024-03-23,552,Production,Spares,Pieces,13bolts & nuts,20.0,1000,0,Mar wk 3 - 24
+2024-03-23,553,Production,Spares,Pieces,13washers,40.0,2000,0,Mar wk 3 - 24
+2024-03-23,554,Production,Spares,Pieces,19bolts & nuts,5.0,1500,0,Mar wk 3 - 24
+2024-03-23,555,Production,Spares,Pieces,22washer,30.0,1500,0,Mar wk 3 - 24
+2024-03-23,556,Payloader,Spares,Pieces,hydraulic oil,19.0,2520,0,Mar wk 3 - 24
+2024-03-25,557,Sourcing,Diesel,Litres,Dyna3,30.0,0,0,Mar wk 4 - 24
+2024-03-25,558,Payloader,Diesel,Litres,payloader,60.0,0,0,Mar wk 4 - 24
+2024-03-25,559,Production,CaC03,bags,production,6.0,0,0,Mar wk 4 - 24
+2024-03-25,560,Payloader,Spares,Pieces,hydraulic oil,13.0,0,0,Mar wk 4 - 24
+2024-03-25,561,Sourcing,Fuel,Litres,Ford2,40.0,0,0,Mar wk 4 - 24
+2024-03-25,562,Sourcing,Fuel,Litres,Bikes,4.0,0,0,Mar wk 4 - 24
+2024-03-26,564,Production,Spares,Pieces,Gear oil,1.0,1876,0,Mar wk 4 - 24
+2024-03-26,565,Sourcing,Fuel,Litres,Bikes,4.0,0,0,Mar wk 4 - 24
+2024-03-26,566,Sourcing,Diesel,Litres,Dyna2,30.0,0,0,Mar wk 4 - 24
+2024-03-26,567,Payloader,Diesel,Litres,payloader,30.0,0,0,Mar wk 4 - 24
+2024-03-27,568,Enforcement,PP2,tonnes,Lordtech,31.4,0,0,Mar wk 4 - 24
+2024-03-27,569,Sourcing,Diesel,Litres,Dyna3,30.0,0,0,Mar wk 4 - 24
+2024-03-27,570,Enforcement,Bags,Pieces,Enforcement,537.0,0,0,Mar wk 4 - 24
+2024-03-27,571,Sourcing,Fuel,Litres,Bikes,3.0,0,0,Mar wk 4 - 24
+2024-03-27,572,Sourcing,Fuel,Litres,Ford2,30.0,0,0,Mar wk 4 - 24
+2024-03-28,572,Sourcing,Diesel,Litres,Mb1,50.0,0,0,Mar wk 4 - 24
+2024-03-28,573,Production,Diesel,Litres,production,540.0,0,0,Mar wk 4 - 24
+2024-03-28,574,Sourcing,Diesel,Litres,Dyna2,50.0,0,0,Mar wk 4 - 24
+2024-03-28,575,Sourcing,Diesel,Litres,Dyna3,50.0,0,0,Mar wk 4 - 24
+2024-03-28,576,Sourcing,Fuel,Litres,ford2,40.0,0,0,Mar wk 4 - 24
+2024-03-28,577,Sourcing,Fuel,Litres,Bikes,6.0,0,0,Mar wk 4 - 24
+2024-04-02,578,Sourcing,Fuel,Litres,ford2,30.0,0,0,Apr wk 1 - 24
+2024-04-02,579,Sourcing,Diesel,Litres,Mb1,40.0,0,0,Apr wk 1 - 24
+2024-04-02,580,Production,CaC03,bags,production,18.0,0,0,Apr wk 1 - 24
+2024-04-02,581,Sourcing,Fuel,Litres,Bikes,4.0,730,2920,Apr wk 1 - 24
+2024-04-03,582,Sourcing,Diesel,Litres,Dyna2,30.0,0,0,Apr wk 1 - 24
+2024-04-03,582,Sourcing,Diesel,Litres,Dyna3,30.0,0,0,Apr wk 1 - 24
+2024-04-03,582,Production,CaC03,bags,production,15.0,0,0,Apr wk 1 - 24
+2024-04-03,583,Sourcing,Fuel,Litres,ford2,30.0,0,0,Apr wk 1 - 24
+2024-04-03,583,Production,Spares,Pieces,Cutting Disc,3.0,5400,0,Apr wk 1 - 24
+2024-04-03,584,Production,Spares,Pieces,PD sprocket,1.0,116000,0,Apr wk 1 - 24
+2024-04-03,585,Production,Spares,Pieces,Electrical tape,2.0,500,0,Apr wk 1 - 24
+2024-04-03,586,Production,Spares,Pieces,38mm spanner,1.0,0,0,Apr wk 1 - 24
+2024-04-04,587,Sourcing,Fuel,Litres,Bikes,4.0,730,2920,Apr wk 1 - 24
+2024-04-04,587,Production,Spares,Pieces,Mild steel electrodes,140.0,4620,0,Apr wk 1 - 24
+2024-04-04,588,Production,Spares,Pieces,2.5mm cable,1.0,0,0,Apr wk 1 - 24
+2024-04-04,589,Production,Spares,Pieces,4-6A contactor,1.0,0,0,Apr wk 1 - 24
+2024-04-04,590,Production,Spares,Pieces,13bolt & nuts,5.0,1750,0,Apr wk 1 - 24
+2024-04-04,591,Production,Spares,Pieces,13washers,10.0,500,0,Apr wk 1 - 24
+2024-04-04,592,Sourcing,Diesel,Litres,Dyna3,30.0,0,0,Apr wk 1 - 24
+2024-04-04,593,Sourcing,Diesel,Litres,payloader,30.0,0,0,Apr wk 1 - 24
+2024-04-04,594,Sourcing,Diesel,Litres,Dyna2,30.0,0,0,Apr wk 1 - 24
+2024-04-04,595,Production,CaC03,bags,production,8.0,0,0,Apr wk 1 - 24
+2024-04-04,596,Sourcing,Fuel,Litres,Bikes,2.0,730,1460,Apr wk 1 - 24
+2024-04-05,597,Sourcing,Fuel,Litres,ford2,35.0,0,0,Apr wk 1 - 24
+2024-04-05,598,Sourcing,Diesel,Litres,Dyna3,30.0,0,0,Apr wk 1 - 24
+2024-04-05,599,Sourcing,Diesel,Litres,Dyna2,10.0,0,0,Apr wk 1 - 24
+2024-04-05,600,Production,Spares,Pieces,Body liners,2.0,0,0,Apr wk 1 - 24
+2024-04-05,601,Production,Spares,Pieces,Cutting Disc,2.0,2600,0,Apr wk 1 - 24
+2024-04-05,602,Production,Spares,Pieces,19bolts & nuts,15.0,4500,0,Apr wk 1 - 24
+2024-04-05,603,Production,Spares,Pieces,19washers,30.0,1500,0,Apr wk 1 - 24
+2024-04-05,604,Production,Spares,Pieces,13bolts & nut,10.0,3000,0,Apr wk 1 - 24
+2024-04-05,605,Production,Spares,Pieces,13washers,20.0,1000,0,Apr wk 1 - 24
+2024-04-05,606,Production,Spares,Pieces,cracker rollers,32.0,0,0,Apr wk 1 - 24
+2024-04-05,607,Production,Spares,Pieces,38mm spanner,1.0,0,0,Apr wk 1 - 24
+2024-04-05,607,Production,Spares,Pieces,36mm spanner,1.0,0,0,Apr wk 1 - 24
+2024-04-05,608,Production,Spares,Pieces,C78 belt,1.0,0,0,Apr wk 1 - 24
+2024-04-05,609,Production,Spares,Pieces,low hydrogen,10.0,460,0,Apr wk 1 - 24
+2024-04-05,610,Sourcing,Fuel,Litres,Bikes,4.0,730,2920,Apr wk 1 - 24
+2024-04-05,611,Production,CaC03,bags,production,10.0,0,0,Apr wk 1 - 24
+2024-04-06,612,Sourcing,Fuel,Litres,ford2,35.0,0,0,Apr wk 1 - 24
+2024-04-06,613,Sourcing,Diesel,Litres,Mb1,20.0,0,0,Apr wk 1 - 24
+2024-04-06,614,Production,Spares,Pieces,Cutting Disc,3.0,5400,0,Apr wk 1 - 24
+2024-04-06,615,Production,CaC03,bags,production,14.0,0,0,Apr wk 1 - 24
+2024-04-07,616,Sourcing,Fuel,Litres,Bike,2.0,730,1460,Apr wk 1 - 24
+2024-04-07,616,Production,Diesel,Litres,production,150.0,0,0,Apr wk 1 - 24
+2024-04-07,617,Production,CaC03,bags,production,8.0,0,0,Apr wk 1 - 24
+2024-04-07,618,Production,Spares,Pieces,painting rollers,6.0,0,0,Apr wk 1 - 24
+2024-04-07,619,Payloader,Spares,Pieces,hydraulic oil,34.0,0,0,Apr wk 1 - 24
+2024-04-07,620,Production,Spares,Pieces,Mild steel electrodes,140.0,0,0,Apr wk 1 - 24
+2024-04-08,621,Enforcement,PP2,,Lordtech,29.14,0,0,Apr wk 2 - 24
+2024-04-08,622,Enforcement,Bags,Pieces,Enforcement,522.0,0,0,Apr wk 2 - 24
+2024-04-08,623,Sourcing,Diesel,Litres,Dyna2,30.0,0,0,Apr wk 2 - 24
+2024-04-08,624,Sourcing,Diesel,Litres,Dyna3,30.0,0,0,Apr wk 2 - 24
+2024-04-08,626,Sourcing,Diesel,Litres,payloader,60.0,0,0,Apr wk 2 - 24
+2024-04-08,627,Production,Diesel,Litres,production,300.0,0,0,Apr wk 2 - 24
+2024-04-08,628,Production,CaC03,bags,production,11.0,0,0,Apr wk 2 - 24
+2024-04-08,629,Production,Spares,Pieces,Small body liners,2.0,0,0,Apr wk 2 - 24
+2024-04-08,630,Production,Spares,Pieces,Low hydrogen,15.0,690,0,Apr wk 2 - 24
+2024-04-08,631,Production,Spares,Pieces,C-78belt,2.0,7000,0,Apr wk 2 - 24
+2024-04-09,632,Production,Spares,Pieces,Basin,4.0,30000,0,Apr wk 2 - 24
+2024-04-09,631,Production,Spares,Pieces,hydraulic oil,4.0,1080,0,Apr wk 2 - 24
+2024-04-09,631,Production,Spares,Pieces,P211 bearings,2.0,0,0,Apr wk 2 - 24
+2024-04-09,631,Production,Spares,Pieces,Small body liners,1.0,0,0,Apr wk 2 - 24
+2024-04-09,632,Sourcing,Diesel,Litres,Dyna2,30.0,0,0,Apr wk 2 - 24
+2024-04-09,633,Sourcing,Diesel,Litres,Mb1,40.0,0,0,Apr wk 2 - 24
+2024-04-09,634,Sourcing,Fuel,Litres,ford2,40.0,0,0,Apr wk 2 - 24
+2024-04-09,635,Production,CaC03,bags,production,16.0,0,0,Apr wk 2 - 24
+2024-04-09,636,Sourcing,Fuel,Litres,Bikes,5.0,730,3650,Apr wk 2 - 24
+2024-04-10,636,Sourcing,Fuel,Litres,Bikes,6.0,730,4380,Apr wk 2 - 24
+2024-04-10,637,Production,Spares,Pieces,welding glass,1.0,0,0,Apr wk 2 - 24
+2024-04-10,638,Production,Spares,Pieces,Couplings,1.0,0,0,Apr wk 2 - 24
+2024-04-10,638,Production,Diesel,Litres,production,300.0,0,0,Apr wk 2 - 24
+2024-04-10,637,Sourcing,Diesel,Litres,Dyna3,30.0,0,0,Apr wk 2 - 24
+2024-04-10,638,Production,CaC03,bags,production,15.0,0,0,Apr wk 2 - 24
+2024-04-10,638,Sourcing,Fuel,Litres,Bikes,7.0,730,5110,Apr wk 2 - 24
+2024-04-11,638,Sourcing,Fuel,Litres,ford2,30.0,0,0,Apr wk 2 - 24
+2024-04-11,638,Payloader,Diesel,Litres,payloader,30.0,0,0,Apr wk 2 - 24
+2024-04-11,639,Production,Spares,Pieces,Engine oil,8.0,27200,0,Apr wk 2 - 24
+2024-04-11,700,Production,Spares,Pieces,Mild steel electrodes,140.0,4620,0,Apr wk 2 - 24
+2024-04-11,701,Payloader,Spares,Pieces,hydraulic oil,21.0,58800,0,Apr wk 2 - 24
+2024-04-11,702,Production,Spares,Pieces,13bolts & nuts,10.0,3000,0,Apr wk 2 - 24
+2024-04-11,703,Production,Spares,Pieces,13washers,20.0,1000,0,Apr wk 2 - 24
+2024-04-11,704,Sourcing,Fuel,Litres,Bikes,2.0,730,1460,Apr wk 2 - 24
+2024-04-11,705,Production,CaC03,bags,production,16.0,0,0,Apr wk 2 - 24
+2024-04-12,706,Sourcing,Diesel,Litres,Dyna2,30.0,0,0,Apr wk 2 - 24
+2024-04-12,707,Sourcing,Fuel,Litres,ford2,30.0,0,0,Apr wk 2 - 24
+2024-04-12,708,Sourcing,Fuel,Litres,Bike,2.0,730,1460,Apr wk 2 - 24
+2024-04-12,709,Production,CaC03,bags,production,14.0,0,0,Apr wk 2 - 24
+2024-04-12,710,Production,Spares,Pieces,Nozzles,0.0,260000,0,Apr wk 2 - 24
+2024-04-12,711,Production,Spares,Pieces,Turbo charge,1.0,255000,0,Apr wk 2 - 24
+2024-04-12,712,Production,Spares,Pieces,Filters,3.0,0,0,Apr wk 2 - 24
+2024-04-12,713,Production,Spares,Pieces,Injector,0.0,260000,0,Apr wk 2 - 24
+2024-04-13,714,Production,Diesel,Litres,production,300.0,0,0,Apr wk 2 - 24
+2024-04-13,715,Sourcing,Diesel,Litres,Dyna2,30.0,0,0,Apr wk 2 - 24
+2024-04-13,716,Sourcing,Fuel,Litres,ford2,21.0,0,0,Apr wk 2 - 24
+2024-04-13,717,Production,CaC03,bags,production,12.0,0,0,Apr wk 2 - 24
+2024-04-13,718,Payloader,Diesel,Litres,payloader,30.0,0,0,Apr wk 2 - 24
+2024-04-13,719,Sourcing,Fuel,Litres,Bikes,8.0,730,5840,Apr wk 2 - 24
+2024-04-14,720,Sourcing,Diesel,Litres,Dyna2,30.0,0,0,Apr wk 2 - 24
+2024-04-14,721,Sourcing,Fuel,Litres,ford2,10.0,0,0,Apr wk 2 - 24
+2024-04-15,722,Sourcing,Diesel,Litres,Dyna3,40.0,0,0,Apr wk 3 - 24
+2024-04-15,723,Sourcing,Diesel,Litres,Dyna2,30.0,0,0,Apr wk 3 - 24
+2024-04-15,724,Enforcement,PP2,,Lordtech,31.66,0,0,Apr wk 3 - 24
+2024-04-15,725,Enforcement,Bags,Pieces,Enforcement,552.0,0,0,Apr wk 3 - 24
+2024-04-15,726,Sourcing,Fuel,Litres,Bikes,7.0,730,5110,Apr wk 3 - 24
+2024-04-15,728,Production,CaC03,bags,production,17.0,0,0,Apr wk 3 - 24
+2024-04-15,729,Sourcing,Fuel,Litres,ford2,35.0,0,0,Apr wk 3 - 24
+2024-04-15,730,Production,Spares,Pieces,hydraulic oil,4.0,11200,0,Apr wk 3 - 24
+2024-04-15,731,Production,Spares,Pieces,10bolts & nuts,20.0,3000,0,Apr wk 3 - 24
+2024-04-15,732,Production,Spares,Pieces,10washers,40.0,2000,0,Apr wk 3 - 24
+2024-04-15,733,Production,Spares,Pieces,17bolts & nuts,10.0,1500,0,Apr wk 3 - 24
+2024-04-15,734,Production,Spares,Pieces,17washers,20.0,1000,0,Apr wk 3 - 24
+2024-04-15,735,Production,Spares,Pieces,19bolts & nuts,20.0,6000,0,Apr wk 3 - 24
+2024-04-15,736,Production,Spares,Pieces,19washers,20.0,1000,0,Apr wk 3 - 24
+2024-04-16,737,Production,Spares,Pieces,F208 bearing,1.0,10000,0,Apr wk 3 - 24
+2024-04-16,730,Sourcing,Fuel,Litres,ford2,35.0,0,0,Apr wk 3 - 24
+2024-04-16,731,Production,Spares,Pieces,Spring wire,2.0,6000,0,Apr wk 3 - 24
+2024-04-16,732,Production,Spares,Pieces,19bolts & nuts,8.0,2400,0,Apr wk 3 - 24
+2024-04-16,733,Production,Spares,Pieces,19washers,16.0,800,0,Apr wk 3 - 24
+2024-04-16,734,Production,Spares,Pieces,Mild steel electrodes,140.0,4620,0,Apr wk 3 - 24
+2024-04-16,735,Sourcing,Diesel,Litres,Dyna3,30.0,0,0,Apr wk 3 - 24
+2024-04-16,736,Payloader,Diesel,Litres,payloader,30.0,0,0,Apr wk 3 - 24
+2024-04-16,737,Production,Diesel,Litres,production,300.0,0,0,Apr wk 3 - 24
+2024-04-16,738,Sourcing,Fuel,Litres,Bikes,8.0,730,5840,Apr wk 3 - 24
+2024-04-16,739,Production,CaC03,bags,production,14.0,0,0,Apr wk 3 - 24
+2024-04-17,740,Sourcing,Diesel,Litres,Mb1,40.0,0,0,Apr wk 3 - 24
+2024-04-17,741,Production,CaC03,bags,production,16.0,0,0,Apr wk 3 - 24
+2024-04-17,742,Production,Spares,Pieces,cutting Disc,2.0,0,0,Apr wk 3 - 24
+2024-04-17,743,Production,Spares,Pieces,19Bolt,5.0,0,0,Apr wk 3 - 24
+2024-04-17,744,Production,Spares,Pieces,19washers,10.0,0,0,Apr wk 3 - 24
+2024-04-18,745,Production,Spares,Pieces,cutting Disc,2.0,3000,0,Apr wk 3 - 24
+2024-04-18,746,Production,Spares,Pieces,13bolt & nuts,10.0,0,0,Apr wk 3 - 24
+2024-04-18,747,Production,Spares,Pieces,13washers,30.0,0,0,Apr wk 3 - 24
+2024-04-18,748,Sourcing,Spares,Pieces,motor tyre,1.0,0,0,Apr wk 3 - 24
+2024-04-18,749,Sourcing,Diesel,Litres,Dyna2,30.0,0,0,Apr wk 3 - 24
+2024-04-18,750,Production,CaC03,bags,production,17.0,0,0,Apr wk 3 - 24
+2024-04-18,751,Sourcing,Fuel,Litres,bikes,6.0,730,4380,Apr wk 3 - 24
+2024-04-19,752,Sourcing,Fuel,Litres,ford2,35.0,0,0,Apr wk 3 - 24
+2024-04-19,753,Sourcing,Fuel,Litres,bikes,2.0,730,1460,Apr wk 3 - 24
+2024-04-19,754,Production,Spares,Pieces,filling disc,1.0,0,0,Apr wk 3 - 24
+2024-04-19,755,Sourcing,Diesel,Litres,Dyna2,30.0,0,0,Apr wk 3 - 24
+2024-04-19,756,Sourcing,Diesel,Litres,MB1,40.0,0,0,Apr wk 3 - 24
+2024-04-19,757,Production,Diesel,Litres,production,300.0,0,0,Apr wk 3 - 24
+2024-04-19,758,Production,CaC03,bags,production,12.0,0,0,Apr wk 3 - 24
+2024-04-19,759,Sourcing,Fuel,Litres,Bikes,2.0,730,1460,Apr wk 3 - 24
+2024-04-20,760,Production,Spares,Pieces,19bolts & nuts,5.0,0,0,Apr wk 3 - 24
+2024-04-20,761,Production,Spares,Pieces,19washers,10.0,0,0,Apr wk 3 - 24
+2024-04-20,762,Sourcing,Diesel,Litres,Dyna2,30.0,0,0,Apr wk 3 - 24
+2024-04-20,763,Production,CaC03,bags,production,14.0,0,0,Apr wk 3 - 24
+2024-04-20,764,Production,Spares,Litres,Engine oil,54.0,0,0,Apr wk 3 - 24
+2024-04-20,765,Sourcing,Spares,Pieces,Teflon tape,1.0,0,0,Apr wk 3 - 24
+2024-04-20,766,Sourcing,Spares,Pieces,4minutes gum,1.0,0,0,Apr wk 3 - 24
+2024-04-20,767,Sourcing,Spares,Pieces,oil filters 814 mb,1.0,0,0,Apr wk 3 - 24
+2024-04-20,768,Sourcing,Spares,Pieces,Gas filters 814 mb,1.0,0,0,Apr wk 3 - 24
+2024-04-20,769,Sourcing,Spares,Pieces,Oil filters 15B,1.0,0,0,Apr wk 3 - 24
+2024-04-20,770,Sourcing,Spares,Pieces,Gas filters 15B,1.0,0,0,Apr wk 3 - 24
+2024-04-20,771,Sourcing,Spares,Pieces,Oil filter Ford,1.0,0,0,Apr wk 3 - 24
+2024-04-20,772,Payloader,Spares,Pieces,Transfusion hydraulic filter,1.0,0,0,Apr wk 3 - 24
+2024-04-20,773,Payloader,Spares,Pieces,Engine oil filter,1.0,0,0,Apr wk 3 - 24
+2024-04-20,774,Payloader,Spares,Pieces,Fuel filter IR-0751,1.0,0,0,Apr wk 3 - 24
+2024-04-20,775,Payloader,Spares,Pieces,Fuel filter paper,1.0,0,0,Apr wk 3 - 24
+2024-04-20,776,Payloader,Spares,Pieces,CAT fan belt,2.0,0,0,Apr wk 3 - 24
+2024-04-20,777,Payloader,Spares,Pieces,Hose,5.0,0,0,Apr wk 3 - 24
+2024-04-20,778,Payloader,Spares,Pieces,Hose seals,10.0,0,0,Apr wk 3 - 24
+2024-04-20,779,Payloader,Spares,Litres,Total Engine oil,25.0,0,0,Apr wk 3 - 24
+2024-04-20,780,Sourcing,Fuel,Litres,Bikes,2.0,730,1460,Apr wk 3 - 24
+2024-04-20,781,Sourcing,Fuel,Litres,Bikes,2.0,730,1460,Apr wk 3 - 24
+2024-04-22,782,Sourcing,Fuel,Litres,Bikes,5.0,730,3650,Apr wk 4 - 24
+2024-04-22,783,Production,Spares,Pieces,19bolts & nuts,5.0,0,0,Apr wk 4 - 24
+2024-04-22,784,Production,Spares,Pieces,19washers,10.0,0,0,Apr wk 4 - 24
+2024-04-22,785,Production,Spares,pieces,13bolts & nuts,5.0,0,0,Apr wk 4 - 24
+2024-04-22,786,Production,Spares,pieces,13washers,10.0,0,0,Apr wk 4 - 24
+2024-04-22,787,Production,CaC03,bags,production,16.0,0,0,Apr wk 4 - 24
+2024-04-22,788,Sourcing,Diesel,Litres,Dyna2,30.0,1350,40500,Apr wk 4 - 24
+2024-04-22,789,Sourcing,Diesel,Litres,Dyna3,30.0,1350,40500,Apr wk 4 - 24
+2024-04-22,790,Sourcing,Diesel,Litres,MB1,40.0,1350,54000,Apr wk 4 - 24
+2024-04-23,791,Production,Spares,Pieces,Body liners,1.0,0,0,Apr wk 4 - 24
+2024-04-23,792,Production,Spares,Pieces,Low hydrogen,20.0,0,0,Apr wk 4 - 24
+2024-04-23,793,Enforcement,PP2,Tonnes,Lordtech,31.85,0,0,Apr wk 4 - 24
+2024-04-23,794,Production,Diesel,Litres,production,300.0,0,0,Apr wk 4 - 24
+2024-04-23,795,Sourcing,Diesel,Litres,MB1,40.0,1350,54000,Apr wk 4 - 24
+2024-04-23,796,Production,CaC03,bags,production,7.0,0,0,Apr wk 4 - 24
+2024-04-23,797,Sourcing,Fuel,Litres,Bikes,5.0,730,3650,Apr wk 4 - 24
+2024-04-24,798,Sourcing,Fuel,Litres,Bikes,6.0,730,4380,Apr wk 4 - 24
+2024-04-24,799,Sourcing,Fuel,Litres,Ford2,56.0,750,42000,Apr wk 4 - 24
+2024-04-24,800,Production,CaC03,bags,production,7.0,0,0,Apr wk 4 - 24
+2024-04-24,801,Sourcing,Diesel,Litres,Dyna2,10.0,1350,13500,Apr wk 4 - 24
+2024-04-25,802,Production,Diesel,Litres,production,300.0,0,0,Apr wk 4 - 24
+2024-04-25,803,Production,CaC03,bags,production,14.0,0,0,Apr wk 4 - 24
+2024-04-25,804,Sourcing,Fuel,Litres,Bikes,9.0,730,6570,Apr wk 4 - 24
+2024-04-26,805,Sourcing,Diesel,Litres,MB1,40.0,1350,54000,Apr wk 4 - 24
+2024-04-26,806,Production,CaC03,bags,production,9.0,0,0,Apr wk 4 - 24
+2024-04-26,807,Production,Spares,Pieces,production,4.0,14000,0,Apr wk 4 - 24
+2024-04-26,808,Production,Spares,Pieces,production,15.0,5250,0,Apr wk 4 - 24
+2024-04-27,809,Sourcing,Fuel,Litres,Bikes,6.0,730,4380,Apr wk 4 - 24
+2024-04-27,810,Sourcing,Fuel,Litres,Bikes,4.0,730,2920,Apr wk 4 - 24
+2024-04-27,811,Sourcing,Diesel,Litres,MB1,40.0,1350,54000,Apr wk 4 - 24
+2024-04-27,812,Sourcing,Fuel,Litres,Ford2,18.0,750,13140,Apr wk 4 - 24
+2024-04-27,813,Production,Diesel,Litres,production,300.0,0,0,Apr wk 4 - 24
+2024-04-27,814,Production,CaC03,bags,production,12.0,0,0,Apr wk 4 - 24
+2024-04-27,815,Production,Spares,Pieces,C-78belt,1.0,1800,0,Apr wk 4 - 24
+2024-04-27,816,Production,Spares,Pieces,Mild steel electrodes,140.0,4620,0,Apr wk 4 - 24
+2024-04-27,817,Production,Spares,Pieces,cutting Disc,1.0,1800,0,Apr wk 4 - 24
+2024-04-28,818,Sourcing,Fuel,Litres,Ford2,30.0,750,22500,Apr wk 4 - 24
+2024-04-29,818,Sourcing,Diesel,Litres,MB1,40.0,1350,54000,May wk 1 - 24
+2024-04-29,819,Production,Spares,Pieces,C-61 belt,1.0,0,0,May wk 1 - 24
+2024-04-29,820,Production,Spares,Pieces,Bearing F311,1.0,40000,40000,May wk 1 - 24
+2024-04-29,821,Sourcing,Fuel,Litres,Ford2,30.0,800,24000,May wk 1 - 24
+2024-04-29,822,Production,CaC03,bags,production,15.0,0,0,May wk 1 - 24
+2024-04-30,823,Sourcing,Diesel,Litres,Mb1,40.0,1350,54000,May wk 1 - 24
+2024-04-30,824,Production,Diesel,Litres,production,300.0,0,0,May wk 1 - 24
+2024-04-30,825,Sourcing,Fuel,Litres,Bikes,5.0,730,3650,May wk 1 - 24
+2024-04-30,826,Production,CaC03,bags,production,11.0,0,0,May wk 1 - 24
+2024-05-01,826,Sourcing,Fuel,Litres,Ford2,30.0,800,24000,May wk 1 - 24
+2024-05-01,827,Production,Spares,Pieces,cutting Disc,1.0,1800,0,May wk 1 - 24
+2024-05-01,828,Production,Spares,Pieces,19bolts & nut,5.0,1500,0,May wk 1 - 24
+2024-05-01,829,Production,Spares,Pieces,19washers,10.0,500,0,May wk 1 - 24
+2024-05-01,830,Sourcing,Fuel,Litres,Bikes,5.0,730,3650,May wk 1 - 24
+2024-05-01,830,Production,CaC03,bags,production,14.0,0,0,May wk 1 - 24
+2024-05-02,831,Production,Fuel,Litres,Ford2,34.0,800,27200,May wk 1 - 24
+2024-05-02,832,Enforcement,PP2w,tonnes,Lordtech,31.85,0,0,May wk 1 - 24
+2024-05-02,833,Enforcement,Bags,Pieces,Enforcement,557.0,0,0,May wk 1 - 24
+2024-05-02,834,Production,Diesel,Litres,production,300.0,0,0,May wk 1 - 24
+2024-05-02,835,Production,CaC03,bags,production,18.0,0,0,May wk 1 - 24
+2024-05-02,836,Sourcing,Diesel,Litres,Mb1,40.0,1350,54000,May wk 1 - 24
+2024-05-03,837,Sourcing,Fuel,Litres,Bikes,7.0,800,5600,May wk 1 - 24
+2024-05-03,838,Sourcing,fuel,Litres,Ford2,38.0,800,30400,May wk 1 - 24
+2024-05-03,839,Sourcing,Diesel,Litres,Mb1,40.0,1350,54000,May wk 1 - 24
+2024-05-04,840,Production,Spares,Pieces,cutting nozzles,1.0,0,0,May wk 1 - 24
+2024-05-04,841,Production,Spares,Pieces,Mild steel electrodes,140.0,4620,0,May wk 1 - 24
+2024-05-04,842,Production,Spares,Pieces,19bolts & nuts,3.0,1050,0,May wk 1 - 24
+2024-05-04,843,Production,Spares,Pieces,19washers,6.0,300,0,May wk 1 - 24
+2024-05-04,844,Production,CaC03,bags,production,10.0,0,0,May wk 1 - 24
+2024-05-04,845,Sourcing,Fuel,Litres,Bikes,4.0,800,3200,May wk 1 - 24
+2024-05-06,846,Sourcing,Diesel,Litres,Mb1,40.0,1350,0,May wk 2 - 24
+2024-05-06,847,Production,Diesel,Litres,Alternator gen,10.0,0,0,May wk 2 - 24
+2024-05-06,848,Sourcing,Fuel,Litres,Bikes,6.0,800,4800,May wk 2 - 24
+2024-05-06,849,Sourcing,Spares,Pieces,Motor tyre for ford2,1.0,0,0,May wk 2 - 24
+2024-05-06,850,Sourcing,Spares,Pieces,welding Extension,1.0,0,0,May wk 2 - 24
+2024-05-06,851,Production,Spares,Pieces,cutting Disc,2.0,1800,2600,May wk 2 - 24
+2024-05-07,852,Sourcing,Fuel,Litres,Ford2,31.0,800,24800,May wk 2 - 24
+2024-05-07,853,Production,Fuel,Litres,Bikes,6.0,800,4800,May wk 2 - 24
+2024-05-07,854,Production,Spares,Pieces,motor tyre mb1,1.0,0,0,May wk 2 - 24
+2024-05-07,855,Production,Spares,Pieces,13 bolt and nuts,12.0,0,3600,May wk 2 - 24
+2024-05-07,856,Production,Spares,Pieces,13washers,30.0,0,3000,May wk 2 - 24
+2024-05-07,857,Production,Spares,Pieces,17bolt and nuts,10.0,0,1850,May wk 2 - 24
+2024-05-07,858,Production,Spares,Pieces,17washers,20.0,0,1000,May wk 2 - 24
+2024-05-07,859,Production,Spares,Pieces,19bolt & nuts,5.0,0,1500,May wk 2 - 24
+2024-05-07,900,Production,Spares,Pieces,19washers,10.0,0,500,May wk 2 - 24
+2024-05-07,901,Production,Spares,Pieces,Iron chalk,1.0,0,250,May wk 2 - 24
+2024-05-07,902,Production,Spares,Pieces,Elevator belt,10.45,0,0,May wk 2 - 24
+2024-05-07,903,Production,CaC03,bags,production,16.0,0,0,May wk 2 - 24
+2024-05-08,904,Production,CaC03,bags,production,9.0,0,0,May wk 2 - 24
+2024-05-08,905,Production,Spares,Pieces,Shaker spring,1.0,0,0,May wk 2 - 24
+2024-05-08,906,Production,Spares,Pieces,Electrical tape,2.0,0,500,May wk 2 - 24
+2024-05-08,907,Production,Spares,Pieces,Mild steel electrodes,140.0,0,5,May wk 2 - 24
+2024-05-08,908,Production,Spares,Pieces,Turbo charge,1.0,0,0,May wk 2 - 24
+2024-05-08,909,Production,Spares,Pieces,cutting Disc,1.0,1800,1800,May wk 2 - 24
+2024-05-08,910,Sourcing,Fuel,Litres,Ford2,31.0,800,24800,May wk 2 - 24
+2024-05-08,911,Sourcing,Fuel,Litres,Bikes,6.0,800,4800,May wk 2 - 24
+2024-05-08,912,Production,Diesel,Litres,production,300.0,0,0,May wk 2 - 24
+2024-05-09,913,Production,CaC03,bags,production,17.0,0,0,May wk 2 - 24
+2024-05-09,914,Sourcing,Fuel,Litres,Bikes,4.0,800,3200,May wk 2 - 24
+2024-05-09,915,Payloader,Diesel,Litres,payloader,60.0,0,0,May wk 2 - 24
+2024-05-09,916,Production,Spares,Pieces,F210 Bearings,1.0,15000,15000,May wk 2 - 24
+2024-05-09,917,Production,Spares,Pieces,hydraulic oil,50.0,0,140000,May wk 2 - 24
+2024-05-09,918,Production,Spares,Pieces,cutting Disc,1.0,0,1800,May wk 2 - 24
+2024-05-10,919,Production,Spares,Pieces,2.5 cable,1.0,0,45000,May wk 2 - 24
+2024-05-10,920,Production,Spares,Pieces,Male & female socket,4.0,5500,22000,May wk 2 - 24
+2024-05-10,921,Production,Spares,Pieces,cutting Disc,2.0,1800,3600,May wk 2 - 24
+2024-05-10,922,Production,Spares,Pieces,24washers,30.0,50,1500,May wk 2 - 24
+2024-05-10,923,Production,Diesel,Litres,production,300.0,0,0,May wk 2 - 24
+2024-05-10,924,Payloader,Diesel,Litres,payloader,60.0,0,0,May wk 2 - 24
+2024-05-10,925,Sourcing,Diesel,Litres,Mb1,40.0,1250,50000,May wk 2 - 24
+2024-05-10,926,Sourcing,Fuel,Litres,Bikes,6.0,800,4800,May wk 2 - 24
+2024-05-10,927,Production,CaC03,bags,production,11.0,0,0,May wk 2 - 24
+2024-05-11,928,Sourcing,Diesel,Litres,Dyna4,40.0,1250,50000,May wk 2 - 24
+2024-05-11,929,Production,CaC03,bags,production,11.0,0,0,May wk 2 - 24
+2024-05-11,930,Production,Fuel,Litres,Ford2,35.0,850,29750,May wk 2 - 24
+2024-05-11,931,Sourcing,Fuel,Litres,Bikes,2.0,800,1600,May wk 2 - 24
+2024-05-12,930,Payloader,Diesel,Litres,payloader,30.0,0,0,May wk 2 - 24
+2024-05-12,931,Production,Diesel,Litres,production,300.0,0,0,May wk 2 - 24
+2024-05-13,931,Sourcing,Diesel,Litres,mb1,40.0,1250,50000,May wk 3 - 24
+2024-05-13,932,Sourcing,Diesel,Litres,Dyna4,30.0,1250,37500,May wk 3 - 24
+2024-05-13,933,Payloader,Diesel,Litres,payloader,30.0,0,0,May wk 3 - 24
+2024-05-13,933,Sourcing,Fuel,Litres,Ford2,27.0,850,22950,May wk 3 - 24
+2024-05-13,934,Sourcing,Fuel,Litres,Bikes,6.0,800,4800,May wk 3 - 24
+2024-05-13,935,Production,CaC03,bags,production,18.0,0,0,May wk 3 - 24
+2024-05-14,936,Sourcing,Diesel,Litres,mb1,40.0,1250,50000,May wk 3 - 24
+2024-05-14,937,Sourcing,Diesel,Litres,Dyna4,40.0,1250,50000,May wk 3 - 24
+2024-05-14,938,Production,CaC03,bags,production,16.0,0,0,May wk 3 - 24
+2024-05-14,939,Sourcing,Fuel,Litres,Ford2,32.0,850,27200,May wk 3 - 24
+2024-05-14,940,Sourcing,Spares,Pieces,Oil filter,1.0,0,0,May wk 3 - 24
+2024-05-14,941,Sourcing,Spares,Pieces,Gas filter,1.0,0,0,May wk 3 - 24
+2024-05-14,942,Sourcing,Spares,Pieces,Top cylinder,1.0,0,0,May wk 3 - 24
+2024-05-14,943,Sourcing,Spares,Pieces,Engine oil,25.0,0,0,May wk 3 - 24
+2024-05-14,944,Sourcing,Spares,Pieces,Gear Oil,4.0,0,0,May wk 3 - 24
+2024-05-15,944,Enforcement,PP2w,tonnes,Lordtech,26.14,0,0,May wk 3 - 24
+2024-05-15,945,Enforcement,Bags,Pieces,Lordtech,455.0,0,0,May wk 3 - 24
+2024-05-15,946,Sourcing,Fuel,Litres,Bikes,7.0,800,5600,May wk 3 - 24
+2024-05-15,947,Production,Diesel,Litres,payloader,30.0,0,0,May wk 3 - 24
+2024-05-15,948,Payloader,Diesel,Litres,production,300.0,0,0,May wk 3 - 24
+2024-05-15,949,Sourcing,Diesel,Litres,Dyna2,30.0,1250,37500,May wk 3 - 24
+2024-05-15,950,Sourcing,Diesel,Litres,Mb1,40.0,1250,50000,May wk 3 - 24
+2024-05-15,951,Production,CaC03,bags,production,14.0,0,0,May wk 3 - 24
+2024-05-16,952,Sourcing,Fuel,Litres,Ford2,30.0,900,27000,May wk 3 - 24
+2024-05-16,953,Sourcing,Fuel,Litres,Bikes,4.0,800,3200,May wk 3 - 24
+2024-05-16,954,Payloader,Diesel,Litres,payloader,30.0,0,0,May wk 3 - 24
+2024-05-16,955,Payloader,Diesel,Litres,Dyna2,30.0,1250,37500,May wk 3 - 24
+2024-05-16,956,Production,CaC03,bags,production,12.0,0,0,May wk 3 - 24
+2024-05-16,957,Production,Spares,Pieces,F210 Bearings,1.0,0,0,May wk 3 - 24
+2024-05-16,958,Production,Spares,Pieces,C75 - belt,1.0,0,0,May wk 3 - 24
+2024-05-16,959,Production,Spares,Pieces,shovel,3.0,0,0,May wk 3 - 24
+2024-05-16,960,Production,Spares,Pieces,Mild steel electrodes,140.0,0,0,May wk 3 - 24
+2024-05-17,961,Sourcing,Diesel,Litres,Dyna2,30.0,1250,37500,May wk 3 - 24
+2024-05-17,961,Sourcing,Diesel,Litres,Mb1,40.0,1250,50000,May wk 3 - 24
+2024-05-17,963,Sourcing,Diesel,Litres,Dyna4,30.0,1250,37500,May wk 3 - 24
+2024-05-17,964,Payloader,Diesel,Litres,payloader,60.0,0,0,May wk 3 - 24
+2024-05-17,965,Production,Diesel,Litres,production,300.0,0,0,May wk 3 - 24
+2024-05-17,966,Production,CaC03,bags,production,16.0,0,0,May wk 3 - 24
+2024-05-17,967,Sourcing,Fuel,Litres,Bikes,2.0,850,1700,May wk 3 - 24
+2024-05-17,968,Sourcing,Fuel,Litres,Ford2,30.0,900,27000,May wk 3 - 24
+2024-05-16,969,Sourcing,PKS,tonnes,Enforcement,37.55,0,0,May wk 3 - 24
+2024-05-17,969,Enforcement,PKS,tonnes,Enforcement,18.01,0,0,May wk 3 - 24
+2024-05-18,969,Sourcing,Fuel,Litres,Ford2,32.0,900,28800,May wk 3 - 24
+2024-05-18,970,Payloader,Diesel,Litres,Dyna4,30.0,1250,37500,May wk 3 - 24
+2024-05-18,971,Payloader,Diesel,Litres,payloader,60.0,0,0,May wk 3 - 24
+2024-05-18,972,Sourcing,Fuel,Litres,Bike,2.0,850,1700,May wk 3 - 24
+2024-05-18,973,Production,Spares,Pieces,cutting Disc,2.0,0,2600,May wk 3 - 24
+2024-05-18,974,Production,Spares,Pieces,Electrical tape,2.0,0,500,May wk 3 - 24
+2024-05-18,975,Enforcement,PKS,tonnes,Enforcement,40.85,0,0,May wk 3 - 24
+2024-05-19,976,Payloader,Diesel,Litres,payloader,60.0,0,0,May wk 3 - 24
+2024-05-19,977,Production,Spares,Pieces,Mild steel electrodes,140.0,0,4620,May wk 3 - 24
+2024-05-19,978,Production,Spares,Pieces,24washers,10.0,0,500,May wk 3 - 24
+2024-05-19,978,Production,CaC03,bags,production,13.0,0,0,May wk 3 - 24
+2024-05-20,979,Production,Spares,Pieces,19bolt and nuts,2.0,0,0,May wk 4 - 24
+2024-05-20,980,Production,Spares,Pieces,24washers,5.0,0,250,May wk 4 - 24
+2024-05-20,981,Production,Spares,Pieces,19washers,4.0,0,200,May wk 4 - 24
+2024-05-20,982,Sourcing,Fuel,Litres,Bikes,4.0,850,3400,May wk 4 - 24
+2024-05-20,983,Sourcing,Diesel,Litres,Dyna4,30.0,1250,37500,May wk 4 - 24
+2024-05-21,983,Enforcement,PP2w,tonnes,Lordtech,28.28,0,0,May wk 4 - 24
+2024-05-21,984,Sourcing,Diesel,Litres,Dyna4,30.0,1250,37500,May wk 4 - 24
+2024-05-21,985,Sourcing,Diesel,Litres,mb1,40.0,1250,50000,May wk 4 - 24
+2024-05-21,986,Production,Diesel,Litres,Alternator gen,10.0,0,0,May wk 4 - 24
+2024-05-21,987,Sourcing,Fuel,Litres,Bike,2.0,850,1700,May wk 4 - 24
+2024-05-22,988,Sourcing,Diesel,Litres,Dyna4,30.0,1250,37500,May wk 4 - 24
+2024-05-22,989,Production,Diesel,Litres,production,300.0,0,0,May wk 4 - 24
+2024-05-22,990,Sourcing,Fuel,Litres,Ford2,36.0,850,30600,May wk 4 - 24
+2024-05-22,991,Sourcing,Fuel,Litres,Bikes,6.0,850,5100,May wk 4 - 24
+2024-05-22,992,Production,Spares,Pieces,U-bolt 22,1.0,400,400,May wk 4 - 24
+2024-05-22,993,Production,Spares,Pieces,24washers,6.0,50,300,May wk 4 - 24
+2024-05-22,994,Production,Spares,Pieces,cutting Disc,2.0,1800,2600,May wk 4 - 24
+2024-05-23,995,Sourcing,Diesel,Litres,Dyna4,40.0,1250,37500,May wk 4 - 24
+2024-05-23,996,Sourcing,Diesel,Litres,mb1,40.0,1250,37500,May wk 4 - 24
+2024-05-23,995,Sourcing,Fuel,Litres,Bikes,4.0,850,3400,May wk 4 - 24
+2024-05-23,996,Production,CaC03,bags,production,16.0,0,0,May wk 4 - 24
+2024-05-24,997,Production,Spares,Pieces,cutting Disc,3.0,1800,5400,May wk 4 - 24
+2024-05-24,998,Production,Spares,Pieces,Electrical tape,1.0,250,250,May wk 4 - 24
+2024-05-24,999,Production,Spares,Pieces,19bolt and nut,5.0,350,1750,May wk 4 - 24
+2024-05-24,1000,Production,Spares,Pieces,19washers,10.0,50,500,May wk 4 - 24
+2024-05-24,1001,Production,Spares,Pieces,Siliciones sealart,1.0,2500,2500,May wk 4 - 24
+2024-05-24,1002,Production,Spares,Pieces,Damper rubbers,1.0,3000,3000,May wk 4 - 24
+2024-05-24,1003,Production,CaC03,bags,production,17.0,0,0,May wk 4 - 24
+2024-05-24,1004,Sourcing,Fuel,Litres,Bikes,6.0,850,5100,May wk 4 - 24
+2024-05-24,1005,Sourcing,Diesel,Litres,Dyna4,30.0,1250,37500,May wk 4 - 24
+2024-05-24,1006,Payloader,Diesel,Litres,payloader,30.0,0,0,May wk 4 - 24
+2024-05-24,1007,Enforcement,PKS,tonnes,Enforcement,24.52,0,0,May wk 4 - 24
+2024-05-25,1007,Enforcement,PP2w,tonnes,Lordtech,28.76,0,0,May wk 4 - 24
+2024-05-25,1008,Enforcement,Bags,Pieces,Lordtech,518.0,0,0,May wk 4 - 24
+2024-05-25,1009,Production,Diesel,Litres,production,300.0,0,0,May wk 4 - 24
+2024-05-25,1010,Sourcing,Diesel,Litres,Dyna4,30.0,1250,37500,May wk 4 - 24
+2024-05-25,1011,Payloader,Diesel,Litres,payloader,30.0,0,0,May wk 4 - 24
+2024-05-25,1012,Sourcing,Fuel,Litres,Bikes,6.0,850,5100,May wk 4 - 24
+2024-05-25,1013,Production,CaC03,bags,production,17.0,0,0,May wk 4 - 24
+2024-05-26,1013,Production,Spares,Pieces,Body liners,2.0,0,0,May wk 4 - 24
+2024-05-26,1014,Production,Spares,Pieces,Rollers for 2cracker,32.0,0,0,May wk 4 - 24
+2024-05-26,1015,Production,Spares,Pieces,F-208 brearing,1.0,0,0,May wk 4 - 24
+2024-05-26,1026,Production,Spares,Pieces,19bolt & nuts,10.0,0,0,May wk 4 - 24
+2024-05-26,1027,Production,Spares,Pieces,19washers,20.0,0,0,May wk 4 - 24
+2024-05-26,1028,Production,Spares,Pieces,Half inches pipe,1.0,0,0,May wk 4 - 24
+2024-05-26,1029,Sourcing,Diesel,Litres,Dyna4(for p1 stock count),10.0,1250,12500,May wk 4 - 24
+2024-05-26,1030,Payloader,Diesel,Litres,payloader,60.0,0,0,May wk 4 - 24
+2024-05-27,1031,Sourcing,Fuel,Litres,ford2(P1 stock count),31.0,850,26350,May wk 5 - 24
+2024-05-27,1032,Payloader,Diesel,Litres,payloader,60.0,0,0,May wk 5 - 24
+2024-05-27,1033,Sourcing,Fuel,Litres,Bikes,6.5,850,5525,May wk 5 - 24
+2024-05-27,1034,Payloader,Diesel,Litres,Dyna4(for p1 stock count),15.0,1250,18750,May wk 5 - 24
+2024-05-27,1035,Production,Spares,Pieces,19bolts & nuts,11.0,350,3850,May wk 5 - 24
+2024-05-27,1036,Production,Spares,Pieces,19washers,22.0,50,1100,May wk 5 - 24
+2024-05-28,1035,Sourcing,Diesel,Litres,Dyna4,40.0,1250,50000,May wk 5 - 24
+2024-05-28,1036,Sourcing,Diesel,Litres,Mb1(P1 stock count),40.0,1250,50000,May wk 5 - 24
+2024-05-28,1037,Production,CaC03,bags,production,16.0,0,0,May wk 5 - 24
+2024-05-28,1038,Production,Spares,Pieces,Mild steel electrodes,140.0,33,4620,May wk 5 - 24
+2024-05-28,1039,Production,Spares,Pieces,cutting Disc,1.0,1800,1800,May wk 5 - 24
+2024-05-28,1040,Production,Spares,Pieces,Iron chalk,2.0,250,500,May wk 5 - 24
+2024-05-28,1041,Production,Spares,Pieces,13bolts & nuts,10.0,350,3500,May wk 5 - 24
+2024-05-28,1042,Production,Spares,Pieces,13washers,20.0,50,1000,May wk 5 - 24
+2024-05-28,1043,Production,Spares,Pieces,welding glass,1.0,0,0,May wk 5 - 24
+2024-05-28,1044,Production,Spares,Pieces,22washers,10.0,50,500,May wk 5 - 24
+2024-05-28,1045,Sourcing,Fuel,Litres,Bikes,5.0,850,4250,May wk 5 - 24
+2024-05-29,1045,Sourcing,Fuel,Litres,ford2,33.0,850,28050,May wk 5 - 24
+2024-05-29,1046,Production,Diesel,Litres,production,300.0,0,0,May wk 5 - 24
+2024-05-29,1047,Payloader,Diesel,Litres,payloader,60.0,0,0,May wk 5 - 24
+2024-05-29,1048,Sourcing,Diesel,Litres,Dyna4,30.0,1250,37500,May wk 5 - 24
+2024-05-29,1049,Sourcing,Diesel,Litres,Mb1,40.0,1250,50000,May wk 5 - 24
+2024-05-29,1050,Production,CaC03,bags,production,12.0,0,0,May wk 5 - 24
+2024-05-29,1051,Enforcement,PKS,tonnes,Enforcement,91.07,0,0,May wk 5 - 24
+2024-05-29,1052,Sourcing,Fuel,Litres,Bikes,5.0,850,4250,May wk 5 - 24
+2024-05-30,1052,Payloader,Diesel,Litres,payloader,60.0,0,0,May wk 5 - 24
+2024-05-30,1053,Sourcing,Diesel,Litres,Dyna4,30.0,1250,37500,May wk 5 - 24
+2024-05-30,1054,Production,Spares,Pieces,Engine oil,4.0,3080,12320,May wk 5 - 24
+2024-05-30,1055,Production,Spares,Pieces,Rain coats,25.0,8000,200000,May wk 5 - 24
+2024-05-30,1056,Production,Spares,Pieces,Male & female coupling,1.0,0,0,May wk 5 - 24
+2024-05-30,1055,Production,Spares,Pieces,P212 bearing,1.0,0,0,May wk 5 - 24
+2024-05-30,1056,Production,Spares,Pieces,24bolts & nuts,2.0,0,0,May wk 5 - 24
+2024-05-30,1057,Production,Spares,Pieces,24washers,4.0,0,0,May wk 5 - 24
+2024-05-30,1058,Production,Spares,Pieces,22bolts & nuts,2.0,0,0,May wk 5 - 24
+2024-05-30,1059,Production,Spares,Pieces,22washers,4.0,50,200,May wk 5 - 24
+2024-05-30,1060,Production,Spares,Pieces,B&2-belt,4.0,0,0,May wk 5 - 24
+2024-05-30,1061,Production,Diesel,Litres,production,300.0,0,0,May wk 5 - 24
+2024-05-30,1062,Production,CaC03,bags,production,17.0,0,0,May wk 5 - 24
+2024-05-30,1063,Sourcing,Fuel,Litres,Bike,4.0,850,3400,May wk 5 - 24
+2024-05-31,1063,Payloader,Diesel,Litres,payloader,30.0,0,0,May wk 5 - 24
+2024-05-31,1064,Sourcing,Diesel,Litres,Dyna4,30.0,1250,37500,May wk 5 - 24
+2024-05-31,1065,Sourcing,Diesel,Litres,mb1,40.0,1250,50000,May wk 5 - 24
+2024-05-31,1066,Sourcing,Fuel,Litres,Bike,2.0,850,1700,May wk 5 - 24
+2024-05-31,1067,Production,CaC03,bags,production,17.0,0,0,May wk 5 - 24
+2024-05-31,1068,Sourcing,Fuel,Litres,Ford2,10.0,850,8300,May wk 5 - 24
+2024-06-01,1069,Sourcing,Fuel,Litres,Ford2,30.0,850,25500,May wk 5 - 24
+2024-06-01,1070,Production,Diesel,Litres,Dyna4,30.0,1250,37500,May wk 5 - 24
+2024-06-01,1071,Payloader,Diesel,Litres,payloader,30.0,0,0,May wk 5 - 24
+2024-06-01,1072,Production,Diesel,Litres,production,300.0,0,0,May wk 5 - 24
+2024-06-01,1073,Production,CaC03,bags,production,16.0,0,0,May wk 5 - 24
+2024-06-01,1074,Sourcing,Fuel,Litres,Bikes,5.0,850,4250,May wk 5 - 24
+2024-06-01,1074,Enforcement,PKS,tonnes,Enforcement,33.76,0,0,May wk 5 - 24
+2024-06-03,1075,Production,Diesel,Litres,payloader,30.0,0,0,Jun wk 1 - 24
+2024-06-03,1076,Sourcing,Diesel,Litres,Dyna3 for test runing of engine,15.0,1250,18750,Jun wk 1 - 24
+2024-06-03,1077,Production,Diesel,Litres,Mb1 for coveying of Cac03 to C2,40.0,1250,50000,Jun wk 1 - 24
+2024-06-03,1078,Sourcing,Fuel,Litres,Bikes,2.0,850,1700,Jun wk 1 - 24
+2024-06-03,1079,Production,CaC03,bags,production,15.0,0,0,Jun wk 1 - 24
+2024-06-03,1080,Production,Spares,Pieces,Engine oil,21.0,3080,64680,Jun wk 1 - 24
+2024-06-03,1081,Production,Spares,Pieces,Gear Oil,3.0,3000,12000,Jun wk 1 - 24
+2024-06-03,1082,Production,Spares,Pieces,small body liners,1.0,0,0,Jun wk 1 - 24
+2024-06-03,1083,Production,Spares,Pieces,low hydrogen,15.0,46,690,Jun wk 1 - 24
+2024-06-04,1080,Sourcing,Fuel,Litres,Bikes,4.0,850,3400,Jun wk 1 - 24
+2024-06-04,1081,Sourcing,Diesel,Litres,Mb1,40.0,1250,50000,Jun wk 1 - 24
+2024-06-04,1082,Production,Diesel,Litres,production,300.0,0,0,Jun wk 1 - 24
+2024-06-04,1083,Payloader,Diesel,Litres,payloader,30.0,0,0,Jun wk 1 - 24
+2024-06-04,1084,Production,CaC03,bags,production,7.0,0,0,Jun wk 1 - 24
+2024-06-04,1085,Production,Spares,Pieces,F-210 brearing,1.0,8000,8000,Jun wk 1 - 24
+2024-06-04,1086,Production,Spares,Pieces,24bolts & nuts,4.0,400,1600,Jun wk 1 - 24
+2024-06-04,1087,Production,Spares,Pieces,24washers,8.0,50,400,Jun wk 1 - 24
+2024-06-05,1088,Production,Spares,Pieces,P208-bearing,1.0,8000,8000,Jun wk 1 - 24
+2024-06-05,1089,Production,Spares,Pieces,13bolts & nuts,7.0,350,2450,Jun wk 1 - 24
+2024-06-05,1090,Production,Spares,Pieces,13washers,14.0,50,700,Jun wk 1 - 24
+2024-06-05,1091,Production,CaC03,bags,production,16.0,0,0,Jun wk 1 - 24
+2024-06-05,1092,Sourcing,Fuel,Litres,Bikes,4.0,850,3400,Jun wk 1 - 24
+2024-06-05,1093,Sourcing,Fuel,Litres,Ford2,30.0,850,25500,Jun wk 1 - 24
+2024-06-06,1094,Sourcing,Fuel,Litres,Ford2,30.0,850,25500,Jun wk 1 - 24
+2024-06-06,1096,Sourcing,Diesel,Litres,MB1,40.0,1250,50000,Jun wk 1 - 24
+2024-06-06,1096,Payloader,Diesel,Litres,payloader,30.0,0,0,Jun wk 1 - 24
+2024-06-06,1097,Sourcing,Diesel,Litres,Dyna4,30.0,1250,37500,Jun wk 1 - 24
+2024-06-06,1098,Production,Spares,Pieces,19bolt & nuts,5.0,0,0,Jun wk 1 - 24
+2024-06-06,1099,Production,Spares,Pieces,19washers,10.0,0,0,Jun wk 1 - 24
+2024-06-06,2000,Production,Spares,Pieces,24washers,10.0,0,0,Jun wk 1 - 24
+2024-06-06,2001,Production,CaC03,bags,production,15.0,0,0,Jun wk 1 - 24
+2024-06-07,2002,Sourcing,Fuel,Litres,Ford2,30.0,850,25500,Jun wk 1 - 24
+2024-06-07,2003,Enforcement,PP2w,tonnes,Lordtech's,31.8,0,0,Jun wk 1 - 24
+2024-06-07,2004,Enforcement,Bags,Pieces,Lordtech's,585.0,0,0,Jun wk 1 - 24
+2024-06-07,2005,Sourcing,Diesel,Litres,Dyna4,30.0,1250,37500,Jun wk 1 - 24
+2024-06-07,2006,Production,Diesel,Litres,production,300.0,0,0,Jun wk 1 - 24
+2024-06-07,2007,Production,Diesel,Litres,Dyna3 for engine test runing,15.0,1250,37500,Jun wk 1 - 24
+2024-06-07,2008,Production,Spares,Pieces,Mild steel electrodes,140.0,33,4620,Jun wk 1 - 24
+2024-06-07,2009,Production,Spares,Pieces,19bolts & nuts,2.0,450,900,Jun wk 1 - 24
+2024-06-07,2010,Production,Spares,Pieces,19washers,4.0,50,200,Jun wk 1 - 24
+2024-06-07,2011,Production,Spares,Pieces,cutting Disc,1.0,1800,1800,Jun wk 1 - 24
+2024-06-07,2013,Sourcing,Fuel,Litres,Bikes,3.0,850,2550,Jun wk 1 - 24
+2024-06-07,2014,Production,CaC03,bags,production,6.0,0,0,Jun wk 1 - 24
+2024-06-08,2015,Production,CaC03,bags,production,17.0,0,0,Jun wk 1 - 24
+2024-06-08,2016,Sourcing,Diesel,Litres,Dyna4,30.0,1250,37500,Jun wk 1 - 24
+2024-06-06,2017,Sourcing,Fuel,Litres,Ford2,27.0,850,22950,Jun wk 1 - 24
+2024-06-09,2018,Enforcement,PP2w,tonnes,Lordtech's,27.28,0,0,Jun wk 1 - 24
+2024-06-09,2019,Enforcement,Bags,Pieces,Lordtech's,473.0,0,0,Jun wk 1 - 24
+2024-06-10,2020,Production,CaC03,bags,production,10.0,0,0,Jun wk 2 - 24
+2024-06-10,2021,Sourcing,Diesel,Litres,Dyna4,30.0,1250,37500,Jun wk 2 - 24
+2024-06-10,2022,Sourcing,Diesel,Litres,MB1,40.0,1250,50000,Jun wk 2 - 24
+2024-06-10,2023,Sourcing,Fuel,Litres,Bikes,3.0,850,2550,Jun wk 2 - 24
+2024-06-11,2024,Sourcing,Fuel,Litres,Bike,2.0,850,1700,Jun wk 2 - 24
+2024-06-11,2025,Production,CaC03,bags,production,14.0,0,0,Jun wk 2 - 24
+2024-06-11,2026,Sourcing,Diesel,Litres,Dyna4,30.0,1250,37500,Jun wk 2 - 24
+2024-06-12,2027,Sourcing,Diesel,Litres,Dyna4,30.0,1250,37500,Jun wk 2 - 24
+2024-06-12,2028,Production,Diesel,Litres,production,300.0,0,0,Jun wk 2 - 24
+2024-06-12,2029,Production,CaC03,bags,production,12.0,0,0,Jun wk 2 - 24
+2024-06-12,2030,Sourcing,Fuel,Litres,Bike,2.0,850,1700,Jun wk 2 - 24
+2024-06-13,2031,Sourcing,Diesel,Litres,Dyna4,30.0,1250,37500,Jun wk 2 - 24
+2024-06-13,2032,Payloader,Diesel,Litres,payloader,30.0,0,0,Jun wk 2 - 24
+2024-06-13,2033,Production,CaC03,bags,production,15.0,0,0,Jun wk 2 - 24
+2024-06-14,2034,Sourcing,Fuel,Litres,Bikes,5.0,850,4250,Jun wk 2 - 24
+2024-06-14,2035,Sourcing,Diesel,Litres,Dyna4,34.0,1250,42500,Jun wk 2 - 24
+2024-06-14,2036,Production,Diesel,Litres,production,300.0,0,0,Jun wk 2 - 24
+2024-06-14,2037,Production,CaC03,bags,production,10.0,0,0,Jun wk 2 - 24
+2024-06-14,2038,Sourcing,Fuel,Litres,Ford2,30.0,850,25500,Jun wk 2 - 24
+2024-06-15,2039,Sourcing,Diesel,Litres,Dyna4,5.0,1250,6250,Jun wk 2 - 24
+2024-06-15,2040,Sourcing,Diesel,Litres,Mb1,40.0,1250,50000,Jun wk 2 - 24
+2024-06-15,2041,Sourcing,Diesel,Litres,Dyna3,15.0,1250,18750,Jun wk 2 - 24
+2024-06-15,2042,Sourcing,Fuel,Litres,Bikes,6.0,850,5100,Jun wk 2 - 24
+2024-06-15,2043,Production,CaC03,bags,production,11.0,0,0,Jun wk 2 - 24
+2024-06-16,2044,Enforcement,PP2w,tonnes,Lordtech,27.86,0,0,Jun wk 2 - 24
+2024-06-16,2045,Enforcement,Bags,Pieces,Lordtech,493.0,0,0,Jun wk 2 - 24
+2024-06-17,2046,Payloader,Spares,Pieces,Engine oil,4.0,3080,12320,Jun wk 3 - 24
+2024-06-17,2047,Sourcing,Spares,Pieces,Engine oil,21.0,3080,64680,Jun wk 3 - 24
+2024-06-17,2048,Production,Spares,Pieces,13bolt & nuts,6.0,250,1500,Jun wk 3 - 24
+2024-06-17,2049,Production,Spares,Pieces,13washers,12.0,50,600,Jun wk 3 - 24
+2024-06-17,2050,Production,Spares,Pieces,17bolt & nuts,5.0,300,1500,Jun wk 3 - 24
+2024-06-17,2051,Production,Spares,Pieces,17washers,10.0,50,500,Jun wk 3 - 24
+2024-06-17,2052,Production,Spares,Pieces,2.5mm cable,1.0,0,0,Jun wk 3 - 24
+2024-06-17,2053,Payloader,Diesel,Litres,payloader,30.0,0,0,Jun wk 3 - 24
+2024-06-17,2054,Sourcing,Diesel,Litres,Mb1 for coveying of Cac03 to C2,40.0,1250,50000,Jun wk 3 - 24
+2024-06-17,2055,Sourcing,Fuel,Litres,Bikes,3.0,850,2550,Jun wk 3 - 24
+2024-06-17,2056,Production,CaC03,bags,production,14.0,0,0,Jun wk 3 - 24
+2024-06-18,2057,Sourcing,Diesel,Litres,Mb1,40.0,1250,50000,Jun wk 3 - 24
+2024-06-18,2058,Sourcing,Diesel,Litres,Dyna4,40.0,1250,50000,Jun wk 3 - 24
+2024-06-18,2059,Payloader,Diesel,Litres,payloader,30.0,0,0,Jun wk 3 - 24
+2024-06-18,2060,Production,Diesel,Litres,production,300.0,0,0,Jun wk 3 - 24
+2024-06-18,2061,Sourcing,Fuel,Litres,Ford2,30.0,850,25500,Jun wk 3 - 24
+2024-06-18,2062,Sourcing,Fuel,Litres,Bikes,2.0,850,1700,Jun wk 3 - 24
+2024-06-18,2063,Production,CaC03,bags,production,9.0,0,0,Jun wk 3 - 24
+2024-06-19,2064,Sourcing,Diesel,Litres,Dyna3,30.0,1250,37500,Jun wk 3 - 24
+2024-06-19,2065,Sourcing,Fuel,Litres,Bikes,6.0,850,5100,Jun wk 3 - 24
+2024-06-19,2066,Production,CaC03,bags,production,11.0,0,0,Jun wk 3 - 24
+2024-06-20,2067,Payloader,Diesel,Litres,payloader,30.0,0,0,Jun wk 3 - 24
+2024-06-20,2068,Sourcing,Diesel,Litres,Dyna3,30.0,1250,37500,Jun wk 3 - 24
+2024-06-20,2069,Production,Diesel,Litres,production,300.0,0,0,Jun wk 3 - 24
+2024-06-20,2070,Production,CaC03,bags,production,15.0,0,0,Jun wk 3 - 24
+2024-06-20,2071,Sourcing,Fuel,Litres,Bike,2.0,850,1700,Jun wk 3 - 24
+2024-06-21,2072,Sourcing,Diesel,Litres,Mb1,40.0,1250,50000,Jun wk 3 - 24
+2024-06-21,2073,Payloader,Diesel,Litres,payloader,30.0,0,0,Jun wk 3 - 24
+2024-06-21,2074,Sourcing,Fuel,Litres,Ford2,30.0,850,25500,Jun wk 3 - 24
+2024-06-21,2075,Production,CaC03,bags,production,17.0,0,0,Jun wk 3 - 24
+2024-06-21,2076,Sourcing,Fuel,Litres,Bikes,4.0,850,3400,Jun wk 3 - 24
+2024-06-22,2077,Production,Diesel,Litres,production,300.0,0,0,Jun wk 3 - 24
+2024-06-22,2078,Sourcing,Diesel,Litres,Dyna3,40.0,1250,50000,Jun wk 3 - 24
+2024-06-22,2079,Sourcing,Fuel,Litres,Ford2,30.0,850,25500,Jun wk 3 - 24
+2024-06-22,2080,Payloader,Diesel,Litres,payloader,30.0,0,0,Jun wk 3 - 24
+2024-06-22,2081,Sourcing,Fuel,Litres,Bike,4.0,850,3400,Jun wk 3 - 24
+2024-06-22,2082,Production,CaC03,bags,production,17.0,0,0,Jun wk 3 - 24
+2024-06-23,2083,Enforcement,PP2w,tonnes,Lordtech,29.74,0,0,Jun wk 3 - 24
+2024-06-23,2084,Enforcement,Bags,Pieces,Lordtech,547.0,0,0,Jun wk 3 - 24
+2024-06-24,2085,Sourcing,Diesel,Litres,Dyna4,30.0,850,25500,Jun wk 4 - 24
+2024-06-24,2086,Sourcing,Diesel,Litres,Mb1,40.0,1250,50000,Jun wk 4 - 24
+2024-06-24,2087,Payloader,Diesel,Litres,payloader,30.0,0,0,Jun wk 4 - 24
+2024-06-24,2088,Sourcing,Fuel,Litres,Ford2,10.0,830,8300,Jun wk 4 - 24
+2024-06-24,2089,Production,CaC03,bags,production,14.0,0,0,Jun wk 4 - 24
+2024-06-24,2090,Production,Spares,Pieces,Mild steel electrodes,140.0,33,4620,Jun wk 4 - 24
+2024-06-24,2091,Production,Spares,Pieces,19mm bolt & nuts,5.0,350,1750,Jun wk 4 - 24
+2024-06-24,2092,Production,Spares,Pieces,24mm washers,10.0,50,500,Jun wk 4 - 24
+2024-06-24,2093,Production,Spares,Pieces,19washers,10.0,50,500,Jun wk 4 - 24
+2024-06-24,2094,Production,Spares,Pieces,cutting Disc,2.0,1800,2600,Jun wk 4 - 24
+2024-06-24,2095,Production,Spares,Pieces,low hydrogen,75.0,226,17000,Jun wk 4 - 24
+2024-06-25,2095,Production,Spares,Pieces,cutting Disc,1.0,1800,2600,Jun wk 4 - 24
+2024-06-25,2096,Production,Spares,Pieces,F-208 brearing,1.0,8000,8000,Jun wk 4 - 24
+2024-06-25,2097,Sourcing,Fuel,Litres,Ford2,26.0,830,21580,Jun wk 4 - 24
+2024-06-25,2098,Production,CaC03,bags,production,9.0,0,0,Jun wk 4 - 24
+2024-06-25,2099,Sourcing,Fuel,Litres,Bike,2.0,830,1660,Jun wk 4 - 24
+2024-06-26,3000,Sourcing,Diesel,Litres,Dyna4,30.0,1250,37500,Jun wk 4 - 24
+2024-06-26,3001,Production,Diesel,Litres,production,300.0,0,0,Jun wk 4 - 24
+2024-06-26,3002,Payloader,Diesel,Litres,payloader,30.0,0,0,Jun wk 4 - 24
+2024-06-26,3003,Sourcing,Fuel,Litres,Bikes,6.0,830,4980,Jun wk 4 - 24
+2024-06-26,3003,Production,CaC03,bags,production,13.0,0,0,Jun wk 4 - 24
+2024-06-27,3004,Sourcing,Fuel,Litres,Bikes,8.0,830,6640,Jun wk 4 - 24
+2024-06-27,3005,Sourcing,Fuel,Litres,Ford2,30.0,830,24900,Jun wk 4 - 24
+2024-06-27,3006,Production,Spares,Pieces,Engine oil,50.0,3080,154000,Jun wk 4 - 24
+2024-06-27,3007,Production,Spares,Pieces,U-bolt 22,2.0,0,0,Jun wk 4 - 24
+2024-06-27,3008,Production,Spares,Pieces,Hanger bearings,2.0,0,0,Jun wk 4 - 24
+2024-06-27,3009,Production,Spares,Pieces,Flange,2.0,0,0,Jun wk 4 - 24
+2024-06-27,3010,Production,Spares,Pieces,Tired rods,32.0,0,0,Jun wk 4 - 24
+2024-06-28,3011,Sourcing,Spares,Pieces,Engine oil,10.0,3080,30800,Jun wk 4 - 24
+2024-06-28,3012,Sourcing,Fuel,Litres,Ford2,30.0,830,24900,Jun wk 4 - 24
+2024-06-28,3013,Payloader,Diesel,Litres,payloader,30.0,0,0,Jun wk 4 - 24
+2024-06-28,3014,Sourcing,Fuel,Litres,Bikes,4.0,830,3320,Jun wk 4 - 24
+2024-06-29,3015,Production,CaC03,bags,production,17.0,0,0,Jun wk 4 - 24
+2024-06-29,3016,Sourcing,Diesel,Litres,Dyna4-to convey pks to calabar,40.0,1250,50000,Jun wk 4 - 24
+2024-06-29,3017,Sourcing,Fuel,Litres,Bikes,4.0,830,3320,Jun wk 4 - 24
+2024-06-29,3018,Production,CaC03,bags,production,12.0,0,0,Jun wk 4 - 24
+2024-06-29,3019,Production,Diesel,Litres,production,300.0,0,0,Jun wk 4 - 24
+2024-06-29,3016,Payloader,Diesel,Litres,payloader,60.0,0,0,Jun wk 4 - 24
+2024-06-29,3016,Sourcing,Diesel,Litres,Dyna3-fo test runing engine,10.0,1250,12500,Jun wk 4 - 24
+2024-06-29,3017,Production,Spares,Pieces,Gear Oil,2.0,0,0,Jun wk 4 - 24
+2024-06-29,3018,Production,Spares,Pieces,low hydrogen,75.0,0,0,Jun wk 4 - 24
+2024-06-29,3019,Production,Spares,Pieces,13mm bolt & nuts,10.0,0,0,Jun wk 4 - 24
+2024-06-29,3020,Production,Spares,Pieces,13mm washers,20.0,0,0,Jun wk 4 - 24
+2024-06-29,3021,Production,Spares,Pieces,Mild steel electrodes,140.0,0,0,Jun wk 4 - 24
+2024-06-30,3022,Production,PP2,tonnes,P2 recoverd from pks & dust,0.2,0,0,Jun wk 4 - 24
+2024-07-01,3022,Sourcing,Diesel,Litres,Dyna4,30.0,1250,37500,Jul wk 1 - 24
+2024-07-01,3023,Sourcing,Diesel,Litres,Dyna3,30.0,1250,37500,Jul wk 1 - 24
+2024-07-01,3024,Sourcing,Fuel,Litres,Bikes,5.0,830,4150,Jul wk 1 - 24
+2024-07-01,3025,Production,CaC03,bags,production,16.0,0,0,Jul wk 1 - 24
+2024-07-02,3026,Production,Spares,Pieces,B82-belt,2.0,0,0,Jul wk 1 - 24
+2024-07-02,3027,Production,Spares,Pieces,17mm bolt & nuts,10.0,300,3000,Jul wk 1 - 24
+2024-07-02,3028,Production,Spares,Pieces,17washers,20.0,50,1000,Jul wk 1 - 24
+2024-07-02,3029,Production,Spares,Pieces,13mm bolt and nuts,5.0,250,1250,Jul wk 1 - 24
+2024-07-02,3030,Production,Spares,Pieces,13mm washers,10.0,50,500,Jul wk 1 - 24
+2024-07-02,3031,Production,Spares,Pieces,low hydrogen,75.0,226,17000,Jul wk 1 - 24
+2024-07-02,3032,Sourcing,Diesel,Litres,Dyna3,30.0,1250,37500,Jul wk 1 - 24
+2024-07-02,3033,Sourcing,Diesel,Litres,Dyna4,30.0,1250,37500,Jul wk 1 - 24
+2024-07-02,3034,Sourcing,Diesel,Litres,Mb1,40.0,1250,50000,Jul wk 1 - 24
+2024-07-02,3035,Production,Diesel,Litres,production,300.0,0,0,Jul wk 1 - 24
+2024-07-02,3036,Production,CaC03,bags,production,13.0,0,0,Jul wk 1 - 24
+2024-07-03,3037,Sourcing,Diesel,Litres,Dyna4,30.0,1250,37500,Jul wk 1 - 24
+2024-07-03,3038,Sourcing,Fuel,Litres,Bikes,5.0,830,4150,Jul wk 1 - 24
+2024-07-03,3039,Production,CaC03,bags,production,12.0,0,0,Jul wk 1 - 24
+2024-07-03,3073,Enforcement,PP2w,tonnes,Monica,30.02,0,0,Jul wk 1 - 24
+2024-07-03,3074,Enforcement,Bags,Pieces,Lordtech,601.0,0,0,Jul wk 1 - 24
+2024-07-04,3075,Sourcing,Diesel,Litres,Dyna3,30.0,1250,37500,Jul wk 1 - 24
+2024-07-04,3076,Sourcing,Diesel,Litres,Dyna4,30.0,1250,37500,Jul wk 1 - 24
+2024-07-04,3077,Sourcing,Fuel,Litres,Bikes,4.0,830,3320,Jul wk 1 - 24
+2024-07-04,3078,Production,CaC03,bags,production,13.0,0,0,Jul wk 1 - 24
+2024-07-04,3079,Sourcing,Spares,Litres,Engine oil,5.0,0,0,Jul wk 1 - 24
+2024-07-04,3080,Production,Spares,Pieces,Shovels,3.0,0,0,Jul wk 1 - 24
+2024-07-04,3081,Production,Spares,Pieces,cutting Disc,2.0,0,0,Jul wk 1 - 24
+2024-07-05,3079,Sourcing,Fuel,Litres,Ford2,30.0,830,24900,Jul wk 1 - 24
+2024-07-05,3080,Production,Spares,Pieces,2.5mm cable,1.0,0,0,Jul wk 1 - 24
+2024-07-05,3081,Sourcing,Fuel,Litres,Bike,2.0,830,1660,Jul wk 1 - 24
+2024-07-05,3081,Production,Spares,Pieces,Floor light,4.0,0,0,Jul wk 1 - 24
+2024-07-05,3082,Production,Spares,Pieces,19mm bolt & nuts,10.0,0,0,Jul wk 1 - 24
+2024-07-05,3083,Production,Spares,Pieces,19mm washers,20.0,0,0,Jul wk 1 - 24
+2024-07-05,3084,Production,Diesel,Litres,production,300.0,0,0,Jul wk 1 - 24
+2024-07-05,3084,Production,CaC03,Pieces,production,15.0,0,0,Jul wk 1 - 24
+2024-07-06,3085,Sourcing,Diesel,Litres,Mb1,40.0,1250,50000,Jul wk 1 - 24
+2024-07-06,3086,Sourcing,Diesel,Litres,Dyna4,30.0,1250,37500,Jul wk 1 - 24
+2024-07-06,3087,Production,CaC03,bags,production,7.0,0,0,Jul wk 1 - 24
+2024-07-06,3089,Production,Spares,Pieces,Engine oil,25.0,3080,77000,Jul wk 1 - 24
+2024-07-06,3090,Production,Spares,Pieces,Oil filter,2.0,0,0,Jul wk 1 - 24
+2024-07-06,3091,Production,Spares,Pieces,Diesel Filters,2.0,0,0,Jul wk 1 - 24
+2024-07-06,3092,Production,Spares,Pieces,22mm Washers,4.0,50,200,Jul wk 1 - 24
+2024-07-06,3093,Production,Spares,Pieces,24mm washers,10.0,50,500,Jul wk 1 - 24
+2024-07-06,3094,Production,Spares,Pieces,A54 belts,2.0,1500,3000,Jul wk 1 - 24
+2024-07-06,3095,Production,Spares,Pieces,19mm washers,10.0,50,500,Jul wk 1 - 24
+2024-07-06,3096,Production,Spares,Pieces,cutting Disc,2.0,1800,2600,Jul wk 1 - 24
+2024-07-06,3097,Production,Spares,Pieces,B90 belts,2.0,0,0,Jul wk 1 - 24
+2024-07-07,3099,Sourcing,Diesel,Litres,Dyna4,30.0,1250,37500,Jul wk 1 - 24
+2024-07-07,4000,Sourcing,Diesel,Litres,Dyna3,30.0,1250,37500,Jul wk 1 - 24
+2024-07-08,4001,Sourcing,Fuel,Litres,Bikes,3.0,790,2370,Jul wk 2 - 24
+2024-07-08,3098,Production,Diesel,Litres,Alternator gen,10.0,1250,12500,Jul wk 2 - 24
+2024-07-09,3099,Production,Diesel,Litres,production,300.0,0,0,Jul wk 2 - 24
+2024-07-09,4000,Sourcing,Fuel,Litres,Bike,4.0,790,3180,Jul wk 2 - 24
+2024-07-09,4001,Production,CaC03,bags,production,18.0,0,0,Jul wk 2 - 24
+2024-07-10,4002,Sourcing,Diesel,Litres,Dyna4,30.0,1250,37500,Jul wk 2 - 24
+2024-07-10,4003,Sourcing,Fuel,Litres,Bikes,4.0,790,3180,Jul wk 2 - 24
+2024-07-10,4004,Production,CaC03,bags,production,8.0,0,0,Jul wk 2 - 24
+2024-07-11,4005,Sourcing,Diesel,Litres,Dyna3,30.0,1250,37500,Jul wk 2 - 24
+2024-07-11,4006,Sourcing,Fuel,Litres,Bikes,4.0,790,3180,Jul wk 2 - 24
+2024-07-11,4006,Production,CaC03,bags,production,14.0,0,0,Jul wk 2 - 24
+2024-07-12,4007,Sourcing,Diesel,Litres,Dyna3,30.0,1250,37500,Jul wk 2 - 24
+2024-07-12,4008,Payloader,Diesel,Litres,payloader for maintenanace,10.0,0,0,Jul wk 2 - 24
+2024-07-12,4009,Production,Diesel,Litres,production,300.0,0,0,Jul wk 2 - 24
+2024-07-12,4010,Production,CaC03,bags,production,12.0,0,0,Jul wk 2 - 24
+2024-07-12,4011,Sourcing,Fuel,Litres,Bikes,4.0,790,3180,Jul wk 2 - 24
+2024-07-13,4012,Sourcing,Diesel,Litres,Dyna3,30.0,1250,37500,Jul wk 2 - 24
+2024-07-13,4013,Sourcing,Diesel,Litres,Dyna4,30.0,1250,37500,Jul wk 2 - 24
+2024-07-13,4014,Sourcing,Fuel,Litres,Bikes,4.0,790,3180,Jul wk 2 - 24
+2024-07-13,4015,Production,CaC03,bags,production,9.0,0,0,Jul wk 2 - 24
+2024-07-14,4016,Production,CaC03,bags,production,5.0,0,0,Jul wk 2 - 24
+2024-07-14,4017,Enforcement,PP2,tonnes,Jik food industry,17.17,0,0,Jul wk 2 - 24
+2024-07-14,4018,Enforcement,Bags,Pieces,Jik food industry,242.0,0,0,Jul wk 2 - 24
+2024-07-15,4019,Sourcing,Fuel,Litres,Ford2,30.0,790,23700,Jul wk 3 - 24
+2024-07-15,4020,Sourcing,Fuel,Litres,Bikes,7.0,790,5530,Jul wk 3 - 24
+2024-07-15,4021,Production,Diesel,Litres,production,300.0,0,0,Jul wk 3 - 24
+2024-07-16,4022,Sourcing,Diesel,Litres,Mb1 for coveying of Cac03 to C2,40.0,1150,46000,Jul wk 3 - 24
+2024-07-16,4023,Sourcing,Diesel,Litres,Dyna4,30.0,1150,34500,Jul wk 3 - 24
+2024-07-16,4024,Sourcing,Fuel,Litres,Ford2,30.0,790,23700,Jul wk 3 - 24
+2024-07-16,4025,Sourcing,Fuel,Litres,Bikes,4.0,790,3180,Jul wk 3 - 24
+2024-07-16,4026,Production,CaC03,bags,production,15.0,0,0,Jul wk 3 - 24
+2024-07-17,4027,Sourcing,Diesel,Litres,Dyna4,30.0,1150,34500,Jul wk 3 - 24
+2024-07-17,4028,Sourcing,Diesel,Litres,Mb1,40.0,1150,46000,Jul wk 3 - 24
+2024-07-17,4030,Sourcing,Fuel,Litres,Bikes,3.0,790,2370,Jul wk 3 - 24
+2024-07-17,4031,Production,CaC03,bags,production,8.0,0,0,Jul wk 3 - 24
+2024-07-18,4032,Production,Diesel,Litres,production,300.0,0,0,Jul wk 3 - 24
+2024-07-18,4033,Sourcing,Fuel,Litres,Bikes,4.0,790,3180,Jul wk 3 - 24
+2024-07-18,4031,Sourcing,Fuel,Litres,Ford2,30.0,790,23700,Jul wk 3 - 24
+2024-07-19,4032,Production,CaC03,bags,production,13.0,0,0,Jul wk 3 - 24
+2024-07-20,4033,Sourcing,Fuel,Litres,Ford2,30.0,840,25200,Jul wk 3 - 24
+2024-07-20,4034,Sourcing,Fuel,Litres,Bikes,5.0,790,3950,Jul wk 3 - 24
+2024-07-20,4035,Sourcing,Diesel,Litres,Dyna4,30.0,1150,34500,Jul wk 3 - 24
+2024-07-20,4036,Sourcing,Diesel,Litres,MB1,40.0,1150,46000,Jul wk 3 - 24
+2024-07-20,4037,Production,CaC03,bags,production,14.0,0,0,Jul wk 3 - 24
+2024-07-22,4038,Production,Diesel,tonnes,production,300.0,0,0,Jul wk 4 - 24
+2024-07-22,4039,Sourcing,Diesel,tonnes,Dyna4,30.0,1150,34500,Jul wk 4 - 24
+2024-07-22,4040,Sourcing,Fuel,tonnes,Bikes,4.0,790,3180,Jul wk 4 - 24
+2024-07-23,4041,Sourcing,Fuel,Litres,Bikes,4.0,790,3180,Jul wk 4 - 24
+2024-07-23,4041,Production,Diesel,Litres,Mb1 for coveying of firewod to C2,10.0,1150,11500,Jul wk 4 - 24
+2024-07-23,4042,Production,CaC03,bags,production,12.0,0,0,Jul wk 4 - 24
+2024-07-24,4043,Sourcing,Fuel,Litres,Ford2,30.0,840,25200,Jul wk 4 - 24
+2024-07-24,4044,Sourcing,Diesel,Litres,Dyna4,30.0,1150,34500,Jul wk 4 - 24
+2024-07-24,4045,Sourcing,Fuel,Litres,Bikes,4.0,790,2520,Jul wk 4 - 24
+2024-07-24,4046,Production,CaC03,bags,production,14.0,0,0,Jul wk 4 - 24
+2024-07-25,4047,Sourcing,Fuel,Litres,Bikes,5.0,790,3950,Jul wk 4 - 24
+2024-07-25,4048,Production,Diesel,Litres,production,300.0,0,0,Jul wk 4 - 24
+2024-07-25,4049,Sourcing,Diesel,Litres,Dyna4,30.0,1150,34500,Jul wk 4 - 24
+2024-07-25,4050,Production,CaC03,bags,production,6.0,0,0,Jul wk 4 - 24
+2024-07-26,4051,Production,CaC03,bags,production,6.0,0,0,Jul wk 4 - 24
+2024-07-26,4051,Sourcing,Diesel,Litres,Mb1,40.0,1150,46000,Jul wk 4 - 24
+2024-07-26,4052,Sourcing,Fuel,Litres,Bikes,5.0,790,3950,Jul wk 4 - 24
+2024-07-27,4053,Sourcing,Diesel,Litres,Dyna4,30.0,1150,34500,Jul wk 4 - 24
+2024-07-27,4054,Production,Diesel,Litres,production,300.0,0,0,Jul wk 4 - 24
+2024-07-27,4055,Production,Fuel,Litres,Bikes,6.0,790,4740,Jul wk 4 - 24
+2024-07-27,4056,Production,CaC03,bags,production,15.0,0,0,Jul wk 4 - 24
+2024-07-29,4057,Sourcing,Fuel,Litres,Bikes,3.0,840,2520,Aug wk 1 - 24
+2024-07-30,4058,Sourcing,Diesel,Litres,Dyna4,30.0,1150,34500,Aug wk 1 - 24
+2024-07-30,4059,Sourcing,Fuel,Litres,Ford2,27.0,840,22680,Aug wk 1 - 24
+2024-07-30,4060,Sourcing,Fuel,Litres,Bikes,4.0,840,3360,Aug wk 1 - 24
+2024-07-30,4061,Production,CaC03,bags,production,15.0,0,0,Aug wk 1 - 24
+2024-07-31,4062,Sourcing,Fuel,Litres,Ford2,24.0,840,20160,Aug wk 1 - 24
+2024-07-31,4063,Sourcing,Diesel,Litres,Dyna4,30.0,1150,34500,Aug wk 1 - 24
+2024-07-31,4063,Sourcing,Fuel,Litres,Bikes,5.0,850,4250,Aug wk 1 - 24
+2024-07-31,4064,Production,Diesel,Litres,production,300.0,0,0,Aug wk 1 - 24
+2024-07-31,4066,Production,CaC03,bags,production,8.0,0,0,Aug wk 1 - 24
+2024-08-01,4067,Sourcing,Diesel,Litres,Dyna4,30.0,1240,37200,Aug wk 1 - 24
+2024-08-01,4068,Sourcing,Fuel,Litres,Ford2,30.0,850,25500,Aug wk 1 - 24
+2024-08-02,4068,Sourcing,Fuel,Litres,Bikes,4.0,850,3400,Aug wk 1 - 24
+2024-08-02,4069,Production,Diesel,Litres,Mb1-conveyed firewood,10.0,1240,12400,Aug wk 1 - 24
+2024-08-02,4070,Production,CaC03,bags,production,15.0,1150,11500,Aug wk 1 - 24
+2024-08-03,4071,Production,Diesel,Litres,production,300.0,0,0,Aug wk 1 - 24
+2024-08-03,4072,Sourcing,Diesel,Litres,Dyna4,30.0,1240,37200,Aug wk 1 - 24
+2024-08-03,4073,Sourcing,Diesel,Litres,Dyna3,30.0,1240,37200,Aug wk 1 - 24
+2024-08-03,4074,Sourcing,Fuel,Litres,Bikes,7.0,850,5950,Aug wk 1 - 24
+2024-08-04,4075,Enforcement,PP2w,tonnes,Lordtech,29.62,0,0,Aug wk 1 - 24
+2024-08-04,4076,Enforcement,Bags,Pieces,Lordtech,500.0,0,0,Aug wk 1 - 24
+2024-08-04,4077,Enforcement,Fuel,Litres,Enforcement,3.0,850,2550,Aug wk 1 - 24
+2024-08-04,4078,Production,Diesel,Litres,Mb1-conveyed firewood,10.0,1240,12400,Aug wk 1 - 24
+2024-08-04,4079,Production,Fuel,Litres,For manual Cracking of P1,4.0,850,3400,Aug wk 1 - 24
+2024-08-05,4080,Sourcing,Diesel,Litres,Dyna4,30.0,1240,37200,Aug wk 2 - 24
+2024-08-05,4081,Sourcing,Fuel,Litres,Ford2,30.0,850,25500,Aug wk 2 - 24
+2024-08-05,4082,Sourcing,Fuel,Litres,Bikes,4.0,850,3400,Aug wk 2 - 24
+2024-08-05,4083,Production,CaC03,bags,production,10.0,0,0,Aug wk 2 - 24
+2024-08-06,4084,Production,Diesel,Litres,production,300.0,0,0,Aug wk 2 - 24
+2024-08-06,4085,Sourcing,Diesel,Litres,Dyna3,30.0,1240,37200,Aug wk 2 - 24
+2024-08-06,4086,Sourcing,Diesel,Litres,Dyna4,30.0,1240,37200,Aug wk 2 - 24
+2024-08-06,4087,Sourcing,Fuel,Litres,Bikes,5.0,850,4250,Aug wk 2 - 24
+2024-08-06,4088,Production,CaC03,bags,production,15.0,0,0,Aug wk 2 - 24
+2024-08-07,4089,Sourcing,Diesel,Litres,Dyna4,30.0,1240,37200,Aug wk 2 - 24
+2024-08-07,4090,Sourcing,Fuel,Litres,Bikes,5.0,850,4250,Aug wk 2 - 24
+2024-08-07,4010,Production,CaC03,bags,production,10.0,0,0,Aug wk 2 - 24
+2024-08-08,4011,Sourcing,Fuel,Litres,Ford2,30.0,850,25500,Aug wk 2 - 24
+2024-08-08,4012,Production,Diesel,Litres,production,300.0,0,0,Aug wk 2 - 24
+2024-08-08,4013,Sourcing,Fuel,Litres,Bikes,4.0,850,3400,Aug wk 2 - 24
+2024-08-08,4014,Production,CaC03,bags,production,10.0,0,0,Aug wk 2 - 24
+2024-08-08,4045,Sourcing,Diesel,Litres,MB2 for maintenance,5.0,1240,6200,Aug wk 2 - 24
+2024-08-09,4015,Sourcing,Diesel,Litres,Dyna3,30.0,1240,37200,Aug wk 2 - 24
+2024-08-09,4016,Sourcing,Fuel,Litres,Bikes,4.0,850,3400,Aug wk 2 - 24
+2024-08-09,4017,Production,CaC03,bags,production,15.0,0,0,Aug wk 2 - 24
+2024-08-10,4018,Production,Diesel,Litres,MB1 to conveyed firewood,10.0,1240,12400,Aug wk 2 - 24
+2024-08-10,4019,Sourcing,Fuel,Litres,Bikes,2.0,850,1700,Aug wk 2 - 24
+2024-08-10,4020,Production,CaC03,bags,production,5.0,0,0,Aug wk 2 - 24
+2024-08-12,4021,Sourcing,Diesel,Litres,Dyna4,30.0,1240,37200,Aug wk 3 - 24
+2024-08-12,4022,Sourcing,Diesel,Litres,MB2 for maintenance,70.0,1240,86800,Aug wk 3 - 24
+2024-08-12,4023,Sourcing,Fuel,Litres,Bikes,4.0,850,3400,Aug wk 3 - 24
+2024-08-13,4024,Sourcing,Fuel,Litres,Ford2,30.0,850,25500,Aug wk 3 - 24
+2024-08-13,4025,Sourcing,Fuel,Litres,Bikes,4.0,850,3400,Aug wk 3 - 24
+2024-08-14,4026,Production,Diesel,Litres,production,300.0,0,0,Aug wk 3 - 24
+2024-08-14,4027,Sourcing,Diesel,Litres,Dyna4,30.0,1240,37200,Aug wk 3 - 24
+2024-08-14,4028,Sourcing,Fuel,Litres,Bikes,5.0,850,4250,Aug wk 3 - 24
+2024-08-15,4029,Production,Diesel,Litres,Alternator gen,10.0,0,0,Aug wk 3 - 24
+2024-08-15,4030,Sourcing,Fuel,Litres,Bikes,4.0,850,3400,Aug wk 3 - 24
+2024-08-16,4031,Sourcing,Fuel,Litres,Bikes,4.0,850,3400,Aug wk 3 - 24
+2024-08-16,4032,Enforcement,PP2w,Litres,Monica,28.27,0,0,Aug wk 3 - 24
+2024-08-16,4033,Enforcement,Bags,Litres,Monica,535.0,0,0,Aug wk 3 - 24
+2024-08-17,4034,Sourcing,Diesel,Litres,Mb1,40.0,1240,49600,Aug wk 3 - 24
+2024-08-19,4033,Sourcing,Fuel,Litres,Bikes,6.0,850,5100,Aug wk 4 - 24
+2024-08-19,4034,Production,Diesel,Litres,Alternator gen,10.0,0,0,Aug wk 4 - 24
+2024-08-20,4035,Sourcing,Diesel,Litres,Dyna4,30.0,1240,37200,Aug wk 4 - 24
+2024-08-20,4036,Sourcing,Fuel,Litres,Bikes,7.0,850,5950,Aug wk 4 - 24
+2024-08-21,4037,Sourcing,Diesel,Litres,Dyna3 for maintenanace,10.0,1240,12400,Aug wk 4 - 24
+2024-08-21,4038,Sourcing,Fuel,Litres,Bikes,6.0,960,5760,Aug wk 4 - 24
+2024-08-21,4038,Sourcing,Fuel,Litres,Ford2,30.0,960,28800,Aug wk 4 - 24
+2024-08-22,4039,Sourcing,Fuel,Litres,Ford2,30.0,960,28800,Aug wk 4 - 24
+2024-08-22,4040,Sourcing,Fuel,Litres,Bikes,2.0,960,1920,Aug wk 4 - 24
+2024-08-22,4041,Sourcing,Diesel,Litres,Dyna4,30.0,1240,37200,Aug wk 4 - 24
+2024-08-22,4042,Sourcing,Diesel,Litres,Mb1,40.0,1240,49600,Aug wk 4 - 24
+2024-08-22,4043,Sourcing,Diesel,Litres,MB2 for maintenance,40.0,1240,49600,Aug wk 4 - 24
+2024-08-23,4044,Production,Diesel,Litres,Alternator gen,10.0,0,0,Aug wk 4 - 24
+2024-08-23,4045,Production,Diesel,Litres,payloader for maintenanace,15.0,0,0,Aug wk 4 - 24
+2024-08-23,4046,Sourcing,Fuel,Litres,Bikes,4.0,960,3800,Aug wk 4 - 24
+2024-08-23,4047,Sourcing,Diesel,Litres,Dyna4,30.0,1240,37200,Aug wk 4 - 24
+2024-08-24,4048,Sourcing,Fuel,Litres,Bike,3.0,960,2880,Aug wk 4 - 24
+2024-08-26,4049,Production,Diesel,Litres,production,300.0,0,0,Aug wk 5 - 24
+2024-08-26,4050,Sourcing,Fuel,Litres,Bikes,5.0,960,4800,Aug wk 5 - 24
+2024-08-26,4051,Production,CaC03,bags,production,17.0,0,0,Aug wk 5 - 24
+2024-08-27,4052,Sourcing,Diesel,Litres,Dyna4,30.0,1240,37200,Aug wk 5 - 24
+2024-08-27,4053,Sourcing,Fuel,Litres,ford2,30.0,960,28800,Aug wk 5 - 24
+2024-08-27,4054,Production,CaC03,bags,production,9.0,0,0,Aug wk 5 - 24
+2024-08-28,4054,Sourcing,Fuel,Litres,ford2,30.0,960,28800,Aug wk 5 - 24
+2024-08-28,4055,Sourcing,Fuel,Litres,Bikes,6.0,960,5760,Aug wk 5 - 24
+2024-08-28,4056,Production,Diesel,Litres,MB1 to conveyed firewood,10.0,1240,12400,Aug wk 5 - 24
+2024-08-28,4057,Production,CaC03,bags,production,16.0,0,0,Aug wk 5 - 24
+2024-08-29,4058,Production,Diesel,Litres,production,300.0,0,0,Aug wk 5 - 24
+2024-08-29,4059,Sourcing,Diesel,Litres,Dyna4,30.0,1240,37200,Aug wk 5 - 24
+2024-08-29,4060,Sourcing,Fuel,Litres,Bikes,8.0,960,7440,Aug wk 5 - 24
+2024-08-29,4061,Production,CaC03,bags,production,11.0,0,0,Aug wk 5 - 24
+2024-08-29,4062,Sourcing,Fuel,Litres,ford2,30.0,950,28500,Aug wk 5 - 24
+2024-08-30,4063,Sourcing,Fuel,Litres,Bikes,5.0,960,4800,Aug wk 5 - 24
+2024-08-30,4064,Production,CaC03,bags,production,14.0,0,0,Aug wk 5 - 24
+2024-08-31,4065,Production,CaC03,bags,production,8.0,0,0,Aug wk 5 - 24
+2024-08-31,4066,Production,Fuel,Litres,Bikes,5.0,960,4800,Aug wk 5 - 24
+2024-09-01,4067,Sourcing,Diesel,Litres,Dyna4,30.0,1240,37200,Aug wk 5 - 24
+2024-09-01,4069,Enforcement,PP2w,tonnes,Lordtech,29.47,0,0,Aug wk 5 - 24
+2024-09-01,4070,Enforcement,Bags,Pieces,Lordtech,527.0,0,0,Aug wk 5 - 24
+2024-09-01,4071,Sourcing,Fuel,Litres,BIke,2.0,960,1920,Aug wk 5 - 24
+2024-09-02,4072,Production,Diesel,Litres,production,300.0,0,0,Sep wk 1 - 24
+2024-09-02,4073,Sourcing,Diesel,Litres,MB2 for conveying of PKS,90.0,1240,111600,Sep wk 1 - 24
+2024-09-02,4074,Sourcing,Diesel,Litres,Dyna4,10.0,1240,12400,Sep wk 1 - 24
+2024-09-02,4075,Sourcing,Fuel,Litres,ford2,30.0,950,28500,Sep wk 1 - 24
+2024-09-02,4076,Sourcing,Fuel,Litres,Bikes,6.0,950,5700,Sep wk 1 - 24
+2024-09-02,4077,Production,CaC03,bags,production,14.0,0,0,Sep wk 1 - 24
+2024-09-03,4078,Sourcing,Diesel,Litres,Dyna4,20.0,1240,4750,Sep wk 1 - 24
+2024-09-03,4079,Sourcing,Fuel,Litres,Bikes,5.0,950,0,Sep wk 1 - 24
+2024-09-03,4080,Production,CaC03,bags,production,4.0,0,0,Sep wk 1 - 24
+2024-09-04,4081,Sourcing,Fuel,Litres,Bikes,5.0,950,4750,Sep wk 1 - 24
+2024-09-04,4082,Sourcing,Fuel,Litres,ford2,30.0,950,28500,Sep wk 1 - 24
+2024-09-04,4083,Production,CaC03,bags,production,9.0,0,0,Sep wk 1 - 24
+2024-09-05,4084,Sourcing,Diesel,Litres,Dyna4,30.0,1240,37200,Sep wk 1 - 24
+2024-09-05,4084,Sourcing,Fuel,Litres,Bikes,6.0,950,5700,Sep wk 1 - 24
+2024-09-05,4085,Production,Diesel,Litres,production,300.0,0,0,Sep wk 1 - 24
+2024-09-05,4086,Production,CaC03,bags,production,15.0,0,0,Sep wk 1 - 24
+2024-09-06,4087,Payloader,Diesel,Litres,payloader for maintenanace,10.0,0,0,Sep wk 1 - 24
+2024-09-06,4088,Sourcing,Fuel,Litres,Bikes,2.0,950,1900,Sep wk 1 - 24
+2024-09-06,4089,Production,CaC03,bags,production,9.0,0,0,Sep wk 1 - 24
+2024-09-07,4090,Production,Diesel,Litres,MB1 to conveyed firewood,10.0,0,0,Sep wk 1 - 24
+2024-09-07,4091,Sourcing,Fuel,Litres,ford2,30.0,950,28500,Sep wk 1 - 24
+2024-09-07,4092,Sourcing,Fuel,Litres,Bikes,3.0,950,2850,Sep wk 1 - 24
+2024-09-07,4093,Sourcing,Diesel,Litres,Dyna4,30.0,1240,37200,Sep wk 1 - 24
+2024-09-07,4094,Production,Diesel,Litres,Alternator gen,10.0,0,0,Sep wk 1 - 24
+2024-09-07,4095,Production,CaC03,bags,production,8.0,0,0,Sep wk 1 - 24
+2024-09-07,4096,Sourcing,Diesel,Litres,Mb1,40.0,1240,49600,Sep wk 1 - 24
+2024-09-09,4097,Production,Diesel,Litres,production,300.0,0,0,Sep wk 2 - 24
+2024-09-09,4098,Sourcing,Fuel,Litres,Bikes,4.0,950,3800,Sep wk 2 - 24
+2024-09-09,4099,Production,CaC03,bags,production,14.0,0,0,Sep wk 2 - 24
+2024-09-10,5000,Sourcing,Fuel,Litres,Bikes,6.0,950,5700,Sep wk 2 - 24
+2024-09-10,5001,Production,CaC03,bags,production,8.0,0,0,Sep wk 2 - 24
+2024-09-11,5002,Sourcing,Diesel,Litres,Dyna3 for maintenanace,10.0,1240,12400,Sep wk 2 - 24
+2024-09-11,5003,Sourcing,Fuel,Litres,ford2,30.0,1250,37500,Sep wk 2 - 24
+2024-09-11,5004,Sourcing,Fuel,Litres,Bikes,5.0,1250,6250,Sep wk 2 - 24
+2024-09-11,5005,Enforcement,PP2w,tonnes,Lordtech,29.3,0,0,Sep wk 2 - 24
+2024-09-11,5006,Enforcement,Bags,Pieces,Lordtech,520.0,0,0,Sep wk 2 - 24
+2024-09-11,5007,Production,CaC03,bags,production,7.0,0,0,Sep wk 2 - 24
+2024-09-12,5008,Sourcing,Diesel,Litres,Dyna4,30.0,1240,37200,Sep wk 2 - 24
+2024-09-12,5009,Sourcing,Diesel,Litres,Mb1,40.0,1240,49600,Sep wk 2 - 24
+2024-09-13,5010,Sourcing,Fuel,Litres,Bikes,4.0,1250,5000,Sep wk 2 - 24
+2024-09-14,5011,Sourcing,Diesel,Litres,Dyna4,30.0,1240,37200,Sep wk 2 - 24
+2024-09-14,5012,Production,Diesel,Litres,Alternator gen,10.0,0,0,Sep wk 2 - 24
+2024-09-14,5013,Sourcing,Fuel,Litres,Bike,4.0,1250,5000,Sep wk 2 - 24
+2024-09-14,5014,Production,Diesel,Litres,Mb1 to conveyed querry Cac03,50.0,1250,62000,Sep wk 2 - 24
+2024-09-14,5015,Sourcing,Fuel,Litres,ford2,30.0,1250,37500,Sep wk 2 - 24
+2024-09-16,5016,Sourcing,Diesel,Litres,Dyna4,30.0,1270,38100,Sep wk 3 - 24
+2024-09-16,5017,Sourcing,Diesel,Litres,Mb1,40.0,1270,50800,Sep wk 3 - 24
+2024-09-16,5018,Sourcing,Fuel,Litres,Bikes,6.0,1250,7500,Sep wk 3 - 24
+2024-09-16,5019,Production,Diesel,Litres,production,300.0,0,0,Sep wk 3 - 24
+2024-09-16,5020,Production,CaC03,bags,production,4.0,0,0,Sep wk 3 - 24
+2024-09-17,5021,Sourcing,Fuel,Litres,ford2,30.0,1250,37500,Sep wk 3 - 24
+2024-09-17,5022,Sourcing,Fuel,Litres,Bikes,6.0,1250,7500,Sep wk 3 - 24
+2024-09-17,5023,Production,CaC03,bags,production,14.0,0,0,Sep wk 3 - 24
+2024-09-18,5024,Sourcing,Fuel,Litres,Bikes,6.0,1250,7500,Sep wk 3 - 24
+2024-09-18,5024,Sourcing,Diesel,Litres,Dyna4,30.0,1270,38100,Sep wk 3 - 24
+2024-09-18,5025,Production,CaC03,bags,production,10.0,0,0,Sep wk 3 - 24
+2024-09-19,5026,Sourcing,Diesel,Litres,MB1,40.0,1270,50800,Sep wk 3 - 24
+2024-09-19,5027,Sourcing,Fuel,Litres,ford2,30.0,1450,43500,Sep wk 3 - 24
+2024-09-19,5028,Production,Diesel,Litres,production,300.0,0,0,Sep wk 3 - 24
+2024-09-19,5029,Sourcing,Diesel,Litres,Dyna4,30.0,1270,38100,Sep wk 3 - 24
+2024-09-19,5030,Sourcing,Fuel,Litres,Bike,4.0,1450,5800,Sep wk 3 - 24
+2024-09-19,5031,Production,CaC03,bags,production,14.0,0,0,Sep wk 3 - 24
+2024-09-20,5032,Sourcing,Fuel,Litres,Bikes,7.0,1450,10150,Sep wk 3 - 24
+2024-09-20,5033,Production,CaC03,Litres,production,9.0,0,0,Sep wk 3 - 24
+2024-09-21,5034,Sourcing,Diesel,Litres,Dyna4,30.0,1270,38100,Sep wk 3 - 24
+2024-09-21,5035,Sourcing,Fuel,Litres,ford2,30.0,1450,43500,Sep wk 3 - 24
+2024-09-21,5036,Sourcing,Fuel,Litres,Bikes,8.0,1450,11600,Sep wk 3 - 24
+2024-09-21,5037,Production,Diesel,Litres,production,300.0,0,0,Sep wk 3 - 24
+2024-09-21,5038,Production,CaC03,bags,production,9.0,0,0,Sep wk 3 - 24
+2024-09-22,5039,Enforcement,PP2w,tonnes,Lordtech,26.6,0,0,Sep wk 3 - 24
+2024-09-23,5040,Sourcing,Fuel,Litres,Bikes,4.0,1450,5800,Sep wk 4 - 24
+2024-09-23,5041,Production,Diesel,Litres,production,150.0,0,0,Sep wk 4 - 24
+2024-09-24,5042,Production,Diesel,Litres,Alternator gen,5.0,0,0,Sep wk 4 - 24
+2024-09-24,5043,Sourcing,Diesel,Litres,Dyna4,30.0,1270,38100,Sep wk 4 - 24
+2024-09-24,5044,Sourcing,Fuel,Litres,Bikes,4.0,1450,5800,Sep wk 4 - 24
+2024-09-25,5045,Sourcing,Diesel,Litres,Mb1,40.0,1270,50800,Sep wk 4 - 24
+2024-09-25,5046,Sourcing,Fuel,Litres,Bikes,5.0,1450,6250,Sep wk 4 - 24
+2024-09-26,5047,Sourcing,Diesel,Litres,Dyna4,30.0,1255,37650,Sep wk 4 - 24
+2024-09-26,5048,Sourcing,Diesel,Litres,mb2,30.0,1255,37650,Sep wk 4 - 24
+2024-09-26,5049,Production,Diesel,Litres,Alternator gen,10.0,0,0,Sep wk 4 - 24
+2024-09-26,5050,Sourcing,Fuel,Litres,Bikes,4.0,1450,5800,Sep wk 4 - 24
+2024-09-26,5051,Sourcing,Diesel,Litres,Dyna3 for maintenanace,10.0,1255,12550,Sep wk 4 - 24
+2024-09-27,5052,Sourcing,Diesel,Litres,Mb1,40.0,1255,50200,Sep wk 4 - 24
+2024-09-27,5053,Sourcing,Fuel,Litres,Bikes,5.0,1450,7250,Sep wk 4 - 24
+2024-09-28,5054,Production,Diesel,Litres,Alternator gen,5.0,0,0,Sep wk 4 - 24
+2024-09-29,5055,Sourcing,Fuel,Litres,ford2,30.0,1450,43500,Sep wk 4 - 24
+2024-09-30,5056,Sourcing,Fuel,Litres,ford2,20.0,1450,29000,Oct wk 1 - 24
+2024-09-30,5057,Sourcing,Fuel,Litres,Bikes,7.0,1450,10150,Oct wk 1 - 24
+2024-09-30,5058,Production,Diesel,Litres,Alternator gen,10.0,0,0,Oct wk 1 - 24
+2024-10-02,5059,Sourcing,Diesel,Litres,Mb1,40.0,1255,50200,Oct wk 1 - 24
+2024-10-02,5060,Sourcing,Diesel,Litres,Dyna4,30.0,1255,37650,Oct wk 1 - 24
+2024-10-03,5061,Sourcing,Fuel,Litres,Bikes,8.0,1300,10400,Oct wk 1 - 24
+2024-10-03,5062,Sourcing,Fuel,Litres,ford2,30.0,1300,39000,Oct wk 1 - 24
+2024-10-04,5063,Sourcing,Fuel,Litres,Bikes,5.0,1300,6500,Oct wk 1 - 24
+2024-10-04,5064,Sourcing,Fuel,Litres,Dyna4 Maintanance,4.0,1300,5200,Oct wk 1 - 24
+2024-10-04,5065,Production,Diesel,Litres,Alternator gen,5.0,0,0,Oct wk 1 - 24
+2024-10-05,5066,Production,Diesel,Litres,150 KVA maintenanace,15.0,0,0,Oct wk 1 - 24
+2024-10-05,5067,Sourcing,Fuel,Litres,Bike,2.0,1300,2600,Oct wk 1 - 24
+2024-10-05,5068,Payloader,Diesel,Litres,payloader for maintenanace,60.0,0,0,Oct wk 1 - 24
+2024-10-07,5069,Sourcing,Fuel,Litres,Bikes,4.0,1300,5200,Oct wk 2 - 24
+2024-10-07,5070,Production,Diesel,Litres,Mb1,40.0,1255,50200,Oct wk 2 - 24
+2024-10-07,5071,Sourcing,Diesel,Litres,Alternator gen,10.0,0,0,Oct wk 2 - 24
+2024-10-08,5072,Sourcing,Fuel,Litres,Bikes,4.0,1300,5200,Oct wk 2 - 24
+2024-10-08,5073,Sourcing,Diesel,Litres,Dyna4,30.0,1255,37650,Oct wk 2 - 24
+2024-10-09,5074,Sourcing,Fuel,Litres,ford2,30.0,1300,39000,Oct wk 2 - 24
+2024-10-09,5075,Sourcing,Fuel,Litres,Bikes,5.0,1300,6500,Oct wk 2 - 24
+2024-10-10,5076,Sourcing,Fuel,Litres,Bikes,4.0,1300,5200,Oct wk 2 - 24
+2024-10-10,5077,Production,Diesel,Litres,Alternator gen,5.0,0,0,Oct wk 2 - 24
+2024-10-11,5078,Sourcing,Diesel,Litres,MB1,40.0,1255,50200,Oct wk 2 - 24
+2024-10-11,5079,Sourcing,Fuel,Litres,Bike,2.0,1300,2600,Oct wk 2 - 24
+2024-10-11,5080,Production,CaC03,bags,production,14.0,0,0,Oct wk 2 - 24
+2024-10-12,5081,Sourcing,Diesel,Litres,Dyna4,30.0,1255,37650,Oct wk 2 - 24
+2024-10-12,5082,Sourcing,Fuel,Litres,Bikes,7.0,1300,9100,Oct wk 2 - 24
+2024-10-12,5083,Production,CaC03,bags,production,7.0,0,0,Oct wk 2 - 24
+2024-10-13,5083,Production,CaC03,bags,production,11.0,0,0,Oct wk 2 - 24
+2024-10-14,5084,Production,CaC03,bags,production,14.0,0,0,Oct wk 3 - 24
+2024-10-14,5085,Sourcing,Fuel,Litres,Bikes,4.0,1300,5200,Oct wk 3 - 24
+2024-10-15,5086,Production,Diesel,Litres,production,300.0,0,0,Oct wk 3 - 24
+2024-10-15,5087,Sourcing,Fuel,Litres,Bikes,6.0,1300,6500,Oct wk 3 - 24
+2024-10-16,5088,Sourcing,Fuel,Litres,Bikes,6.0,1300,7800,Oct wk 3 - 24
+2024-10-16,5089,Sourcing,Diesel,Litres,Dyna4,30.0,1255,37650,Oct wk 3 - 24
+2024-10-17,5090,Sourcing,Fuel,Litres,ford2,30.0,1300,39000,Oct wk 3 - 24
+2024-10-17,5091,Sourcing,Fuel,Litres,Bikes,4.0,1300,5200,Oct wk 3 - 24
+2024-10-17,5092,Production,Diesel,Litres,Mb1,40.0,1255,50200,Oct wk 3 - 24
+2024-10-17,5093,Sourcing,Diesel,Litres,Alternator gen,5.0,0,0,Oct wk 3 - 24
+2024-10-18,5094,Production,Diesel,Litres,Alternator gen,5.0,0,0,Oct wk 3 - 24
+2024-10-18,5095,Sourcing,Diesel,Litres,Dyna4,30.0,1255,37650,Oct wk 3 - 24
+2024-10-18,5096,Sourcing,Fuel,Litres,Bikes,6.0,1300,7900,Oct wk 3 - 24
+2024-10-18,5097,Production,CaC03,bags,production,4.0,0,0,Oct wk 3 - 24
+2024-10-19,5098,Sourcing,Fuel,Litres,ford2,30.0,1300,39000,Oct wk 3 - 24
+2024-10-19,5099,Sourcing,Fuel,Litres,Bikes,3.0,1300,3900,Oct wk 3 - 24
+2024-10-19,6000,Sourcing,Diesel,Litres,Dyna4,30.0,1255,37650,Oct wk 3 - 24
+2024-10-19,6001,Production,CaC03,bags,production,9.0,0,0,Oct wk 3 - 24
+2024-10-20,6002,Production,CaC03,bags,production,14.0,0,0,Oct wk 3 - 24
+2024-10-21,6003,Enforcement,PP2w,tonnes,Lordtech,30.19,0,0,Oct wk 4 - 24
+2024-10-21,6004,Enforcement,Bags,tonnes,Lordtech,608.0,0,0,Oct wk 4 - 24
+2024-10-21,6005,Sourcing,Diesel,Litres,Mb1,20.0,1255,25100,Oct wk 4 - 24
+2024-10-21,6006,Sourcing,Fuel,Litres,Bikes,6.0,1250,7500,Oct wk 4 - 24
+2024-10-21,6007,Sourcing,CaC03,bags,production,9.0,0,0,Oct wk 4 - 24
+2024-10-22,6008,Production,Diesel,Litres,production,300.0,0,0,Oct wk 4 - 24
+2024-10-22,6009,Sourcing,Fuel,Litres,Bikes,4.0,1250,5000,Oct wk 4 - 24
+2024-10-22,6010,Production,CaC03,bags,production,11.0,0,0,Oct wk 4 - 24
+2024-10-23,6011,Sourcing,Fuel,Litres,production,5.0,1250,6250,Oct wk 4 - 24
+2024-10-23,6012,Production,CaC03,bags,production,9.0,0,0,Oct wk 4 - 24
+2024-10-23,6013,Sourcing,Diesel,Litres,Mb2 for repairs,20.0,1227,24540,Oct wk 4 - 24
+2024-10-24,6014,Sourcing,Fuel,Litres,Bikes,5.0,1250,6250,Oct wk 4 - 24
+2024-10-24,6015,Production,CaC03,bags,production,18.0,0,0,Oct wk 4 - 24
+2024-10-25,6016,Production,Diesel,Litres,production,300.0,0,0,Oct wk 4 - 24
+2024-10-25,6017,Sourcing,Fuel,Litres,Bikes,6.0,1250,7500,Oct wk 4 - 24
+2024-10-25,6018,Production,CaC03,Litres,production,7.0,0,0,Oct wk 4 - 24
+2024-10-26,6019,Sourcing,Fuel,Litres,Bikes,3.0,1250,3750,Oct wk 4 - 24
+2024-10-26,6020,Production,CaC03,bags,production,7.0,0,0,Oct wk 4 - 24
+2024-10-27,6020,Sourcing,Diesel,Litres,Mb1,40.0,1227,49080,Oct wk 4 - 24
+2024-10-27,6021,Sourcing,Diesel,Litres,Dyna4,30.0,1227,36810,Oct wk 4 - 24
+2024-10-27,6022,Enforcement,PP2w,tonnes,Lordtech,30.92,0,0,Oct wk 4 - 24
+2024-10-27,6023,Enforcement,Bags,Pieces,Lordtech,555.0,0,0,Oct wk 4 - 24
+2024-10-28,6024,Sourcing,Fuel,Litres,Bikes,7.0,1250,8750,Oct wk 5 - 24
+2024-10-29,6025,Sourcing,Fuel,Litres,Bikes,7.0,1250,8750,Oct wk 5 - 24
+2024-10-29,6026,Production,Diesel,Litres,Alternator gen,5.0,0,0,Oct wk 5 - 24
+2024-10-30,6027,Sourcing,Fuel,Litres,Bikes,5.0,1250,6250,Oct wk 5 - 24
+2024-10-30,6028,Sourcing,Diesel,Litres,Dyna3 for maintenanace,40.0,1227,49080,Oct wk 5 - 24
+2024-10-30,6029,Production,Diesel,Litres,Alternator gen,5.0,0,0,Oct wk 5 - 24
+2024-10-31,6030,Sourcing,Diesel,Litres,Dyna4,30.0,1227,36810,Oct wk 5 - 24
+2024-10-31,6031,Sourcing,Fuel,Litres,Bikes,5.0,1250,6250,Oct wk 5 - 24
+2024-11-01,6032,Sourcing,Fuel,Litres,Bikes,4.0,1250,5000,Oct wk 5 - 24
+2024-11-01,6033,Production,Diesel,Litres,Alternator gen,5.0,0,0,Oct wk 5 - 24
+2024-11-04,6034,Sourcing,Fuel,Litres,Bikes,6.0,1250,7500,Nov wk 1 - 24
+2024-11-04,6035,Production,CaC03,bags,production,17.0,0,0,Nov wk 1 - 24
+2024-11-05,6036,Production,Diesel,Litres,production,300.0,0,0,Nov wk 1 - 24
+2024-11-05,6037,Sourcing,Fuel,Litres,Bikes,8.0,1250,10000,Nov wk 1 - 24
+2024-11-05,6038,Sourcing,Diesel,Litres,Dyna4,30.0,1227,36810,Nov wk 1 - 24
+2024-11-05,6039,Production,CaC03,bags,production,7.0,0,0,Nov wk 1 - 24
+2024-11-06,6040,Sourcing,Diesel,Litres,Dyna4,30.0,1227,36810,Nov wk 1 - 24
+2024-11-06,6041,Sourcing,Diesel,Litres,MB1,40.0,1227,49080,Nov wk 1 - 24
+2024-11-06,6042,Sourcing,Fuel,Litres,Bikes,7.0,1250,8750,Nov wk 1 - 24
+2024-11-06,6043,Production,CaC03,bags,production,11.0,0,0,Nov wk 1 - 24
+2024-11-07,6044,Sourcing,Fuel,Litres,Bikes,9.0,1250,11250,Nov wk 1 - 24
+2024-11-08,6045,Production,Diesel,Litres,production,300.0,0,0,Nov wk 1 - 24
+2024-11-08,6046,Sourcing,Fuel,Litres,Bikes,8.0,1250,10000,Nov wk 1 - 24
+2024-11-08,6047,Production,CaC03,bags,production,20.0,0,0,Nov wk 1 - 24
+2024-11-09,6048,Sourcing,Diesel,Litres,Dyna4,30.0,1227,36810,Nov wk 1 - 24
+2024-11-09,6049,Sourcing,Fuel,Litres,Bikes,7.0,1250,8750,Nov wk 1 - 24
+2024-11-09,6050,Production,CaC03,bags,production,8.0,0,0,Nov wk 1 - 24
+2024-11-11,6051,Sourcing,Fuel,Litres,Bikes,7.0,1250,8750,Nov wk 2 - 24
+2024-11-12,6052,Production,Diesel,Litres,Alternator gen,5.0,0,0,Nov wk 2 - 24
+2024-11-12,6053,Sourcing,Fuel,Litres,Bikes,6.0,1250,7500,Nov wk 2 - 24
+2024-11-12,6054,Sourcing,Diesel,Litres,Dyna4,30.0,1227,36810,Nov wk 2 - 24
+2024-11-12,6055,Sourcing,Fuel,Litres,ford2,30.0,1200,36000,Nov wk 2 - 24
+2024-11-12,6056,Enforcement,PP2w,tonnes,Lordtech,31.66,0,0,Nov wk 2 - 24
+2024-11-12,6057,Enforcement,Bags,tonnes,Lordtech,579.0,0,0,Nov wk 2 - 24
+2024-11-13,6058,Sourcing,Diesel,tonnes,Alternator gen,5.0,0,0,Nov wk 2 - 24
+2024-11-13,6059,Production,Diesel,tonnes,Mb1,40.0,1227,49080,Nov wk 2 - 24
+2024-11-13,6060,Sourcing,Fuel,Litres,Bikes,8.0,1250,10000,Nov wk 2 - 24
+2024-11-13,6061,Production,Diesel,Litres,Conveyed firewood MB1,10.0,0,0,Nov wk 2 - 24
+2024-11-14,6062,Sourcing,Fuel,Litres,Bikes,8.0,1250,10000,Nov wk 2 - 24
+2024-11-14,6063,Sourcing,Diesel,Litres,Dyna4,30.0,1227,36810,Nov wk 2 - 24
+2024-11-14,6064,Sourcing,Fuel,Litres,ford2,30.0,1200,36000,Nov wk 2 - 24
+2024-11-15,6065,Sourcing,Diesel,Litres,Alternator gen,5.0,0,0,Nov wk 2 - 24
+2024-11-15,6066,Production,Fuel,Litres,Bikes,5.0,1200,6000,Nov wk 2 - 24
+2024-11-16,6067,Production,Fuel,Litres,Bikes,5.0,1200,6000,Nov wk 2 - 24
+2024-11-16,6068,Production,Diesel,Litres,Dyna4,30.0,1227,36810,Nov wk 2 - 24
+2024-11-16,6069,Production,Diesel,Litres,Alternator gen,10.0,0,0,Nov wk 2 - 24
+2024-11-18,6070,Sourcing,Fuel,Litres,ford2,30.0,1200,36000,Nov wk 3 - 24
+2024-11-18,6071,Sourcing,Fuel,Litres,Bikes,8.0,1200,9600,Nov wk 3 - 24
+2024-11-18,6072,Production,CaC03,bags,production,14.0,0,0,Nov wk 3 - 24
+2024-11-19,6074,Production,Diesel,Litres,production,300.0,0,0,Nov wk 3 - 24
+2024-11-19,6075,Sourcing,Diesel,Litres,Dyna4,30.0,1227,36810,Nov wk 3 - 24
+2024-11-19,6076,Sourcing,Fuel,Litres,Bikes,8.0,1200,9600,Nov wk 3 - 24
+2024-11-19,6077,Production,CaC03,bags,production,7.0,0,0,Nov wk 3 - 24
+2024-11-20,6078,Production,Diesel,Litres,MB2 to convey PKS to calabar,60.0,0,0,Nov wk 3 - 24
+2024-11-20,6079,Sourcing,Fuel,Litres,Bikes,7.0,1200,8400,Nov wk 3 - 24
+2024-11-20,6077,Production,CaC03,bags,production,8.0,0,0,Nov wk 3 - 24
+2024-11-21,6078,Sourcing,Diesel,Litres,Dyna4,30.0,1227,36810,Nov wk 3 - 24
+2024-11-21,6079,Sourcing,Fuel,Litres,Bikes,8.0,1200,9600,Nov wk 3 - 24
+2024-11-21,6080,Sourcing,Fuel,Litres,ford2,30.0,1200,36000,Nov wk 3 - 24
+2024-11-21,6081,Production,CaC03,bags,production,14.0,0,0,Nov wk 3 - 24
+2024-11-22,6082,Sourcing,Diesel,Litres,Dyna4,30.0,1227,36810,Nov wk 3 - 24
+2024-11-22,6083,Sourcing,Diesel,Litres,Mb1,40.0,1227,49080,Nov wk 3 - 24
+2024-11-22,6084,Sourcing,Fuel,Litres,Bikes,9.0,1200,10800,Nov wk 3 - 24
+2024-11-22,6085,Production,CaC03,bags,production,6.0,0,0,Nov wk 3 - 24
+2024-11-22,6086,Production,Diesel,Litres,production,300.0,0,0,Nov wk 3 - 24
+2024-11-23,6087,Sourcing,Fuel,Litres,Bikes,5.0,1200,6000,Nov wk 3 - 24
+2024-11-23,6088,Production,CaC03,bags,production,11.0,0,0,Nov wk 3 - 24
+2024-11-24,6088,Sourcing,Fuel,Litres,Biles,1.0,1200,1200,Nov wk 3 - 24
+2024-11-24,6089,Enforcement,PP2w,tonnes,Lordtech,30.18,0,0,Nov wk 3 - 24
+2024-11-25,6090,Sourcing,Fuel,Litres,Bikes,8.0,1200,9600,Nov wk 4 - 24
+2024-11-25,6091,Production,Diesel,Litres,Mb1 to conveyed F/W,10.0,0,0,Nov wk 4 - 24
+2024-11-25,6092,Production,CaC03,bags,production,15.0,0,0,Nov wk 4 - 24
+2024-11-26,6093,Sourcing,Diesel,Litres,Dyna4,30.0,1227,36810,Nov wk 4 - 24
+2024-11-26,6094,Sourcing,Fuel,Litres,Bikes,8.0,1200,9600,Nov wk 4 - 24
+2024-11-26,6095,Production,Diesel,Litres,production,300.0,0,0,Nov wk 4 - 24
+2024-11-26,6096,Production,CaC03,bags,production,7.0,0,0,Nov wk 4 - 24
+2024-11-27,6097,Sourcing,Diesel,Litres,MB1,40.0,1227,49080,Nov wk 4 - 24
+2024-11-27,6098,Payloader,Diesel,Litres,Payloader PKS Movement,60.0,0,0,Nov wk 4 - 24
+2024-11-27,6099,Sourcing,Fuel,Litres,Bikes,7.0,1200,8400,Nov wk 4 - 24
+2024-11-27,6098,Production,CaC03,bags,production,9.0,0,0,Nov wk 4 - 24
+2024-11-28,6098,Sourcing,Fuel,Litres,ford2,30.0,1200,36000,Nov wk 4 - 24
+2024-11-28,6099,Sourcing,Fuel,Litres,Bikes,8.0,1200,9600,Nov wk 4 - 24
+2024-11-28,7000,Sourcing,Diesel,Litres,Dyna4,30.0,1227,36810,Nov wk 4 - 24
+2024-11-28,7001,Enforcement,Diesel,Litres,Diesel Varience,500.0,0,0,Nov wk 4 - 24
+2024-11-28,7002,Production,CaC03,bags,production,7.0,0,0,Nov wk 4 - 24
+2024-11-29,7003,Sourcing,Fuel,Litres,Bikes,5.0,1200,6000,Nov wk 4 - 24
+2024-11-29,7004,Production,CaC03,bags,production,6.0,0,0,Nov wk 4 - 24
+2024-11-30,7004,Sourcing,Diesel,Litres,Dyna4,30.0,1227,36810,Nov wk 4 - 24
+2024-11-30,7005,Sourcing,Fuel,Litres,Bikes,4.0,1200,6000,Nov wk 4 - 24
+2024-11-30,7006,Production,Diesel,Litres,production,300.0,0,0,Nov wk 4 - 24
+2024-11-30,7007,Production,Diesel,Litres,MB2,30.0,0,0,Nov wk 4 - 24
+2024-11-30,7008,Production,CaC03,bags,production,6.0,0,0,Nov wk 4 - 24
+2024-12-02,7009,Payloader,Diesel,Litres,Payloader PKS Movement,60.0,0,0,Dec wk 1 - 24
+2024-12-02,7008,Sourcing,Fuel,Litres,Bikes,4.0,1200,4800,Dec wk 1 - 24
+2024-12-03,7009,Sourcing,Diesel,Litres,Dyna4,30.0,1227,36810,Dec wk 1 - 24
+2024-12-03,7010,Sourcing,Fuel,Litres,Bikes,4.0,1200,4800,Dec wk 1 - 24
+2024-12-03,7010,Production,Diesel,Litres,Alternator gen,5.0,0,0,Dec wk 1 - 24
+2024-12-04,7011,Payloader,Diesel,Litres,Payloader PKS Movement,60.0,0,0,Dec wk 1 - 24
+2024-12-04,7012,Sourcing,Fuel,Litres,ford2,30.0,1200,36000,Dec wk 1 - 24
+2024-12-04,7013,Sourcing,Diesel,Litres,Dyna4,10.0,1227,12270,Dec wk 1 - 24
+2024-12-05,7014,Production,Diesel,Litres,Alternator gen,5.0,0,0,Dec wk 1 - 24
+2024-12-05,7015,Sourcing,Diesel,Litres,Dyna4,20.0,1227,24540,Dec wk 1 - 24
+2024-12-05,7011,Payloader,Diesel,Litres,Payloader PKS Movement,60.0,0,0,Dec wk 1 - 24
+2024-12-05,7012,Sourcing,Fuel,Litres,Bikes,9.0,1200,10800,Dec wk 1 - 24
+2024-12-06,7013,Production,Diesel,Litres,Alternator gen,5.0,0,0,Dec wk 1 - 24
+2024-12-06,7014,Sourcing,Diesel,Litres,Dyna4,30.0,1227,36810,Dec wk 1 - 24
+2024-12-06,7015,Sourcing,Fuel,Litres,Bikes,5.0,1200,6000,Dec wk 1 - 24
+2024-12-07,7016,Payloader,Diesel,Litres,Payloader PKS Movement,120.0,0,0,Dec wk 1 - 24
+2024-12-07,7017,Sourcing,Fuel,Litres,Bikes,3.0,1200,3600,Dec wk 1 - 24
+2024-12-09,7018,Sourcing,Fuel,Litres,Bikes,8.0,1200,9600,Dec wk 2 - 24
+2024-12-09,7019,Sourcing,Fuel,Litres,ford2,13.0,1200,15600,Dec wk 2 - 24
+2024-12-09,7020,Production,Diesel,Litres,Alternator gen,5.0,1200,6000,Dec wk 2 - 24
+2024-12-10,7021,Sourcing,Fuel,Litres,Bikes,5.0,0,0,Dec wk 2 - 24
+2024-12-10,7022,Production,Diesel,Litres,Alternator gen,5.0,0,0,Dec wk 2 - 24
+2024-12-11,7021,Payloader,Diesel,Litres,Payloader,60.0,0,0,Dec wk 2 - 24
+2024-12-11,7022,Sourcing,Diesel,Litres,Dyna4,40.0,1198,47920,Dec wk 2 - 24
+2024-12-11,7023,Sourcing,Fuel,Litres,Ford2,30.0,1200,36000,Dec wk 2 - 24
+2024-12-11,7024,Sourcing,Fuel,Litres,Bikes,5.0,1200,6000,Dec wk 2 - 24
+2024-12-11,7025,Production,Diesel,Litres,Mb2,40.0,0,0,Dec wk 2 - 24
+2024-12-12,7026,Sourcing,Diesel,Litres,Mb3,30.0,1198,35940,Dec wk 2 - 24
+2024-12-12,7027,Production,Diesel,Litres,Alternator gen,5.0,0,0,Dec wk 2 - 24
+2024-12-12,7028,Payloader,Diesel,Litres,Payloader PKS Movement,60.0,0,0,Dec wk 2 - 24
+2024-12-12,7029,Sourcing,Fuel,Litres,Bikes,3.0,1200,3600,Dec wk 2 - 24
+2024-12-13,7030,Sourcing,Fuel,Litres,Bikes,7.0,1200,8400,Dec wk 2 - 24
+2024-12-13,7031,Production,Diesel,Litres,Alternator gen,5.0,0,0,Dec wk 2 - 24
+2024-12-16,7032,Sourcing,Diesel,Litres,Dyna4,40.0,1198,47920,Dec wk 3 - 24
+2024-12-16,7033,Sourcing,Fuel,Litres,Bkes,7.0,1200,8400,Dec wk 3 - 24
+2024-12-16,7034,Production,CaC03,bags,production,14.0,0,0,Dec wk 3 - 24
+2024-12-17,7035,Sourcing,Fuel,Litres,Bikes,8.0,1200,9600,Dec wk 3 - 24
+2024-12-17,7036,Production,CaC03,bags,production,8.0,0,0,Dec wk 3 - 24
+2024-12-18,7037,Production,Diesel,Litres,production,300.0,0,0,Dec wk 3 - 24
+2024-12-18,7035,Sourcing,Fuel,Litres,Bikes,5.0,1200,6000,Dec wk 3 - 24
+2024-12-18,7036,Production,CaC03,bags,production,12.0,0,0,Dec wk 3 - 24
+2024-12-19,7037,Enforcement,PP2w,tonnes,Benland,16.48,0,0,Dec wk 3 - 24
+2024-12-20,7038,Enforcement,Fuel,Litres,Gen,30.0,0,0,Dec wk 3 - 24
+2024-12-20,7039,Production,Diesel,Litres,Alternator gen,5.0,0,0,Dec wk 3 - 24
+2024-12-20,7040,Enforcement,Fuel,Litres,Gen/Bike,67.0,1200,84000,Dec wk 3 - 24
+2025-01-13,7041,Payloader,Diesel,Litres,Payloader PKS Movement,60.0,0,0,Jan wk 3 - 25
+2025-01-13,7042,Production,Diesel,Litres,MB2 to convey CC3 to calabar,30.0,0,0,Jan wk 3 - 25
+2025-01-13,7043,Sourcing,Fuel,Litres,Bikes,3.0,1200,3600,Jan wk 3 - 25
+2025-01-14,7044,Sourcing,Fuel,Litres,Bikes,7.0,1200,8400,Jan wk 3 - 25
+2025-01-14,7045,Sourcing,Diesel,Litres,Dyna4,30.0,1198,35940,Jan wk 3 - 25
+2025-01-14,7046,Production,Diesel,Litres,Alternator gen,10.0,0,0,Jan wk 3 - 25
+2025-01-15,7047,Sourcing,Fuel,Litres,Bikes,6.0,1200,7200,Jan wk 3 - 25
+2025-01-15,7048,Sourcing,Fuel,Litres,Ford2,30.0,1200,36000,Jan wk 3 - 25
+2025-01-15,7049,Payloader,Diesel,Litres,Payloader PKS Movement,30.0,0,0,Jan wk 3 - 25
+2025-01-16,7050,Payloader,Diesel,Litres,Payloader PKS Movement,30.0,0,0,Jan wk 3 - 25
+2025-01-16,7051,Sourcing,Fuel,Litres,Bikes,7.0,1200,8200,Jan wk 3 - 25
+2025-01-17,7052,Sourcing,Diesel,Litres,Dyna4,30.0,1198,35940,Jan wk 3 - 25
+2025-01-17,7053,Sourcing,Fuel,Litres,Bikes,4.0,1200,4800,Jan wk 3 - 25
+2025-01-18,7054,Production,Diesel,Litres,Alternator gen,5.0,0,0,Jan wk 3 - 25
+2025-01-18,7055,Sourcing,Fuel,Litres,Bikes,5.0,1200,6000,Jan wk 3 - 25
+2025-01-20,7056,Production,Diesel,Litres,Dyna4,30.0,0,0,Jan wk 4 - 25
+2025-01-20,7057,Sourcing,Fuel,Litres,Bikes,7.0,1200,8200,Jan wk 4 - 25
+2025-01-20,7058,Sourcing,Diesel,Litres,Alternator gen,10.0,0,0,Jan wk 4 - 25
+2025-01-21,7059,Sourcing,Diesel,Litres,MB3,30.0,1198,35940,Jan wk 4 - 25
+2025-01-21,7060,Sourcing,Fuel,Litres,Bikes,6.0,1200,7400,Jan wk 4 - 25
+2025-01-22,7061,Sourcing,Diesel,Litres,Dyna3 for maintenanace,30.0,1198,35940,Jan wk 4 - 25
+2025-01-22,7060,Sourcing,Fuel,Litres,Bikes,6.0,1200,7400,Jan wk 4 - 25
+2025-01-23,7061,Sourcing,Diesel,Litres,Dyna4,30.0,1198,35940,Jan wk 4 - 25
+2025-01-24,7062,Production,Diesel,Litres,Alternator gen,10.0,0,0,Jan wk 4 - 25
+2025-01-25,7063,Sourcing,Fuel,Litres,Bikes,7.0,1200,8200,Jan wk 4 - 25
+2025-01-25,7064,Sourcing,Fuel,Litres,Ford2,15.0,1200,18000,Jan wk 4 - 25
+2025-01-26,7065,Sourcing,Fuel,Litres,Bikes,2.0,1200,2400,Jan wk 4 - 25
+2025-01-27,7066,Sourcing,Fuel,Litres,Bikes,2.0,1200,2400,Jan wk 5 - 25
+2025-01-27,7067,Payloader,Diesel,Litres,Payloader,60.0,0,0,Jan wk 5 - 25
+2025-01-27,7068,Production,Diesel,Litres,Alternator gen,10.0,0,0,Jan wk 5 - 25
+2025-01-28,7069,Sourcing,Fuel,Litres,Bikes,6.0,1150,7000,Jan wk 5 - 25
+2025-01-29,7070,Production,Diesel,Litres,Alternator gen,10.0,0,0,Jan wk 5 - 25
+2025-01-29,7071,Sourcing,Fuel,Litres,Bikes,3.0,1150,3450,Jan wk 5 - 25
+2025-01-30,7072,Sourcing,Fuel,Litres,Bikes,9.0,1150,10350,Jan wk 5 - 25
+2025-01-31,7073,Sourcing,Fuel,Litres,Bikes,4.0,1150,4600,Jan wk 5 - 25
+2025-01-31,7074,Production,Diesel,Litres,Mb3,30.0,1198,35940,Jan wk 5 - 25
+2025-01-31,7075,Production,Diesel,Litres,Alternator gen,10.0,0,0,Jan wk 5 - 25
+2025-02-03,7076,Sourcing,Diesel,Litres,Dyna3,30.0,1198,35940,Feb wk 1 - 25
+2025-02-03,7077,Sourcing,Diesel,Litres,Alternator gen,10.0,0,0,Feb wk 1 - 25
+2025-02-03,7078,Production,Fuel,Litres,Bikes,3.0,1150,3450,Feb wk 1 - 25
+2025-02-04,7079,Sourcing,Diesel,Litres,Mb3,30.0,1198,35940,Feb wk 1 - 25
+2025-02-04,7080,Sourcing,Diesel,Litres,Dyna3,30.0,1198,35940,Feb wk 1 - 25
+2025-02-04,7082,Sourcing,Fuel,Litres,Bikes,3.0,1150,3450,Feb wk 1 - 25
+2025-02-04,7081,Sourcing,Fuel,Litres,Ford2,30.0,1150,34500,Feb wk 1 - 25
+2025-02-05,7084,Sourcing,Fuel,Litres,Bikes,6.0,1150,6900,Feb wk 1 - 25
+2025-02-05,7083,Sourcing,Diesel,Litres,Dyna3,30.0,1198,35940,Feb wk 1 - 25
+2025-02-06,7088,Sourcing,Fuel,Litres,Bikes,7.0,1150,8050,Feb wk 1 - 25
+2025-02-06,7085,Production,Diesel,Litres,Alternator gen,10.0,0,0,Feb wk 1 - 25
+2025-02-06,7087,Sourcing,Diesel,Litres,Mb3,30.0,1198,35940,Feb wk 1 - 25
+2025-02-06,7086,Sourcing,Fuel,Litres,Ford2,30.0,1150,34500,Feb wk 1 - 25
+2025-02-07,7090,Sourcing,Fuel,Litres,Bikes,11.0,1150,12650,Feb wk 1 - 25
+2025-02-07,7089,Sourcing,Diesel,Litres,Dyna3,30.0,1198,35940,Feb wk 1 - 25
+2025-02-07,7090,Production,Diesel,Litres,Crane for Biocar installation,30.0,0,0,Feb wk 1 - 25
+2025-02-08,7091,Sourcing,Fuel,Litres,Bikes,6.0,1150,6900,Feb wk 1 - 25
+2025-02-08,7092,Sourcing,Fuel,Litres,Ford2,30.0,1150,34500,Feb wk 1 - 25
+2025-02-10,7093,Sourcing,Fuel,Litres,Bikes,3.0,1150,3450,Feb wk 2 - 25
+2025-02-10,7094,Production,CaC03,bags,production,23.0,0,0,Feb wk 2 - 25
+2025-02-11,7095,Sourcing,Fuel,Litres,Bikes,9.0,1150,10350,Feb wk 2 - 25
+2025-02-11,7096,Production,CaC03,bags,production,17.0,0,0,Feb wk 2 - 25
+2025-02-12,7097,Production,Diesel,Litres,production,300.0,0,0,Feb wk 2 - 25
+2025-02-12,7098,Sourcing,Fuel,Litres,Bikes,3.0,1150,3450,Feb wk 2 - 25
+2025-02-12,7099,Production,CaC03,bags,production,12.0,0,0,Feb wk 2 - 25
+2025-02-13,7100,Sourcing,Diesel,Litres,Mb3,30.0,1198,35940,Feb wk 2 - 25
+2025-02-13,7100,Sourcing,Fuel,Litres,Bikes,9.0,0,10350,Feb wk 2 - 25
+2025-02-13,7101,Production,CaC03,bags,production,16.0,0,0,Feb wk 2 - 25
+2025-02-14,7101,Sourcing,Fuel,Litres,Bikes,6.0,1150,6900,Feb wk 2 - 25
+2025-02-14,7101,Production,CaC03,bags,production,10.0,0,0,Feb wk 2 - 25
+2025-02-15,7102,Sourcing,Fuel,Litres,Bikes,3.0,1150,3450,Feb wk 2 - 25
+2025-02-15,7103,Production,Diesel,Litres,Alternator gen,5.0,0,0,Feb wk 2 - 25
+2025-02-15,7104,Enforcement,PP2w,tonnes,Lordtech,32.44,0,0,Feb wk 2 - 25
+2025-02-17,7105,Sourcing,Diesel,Litres,MB3,30.0,1198,35940,Feb wk 3 - 25
+2025-02-17,7106,Sourcing,Fuel,Litres,Bikes,10.0,1150,11500,Feb wk 3 - 25
+2025-02-17,7107,Production,Diesel,Litres,Alternator gen,10.0,0,0,Feb wk 3 - 25
+2025-02-18,7108,Sourcing,Fuel,Litres,Bikes,6.0,1150,6900,Feb wk 3 - 25
+2025-02-20,7109,Sourcing,Fuel,Litres,Ford2,30.0,1150,34500,Feb wk 3 - 25
+2025-02-20,7110,Sourcing,Fuel,Litres,Bikes,3.0,0,0,Feb wk 3 - 25
+2025-02-20,7111,Production,Diesel,Litres,Alternator gen,5.0,1150,3450,Feb wk 3 - 25
+2025-02-21,7112,Sourcing,Diesel,Litres,MB3,30.0,1198,35940,Feb wk 3 - 25
+2025-02-21,7113,Sourcing,Diesel,Litres,Dyna3,30.0,1198,35940,Feb wk 3 - 25
+2025-02-21,7114,Payloader,Diesel,Litres,Payloader,30.0,0,0,Feb wk 3 - 25
+2025-02-21,7115,Sourcing,Fuel,Litres,Bikes,9.0,1150,10350,Feb wk 3 - 25
+2025-02-21,7116,Sourcing,Fuel,Litres,Ford2,30.0,1150,34500,Feb wk 3 - 25
+2025-02-21,7117,Production,Diesel,Litres,Alternator gen,10.0,0,0,Feb wk 3 - 25
+2025-02-22,7117,Sourcing,Diesel,Litres,Dyna3,30.0,1198,35940,Feb wk 3 - 25
+2025-02-22,7118,Sourcing,Fuel,Litres,Bikes,6.0,1150,6900,Feb wk 3 - 25
+2025-02-22,7119,Sourcing,Diesel,Litres,MB3,10.0,1198,11980,Feb wk 3 - 25
+2025-02-24,7120,Sourcing,Diesel,Litres,MB3,20.0,1198,23960,Feb wk 4 - 25
+2025-02-25,7130,Sourcing,Fuel,Litres,Bikes,3.0,1150,3450,Feb wk 4 - 25
+2025-02-25,7131,Production,Diesel,Litres,Mb3,30.0,1198,35940,Feb wk 4 - 25
+2025-02-25,7132,Sourcing,Diesel,Litres,Alternator gen,10.0,0,0,Feb wk 4 - 25
+2025-02-26,7133,Sourcing,Diesel,Litres,Dyna3,30.0,1198,35940,Feb wk 4 - 25
+2025-02-26,7134,Sourcing,Fuel,Litres,Bikes,6.0,1150,6900,Feb wk 4 - 25
+2025-02-27,7135,Sourcing,Fuel,Litres,Bikes,5.0,1150,5750,Feb wk 4 - 25
+2025-02-27,7136,Sourcing,Fuel,Litres,Ford2,30.0,1150,34500,Feb wk 4 - 25
+2025-02-28,7137,Sourcing,Diesel,Litres,Dyna3,30.0,1198,35940,Feb wk 4 - 25
+2025-02-28,7138,Sourcing,Diesel,Litres,MB3,30.0,1198,35940,Feb wk 4 - 25
+2025-02-28,7139,Sourcing,Diesel,Litres,MB2,20.0,1198,23960,Feb wk 4 - 25
+2025-02-28,7140,Production,Diesel,Litres,Alternator gen,10.0,0,0,Feb wk 4 - 25
+2025-02-28,7141,Sourcing,Fuel,Litres,Bikes,9.0,1150,10350,Feb wk 4 - 25
+2025-03-01,7142,Sourcing,Fuel,Litres,Ford2,30.0,1198,35940,Feb wk 4 - 25
+2025-03-01,7143,Sourcing,Diesel,Litres,Dyna3,30.0,1198,35940,Feb wk 4 - 25
+2025-03-01,7144,Sourcing,Fuel,Litres,Bikes,4.0,1150,4600,Feb wk 4 - 25
+2025-03-01,7145,Enforcement,Bio Char,tonnes,Customer,50.7,0,0,Feb wk 4 - 25
+2025-03-01,7146,Production,CaC03,bags,production,14.0,0,0,Feb wk 4 - 25
+2025-03-02,7146,Production,Diesel,Litres,production,300.0,0,0,Feb wk 4 - 25
+2025-03-02,7146,Production,CaC03,bags,production,5.0,0,0,Feb wk 4 - 25
+2025-03-03,7147,Sourcing,Diesel,Litres,production,30.0,1198,35940,Mar wk 1 - 25
+2025-03-03,7148,Sourcing,Fuel,Litres,Bikes,8.0,1150,9200,Mar wk 1 - 25

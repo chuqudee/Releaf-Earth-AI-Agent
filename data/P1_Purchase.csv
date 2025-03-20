@@ -1,0 +1,1169 @@
+date,rp,name,gender,supplier's_type,lga,phone_number,community,p1_supplied_in_tons,p1_price_per_ton,grade,lmv_used,week_code,distance_covered
+2024-01-09,Muyideen,Favour Nnedu,F,Merchant,Akamkpa,2348163187190.0,Uyanga,2.24,51000,2,Ford2,Jan wk 2 - 24,
+2024-01-10,Muyideen,Favour Nnedu,F,Merchant,Akamkpa,2348163187190.0,Uyanga,3.91,51000,2,Dyna2,Jan wk 2 - 24,34.66
+2024-01-10,Muyideen,Favour Nnedu,F,Merchant,Akamkpa,2348163187190.0,Uyanga,2.41,51000,2,Ford2,Jan wk 2 - 24,34.66
+2024-01-10,Muyideen,Favour Nnedu,F,Merchant,Akamkpa,2348163187190.0,Uyanga,2.16,51000,2,Ford2,Jan wk 2 - 24,34.66
+2024-01-11,Muyideen,Namso Udoh,M,Merchant,Biase,2348066071921.0,Iwuru,3.91,51000,2,Dyna2,Jan wk 2 - 24,21.52
+2024-01-11,Muyideen,Edidiong Moses,M,Merchant,Biase,2347068905449.0,Iwuru,1.95,53000,1,Ford2,Jan wk 2 - 24,21.52
+2024-01-12,Muyideen,Egbai Amang,M,Merchant,Biase,2348148519955.0,Akpet Central,1.94,51000,2,Ford2,Jan wk 2 - 24,50.48
+2024-01-13,Muyideen,Onuka Uche Kalu,M,Farmer,Biase,2348034977697.0,Umai,2.1,49000,3,Ford2,Jan wk 2 - 24,40.0
+2024-01-15,Muyideen,Oham Egbai Ehom,M,Merchant,Biase,2348147166091.0,Akpet Central,3.62,51000,2,Dyna2,Jan wk 3 - 24,50.48
+2024-01-15,Hosanna,Ubong Aniekan,M,Farmer,Biase,2348105815483.0,Orida,1.95,51000,2,Ford2,Jan wk 3 - 24,4.0
+2024-01-15,Muyideen,Oham Egbai Ehom,M,Merchant,Biase,2348147166091.0,Akpet Central,4.1,51000,2,Dyna2,Jan wk 3 - 24,50.48
+2024-01-16,Hosanna,Obot Udoh,M,Merchant,Biase,2349129010350.0,Ehom Ibofia,2.25,51000,2,Ford2,Jan wk 3 - 24,40.4
+2024-01-16,Andifon,Innocent Lawrence,M,Merchant,Akamkpa,2348148279541.0,Nsan,3.27,53000,1,Dyna2,Jan wk 3 - 24,68.34
+2024-01-16,Hosanna,Obot Udoh,M,Farmer,Biase,2349129010350.0,Ehom Ibofia,1.79,51000,2,Ford2,Jan wk 3 - 24,40.4
+2024-01-17,Andifon,Bassey John David,M,Merchant,Biase,2348146797313.0,Iwuru,3.77,51000,2,Dyna2,Jan wk 3 - 24,21.52
+2024-01-17,Hosanna,Obot Udoh,M,Farmer,Biase,2349129010350.0,Ehom Ibofia,2.09,51000,2,Dyna2,Jan wk 3 - 24,40.4
+2024-01-18,Andifon,Nnenna Bernad,F,Farmer,Biase,2349164395488.0,Iwuru,1.68,53000,1,Ford2,Jan wk 3 - 24,21.52
+2024-01-18,Muyideen,Akaninyene Ekanem,M,Merchant,Akamkpa,2348164267908.0,Uyanga,2.49,53000,1,Ford2,Jan wk 3 - 24,34.66
+2024-01-18,Muyideen,Favour Nnedu,F,Merchant,Akamkpa,2348163187190.0,Uyanga,4.51,53000,1,Dyna2,Jan wk 3 - 24,34.66
+2024-01-18,Muyideen,Favour Nnedu,F,Merchant,Akamkpa,2348163187190.0,Uyanga,2.56,53000,1,Ford2,Jan wk 3 - 24,34.66
+2024-01-19,Muyideen,Favour Nnedu,F,Merchant,Akamkpa,2348163187190.0,Uyanga,3.94,53000,1,Dyna2,Jan wk 3 - 24,34.66
+2024-01-20,Hosanna,Obot Udoh,M,Farmer,Biase,2349129010350.0,Ehom Ibofia,2.06,49000,3,Ford2,Jan wk 3 - 24,40.4
+2024-01-22,Muyideen,Oham Egbai Ehom,M,Merchant,Biase,2348147166091.0,Akpet Central,2.07,54000,1,Ford2,Jan wk 4 - 24,50.48
+2024-01-22,Muyideen,Oham Egbai Ehom,M,Merchant,Biase,2348147166091.0,Akpet Central,2.58,50000,3,Ford2,Jan wk 4 - 24,50.48
+2024-01-23,Muyideen,Edidiong Moses,M,Merchant,Biase,2347068905449.0,Betem,5.42,55000,1,MB1,Jan wk 4 - 24,19.8
+2024-01-23,Muyideen,Oham Egbai Ehom,M,Merchant,Biase,2348147166091.0,Akpet Central,2.56,50000,3,Ford2,Jan wk 4 - 24,50.48
+2024-01-24,Muyideen,Oham Egbai Ehom,M,Merchant,Biase,2348147166091.0,Akpet Central,2.53,54000,1,Ford2,Jan wk 4 - 24,50.48
+2024-01-24,Hosanna,Ubong Aniekan,M,Farmer,Biase,2348105815483.0,Ekpiriko,1.55,50000,3,MB1,Jan wk 4 - 24,16.7
+2024-01-24,Muyideen,Oham Egbai Ehom,M,Merchant,Biase,2348147166091.0,Akpet Central,2.38,52000,2,Ford2,Jan wk 4 - 24,50.48
+2024-01-25,Andifon,Joy Emmanuel Ogozi,F,Farmer,Biase,2349047506251.0,Ekpiriko,2.2,54000,1,Ford2,Jan wk 4 - 24,16.7
+2024-01-25,Andifon,Joy Emmanuel Ogozi,F,Farmer,Biase,2349047506251.0,Ekpiriko,1.2,54000,1,Ford2,Jan wk 4 - 24,16.7
+2024-01-25,Muyideen,Favour Nnedu,F,Merchant,Biase,2348163187190.0,Uyanga,3.89,54000,1,Dyna2,Jan wk 4 - 24,34.66
+2024-01-25,Hosanna,Obot Udoh,M,Farmer,Biase,2349129010350.0,Ehom Ibofia,1.87,50000,3,Ford2,Jan wk 4 - 24,40.4
+2024-01-26,Andifon,Happiness Uba,F,Farmer,Biase,2349162321689.0,Iwuru,1.68,53000,2,Ford2,Jan wk 4 - 24,21.52
+2024-01-26,Muyideen,Favour Nnedu,F,Merchant,Akamkpa,2348163187190.0,Uyanga,4.43,52000,2,Dyna2,Jan wk 4 - 24,34.66
+2024-01-26,Muyideen,Favour Nnedu,F,Merchant,Akamkpa,2348163187190.0,Uyanga,4.0,52000,3,Dyna2,Jan wk 4 - 24,34.66
+2024-01-27,Andifon,Ishmael Macaulay,M,Farmer,Biase,2348120707839.0,Ekpiriko,2.12,52000,2,Ford2,Jan wk 4 - 24,16.7
+2024-01-29,Muyideen,Edidiong Moses,M,Merchant,Biase,2347068905449.0,Iwuru,4.45,53000,2,Dyna2,Jan wk 5 - 24,21.52
+2024-01-29,Hosanna,Obot Udoh,M,Farmer,Biase,2349129010350.0,Ehom Ibofia,1.6,50000,3,Ford2,Jan wk 5 - 24,40.4
+2024-01-29,Muyideen,Favour Nnedu,F,Merchant,Akamkpa,2348163187190.0,Uyanga,3.8,54000,2,Dyna2,Jan wk 5 - 24,34.66
+2024-01-29,Muyideen,Edidiong Moses,M,Merchant,Biase,2347068905449.0,Iwuru,1.1,53000,2,Ford2,Jan wk 5 - 24,21.52
+2024-01-30,Muyideen,Sampson Diamond,M,Farmer,Biase,2349029055984.0,Akpet Central,2.14,50000,3,Ford2,Jan wk 5 - 24,50.48
+2024-01-30,Hosanna,Aniekan Etim,M,Farmer,Biase,2348105815483.0,Ibofia,2.19,52000,2,Ford2,Jan wk 5 - 24,40.48
+2024-01-30,Hosanna,Miracle Arong,M,Farmer,Biase,2347042352253.0,Ibofia,1.38,52000,2,Ford2,Jan wk 5 - 24,40.48
+2024-01-31,Muyideen,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Iwuru,3.91,51000,3,Dyna2,Jan wk 5 - 24,21.52
+2024-01-31,Andifon,Helen Okon Essien,F,Farmer,Biase,2348142952107.0,Ekpiriko,3.35,52000,2,Dyna2,Jan wk 5 - 24,16.7
+2024-02-02,Hosanna,Anietie Amos,M,Farmer,Biase,2348133496073.0,Orida,2.1,52000,2,Dyna2,Jan wk 5 - 24,4.0
+2024-02-02,Andifon,Ehiremhen Ebhohon,M,Merchant,Akamkpa,2348100060693.0,Ojor,4.1,54000,1,Dyna2,Jan wk 5 - 24,38.72
+2024-02-02,Andifon,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Iwuru,3.03,53000,2,Dyna2,Jan wk 5 - 24,21.52
+2024-02-02,Muyideen,Glory Eyo,F,Farmer,Biase,2348101684081.0,Akpet Central,1.02,52000,2,Dyna2,Jan wk 5 - 24,50.48
+2024-02-02,Muyideen,Nimmong Essien,M,Merchant,Akamkpa,2348132219221.0,Uyanga,4.24,53000,2,MB1,Jan wk 5 - 24,34.66
+2024-02-05,Muyideen,Favour Nnedu,F,Merchant,Akamkpa,2348163187190.0,Uyanga,4.17,54000,2,Dyna2,Feb wk 1 - 24,34.66
+2024-02-05,Andifon,Onda Ivang,M,Merchant,Biase,2348165754289.0,Ehom,6.5,50000,3,MB1,Feb wk 1 - 24,10.0
+2024-02-05,Muyideen,Favour Nnedu,F,Merchant,Akamkpa,2348163187190.0,Uyanga,4.71,54000,2,Dyna2,Feb wk 1 - 24,34.66
+2024-02-06,Andifon,Ehiremhen Ebhohon,F,Merchant,Akamkpa,2348100060693.0,Ojor,4.01,52000,2,Dyna2,Feb wk 1 - 24,38.72
+2024-02-07,Hosanna,Peter Solomon,M,Farmer,Biase,2349160069310.0,Igbofia,2.8,52000,2,Dyna2,Feb wk 1 - 24,40.48
+2024-02-08,Muyideen,Favour Nnedu,F,Merchant,Akamkpa,2348163187190.0,Uyanga,4.45,52000,2,Dyna2,Feb wk 1 - 24,34.66
+2024-02-08,Muyideen,Edidiong Moses,M,Merchant,Biase,2347068905449.0,Iwuru,3.53,54000,1,Dyna3,Feb wk 1 - 24,21.52
+2024-02-08,Muyideen,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Iwuru,4.13,54000,1,Dyna3,Feb wk 1 - 24,21.52
+2024-02-09,Muyideen,Favour Nnedu,F,Merchant,Akamkpa,2348163187190.0,Uyanga,4.44,50000,3,Dyna2,Feb wk 1 - 24,34.66
+2024-02-09,Muyideen,Favour Nnedu,F,Merchant,Akamkpa,2348163187190.0,Uyanga,3.43,52000,3,Dyna3,Feb wk 1 - 24,34.66
+2024-02-09,Hosanna,Akpe Arong Akpe,M,Farmer,Biase,2349034110410.0,Igbofia,4.7,52000,2,MB1,Feb wk 1 - 24,40.48
+2024-02-10,Hosanna,Obot Udoh,M,Farmer,Biase,2349129010350.0,Igbofia,2.74,50000,3,Dyna2,Feb wk 1 - 24,40.48
+2024-02-10,Hosanna,Miracle Arong,M,Farmer,Biase,2347042352253.0,Igbofia,4.54,52000,2,MB1,Feb wk 1 - 24,40.48
+2024-02-12,Muyideen,Edidiong Moses,M,Merchant,Biase,2347068905449.0,Iwuru,4.19,54000,1,Dyna2,Feb wk 2 - 24,21.52
+2024-02-12,Muyideen,Michael Ikum,M,Merchant,Akamkpa,2348133704328.0,Ojor,3.32,50000,3,Dyna3,Feb wk 2 - 24,38.72
+2024-02-12,Muyideen,Edidiong Moses,M,Merchant,Biase,2347068905449.0,Iwuru,3.57,54000,1,Dyna2,Feb wk 2 - 24,21.52
+2024-02-12,Muyideen,Michael Ikum,M,Merchant,Biase,2348133704328.0,Ojor,4.18,50000,3,Dyna3,Feb wk 2 - 24,38.72
+2024-02-13,Andifon,Cynthia Udo,F,Merchant,Biase,2348164033732.0,Big Iwuru,2.33,52000,2,Ford2,Feb wk 2 - 24,8.5
+2024-02-13,Muyideen,Favour Nnedu,F,Merchant,Akamkpa,2348163187190.0,Uyanga,4.24,53000,2,Dyna2,Feb wk 2 - 24,34.66
+2024-02-13,Muyideen,Edidiong Moses,M,Merchant,Biase,2347068905449.0,Iwuru,3.65,54000,1,Dyna3,Feb wk 2 - 24,21.52
+2024-02-13,Andifon,Cynthia Udo,F,Merchant,Biase,2348164033732.0,Big Iwuru,1.35,52000,2,Ford2,Feb wk 2 - 24,8.5
+2024-02-13,Muyideen,Favour Nnedu,F,Merchant,Akamkpa,2348163187190.0,Uyanga,4.56,53000,2,Dyna2,Feb wk 2 - 24,34.66
+2024-02-13,Muyideen,Michael Ikum,M,Merchant,Akamkpa,2348133704328.0,Ojor,3.41,50000,2,Dyna3,Feb wk 2 - 24,38.72
+2024-02-13,Muyideen,Favour Nnedu,F,Merchant,Akamkpa,2348163187190.0,Uyanga,4.2,53000,3,Dyna2,Feb wk 2 - 24,34.66
+2024-02-14,Muyideen,Nimmong Essien,M,Merchant,Akamkpa,2348132219221.0,Uyanga,4.78,50000,2,Dyna3,Feb wk 2 - 24,34.66
+2024-02-15,Hosanna,Obot Udoh,M,Farmer,Biase,2349129010350.0,Igbofia,2.22,50000,3,Ford2,Feb wk 2 - 24,40.48
+2024-02-15,Muyideen,Abraham Udo,M,Merchant,Akamkpa,2348107978567.0,Ojor,5.72,52000,2,MB1,Feb wk 2 - 24,38.72
+2024-02-16,Muyideen,Rachael Okon,F,Merchant,Akamkpa,2349061648619.0,Uyanga,7.27,52000,2,MB1,Feb wk 2 - 24,34.66
+2024-02-17,Hosanna,Daniel Ekerette,M,Farmer,Biase,2349064538754.0,Igbofia,2.12,50000,3,Ford2,Feb wk 2 - 24,40.48
+2024-02-19,Muyideen,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Big Iwuru,1.6,52000,2,Ford2,Feb wk 3 - 24,8.5
+2024-02-19,Muyideen,Michael Ikum,M,Merchant,Akamkpa,2348133704328.0,Ojor,3.92,50000,2,Dyna3,Feb wk 3 - 24,38.72
+2024-02-19,Muyideen,Favour Nnedu,F,Merchant,Akamkpa,2348163187190.0,Uyanga,4.53,53000,2,Dyna2,Feb wk 3 - 24,34.66
+2024-02-19,Muyideen,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Big Iwuru,1.95,52000,1,Ford2,Feb wk 3 - 24,8.5
+2024-02-19,Muyideen,Abraham Udo,M,Merchant,Akamkpa,2348107978567.0,Ojor,4.23,52000,2,Dyna3,Feb wk 3 - 24,38.72
+2024-02-19,Muyideen,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Big Iwuru,1.84,52000,2,Ford2,Feb wk 3 - 24,8.5
+2024-02-20,Muyideen,Favour Nnedu,F,Merchant,Akamkpa,2348163187190.0,Uyanga,5.37,53000,2,Dyna3,Feb wk 3 - 24,34.66
+2024-02-21,Muyideen,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Big Iwuru,4.32,52000,2,Dyna3,Feb wk 3 - 24,8.5
+2024-02-21,Andifon,Precious Kalu,M,Farmer,Biase,2347063127054.0,Uyanga,3.33,52000,2,Dyna3,Feb wk 3 - 24,34.66
+2024-02-22,Andifon,Anietie Jimmy,M,Merchant,Biase,2348129593860.0,Small Iwuru,3.48,52000,2,Dyna2,Feb wk 3 - 24,20.42
+2024-02-22,Muyideen,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Big Iwuru,4.5,52000,2,Dyna3,Feb wk 3 - 24,8.5
+2024-02-22,Muyideen,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Big Iwuru,1.67,52000,2,Ford2,Feb wk 3 - 24,8.5
+2024-02-22,Hosanna,Ubong Aniekan,M,Farmer,Biase,2348105815483.0,Igbofia,1.66,50000,3,Ford2,Feb wk 3 - 24,40.48
+2024-02-22,Andifon,Bassey Wisdom,M,Merchant,Biase,2347061921502.0,Akpanganang,4.38,52000,3,Dyna3,Feb wk 3 - 24,12.6
+2024-02-23,Muyideen,Edidiong Moses,M,Merchant,Biase,2347068905449.0,Big Iwuru,2.08,52000,2,Ford2,Feb wk 3 - 24,8.5
+2024-02-23,Muyideen,Edidiong Moses,M,Merchant,Biase,2347068905449.0,Big Iwuru,2.86,52000,2,Ford2,Feb wk 3 - 24,8.5
+2024-02-23,Muyideen,Edidiong Moses,M,Merchant,Biase,2347068905449.0,Big Iwuru,2.29,52000,2,Ford2,Feb wk 3 - 24,8.5
+2024-02-24,Hosanna,Isaac Uwa,M,Farmer,Biase,2348106272353.0,Igbofia,1.95,52000,2,Ford2,Feb wk 3 - 24,40.48
+2024-02-26,Muyideen,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Big Iwuru,1.33,52000,2,Ford2,Feb wk 4 - 24,8.5
+2024-02-26,Muyideen,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Big Iwuru,1.72,52000,2,Ford2,Feb wk 4 - 24,8.5
+2024-02-26,Muyideen,Edidiong Moses,M,Merchant,Biase,2347068905449.0,Betem,3.91,54000,2,Dyna2,Feb wk 4 - 24,19.8
+2024-02-26,Muyideen,Michael Ikum,M,Merchant,Biase,2348133704328.0,Ojor,3.37,52000,2,Dyna3,Feb wk 4 - 24,38.72
+2024-02-26,Muyideen,Edidiong Moses,M,Merchant,Biase,2347068905449.0,Ekpiriko,1.98,54000,2,Ford2,Feb wk 4 - 24,16.7
+2024-02-26,Andifon,Anietie Jimmy,M,Merchant,Biase,2348129593860.0,Ekpiriko,2.96,52000,2,Dyna3,Feb wk 4 - 24,16.7
+2024-02-26,Andifon,Moses Ivvah,M,Merchant,Biase,2348062734955.0,Akparavuni,1.88,54000,1,Ford2,Feb wk 4 - 24,20.92
+2024-02-26,Muyideen,Edidiong Moses,M,Merchant,Biase,2347068905449.0,Big Iwuru,4.14,54000,2,Dyna2,Feb wk 4 - 24,8.5
+2024-02-27,Muyideen,Edidiong Moses,M,Merchant,Biase,2347068905449.0,Small Iwuru,3.71,54000,2,Dyna2,Feb wk 4 - 24,20.42
+2024-02-28,Muyideen,Favour Nnedu,F,Merchant,Akamkpa,2348163187190.0,Uyanga,4.42,53000,2,Dyna3,Feb wk 4 - 24,34.66
+2024-02-28,Andifon,Okey Okon,M,Farmer,Biase,2348136065319.0,Igbofia,1.85,52000,2,Ford2,Feb wk 4 - 24,40.48
+2024-02-28,Andifon,Anietie Jimmy,M,Merchant,Biase,2348129593860.0,Betem,3.23,52000,2,Dyna3,Feb wk 4 - 24,19.8
+2024-02-29,Hosanna,Ekpenyong M.,M,Farmer,Biase,2348149959574.0,Adim,1.56,52000,2,Ford2,Feb wk 4 - 24,96.5
+2024-02-29,Hosanna,Udom Sunday,M,Farmer,Biase,2348064708727.0,Small Idoma,6.46,52000,2,MB1,Feb wk 4 - 24,96.8
+2024-02-29,Muyideen,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Big Iwuru,3.62,54000,2,Dyna3,Feb wk 4 - 24,8.5
+2024-02-29,Muyideen,Edidiong Moses,M,Merchant,Biase,2347068905449.0,Betem,3.3,54000,2,Dyna2,Feb wk 4 - 24,19.8
+2024-02-29,Hosanna,Udom Sunday,M,Farmer,Biase,2348064708727.0,Small Idoma,4.68,50000,3,MB1,Feb wk 4 - 24,96.8
+2024-02-29,Utuk,Ofonime Udoma,M,Farmer,Akamkpa,2349037742780.0,Okomita,1.17,54000,1,Ford2,Feb wk 4 - 24,52.72
+2024-03-01,Muyideen,Favour Nnedu,F,Merchant,Akamkpa,2348163187190.0,Uyanga,4.84,53000,2,Dyna3,Feb wk 4 - 24,34.66
+2024-03-01,Muyideen,Edidiong Moses,M,Merchant,Biase,2347068905449.0,Betem,2.95,54000,2,Dyna3,Feb wk 4 - 24,19.8
+2024-03-01,Andifon,Moses Ivvah,M,Merchant,Biase,2348167923286.0,Akparavuni,2.66,52000,1,Ford2,Feb wk 4 - 24,20.92
+2024-03-01,Andifon,Joy Emmanuel,M,Farmer,Biase,2349047506251.0,Big Iwuru,1.99,52000,2,Ford2,Feb wk 4 - 24,8.5
+2024-03-01,Muyideen,Edidiong Moses,M,Merchant,Biase,2347068905449.0,Big Iwuru,3.54,54000,2,Dyna3,Feb wk 4 - 24,8.5
+2024-03-02,Muyideen,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Big Iwuru,2.7,54000,2,Ford2,Feb wk 4 - 24,8.5
+2024-03-02,Muyideen,Michael Ikum,M,Merchant,Akamkpa,2348133704328.0,Ojor,4.94,52000,2,Dyna3,Feb wk 4 - 24,38.72
+2024-03-04,Muyideen,Namso Udoh,M,Farmer,Akamkpa,2348066071921.0,Uyanga,4.72,53000,2,Dyna3,Mar wk 1 - 24,
+2024-03-04,Andifon,Anietie Jimmy,M,Merchant,Biase,2348129593860.0,Ekpiriko,1.77,54000,1,Ford2,Mar wk 1 - 24,16.7
+2024-03-05,Muyideen,Edidiong Moses,M,Merchant,Biase,2347068905449.0,Big Iwuru,2.37,54000,2,Ford2,Mar wk 1 - 24,8.5
+2024-03-05,Andifon,Anietie Jimmy,M,Merchant,Biase,2348129593860.0,Ekpiriko,1.35,54000,1,Ford2,Mar wk 1 - 24,16.7
+2024-03-05,Muyideen,Favour Nnedu,F,Merchant,Akamkpa,2348163187190.0,Uyanga,5.82,54000,2,Dyna3,Mar wk 1 - 24,34.66
+2024-03-06,Muyideen,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Big Iwuru,1.88,54000,3,Ford2,Mar wk 1 - 24,8.5
+2024-03-06,Muyideen,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Big Iwuru,2.1,54000,3,Ford2,Mar wk 1 - 24,8.5
+2024-03-06,Muyideen,Edidiong Moses,M,Merchant,Biase,2347068905449.0,Betem,3.93,54000,3,Dyna3,Mar wk 1 - 24,19.8
+2024-03-06,Muyideen,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Big Iwuru,2.71,54000,3,Dyna3,Mar wk 1 - 24,8.5
+2024-03-06,Muyideen,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Big Iwuru,2.02,54000,2,Ford2,Mar wk 1 - 24,8.5
+2024-03-07,Hosanna,Miracle Arong,M,Farmer,Biase,2347042352253.0,Igbofia,2.81,50000,3,Dyna3,Mar wk 1 - 24,40.48
+2024-03-07,Muyideen,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Betem,1.98,54000,2,Ford2,Mar wk 1 - 24,19.8
+2024-03-07,Muyideen,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Ekpiriko,2.52,54000,2,Ford2,Mar wk 1 - 24,16.7
+2024-03-08,Andifon,Monday Eyo,M,Farmer,Biase,2348162097573.0,Betem,1.65,52000,2,Ford2,Mar wk 1 - 24,19.8
+2024-03-08,Andifon,Felix Okon,M,Farmer,Biase,2347019841489.0,Ekpiriko,1.26,53000,3,Ford2,Mar wk 1 - 24,16.7
+2024-03-08,Andifon,Egbai Amang,M,Merchant,Biase,2348148519955.0,Akpet Central,4.38,52000,2,Dyna3,Mar wk 1 - 24,50.48
+2024-03-08,Muyideen,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Akpanganang,7.24,54000,2,MB1,Mar wk 1 - 24,12.6
+2024-03-08,Utuk,Matilda Lucky Egori,F,Farmer,Biase,2349023639893.0,Small Iwuru,2.0,52000,2,Ford2,Mar wk 1 - 24,20.42
+2024-03-09,Joseph,Joseph Omotayo,M,Merchant,Akamkpa,2347031919524.0,Uyanga,2.26,52000,2,Ford2,Mar wk 1 - 24,34.66
+2024-03-09,Muyideen,Edidiong Moses,M,Merchant,Biase,2347068905449.0,Akpanganang,3.58,54000,2,Dyna3,Mar wk 1 - 24,12.6
+2024-03-09,Andifon,Cynthia Udo,F,Farmer,Biase,2348164033732.0,Big Iwuru,2.18,52000,2,Ford2,Mar wk 1 - 24,8.5
+2024-03-09,Muyideen,Favour Nnedu,F,Merchant,Akamkpa,2348163187190.0,Uyanga,4.17,54000,2,Dyna2,Mar wk 1 - 24,34.66
+2024-03-09,Andifon,Cynthia Udo,F,Farmer,Biase,2348164033732.0,Big Iwuru,2.53,52000,2,Ford2,Mar wk 1 - 24,8.5
+2024-03-09,Utuk,Uduak Peter,M,Farmer,Akamkpa,2349034398646.0,Small Iwuru,4.19,52000,2,Dyna3,Mar wk 1 - 24,20.42
+2024-03-11,Muyideen,Edidiong Moses,M,Merchant,Akamkpa,2347068905449.0,Small Iwuru,2.2,54000,2,Ford2,Mar wk 2 - 24,20.42
+2024-03-11,Muyideen,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Big Iwuru,2.17,54000,2,Ford2,Mar wk 2 - 24,8.5
+2024-03-11,Muyideen,Edidiong Moses,M,Merchant,Biase,2347068905449.0,Big Iwuru,2.5,54000,2,Ford2,Mar wk 2 - 24,8.5
+2024-03-11,Andifon,Kingsley Okon,M,Farmer,Akamkpa,2348069191355.0,Ojor,3.79,52000,2,Dyna2,Mar wk 2 - 24,38.72
+2024-03-11,Muyideen,Edidiong Moses,M,Merchant,Biase,2347068905449.0,Big Iwuru,2.62,54000,2,Ford2,Mar wk 2 - 24,8.5
+2024-03-11,Muyideen,Abraham Udo,M,Merchant,Akamkpa,2348107978567.0,Ojor,5.48,53000,2,MB1,Mar wk 2 - 24,38.72
+2024-03-11,Andifon,Kingsley Okon,M,Farmer,Akamkpa,2348069191355.0,Ojor,2.77,52000,2,Dyna2,Mar wk 2 - 24,38.72
+2024-03-12,Muyideen,Abraham Udoh,M,Merchant,Akamkpa,2348107978567.0,Ojor,5.71,53000,2,MB1,Mar wk 2 - 24,38.72
+2024-03-12,Utuk,Mary Imoh,F,Farmer,Akamkpa,2348160147591.0,Small Iwuru,1.17,54000,1,Ford2,Mar wk 2 - 24,20.42
+2024-03-12,Muyideen,Michael Ikum,M,Merchant,Akamkpa,2348133704328.0,Ojor,4.87,54000,2,Dyna2,Mar wk 2 - 24,38.72
+2024-03-12,Muyideen,Edidiong Moses,M,Merchant,Biase,2347068905449.0,Big Iwuru,1.97,54000,2,Ford2,Mar wk 2 - 24,8.5
+2024-03-12,Muyideen,Edidiong Moses,M,Merchant,Biase,2347068905449.0,Big Iwuru,1.78,54000,2,Ford2,Mar wk 2 - 24,8.5
+2024-03-12,Muyideen,Namso Udoh,M,Farmer,Akamkpa,2348066071921.0,Uyanga,5.35,53000,3,MB1,Mar wk 2 - 24,34.66
+2024-03-12,Joseph,Sunday Orok,M,Merchant,Akamkpa,2347026901039.0,Uyanga,1.65,52000,3,Ford2,Mar wk 2 - 24,34.66
+2024-03-13,Muyideen,Favour Nnedu,F,Merchant,Akamkpa,2348163187190.0,Uyanga,4.59,54000,2,Dyna3,Mar wk 2 - 24,34.66
+2024-03-13,Muyideen,Akaninyene Ekanem,M,Merchant,Akamkpa,2348164267908.0,Big Iwuru,2.63,54000,2,Ford2,Mar wk 2 - 24,8.5
+2024-03-13,Muyideen,Akaninyene Ekanem,M,Merchant,Akamkpa,2348164267908.0,Big Iwuru,2.51,54000,2,Ford2,Mar wk 2 - 24,8.5
+2024-03-13,Utuk,Edem Okon,M,Farmer,Akamkpa,2347069482831.0,Small Iwuru,8.28,50000,3,MB1,Mar wk 2 - 24,20.42
+2024-03-14,Andifon,Peter Mendie,M,Farmer,Biase,2349164774134.0,Ehom,2.75,50000,3,Ford2,Mar wk 2 - 24,10.0
+2024-03-14,Muyideen,Favour Nnedu,F,Merchant,Akamkpa,2348163187190.0,Uyanga,5.35,54000,2,Dyna3,Mar wk 2 - 24,34.66
+2024-03-14,Muyideen,Edidiong Moses,M,Merchant,Biase,2347068905449.0,Ekpiriko,1.9,54000,2,Ford2,Mar wk 2 - 24,16.7
+2024-03-14,Muyideen,Edidiong Moses,M,Merchant,Biase,2347068905449.0,Small Iwuru,2.2,54000,2,Ford2,Mar wk 2 - 24,20.42
+2024-03-14,Muyideen,Namso Udoh,M,Farmer,Akamkpa,2348066071921.0,Uyanga,7.17,53000,3,MB1,Mar wk 2 - 24,34.66
+2024-03-14,Andifon,Sunday Kanu,M,Farmer,Biase,2349047636961.0,Ehom,5.41,50000,3,Dyna3,Mar wk 2 - 24,10.0
+2024-03-14,Muyideen,Favour Nnedu,F,Merchant,Biase,2348163187190.0,Uyanga,5.62,54000,2,Dyna3,Mar wk 2 - 24,34.66
+2024-03-15,Muyideen,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Ekpiriko,2.2,54000,2,Ford2,Mar wk 2 - 24,16.7
+2024-03-15,Muyideen,Edidiong Moses,M,Merchant,Biase,2347068905449.0,Small Iwuru,3.18,54000,2,Dyna3,Mar wk 2 - 24,20.42
+2024-03-15,Andifon,Onuka Uche Kalu,M,Farmer,Biase,2348034977697.0,Umai,1.67,50000,3,Ford2,Mar wk 2 - 24,40.0
+2024-03-15,Muyideen,Michael Ikum,M,Merchant,Akamkpa,2348133704328.0,Ojor,5.19,54000,2,Dyna3,Mar wk 2 - 24,38.72
+2024-03-15,Hosanna,Obot Udoh,M,Farmer,Biase,2349129010350.0,Igbofia,8.73,50000,3,MB1,Mar wk 2 - 24,40.48
+2024-03-15,Andifon,Onuka Uche Kalu,M,Farmer,Biase,2348034977697.0,Umai,1.96,50000,3,Ford2,Mar wk 2 - 24,40.0
+2024-03-15,Andifon,Innocent Lawrence,M,Farmer,Akamkpa,2348148279541.0,Etoikumi,10.17,52000,2,MB1,Mar wk 2 - 24,72.48
+2024-03-16,Hosanna,Obot Udoh,M,Farmer,Biase,2349129010350.0,Igbofia,1.69,52000,2,Ford2,Mar wk 2 - 24,40.48
+2024-03-16,Andifon,Onuka Uche Kalu,M,Farmer,Biase,2348034977697.0,Umai,4.24,50000,3,Dyna3,Mar wk 2 - 24,40.0
+2024-03-16,Muyideen,Donald David,M,Merchant,Biase,2347088941199.0,Akpet Central,9.86,54000,2,MB1,Mar wk 2 - 24,50.48
+2024-03-16,Hosanna,Obot Udoh,M,Farmer,Biase,2349129010350.0,Igbofia,3.46,50000,3,Dyna3,Mar wk 2 - 24,40.48
+2024-03-18,Muyideen,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Big Iwuru,5.17,54000,2,Dyna3,Mar wk 3 - 24,8.5
+2024-03-18,Joseph,Victoria Mfon,F,Farmer,Akamkpa,2348142208327.0,Ojor,2.44,52000,2,Ford2,Mar wk 3 - 24,38.72
+2024-03-18,Muyideen,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Small Iwuru,4.39,54000,2,Dyna2,Mar wk 3 - 24,20.42
+2024-03-19,Andifon,Onuka Uche Kalu,M,Farmer,Biase,2348034977697.0,Umai,2.2,52000,2,Ford2,Mar wk 3 - 24,40.0
+2024-03-19,Muyideen,Glory Eyo,F,Merchant,Biase,2348101684081.0,Akpet Central,1.45,50000,3,Ford2,Mar wk 3 - 24,50.48
+2024-03-19,Muyideen,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Small Iwuru,0.88,54000,2,Ford2,Mar wk 3 - 24,20.42
+2024-03-19,Utuk,Ekandem Asuquo,M,Merchant,Biase,2349038467089.0,Ayaba,4.78,52000,2,Dyna2,Mar wk 3 - 24,27.3
+2024-03-19,Utuk,Ekandem Asuquo,M,Farmer,Biase,2349038467089.0,Ayaba,0.86,52000,2,Ford2,Mar wk 3 - 24,27.3
+2024-03-20,Andifon,Joy Emmanuel,M,Farmer,Biase,2348148199647.0,Ekpiriko,4.39,52000,2,Dyna2,Mar wk 3 - 24,16.7
+2024-03-20,Muyideen,Namso Udoh,M,Merchant,Akamkpa,2348066071921.0,Uyanga,2.74,53000,2,Ford2,Mar wk 3 - 24,34.66
+2024-03-20,Muyideen,Namso Udoh,M,Merchant,Akamkpa,2348066071921.0,Uyanga,3.09,53000,2,Ford2,Mar wk 3 - 24,34.66
+2024-03-21,Muyideen,Michael Ikum,M,Merchant,Akamkpa,2348133704328.0,Ojor,8.58,54000,2,MB1,Mar wk 3 - 24,38.72
+2024-03-21,Muyideen,Favour Nnedu,F,Merchant,Akamkpa,2348163187190.0,Uyanga,5.17,54000,2,Dyna3,Mar wk 3 - 24,34.66
+2024-03-21,Muyideen,Donald David,M,Merchant,Biase,2347088941199.0,Akpet Central,2.26,54000,2,Ford2,Mar wk 3 - 24,50.48
+2024-03-21,Muyideen,Favour Nnedu,F,Merchant,Akamkpa,2348163187190.0,Uyanga,4.23,54000,2,Dyna3,Mar wk 3 - 24,34.66
+2024-03-21,Muyideen,Edidiong Moses,M,Merchant,Biase,2347068905449.0,Akpanganang,4.48,54000,2,Dyna2,Mar wk 3 - 24,12.6
+2024-03-21,Muyideen,Edidiong Moses,M,Merchant,Biase,2347068905449.0,Akpanganang,3.79,54000,2,Dyna2,Mar wk 3 - 24,12.6
+2024-03-22,Andifon,Uwem Udo Nna,M,Farmer,Biase,2349030394339.0,Igbofia,3.94,50000,3,MB1,Mar wk 3 - 24,40.48
+2024-03-22,Andifon,Daniel Ekerette,M,Farmer,Biase,2349064538754.0,Igbofia,3.09,50000,3,Dyna3,Mar wk 3 - 24,40.48
+2024-03-22,Muyideen,Namso Udoh,M,Merchant,Akamkpa,2348066071921.0,Small Iwuru,4.88,53000,2,Dyna3,Mar wk 3 - 24,20.42
+2024-03-22,Muyideen,Namso Udoh,M,Merchant,Akamkpa,2348066071921.0,Small Iwuru,4.03,53000,2,Dyna3,Mar wk 3 - 24,20.42
+2024-03-22,Utuk,Itaya Asuquo,M,Farmer,Akamkpa,2348166335706.0,Small Iwuru,7.24,54000,1,MB1,Mar wk 3 - 24,20.42
+2024-03-23,Muyideen,Akaninyene Ekanem,M,Merchant,Akamkpa,2348164267908.0,Akamkpa,4.28,54000,2,Dyna3,Mar wk 3 - 24,68.34
+2024-03-23,Joseph,Jumbo Adekanmi,M,Farmer,Akamkpa,2348037199794.0,Uyanga,2.82,52000,2,Dyna2,Mar wk 3 - 24,34.66
+2024-03-23,Muyideen,Edidiong Moses,M,Merchant,Biase,2347068905449.0,Akpanganang,5.01,54000,2,Dyna2,Mar wk 3 - 24,12.6
+2024-03-23,Muyideen,Donald David,M,Merchant,Biase,2347088941199.0,Akpet Central,2.43,54000,2,Ford2,Mar wk 3 - 24,50.48
+2024-03-23,Muyideen,Donald David,M,Merchant,Biase,2347088941199.0,Akpet Central,1.77,54000,2,Ford2,Mar wk 3 - 24,50.48
+2024-03-25,Muyideen,Michael Ikum,M,Merchant,Akamkpa,2348133704328.0,Ojor,4.84,54000,2,MB1,Mar wk 4 - 24,38.72
+2024-03-25,Andifon,Precious Kalu,M,Farmer,Akamkpa,2348086982909.0,Uyanga,3.2,52000,2,Dyna2,Mar wk 4 - 24,34.66
+2024-03-25,Andifon,Isaiah Effiong,M,Merchant,Biase,2347045902691.0,Big Iwuru,3.09,52000,2,Dyna2,Mar wk 4 - 24,8.5
+2024-03-25,Muyideen,Namso Udoh,M,Merchant,Biase,2348066071921.0,Small Iwuru,2.11,53000,3,Ford2,Mar wk 4 - 24,20.42
+2024-03-25,Muyideen,Namso Udoh,M,Merchant,Akamkpa,2348066071921.0,Small Iwuru,2.07,53000,3,Ford2,Mar wk 4 - 24,20.42
+2024-03-25,Hosanna,Jeremiah Okon,M,Farmer,Biase,2349062712793.0,Igbofia,7.88,52000,2,MB1,Mar wk 4 - 24,40.48
+2024-03-26,Andifon,Onuka Uche Kalu,M,Farmer,Biase,2348034977697.0,Umai,2.27,50000,3,Ford2,Mar wk 4 - 24,40.0
+2024-03-26,Muyideen,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Big Iwuru,3.97,54000,2,Dyna2,Mar wk 4 - 24,8.5
+2024-03-26,Muyideen,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Big Iwuru,2.56,54000,2,Ford2,Mar wk 4 - 24,8.5
+2024-03-26,Muyideen,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Big Iwuru,5.3,54000,2,Dyna2,Mar wk 4 - 24,8.5
+2024-03-27,Andifon,Kingsley Okon,M,Farmer,Akamkpa,2348069191355.0,Ojor,2.14,50000,2,Ford2,Mar wk 4 - 24,38.72
+2024-03-27,Muyideen,Namso Udoh,M,Merchant,Akamkpa,2348066071921.0,Small Iwuru,4.18,53000,2,Dyna3,Mar wk 4 - 24,20.42
+2024-03-27,Muyideen,Namso Udoh,M,Merchant,Akamkpa,2348066071921.0,Small Iwuru,2.52,53000,2,Dyna3,Mar wk 4 - 24,20.42
+2024-03-27,Muyideen,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Big Iwuru,2.73,54000,2,Ford2,Mar wk 4 - 24,8.5
+2024-03-27,Muyideen,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Big Iwuru,1.49,54000,3,Ford2,Mar wk 4 - 24,8.5
+2024-03-27,Joseph,Sunday Orok,M,Farmer,Akamkpa,2349168186487.0,Uyanga,3.32,50000,3,Dyna2,Mar wk 4 - 24,34.66
+2024-03-28,Andifon,Egbai Amang,M,Merchant,Biase,2348148519955.0,Akpet Central,1.79,52000,2,Ford2,Mar wk 4 - 24,50.48
+2024-03-28,Andifon,Onuka Uche Kalu,M,Farmer,Biase,2348034977697.0,Umai,2.42,52000,2,Ford2,Mar wk 4 - 24,40.0
+2024-03-28,Joseph,Etido Aniema,M,Farmer,Akamkpa,2349168186487.0,Ojor,4.45,54000,1,Dyna3,Mar wk 4 - 24,38.72
+2024-03-28,Muyideen,Edidiong Moses,M,Merchant,Biase,2347068905449.0,Big Iwuru,3.03,54000,2,Dyna2,Mar wk 4 - 24,8.5
+2024-03-28,Muyideen,Favour Nnedu,F,Merchant,Akamkpa,2348163187190.0,Uyanga,6.47,54000,2,MB1,Mar wk 4 - 24,34.66
+2024-03-28,Muyideen,Favour Nnedu,F,Merchant,Akamkpa,2348163187190.0,Uyanga,4.65,54000,2,Dyna3,Mar wk 4 - 24,34.66
+2024-03-28,Hosanna,Obot Udoh,M,Farmer,Biase,2349129010350.0,Igbofia,3.3,50000,3,Dyna2,Mar wk 4 - 24,40.48
+2024-03-29,Andifon,Susan Ekpenyong,F,Farmer,Akamkpa,2347066336804.0,Small Iwuru,5.21,52000,2,Dyna3,Mar wk 4 - 24,20.42
+2024-03-29,Andifon,Ekpor Bassey Ibun,M,Farmer,Biase,2348102854179.0,Akparavuni,1.02,54000,1,Ford2,Mar wk 4 - 24,20.92
+2024-03-29,Utuk,Roseline Okon,F,Farmer,Akamkpa,2347069763596.0,Akwa-Ibami,6.8,52000,2,MB1,Mar wk 4 - 24,35.6
+2024-03-29,Muyideen,Favour Nnedu,F,Merchant,Akamkpa,2348163187190.0,Uyanga,4.95,54000,2,Dyna3,Mar wk 4 - 24,34.66
+2024-03-29,Muyideen,Donald David,M,Merchant,Biase,2347088941199.0,Akpet Central,3.92,54000,2,Dyna2,Mar wk 4 - 24,50.48
+2024-03-29,Muyideen,Donald David,M,Merchant,Biase,2347088941199.0,Akpet Central,2.37,54000,2,Ford2,Mar wk 4 - 24,50.48
+2024-04-02,Muyideen,Edidiong Moses,M,Merchant,Biase,2347068905449.0,Big Iwuru,1.92,54000,2,Ford2,Apr wk 1 - 24,
+2024-04-02,Andifon,Kingsley Okon,M,Farmer,Akamkpa,2348069191355.0,Ojor,5.44,52000,2,MB1,Apr wk 1 - 24,38.72
+2024-04-02,Andifon,Daniel Moses,M,Farmer,Biase,2348033333981.0,Akpet Central,2.93,50000,3,Dyna2,Apr wk 1 - 24,50.48
+2024-04-02,Andifon,Anietie Jimmy,M,Farmer,Biase,2347065161670.0,Ekpiriko,2.07,52000,2,Ford2,Apr wk 1 - 24,16.7
+2024-04-03,Muyideen,Abraham Udoh,M,Merchant,Akamkpa,2348107978567.0,Ojor,3.33,53000,2,Dyna2,Apr wk 1 - 24,38.72
+2024-04-03,Muyideen,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Small Iwuru,6.53,54000,2,MB1,Apr wk 1 - 24,20.42
+2024-04-03,Muyideen,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Big Iwuru,4.22,54000,2,Dyna2,Apr wk 1 - 24,8.5
+2024-04-03,Joseph,Jumbo Adekanmi,M,Merchant,Akamkpa,2348037199794.0,Uyanga,2.48,52000,2,Ford2,Apr wk 1 - 24,34.66
+2024-04-03,Utuk,Imaobong Nsikak,F,Farmer,Biase,2348163080798.0,Big Iwuru,2.8,53000,3,Dyna2,Apr wk 1 - 24,8.5
+2024-04-03,Andifon,Bassey Wisdom,M,Merchant,Biase,2347061921502.0,Akpanganang,4.79,50000,3,Dyna3,Apr wk 1 - 24,12.6
+2024-04-03,Muyideen,Michael Ikum,M,Merchant,Akamkpa,2348133704328.0,Ojor,5.81,54000,2,MB1,Apr wk 1 - 24,38.72
+2024-04-04,Muyideen,Favour Nnedu,F,Merchant,Akamkpa,2348163187190.0,Uyanga,4.82,54000,2,Dyna2,Apr wk 1 - 24,34.66
+2024-04-04,Muyideen,Donald David,M,Merchant,Biase,2347088941199.0,Akpet Central,1.91,54000,2,Ford2,Apr wk 1 - 24,50.48
+2024-04-04,Andifon,Bassey Wisdom,M,Merchant,Biase,2347061921502.0,Akpanganang,3.24,50000,3,Dyna3,Apr wk 1 - 24,12.6
+2024-04-04,Andifon,Moses Ivvah,M,Merchant,Biase,2348167923286.0,Umai,3.03,53000,2,Dyna2,Apr wk 1 - 24,40.0
+2024-04-04,Muyideen,Edidiong Moses,M,Merchant,Biase,2347068905449.0,Small Iwuru,5.07,54000,2,Dyna3,Apr wk 1 - 24,20.42
+2024-04-04,Muyideen,Donald David,M,Merchant,Biase,2347088941199.0,Akparavuni,1.48,54000,2,Ford2,Apr wk 1 - 24,20.92
+2024-04-04,Andifon,Susan Ekpenyong,F,Merchant,Akamkpa,2347066336804.0,Small Iwuru,5.4,52000,2,Dyna3,Apr wk 1 - 24,20.42
+2024-04-04,Muyideen,Donald David,M,Merchant,Biase,2347088941199.0,Akpet Central,2.71,54000,2,Ford2,Apr wk 1 - 24,50.48
+2024-04-05,Muyideen,Favour Nnedu,F,Merchant,Akamkpa,2348163187190.0,Uyanga,4.58,54000,2,Dyna2,Apr wk 1 - 24,34.66
+2024-04-05,Muyideen,Edidiong Moses,M,Merchant,Biase,2347068905449.0,Akpanganang,3.93,54000,2,Dyna3,Apr wk 1 - 24,12.6
+2024-04-05,Andifon,Onuka Uche Kalu,M,Farmer,Biase,2348034977697.0,Umai,2.2,50000,3,Ford2,Apr wk 1 - 24,40.0
+2024-04-05,Muyideen,Michael Ikum,M,Merchant,Akamkpa,2348133704328.0,Ojor,5.05,54000,2,Dyna2,Apr wk 1 - 24,38.72
+2024-04-05,Andifon,Abi Akani,M,Farmer,Biase,2348134568665.0,Ehom Central,1.27,50000,3,Ford2,Apr wk 1 - 24,10.0
+2024-04-05,Andifon,Anthony Edidiong,M,Farmer,Biase,2347085444167.0,Umai,1.66,50000,3,Ford2,Apr wk 1 - 24,40.0
+2024-04-05,Muyideen,Favour Nnedu,F,Merchant,Akamkpa,2348163187190.0,Uyanga,7.98,55000,2,MB1,Apr wk 1 - 24,34.66
+2024-04-05,Muyideen,Edidiong Moses,M,Merchant,Biase,2347068905449.0,Akpanganang,2.9,54000,2,Dyna2,Apr wk 1 - 24,12.6
+2024-04-06,Hosanna,Obot David,M,Farmer,Biase,2348147395230.0,Igbofia,4.97,50000,3,MB1,Apr wk 1 - 24,40.48
+2024-04-06,Muyideen,Onyenna Jerry,M,Merchant,Biase,2348064563331.0,Akpet1,2.09,50000,3,Ford2,Apr wk 1 - 24,50.48
+2024-04-06,Muyideen,Edidiong Moses,M,Merchant,Biase,2347068905449.0,Akpanganang,2.75,54000,2,Dyna3,Apr wk 1 - 24,12.6
+2024-04-06,Muyideen,Donald David,M,Merchant,Biase,2347088941199.0,Akpet1,2.43,54000,2,Ford2,Apr wk 1 - 24,50.48
+2024-04-06,Muyideen,Edidiong Moses,M,Merchant,Biase,2347068905449.0,Big Iwuru,4.15,54000,2,Dyna3,Apr wk 1 - 24,8.5
+2024-04-06,Andifon,Moses Ivvah,M,Merchant,Biase,2348167923286.0,Umai,1.98,53000,2,Ford2,Apr wk 1 - 24,40.0
+2024-04-06,Andifon,Bassey Wisdom,M,Merchant,Biase,2347061921502.0,Akpanganang,3.33,52000,2,Dyna3,Apr wk 1 - 24,12.6
+2024-04-08,Muyideen,Edidiong Moses,M,Merchant,Biase,2347068905449.0,Small Iwuru,3.08,54000,2,Dyna3,Apr wk 2 - 24,20.42
+2024-04-08,Muyideen,Edidiong Moses,M,Merchant,Biase,2347068905449.0,Akpanganang,3.96,54000,2,Dyna3,Apr wk 2 - 24,12.6
+2024-04-08,Muyideen,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Big Iwuru,4.05,54000,2,Dyna2,Apr wk 2 - 24,8.5
+2024-04-08,Muyideen,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Big Iwuru,2.6,54000,2,Dyna2,Apr wk 2 - 24,8.5
+2024-04-08,Utuk,Otobong Elijah,M,Farmer,Biase,2349137782396.0,Big Iwuru,1.91,50000,3,Ford2,Apr wk 2 - 24,8.5
+2024-04-08,Muyideen,Michael Ikum,M,Merchant,Akamkpa,2348133704328.0,Ojor,2.11,54000,2,Ford2,Apr wk 2 - 24,38.72
+2024-04-09,Andifon,Lemba Loveth,M,Farmer,Biase,2348164346228.0,Big Iwuru,0.87,50000,3,Ford2,Apr wk 2 - 24,8.5
+2024-04-09,Muyideen,Donald David,M,Merchant,Biase,2347088941199.0,Akpet Central,2.66,54000,2,Ford2,Apr wk 2 - 24,50.48
+2024-04-09,Utuk,Ekandem Asuquo,M,Farmer,Biase,2348038467089.0,Ayaba,6.61,55000,1,MB1,Apr wk 2 - 24,27.3
+2024-04-10,Muyideen,Namso Udoh,M,Merchant,Akamkpa,2348066071921.0,Small Iwuru,4.81,53000,2,Dyna3,Apr wk 2 - 24,20.42
+2024-04-10,Andifon,Friday Williams,M,Farmer,Biase,2348137728004.0,Umai,2.03,52000,2,Ford2,Apr wk 2 - 24,40.0
+2024-04-10,Joseph,Emem James Akpan,M,Merchant,Akamkpa,2348166991040.0,Uyanga,1.93,52000,2,Ford2,Apr wk 2 - 24,34.66
+2024-04-11,Muyideen,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Big Iwuru,2.24,54000,2,Ford2,Apr wk 2 - 24,8.5
+2024-04-11,Muyideen,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Big Iwuru,2.03,54000,2,Ford2,Apr wk 2 - 24,8.5
+2024-04-11,Andifon,Onuka Uche Kalu,M,Farmer,Biase,2348034977697.0,Umai,3.64,52000,2,Dyna2,Apr wk 2 - 24,40.0
+2024-04-11,Muyideen,Donald David,M,Merchant,Biase,2347088941199.0,Akpet Central,2.25,54000,2,Ford2,Apr wk 2 - 24,50.48
+2024-04-11,Hosanna,Obot Udoh,M,Farmer,Biase,2349129010350.0,Igbofia,3.82,45000,2,MB1,Apr wk 2 - 24,40.48
+2024-04-11,Muyideen,Onyenna Jerry,M,Farmer,Biase,2348064563331.0,Akpet1,3.94,53000,1,Dyna2,Apr wk 2 - 24,50.48
+2024-04-12,Muyideen,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Big Iwuru,2.37,54000,2,Ford2,Apr wk 2 - 24,8.5
+2024-04-12,Muyideen,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Big Iwuru,1.97,54000,2,Ford2,Apr wk 2 - 24,8.5
+2024-04-12,Utuk,Ekandem Asuquo,M,Farmer,Biase,2349038467089.0,Ayaba,3.72,55000,1,Dyna2,Apr wk 2 - 24,27.3
+2024-04-12,Utuk,Ekandem Asuquo,M,Farmer,Biase,2349038467089.0,Small Iwuru,3.76,55000,1,Dyna2,Apr wk 2 - 24,20.42
+2024-04-12,Andifon,Egbai Amang,M,Merchant,Biase,2348148519955.0,Akpet Central,2.52,52000,2,Ford2,Apr wk 2 - 24,50.48
+2024-04-12,Utuk,Patrick Wonun,M,Farmer,Biase,2349032955324.0,Big Iwuru,0.99,50000,3,Ford2,Apr wk 2 - 24,8.5
+2024-04-12,Utuk,Ekandem Asuquo,M,Farmer,Biase,2349038467089.0,Ayaba,5.22,50000,3,Dyna2,Apr wk 2 - 24,27.3
+2024-04-13,Muyideen,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Big Iwuru,3.4,54000,2,Dyna2,Apr wk 2 - 24,8.5
+2024-04-13,Muyideen,Favour Nnedu,F,Merchant,Akamkpa,2348163187190.0,Uyanga,4.96,54000,2,Dyna3,Apr wk 2 - 24,34.66
+2024-04-13,Muyideen,Namso Udoh,M,Merchant,Akamkpa,2347036472599.0,Small Iwuru,5.61,53000,2,Dyna2,Apr wk 2 - 24,20.42
+2024-04-13,Utuk,Ekandem Asuquo,M,Farmer,Biase,2349038467089.0,Ayaba,3.47,55000,1,MB1,Apr wk 2 - 24,27.3
+2024-04-13,Muyideen,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Big Iwuru,2.26,54000,2,Ford2,Apr wk 2 - 24,8.5
+2024-04-13,Muyideen,Donald David,M,Merchant,Biase,2347088941199.0,Akpet Central,2.68,54000,2,Ford2,Apr wk 2 - 24,50.48
+2024-04-13,Muyideen,Namso Udoh,M,Merchant,Akamkpa,2348066071921.0,Small Iwuru,4.5,53000,2,Dyna2,Apr wk 2 - 24,20.42
+2024-04-13,Muyideen,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Big Iwuru,2.34,54000,2,Ford2,Apr wk 2 - 24,8.5
+2024-04-13,Muyideen,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Big Iwuru,2.38,54000,2,Ford2,Apr wk 2 - 24,8.5
+2024-04-14,Muyideen,Onyenna Jerry,M,Merchant,Biase,2348064563331.0,Akpet Central,1.75,53000,2,Ford2,Apr wk 2 - 24,50.48
+2024-04-14,Muyideen,Favour Nnedu,M,Merchant,Akamkpa,2348163187190.0,Uyanga,4.54,54000,2,Dyna2,Apr wk 2 - 24,34.66
+2024-04-14,Hosanna,Diamond Usoro,M,Farmer,Biase,2347036472599.0,Orida,1.86,52000,2,Ford2,Apr wk 2 - 24,4.0
+2024-04-14,Joseph,Emem James Akpan,F,Merchant,Akamkpa,2348166991040.0,Ifumkpa,5.06,52000,2,Dyna2,Apr wk 2 - 24,6.72
+2024-04-15,Andifon,Clemas Essien,M,Farmer,Biase,2349164797012.0,Orida,1.72,52000,2,Ford2,Apr wk 3 - 24,4.0
+2024-04-15,Andifon,Clemas Essien,M,Farmer,Biase,2349164797012.0,Orida,2.29,52000,2,Ford2,Apr wk 3 - 24,4.0
+2024-04-15,Muyideen,Favour Nnedu,F,Merchant,Akamkpa,2348163187190.0,Uyanga,5.47,54000,2,Dyna2,Apr wk 3 - 24,34.66
+2024-04-15,Utuk,Imoh Patrick,M,Farmer,Akamkpa,2349041564118.0,Small Iwuru,4.41,50000,3,Dyna2,Apr wk 3 - 24,20.42
+2024-04-15,Utuk,Imoh Patrick,M,Farmer,Akamkpa,2349041564118.0,Small Iwuru,1.71,50000,3,Ford2,Apr wk 3 - 24,20.42
+2024-04-16,Hosanna,Diamond Usoro,M,Farmer,Biase,2347036472599.0,Big Iwuru,2.46,52000,2,Ford2,Apr wk 3 - 24,8.5
+2024-04-16,Muyideen,Namso Udoh,M,Merchant,Akamkpa,2348066071921.0,Small Iwuru,2.8,53000,2,Ford2,Apr wk 3 - 24,20.42
+2024-04-16,Muyideen,Namso Udoh,M,Merchant,Akamkpa,2348066071921.0,Small Iwuru,2.47,53000,2,Ford2,Apr wk 3 - 24,20.42
+2024-04-16,Utuk,Imoh Patrick,M,Farmer,Akamkpa,2349041564118.0,Small Iwuru,1.59,52000,2,Ford2,Apr wk 3 - 24,20.42
+2024-04-17,Andifon,Bassey Wisdom,M,Merchant,Biase,2347061921502.0,Akpanganang,3.84,52000,2,Dyna2,Apr wk 3 - 24,12.6
+2024-04-18,Muyideen,Michael Ikum,M,Merchant,Akamkpa,2348133704328.0,Ojor,4.32,54000,2,MB1,Apr wk 3 - 24,38.72
+2024-04-18,Utuk,Uwem Jeremiah,M,Farmer,Biase,,Abichi,4.34,52000,2,Dyna2,Apr wk 3 - 24,61.96
+2024-04-18,Andifon,Solomon Monday,M,Farmer,Biase,2348067065067.0,Ojor,6.85,52000,2,MB1,Apr wk 3 - 24,38.72
+2024-04-18,Muyideen,Edidiong Moses,M,Farmer,Biase,2347068905449.0,Big Iwuru,3.41,54000,2,3PL,Apr wk 3 - 24,8.5
+2024-04-18,Andifon,Bassey Wisdom,M,Farmer,Biase,2347061921502.0,Akpanganang,4.3,52000,2,Dyna2,Apr wk 3 - 24,12.6
+2024-04-19,Muyideen,Namso Udoh,M,Merchant,Akamkpa,2348066071921.0,Small Iwuru,3.06,53000,2,Ford2,Apr wk 3 - 24,20.42
+2024-04-19,Muyideen,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Big Iwuru,3.57,54000,2,3PL,Apr wk 3 - 24,8.5
+2024-04-19,Andifon,Ijeoma John,F,Farmer,Biase,2348147010775.0,Akparavuni,5.3,52000,2,MB1,Apr wk 3 - 24,20.92
+2024-04-19,Muyideen,Favour Nnedu,F,Merchant,Akamkpa,2348163187190.0,Uyanga,4.5,54000,2,Dyna2,Apr wk 3 - 24,34.66
+2024-04-19,Muyideen,Edidiong Moses,M,Merchant,Biase,2347068905449.0,Big Iwuru,3.43,54000,2,3PL,Apr wk 3 - 24,8.5
+2024-04-19,Utuk,Imaobong Nsikak,M,Farmer,Biase,2348163080789.0,Abichi,2.34,52000,2,Ford2,Apr wk 3 - 24,61.96
+2024-04-19,Andifon,God'swill Abel,M,Farmer,Akamkpa,2349133544962.0,Akwa-Ibami,5.98,52000,2,MB1,Apr wk 3 - 24,35.6
+2024-04-19,Muyideen,Edidiong Moses,M,Merchant,Biase,2347068905449.0,Big Iwuru,3.61,54000,2,3PL,Apr wk 3 - 24,8.5
+2024-04-19,Hosanna,Obot Udoh,M,Farmer,Biase,2349129010350.0,Igbofia,3.02,50000,3,Dyna2,Apr wk 3 - 24,40.48
+2024-04-19,Muyideen,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Big Iwuru,3.55,54000,2,3PL,Apr wk 3 - 24,8.5
+2024-04-19,Muyideen,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Big Iwuru,6.59,54000,2,MB1,Apr wk 3 - 24,8.5
+2024-04-19,Muyideen,Favour Nnedu,M,Merchant,Akamkpa,2348163187190.0,Uyanga,4.22,54000,2,Dyna2,Apr wk 3 - 24,34.66
+2024-04-19,Muyideen,Namso Udoh,M,Merchant,Akamkpa,2348066071921.0,Uyanga,2.8,53000,2,Ford2,Apr wk 3 - 24,34.66
+2024-04-20,Andifon,Bassey Wisdom,M,Merchant,Biase,2347061921502.0,Akpanganang,4.09,52000,2,Dyna2,Apr wk 3 - 24,12.6
+2024-04-20,Muyideen,Namso Udoh,M,Merchant,Akamkpa,2348066071921.0,Small Iwuru,3.22,53000,2,Dyna3,Apr wk 3 - 24,20.42
+2024-04-20,Andifon,Iheanacho Joseph,M,Farmer,Biase,2347045728838.0,Igbofia,1.67,50000,3,Ford2,Apr wk 3 - 24,40.48
+2024-04-20,Muyideen,Collins Ukam,M,Merchant,Biase,2347069365525.0,Betem,6.13,55000,1,MB1,Apr wk 3 - 24,19.8
+2024-04-20,Hosanna,Ubon Jeremiah,M,Farmer,Biase,2349062712793.0,Igbofia,2.53,50000,3,3PL,Apr wk 3 - 24,40.48
+2024-04-20,Joseph,Emem James Akpan,F,Merchant,Akamkpa,2348166991040.0,Ifumkpa,5.82,52000,2,Dyna2,Apr wk 3 - 24,6.72
+2024-04-20,Muyideen,Collins Ukam,M,Merchant,Biase,2347069365525.0,Betem,9.21,55000,1,MB1,Apr wk 3 - 24,19.8
+2024-04-20,Utuk,Grinton Edet,M,Farmer,Biase,2348035952980.0,Big Iwuru,2.37,50000,3,Ford2,Apr wk 3 - 24,8.5
+2024-04-20,Muyideen,Namso Udoh,M,Merchant,Akamkpa.,2348066071921.0,Small Iwuru,4.27,53000,2,Dyna3,Apr wk 3 - 24,20.42
+2024-04-20,Muyideen,Collins Ukam,M,Merchant,Biase,2347069365525.0,Betem,9.02,55000,1,MB1,Apr wk 3 - 24,19.8
+2024-04-20,Andifon,Blessing Michael,F,Farmer,Biase,2348120612779.0,Umai,3.18,52000,2,3PL,Apr wk 3 - 24,40.0
+2024-04-20,Muyideen,Donald David,M,Merchant,Biase,2347088941199.0,Akpet Central,2.33,54000,2,Ford2,Apr wk 3 - 24,50.48
+2024-04-22,Muyideen,Edidiong Moses,M,Merchant,Biase,2347068905449.0,Akpanganang,5.98,54000,2,MB1,Apr wk 4 - 24,12.6
+2024-04-22,Muyideen,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Big Iwuru,2.46,54000,2,Ford2,Apr wk 4 - 24,8.5
+2024-04-22,Muyideen,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Big Iwuru,2.56,54000,2,Ford2,Apr wk 4 - 24,8.5
+2024-04-22,Utuk,Nnimong Udoh,M,Farmer,Biase,2347041796309.0,Abichi,5.22,52000,2,MB1,Apr wk 4 - 24,61.96
+2024-04-22,Muyideen,Edidiong Moses,M,Merchant,Biase,2347068905449.0,Big Iwuru,5.27,54000,2,Dyna3,Apr wk 4 - 24,8.5
+2024-04-22,Muyideen,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Big Iwuru,2.51,54000,2,Ford2,Apr wk 4 - 24,8.5
+2024-04-23,Muyideen,Namso Udoh,M,Merchant,Akamkpa,2348066071921.0,Uyanga,5.38,53000,2,MB1,Apr wk 4 - 24,34.66
+2024-04-23,Muyideen,Donald David,M,Merchant,Biase,2347088941199.0,Akpet Central,2.05,54000,2,Ford2,Apr wk 4 - 24,50.48
+2024-04-23,Muyideen,Edidiong Moses,M,Merchant,Biase,2347068905449.0,Big Iwuru,8.27,54000,2,MB1,Apr wk 4 - 24,8.5
+2024-04-23,Muyideen,Donald David,M,Merchant,Biase,2347088941199.0,Akpet Central,1.91,54000,2,Ford2,Apr wk 4 - 24,50.48
+2024-04-23,Muyideen,Edidiong Moses,M,Merchant,Biase,2347068905449.0,Big Iwuru,0.73,54000,2,Dyna3,Apr wk 4 - 24,8.5
+2024-04-23,Muyideen,Edidiong Moses,M,Merchant,Biase,2347068905449.0,Big Iwuru,2.48,54000,2,Ford2,Apr wk 4 - 24,8.5
+2024-04-23,Muyideen,Onyenna Jerry,M,Merchant,Biase,2348064563331.0,Akpet Central,4.95,53000,2,Dyna2,Apr wk 4 - 24,50.48
+2024-04-24,Andifon,Uwem Udoh Nna,M,Farmer,Biase,2349015114829.0,Igbofia,1.82,50000,3,3PL,Apr wk 4 - 24,40.48
+2024-04-24,Hosanna,Obot Udoh,M,Farmer,Biase,2349129010350.0,Igbofia,3.35,50000,3,3PL,Apr wk 4 - 24,40.48
+2024-04-24,Hosanna,Obot Udoh,M,Farmer,Biase,2349129010350.0,Igbofia,2.82,50000,3,3PL,Apr wk 4 - 24,40.48
+2024-04-24,Utuk,Idoreyin Okon,M,Farmer,Biase,,Big Iwuru,2.34,52000,2,Ford2,Apr wk 4 - 24,8.5
+2024-04-24,Andifon,Peter Mendie,M,Farmer,Biase,2349164774134.0,Ehom Central,1.88,50000,3,Ford2,Apr wk 4 - 24,10.0
+2024-04-24,Andifon,Peter Mendie,M,Farmer,Biase,2349164774134.0,Ehom Central,2.45,50000,3,Ford2,Apr wk 4 - 24,10.0
+2024-04-25,Andifon,Emmanuel Ituen,M,Farmer,Akamkpa,2347034164713.0,Small Iwuru,1.41,54000,1,Ford2,Apr wk 4 - 24,20.42
+2024-04-25,Utuk,Enobong Udo,F,Farmer,Biase,2347041796309.0,Ayaba,2.93,50000,3,3PL,Apr wk 4 - 24,27.3
+2024-04-25,Muyideen,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Big Iwuru,1.84,54000,2,Ford2,Apr wk 4 - 24,8.5
+2024-04-25,Utuk,Victoria Sunday,F,Farmer,Biase,2349165599951.0,Abichi,3.29,52000,2,3PL,Apr wk 4 - 24,61.96
+2024-04-25,Utuk,Rita Okon Eyo,F,Farmer,Biase,2347069763596.0,Akwa-Ibami,4.68,52000,2,MB1,Apr wk 4 - 24,35.6
+2024-04-25,Muyideen,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Big Iwuru,2.38,54000,2,Ford2,Apr wk 4 - 24,8.5
+2024-04-26,Utuk,Isaiah Anthony,M,Farmer,Akamkpa,2348102809590.0,Small Iwuru,2.49,50000,3,Ford2,Apr wk 4 - 24,20.42
+2024-04-26,Muyideen,Donald David,M,Merchant,Biase,2347088941199.0,Akpet Central,9.87,54000,2,MB1,Apr wk 4 - 24,50.48
+2024-04-26,Andifon,Kingsley Okon,M,Farmer,Akamkpa,2348069191355.0,Ojor,2.59,50000,3,Ford2,Apr wk 4 - 24,38.72
+2024-04-26,Andifon,Kingsley Okon,M,Farmer,Akamkpa,2348069191355.0,Ojor,2.54,52000,2,Ford2,Apr wk 4 - 24,38.72
+2024-04-26,Joseph,Emem James Akpan,F,Merchant,Akamkpa,2348166991040.0,Ifumkpa,4.37,52000,2,MB1,Apr wk 4 - 24,6.72
+2024-04-27,Andifon,Upe Friday Upe,M,Farmer,Biase,2347069392568.0,Umai,2.21,52000,2,Ford2,Apr wk 4 - 24,40.0
+2024-04-27,Muyideen,Favour Nnedu,F,Merchant,Akamkpa,2348163187190.0,Uyanga,2.88,54000,2,Ford2,Apr wk 4 - 24,34.66
+2024-04-27,Muyideen,Namso Udoh,M,Merchant,Akamkpa,2348066071921.0,Uyanga,10.12,53000,2,MB1,Apr wk 4 - 24,34.66
+2024-04-27,Muyideen,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Ayaba,2.56,54000,2,Ford2,Apr wk 4 - 24,27.3
+2024-04-27,Muyideen,Favour Nnedu,F,Merchant,Akamkpa,2348163187190.0,Uyanga,3.59,54000,2,3PL,Apr wk 4 - 24,34.66
+2024-04-27,Muyideen,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Ikot Okpora,2.69,54000,2,3PL,Apr wk 4 - 24,12.6
+2024-04-28,Muyideen,Michael Ikum,M,Merchant,Akamkpa,2348133704328.0,Ojor,6.19,54000,2,MB1,Apr wk 4 - 24,38.72
+2024-04-28,Muyideen,Favour Nnedu,F,Merchant,Akamkpa,2348163187190.0,Uyanga,2.98,54000,2,Ford2,Apr wk 4 - 24,34.66
+2024-04-28,Andifon,Upe Friday Upe,M,Farmer,Biase,2347069392568.0,Umai,1.76,52000,2,Ford2,Apr wk 4 - 24,40.0
+2024-04-28,Andifon,Solomon Monday,M,Farmer,Akamkpa,2348067065067.0,Ojor,7.08,52000,2,MB1,Apr wk 4 - 24,38.72
+2024-04-28,Muyideen,Donald David,M,Merchant,Biase,2347088941199.0,Akpet Central,6.47,54000,2,MB1,Apr wk 4 - 24,50.48
+2024-04-29,Muyideen,Michael Ikum,M,Merchant,Akamkpa,2348133704328.0,Ojor,3.19,54000,2,3PL,May wk 1 - 24,38.72
+2024-04-29,Muyideen,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Big Iwuru,1.17,54000,2,Ford2,May wk 1 - 24,8.5
+2024-04-29,Muyideen,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Big Iwuru,2.27,54000,2,Ford2,May wk 1 - 24,8.5
+2024-04-29,Muyideen,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Big Iwuru,2.38,54000,2,Ford2,May wk 1 - 24,8.5
+2024-04-29,Hosanna,Akpe Arong Akpe,M,Merchant,Biase,2349034110410.0,Igbofia,8.04,52000,2,MB1,May wk 1 - 24,40.48
+2024-04-30,Utuk,Isaiah Anthony,M,Merchant,Biase,2348102809590.0,Betem,2.29,52000,2,Ford2,May wk 1 - 24,19.8
+2024-04-30,Muyideen,Donald David,M,Merchant,Biase,2347088941199.0,Akpet Central,2.53,54000,2,Ford2,May wk 1 - 24,50.48
+2024-04-30,Muyideen,Favour Nnedu,F,Merchant,Akamkpa,2348163187190.0,Uyanga,3.53,54000,2,3PL,May wk 1 - 24,34.66
+2024-04-30,Andifon,Ebit Assem,M,Merchant,Biase,2349113022628.0,Umai,8.47,52000,2,MB1,May wk 1 - 24,40.0
+2024-04-30,Muyideen,Onyenna Jerry,M,Merchant,Biase,2348064563331.0,Akpet Central,3.52,53000,2,3PL,May wk 1 - 24,50.48
+2024-04-30,Muyideen,Bassey Wisdom,M,Merchant,Biase,2347061921502.0,Akpanganang,5.96,50000,2,MB1,May wk 1 - 24,12.6
+2024-04-30,Muyideen,Namso Udoh,M,Merchant,Akamkpa,2348066071921.0,Uyanga,2.76,53000,2,Ford2,May wk 1 - 24,34.66
+2024-04-30,Muyideen,Michael Ikum,M,Merchant,Akamkpa,2348133704328.0,Ojor,5.51,54000,2,MB1,May wk 1 - 24,38.72
+2024-05-01,Muyideen,Edidiong Moses,M,Merchant,Akamkpa,2347068905449.0,Ojor,8.58,54000,2,MB1,May wk 1 - 24,38.72
+2024-05-01,Joseph,Jumbo Adekanmi,M,Merchant,Akamkpa,2348037199794.0,Uyanga,2.94,52000,2,3PL,May wk 1 - 24,34.66
+2024-05-01,Utuk,Diamond Usoro,M,Merchant,Biase,2347036472599.0,Big Iwuru,3.5,52000,2,3PL,May wk 1 - 24,8.5
+2024-05-01,Muyideen,Namso Udoh,M,Farmer,Akamkpa,2348066071921.0,Uyanga,2.46,53000,2,Ford2,May wk 1 - 24,34.66
+2024-05-01,Muyideen,Onyenna Jerry,M,Merchant,Biase,2348064563331.0,Akpet Central,2.91,53000,2,3PL,May wk 1 - 24,50.48
+2024-05-01,Utuk,Ekandem Asuquo,M,Farmer,Biase,2349038467089.0,Ayaba,8.22,52000,2,MB1,May wk 1 - 24,27.3
+2024-05-01,Muyideen,Onyenna Jerry,M,Merchant,Biase,2348064563331.0,Akpet Central,3.1,53000,2,3PL,May wk 1 - 24,50.48
+2024-05-02,Utuk,Ekom Uwem,M,Farmer,Biase,2347065081013.0,Big Iwuru,7.1,52000,2,MB1,May wk 1 - 24,8.5
+2024-05-02,Andifon,Diamond Usoro,M,Farmer,Biase,2347036472599.0,Big Iwuru,0.74,52000,2,Ford2,May wk 1 - 24,8.5
+2024-05-02,Muyideen,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Big Iwuru,3.59,54000,2,3PL,May wk 1 - 24,8.5
+2024-05-02,Muyideen,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Big Iwuru,3.4,54000,2,3PL,May wk 1 - 24,8.5
+2024-05-02,Andifon,Precious Kalu,M,Farmer,Akamkpa,2348086982909.0,Uyanga,1.84,52000,2,Ford2,May wk 1 - 24,34.66
+2024-05-02,Utuk,Ekom Uwem,M,Farmer,Biase,2347065081013.0,Big Iwuru,8.97,50000,3,MB1,May wk 1 - 24,8.5
+2024-05-02,Muyideen,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Big Iwuru,3.37,54000,2,3PL,May wk 1 - 24,8.5
+2024-05-02,Andifon,Precious Kalu,M,Farmer,Akamkpa,2348086982909.0,Uyanga,1.41,52000,2,Ford2,May wk 1 - 24,34.66
+2024-05-02,Andifon,Solomon Monday,M,Farmer,Akamkpa,2348067065067.0,Ojor,7.7,52000,2,MB1,May wk 1 - 24,38.72
+2024-05-02,Muyideen,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Big Iwuru,3.3,54000,2,3PL,May wk 1 - 24,8.5
+2024-05-02,Andifon,Onuka Uche Kalu,M,Farmer,Biase,2348034977697.0,Umai,2.12,52000,2,Ford2,May wk 1 - 24,40.0
+2024-05-03,Andifon,God'swill Abel,M,Merchant,Biase,2349133544962.0,Ikot Okpora,4.76,52000,2,MB1,May wk 1 - 24,12.6
+2024-05-03,Muyideen,Onyenna Jerry,M,Merchant,Biase,2348064563331.0,Akpet Central,3.35,53000,2,3PL,May wk 1 - 24,50.48
+2024-05-03,Utuk,Daniel Atiata,M,Farmer,Biase,2348146181251.0,Big Iwuru,1.85,52000,2,Ford2,May wk 1 - 24,8.5
+2024-05-03,Utuk,Gabriel Etim Akpan,M,Farmer,Biase,2349138979212.0,Big Iwuru,0.83,52000,2,Ford2,May wk 1 - 24,8.5
+2024-05-03,Utuk,Gabriel Etim Akpan,M,Farmer,Biase,2349138979212.0,Big Iwuru,2.45,52000,2,Ford2,May wk 1 - 24,8.5
+2024-05-03,Muyideen,Onyenna Jerry,M,Merchant,Biase,2348064563331.0,Akpet Central,3.15,53000,2,3PL,May wk 1 - 24,50.48
+2024-05-03,Utuk,Daniel Atiata,M,Farmer,Biase,2348146181251.0,Big Iwuru,2.05,52000,2,Ford2,May wk 1 - 24,8.5
+2024-05-03,Muyideen,Favour Nnedu,F,Merchant,Akamkpa,2348163187190.0,Uyanga,5.56,54000,2,MB1,May wk 1 - 24,34.66
+2024-05-04,Andifon,God'swill Abel,M,Merchant,Biase,2349133544962.0,Ekpiriko,6.24,52000,2,MB1,May wk 1 - 24,16.7
+2024-05-04,Muyideen,Edidiong Moses,M,Merchant,Biase,2347068905449.0,Big Iwuru,2.2,54000,2,Ford2,May wk 1 - 24,8.5
+2024-05-04,Muyideen,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Big Iwuru,3.51,54000,2,3PL,May wk 1 - 24,8.5
+2024-05-04,Muyideen,Edidiong Moses,M,Merchant,Biase,2347068905449.0,Big Iwuru,2.61,54000,2,Ford2,May wk 1 - 24,8.5
+2024-05-04,Muyideen,Michael Ikum,M,Merchant,Akamkpa,2348133704328.0,Ojor,7.42,54000,2,MB1,May wk 1 - 24,38.72
+2024-05-04,Muyideen,Edidiong Moses,M,Merchant,Biase,2347068905449.0,Big Iwuru,2.24,54000,2,Ford2,May wk 1 - 24,8.5
+2024-05-04,Muyideen,Onyenna Jerry,M,Merchant,Biase,2348064563331.0,Akpet Central,3.78,53000,2,3PL,May wk 1 - 24,50.48
+2024-05-04,Muyideen,Edidiong Moses,M,Merchant,Biase,2347068905449.0,Big Iwuru,2.49,54000,2,Ford2,May wk 1 - 24,8.5
+2024-05-04,Muyideen,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Big Iwuru,3.52,54000,2,3PL,May wk 1 - 24,8.5
+2024-05-06,Andifon,Emmanuel Bassey Udo,M,Farmer,Biase,2347034367865.0,Orida,3.07,52000,2,SP-3PL,May wk 2 - 24,4.0
+2024-05-06,Muyideen,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Big Iwuru,2.5,53000,2,Ford2,May wk 2 - 24,8.5
+2024-05-06,Muyideen,Favour Nnedu,F,Merchant,Akamkpa,2348163187190.0,Big Iwuru,2.96,53000,2,3PL,May wk 2 - 24,8.5
+2024-05-06,Joseph,Clementina Enang,F,Farmer,Akamkpa,2349031484975.0,Uyanga,5.98,52000,2,MB1,May wk 2 - 24,34.66
+2024-05-06,Utuk,Friday Imoh,M,Farmer,Biase,2349069766781.0,Big Iwuru,2.56,52000,2,Ford2,May wk 2 - 24,8.5
+2024-05-06,Muyideen,Favour Nnedu,F,Merchant,Akamkpa,2348163187190.0,Uyanga,2.95,53000,2,3PL,May wk 2 - 24,34.66
+2024-05-06,Utuk,Ndaeyo Udo Akpan,M,Farmer,Biase,2349032222625.0,Ndeanor,1.83,52000,2,Ford2,May wk 2 - 24,4.0
+2024-05-07,Utuk,Sunday Mfon,M,Farmer,Biase,2348104474608.0,Big Iwuru,2.11,52000,2,Ford2,May wk 2 - 24,8.5
+2024-05-07,Muyideen,Favour Nnedu,M,Farmer,Akamkpa,2348163187190.0,Big Iwuru,2.74,53000,2,3PL,May wk 2 - 24,8.5
+2024-05-07,Utuk,Sunday Mfon,M,Farmer,Biase,2348104474608.0,Big Iwuru,2.42,52000,2,Ford2,May wk 2 - 24,8.5
+2024-05-07,Utuk,Sunday Mfon,M,Farmer,Biase,2348104474608.0,Big Iwuru,2.44,52000,2,Ford2,May wk 2 - 24,8.5
+2024-05-07,Andifon,Emmanuel Bassey Udo,M,Farmer,Biase,2347034267865.0,Orida,5.45,52000,2,3PL,May wk 2 - 24,4.0
+2024-05-07,Utuk,Micah Ita James,M,Farmer,Akamkpa,2349137782396.0,Small Iwuru,1.45,52000,2,Ford2,May wk 2 - 24,20.42
+2024-05-07,Muyideen,Akaninyene Ekanem,M,Farmer,Biase,2348164267908.0,Big Iwuru,1.59,53000,2,Ford2,May wk 2 - 24,8.5
+2024-05-08,Utuk,Imoh Patrick,M,Farmer,Biase,2349041564118.0,Big Iwuru,2.1,50000,3,Ford2,May wk 2 - 24,8.5
+2024-05-08,Muyideen,Onyenna Jerry,M,Merchant,Biase,2348064563331.0,Akpet Central,3.11,52000,2,3PL,May wk 2 - 24,50.48
+2024-05-09,Muyideen,Edidiong Moses,M,Merchant,Biase,2347068905449.0,Betem,2.84,54000,2,3PL,May wk 2 - 24,19.8
+2024-05-09,Muyideen,Namso Udoh,M,Merchant,Akamkpa,2348066071921.0,Small Iwuru,2.42,53000,2,Ford2,May wk 2 - 24,20.42
+2024-05-09,Muyideen,Onyenna Jerry,M,Merchant,Biase,2348064563331.0,Akpet Central,2.58,52000,2,3PL,May wk 2 - 24,50.48
+2024-05-09,Andifon,Imaobong Solomon,F,Farmer,Biase,2348136575505.0,Big Iwuru,2.19,50000,3,Ford2,May wk 2 - 24,8.5
+2024-05-10,Muyideen,Edidiong Moses,M,Merchant,Biase,2347068905449.0,Betem,1.9,54000,2,Ford2,May wk 2 - 24,19.8
+2024-05-10,Utuk,Ekanem Asuquo,M,Merchant,Biase,2349038467089.0,Ayaba,3.0,50000,3,3PL,May wk 2 - 24,27.3
+2024-05-10,Utuk,Gabriel Etim Akpan,M,Farmer,Biase,2349138979212.0,Orida,2.67,50000,3,Ford2,May wk 2 - 24,4.0
+2024-05-10,Utuk,Ekanem Asuquo,M,Merchant,Biase,2349038467089.0,Ayaba,2.64,50000,3,3PL,May wk 2 - 24,27.3
+2024-05-10,Utuk,Gabriel Etim Akpan,M,Farmer,Biase,2349138979212.0,Orida,2.16,50000,3,Ford2,May wk 2 - 24,4.0
+2024-05-10,Muyideen,Namso Udoh,M,Merchant,Akamkpa,2348066071921.0,Uyanga,2.2,53000,2,Ford2,May wk 2 - 24,34.66
+2024-05-11,Muyideen,Michael Ikum,M,Merchant,Akamkpa,2348133704328.0,Ojor,4.16,53000,2,Dyna4,May wk 2 - 24,38.72
+2024-05-11,Staff referral,Oham Oham,M,Farmer,Biase,2348169083428.0,Betem,3.13,52000,2,3PL,May wk 2 - 24,19.8
+2024-05-11,Staff referral,Cosmos Essien,M,Farmer,Biase,2349164797012.0,Orida,0.87,52000,2,Ford2,May wk 2 - 24,4.0
+2024-05-11,Muyideen,Michael Ikum,M,Merchant,Akamkpa,2348133704328.0,Ojor,2.8,53000,2,3PL,May wk 2 - 24,38.72
+2024-05-11,Utuk,Emem James Akpan,F,Merchant,Akamkpa,2348166991040.0,Ifumkpa,8.27,50000,2,MB1,May wk 2 - 24,6.72
+2024-05-13,Utuk,Emem James Akpan,F,Merchant,Akamkpa,2348166991040.0,Ifumkpa,4.9,50000,2,MB1,May wk 3 - 24,6.72
+2024-05-13,Direct visit,Mercy Elijah,F,Farmer,Biase,,Big Iwuru,2.52,52000,2,Ford2,May wk 3 - 24,8.5
+2024-05-13,Muyideen,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Big Iwuru,4.4,53000,2,Dyna4,May wk 3 - 24,8.5
+2024-05-13,Andifon,Anthony Edidiong,M,Farmer,Biase,2347085444167.0,Umai,2.45,53000,1,Ford2,May wk 3 - 24,40.0
+2024-05-13,Joseph,Jumbo Adekanmi,M,Merchant,Akamkpa,2348037199794.0,Uyanga,9.42,52000,2,MB1,May wk 3 - 24,34.66
+2024-05-13,Muyideen,Clement Onyebo,M,Merchant,Biase,2348165937891.0,Betem,4.26,53000,1,Dyna4,May wk 3 - 24,19.8
+2024-05-13,Staff referral,Esther Bassey,F,Farmer,Biase,2349060116415.0,Ikot Okpora,1.31,50000,3,Ford2,May wk 3 - 24,12.6
+2024-05-13,Muyideen,Clement Onyebo,M,Merchant,Biase,2348165937891.0,Betem,5.18,52000,2,Dyna4,May wk 3 - 24,19.8
+2024-05-13,Andifon,Solomon Monday,M,Merchant,Akamkpa,2348067065067.0,Ojor,8.02,50000,3,MB1,May wk 3 - 24,38.72
+2024-05-14,Andifon,Kingsley Okon,M,Farmer,Akamkpa,2348069191355.0,Ojor,4.27,50000,3,Dyna4,May wk 3 - 24,38.72
+2024-05-14,Andifon,Blessing Michael,F,Farmer,Biase,2348120612779.0,Umai,1.36,50000,3,Ford2,May wk 3 - 24,40.0
+2024-05-14,Muyideen,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Big Iwuru,3.42,53000,2,3PL,May wk 3 - 24,8.5
+2024-05-14,Muyideen,Michael Ikum,M,Merchant,Akamkpa,2348133704328.0,Ojor,7.29,52000,2,MB1,May wk 3 - 24,38.72
+2024-05-14,Andifon,Blessing Michael,F,Farmer,Biase,2348120612779.0,Umai,1.87,50000,3,Ford2,May wk 3 - 24,40.0
+2024-05-14,Muyideen,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Big Iwuru,3.76,53000,2,3PL,May wk 3 - 24,8.5
+2024-05-14,Andifon,Blessing Michael,F,Farmer,Biase,2348120612779.0,Umai,2.51,52000,2,Ford2,May wk 3 - 24,40.0
+2024-05-14,Muyideen,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Big Iwuru,3.36,53000,2,3PL,May wk 3 - 24,8.5
+2024-05-14,Joseph,Kate Brown,F,Merchant,Akamkpa,2349038911946.0,Uyanga,9.07,50000,2,MB1,May wk 3 - 24,34.66
+2024-05-15,Muyideen,Edidiong Moses,M,Merchant,Biase,2347068905449.0,Big Iwuru,1.59,54000,2,Ford2,May wk 3 - 24,8.5
+2024-05-15,Utuk,Emem James Akpan,F,Merchant,Biase,2348166991040.0,Ekpiriko,8.26,53000,1,SP-3PL,May wk 3 - 24,16.7
+2024-05-15,Joseph,Kate Brown,F,Merchant,Akamkpa,2349038911946.0,Uyanga,7.27,50000,2,MB1,May wk 3 - 24,34.66
+2024-05-15,Staff referral,Jacob Ahong,M,Farmer,Biase,2348143212899.0,Betem,2.74,49000,3,3PL,May wk 3 - 24,19.8
+2024-05-15,Andifon,Kingsley Okon,M,Farmer,Akamkpa,2348069191355.0,Ojor,2.45,50000,3,Ford2,May wk 3 - 24,38.72
+2024-05-15,Muyideen,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Big Iwuru,3.9,53000,2,3PL,May wk 3 - 24,8.5
+2024-05-15,Muyideen,Namso Udoh,M,Merchant,Akamkpa,2348066071921.0,Uyanga,9.76,52000,2,MB1,May wk 3 - 24,34.66
+2024-05-15,Andifon,Solomon Monday,M,Merchant,Akamkpa,2348067065067.0,Ojor,5.15,50000,3,Dyna2,May wk 3 - 24,38.72
+2024-05-16,Utuk,Unwana Elijah,F,Farmer,Biase,,Big Iwuru,2.1,49000,1,Ford2,May wk 3 - 24,8.5
+2024-05-16,Utuk,Imoh Patrick,M,Farmer,Biase,2390441564118.0,Big Iwuru,1.73,47000,2,Ford2,May wk 3 - 24,8.5
+2024-05-16,Utuk,Mfon Etebong,F,Farmer,Biase,2349063345197.0,Big Iwuru,3.75,49000,1,3PL,May wk 3 - 24,8.5
+2024-05-16,Muyideen,Namso Udoh,M,Merchant,Akamkpa,2348066071921.0,Uyanga,9.74,52000,2,MB1,May wk 3 - 24,34.66
+2024-05-16,Joseph,Obot Udoh,M,Merchant,Biase,2349229010350.0,Igbofia,4.12,45000,3,Dyna2,May wk 3 - 24,40.48
+2024-05-16,Joseph,Christiana Ebani,F,Farmer,Akamkpa,2336749129804.0,Uyanga,1.86,47000,2,Ford2,May wk 3 - 24,34.66
+2024-05-16,Andifon,Mercy Elijah,F,Farmer,Biase,,Big Iwuru,2.12,45000,3,3PL,May wk 3 - 24,8.5
+2024-05-17,Joseph,Obot Udoh,M,Merchant,Biase,2349229010350.0,Igbofia,3.74,45000,3,Dyna2,May wk 3 - 24,40.48
+2024-05-17,Muyideen,Sampson Diamond,M,Merchant,Biase,2349029055984.0,Akpet Central,5.96,47000,2,MB1,May wk 3 - 24,50.48
+2024-05-17,Muyideen,Onyenna Jerry,M,Merchant,Biase,2348064563331.0,Akpet Central,5.0,52000,2,Dyna4,May wk 3 - 24,50.48
+2024-05-17,Muyideen,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Big Iwuru,3.94,53000,2,Dyna4,May wk 3 - 24,8.5
+2024-05-17,Joseph,Grace Dominic,F,Farmer,Akamkpa,2349129804367.0,Uyanga,2.28,47000,2,Ford2,May wk 3 - 24,34.66
+2024-05-17,Joseph,Ubong Aniekan,M,Farmer,Biase,2348105815483.0,Igbofia,3.99,47000,2,Dyna2,May wk 3 - 24,40.48
+2024-05-18,Andifon,Nkanu Nkanu Elijah,M,Farmer,Biase,2349039574077.0,Ekpiriko,3.54,45000,3,Dyna4,May wk 3 - 24,16.7
+2024-05-18,Muyideen,Donald David,M,Merchant,Biase,2347088941199.0,Akpet Central,2.61,52000,2,Ford2,May wk 3 - 24,50.48
+2024-05-18,Muyideen,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Big Iwuru,3.24,52000,2,Dyna4,May wk 3 - 24,8.5
+2024-05-18,Utuk,Kokoette Akpan Okon,M,Farmer,Biase,2348142582430.0,Ndeanor,2.0,45000,3,Ford2,May wk 3 - 24,4.0
+2024-05-18,Utuk,Kokoette Akpan Okon,M,Farmer,Biase,2348142582430.0,Ndeanor,1.09,45000,3,Ford2,May wk 3 - 24,4.0
+2024-05-18,Utuk,Ndiananie Akpan,M,Farmer,Biase,,Ndeacha,1.72,45000,3,Ford2,May wk 3 - 24,17.16
+2024-05-18,Utuk,Ndiananie Akpan,M,Farmer,Biase,,Ndeacha,0.96,45000,3,Ford2,May wk 3 - 24,17.16
+2024-05-18,Utuk,Udo Ibanga Akpan,M,Farmer,Biase,2347069138863.0,Ekpiriko,4.8,45000,3,Dyna4,May wk 3 - 24,16.7
+2024-05-18,Utuk,Simeon Udo Ekpenyong,M,Farmer,Biase,2349064609860.0,Orida,5.08,47000,2,Dyna4,May wk 3 - 24,4.0
+2024-05-20,Muyideen,Rachael Okon,F,Merchant,Akamkpa,2348164170275.0,Uyanga,5.1,50000,2,Dyna4,May wk 4 - 24,34.66
+2024-05-20,Utuk,Esther Friday Nnana,F,Farmer,Biase,2349160182812.0,Ndeanor,1.89,47000,2,Ford2,May wk 4 - 24,4.0
+2024-05-20,Utuk,Emem James Akpan,F,Merchant,Biase,2348166991040.0,Ekpiriko,8.16,50000,2,MB1,May wk 4 - 24,16.7
+2024-05-20,Muyideen,Favour Nnedu,F,Merchant,Akamkpa,2348163187190.0,Uyanga,4.31,52000,2,Dyna4,May wk 4 - 24,34.66
+2024-05-21,Muyideen,Favour Nnedu,F,Merchant,Akamkpa,2348163187190.0,Uyanga,4.22,52000,2,Dyna4,May wk 4 - 24,34.66
+2024-05-21,Utuk,Emem James Akpan,F,Merchant,Biase,2348166991040.0,Ekpiriko,8.72,50000,2,MB1,May wk 4 - 24,16.7
+2024-05-21,Andifon,Favour Ndu,M,Farmer,Biase,2347019636795.0,Betem,0.93,47000,2,Ford2,May wk 4 - 24,19.8
+2024-05-21,Muyideen,Onyenna Jerry,M,Merchant,Biase,2348064563331.0,Akpet Central,4.76,52000,2,Dyna2,May wk 4 - 24,50.48
+2024-05-21,Muyideen,Collins Ukam,M,Merchant,Biase,2347069365525.0,Betem,3.23,50000,2,MB1,May wk 4 - 24,19.8
+2024-05-21,Muyideen,Onyenna Jerry,M,Merchant,Biase,2348064563331.0,Akpet Central,4.77,52000,2,Dyna4,May wk 4 - 24,50.48
+2024-05-21,Muyideen,Rachael Okon,F,Merchant,Akamkpa,2348164170275.0,Uyanga,4.05,50000,2,Dyna4,May wk 4 - 24,34.66
+2024-05-21,Muyideen,Donald David,M,Merchant,Biase,2347088941199.0,Akpet Central,9.27,52000,2,MB1,May wk 4 - 24,50.48
+2024-05-22,Muyideen,Onyenna Jerry,M,Merchant,Biase,2348064563331.0,Akpet Central,4.93,49000,2,Dyna4,May wk 4 - 24,50.48
+2024-05-22,Muyideen,Onyenna Jerry,M,Merchant,Biase,2348064563331.0,Akpet Central,4.44,49000,2,Dyna4,May wk 4 - 24,50.48
+2024-05-22,Andifon,Solomon Monday,M,Farmer,Akamkpa,2348067065067.0,Ojor,2.41,45000,3,Ford2,May wk 4 - 24,38.72
+2024-05-23,Muyideen,Favour Nnedu,F,Farmer,Akamkpa,2348163187190.0,Uyanga,4.42,50000,2,Dyna4,May wk 4 - 24,34.66
+2024-05-23,Utuk,Ofonime Effiong Essien,M,Farmer,Biase,2349135825721.0,Big Iwuru,6.11,47000,2,Dyna4,May wk 4 - 24,8.5
+2024-05-23,Muyideen,Donald David,M,Farmer,Biase,2347088941199.0,Akpet Central,4.55,52000,2,Dyna4,May wk 4 - 24,50.48
+2024-05-23,Utuk,Rita Okon Eyo,F,Farmer,Akamkpa,2347069763596.0,Akwa-Ibami,5.44,47000,2,MB1,May wk 4 - 24,35.6
+2024-05-23,Joseph,Obot Udoh,M,Merchant,Biase,2349229010350.0,Igbofia,8.14,45000,3,MB1,May wk 4 - 24,40.48
+2024-05-24,Joseph,Jumbo Adekanmi,M,Merchant,Akamkpa,2348037199794.0,Uyanga,5.64,47000,2,Dyna4,May wk 4 - 24,34.66
+2024-05-24,Muyideen,Eze Oko,M,Farmer,Biase,2347067043813.0,Akpet Central,5.17,47000,2,Dyna4,May wk 4 - 24,50.48
+2024-05-24,Utuk,Emem James Akpan,F,Merchant,Biase,2348166991040.0,Ekpiriko,8.3,47000,2,MB1,May wk 4 - 24,16.7
+2024-05-24,Utuk,Emem James Akpan,F,Merchant,Biase,2348166991040.0,Ekpiriko,7.76,47000,2,MB1,May wk 4 - 24,16.7
+2024-05-24,Muyideen,Donald David,M,Merchant,Biase,2347088941199.0,Akpet Central,5.58,52000,2,Dyna4,May wk 4 - 24,50.48
+2024-05-25,Muyideen,Namso Udoh,M,Merchant,Akamkpa,2348066071921.0,Uyanga,5.97,50000,2,Dyna4,May wk 4 - 24,34.66
+2024-05-25,Muyideen,Namso Udoh,M,Merchant,Akamkpa,2348066071921.0,Uyanga,5.82,50000,2,Dyna4,May wk 4 - 24,34.66
+2024-05-28,Utuk,Emem James Akpan,F,Merchant,Biase,2348166991040.0,Ekpiriko,1.95,50000,2,SP-3PL,May wk 5 - 24,16.7
+2024-05-28,Utuk,Udo Ibanga Akpan,M,Farmer,Biase,,Big Iwuru,5.79,45000,3,Dyna4,May wk 5 - 24,8.5
+2024-05-28,Utuk,Goodnews Friday,M,Farmer,Biase,,Big Iwuru,2.56,47000,2,Ford2,May wk 5 - 24,8.5
+2024-05-28,Andifon,Idam Emeka Eze,M,Farmer,Biase,2349120756478.0,Betem,7.16,45000,3,MB1,May wk 5 - 24,19.8
+2024-05-29,Andifon,Blessing Michael,F,Farmer,Biase,2348120612779.0,Umai,2.64,47000,2,Ford2,May wk 5 - 24,40.0
+2024-05-29,Muyideen,Onyenna Jerry,M,Merchant,Biase,2348064563331.0,Akpet Central,4.52,47000,2,Dyna4,May wk 5 - 24,50.48
+2024-05-29,Andifon,Anthony Edidiong,M,Farmer,Biase,2347085444167.0,Umai,2.44,47000,2,Ford2,May wk 5 - 24,40.0
+2024-05-29,Joseph,Jumbo Adekanmi,M,Merchant,Akamkpa,2348037199794.0,Uyanga,5.62,47000,2,Dyna4,May wk 5 - 24,34.66
+2024-05-29,Joseph,Moses Imoh,M,Farmer,Akamkpa,2347025605615.0,Ojor,9.23,47000,2,MB1,May wk 5 - 24,38.72
+2024-05-29,Andifon,Solomon Monday,M,Farmer,Akamkpa,2348067065067.0,Ojor,2.44,45000,3,Ford2,May wk 5 - 24,38.72
+2024-05-29,Andifon,Onuka Uche Kalu,M,Farmer,Biase,2348034977697.0,Umai,4.66,47000,2,Dyna4,May wk 5 - 24,40.0
+2024-05-29,Joseph,Moses Imoh,M,Farmer,Akamkpa,2347025605615.0,Ojor,5.33,45000,3,MB1,May wk 5 - 24,38.72
+2024-05-30,Andifon,Ekaette Offiong,F,Farmer,Biase,2347068869058.0,Umai,5.46,45000,3,Dyna4,May wk 5 - 24,40.0
+2024-05-30,Utuk,Isaiah Anthony,M,Farmer,Biase,2348145311504.0,Betem,3.21,45000,3,Dyna4,May wk 5 - 24,19.8
+2024-05-30,Andifon,Victoria Francis,F,Farmer,Biase,2347034699536.0,Ekpiriko,2.51,47000,2,Ford2,May wk 5 - 24,16.7
+2024-05-30,Muyideen,Edidiong Moses,M,Merchant,Biase,2347068905449.0,Big Iwuru,9.02,50000,2,MB1,May wk 5 - 24,8.5
+2024-05-30,Muyideen,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Big Iwuru,4.51,50000,2,Dyna4,May wk 5 - 24,8.5
+2024-05-30,Muyideen,Edidiong Moses,M,Merchant,Biase,2347068905449.0,Big Iwuru,9.42,50000,2,MB1,May wk 5 - 24,8.5
+2024-05-30,Muyideen,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Big Iwuru,4.05,50000,2,Dyna4,May wk 5 - 24,8.5
+2024-05-30,Muyideen,Donald David,M,Merchant,Biase,2347088941199.0,Akpet Central,2.28,49000,2,Ford2,May wk 5 - 24,50.48
+2024-05-31,Andifon,Kingsley Okon,M,Farmer,Akamkpa,2348069191355.0,Ojor,2.65,45000,2,Ford2,May wk 5 - 24,38.72
+2024-05-31,Joseph,Isaac Uwa,M,Farmer,Biase,2348106272353.0,Igbofia,4.05,45000,2,Dyna4,May wk 5 - 24,40.48
+2024-05-31,Muyideen,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Big Iwuru,6.07,50000,2,Dyna4,May wk 5 - 24,8.5
+2024-05-31,Andifon,Blessing Michael,M,Farmer,Biase,2348120612779.0,Umai,2.34,47000,2,Ford2,May wk 5 - 24,40.0
+2024-05-31,Muyideen,Favour Nnedu,F,Merchant,Biase,2348163187190.0,Uyanga,4.22,50000,2,Dyna4,May wk 5 - 24,34.66
+2024-05-31,Muyideen,Michael Ikum,M,Merchant,Akamkpa,2348133704328.0,Ojor,10.64,50000,2,MB1,May wk 5 - 24,38.72
+2024-06-01,Muyideen,Favour Nnedu,F,Merchant,Akamkpa,2348163187190.0,Uyanga,4.94,50000,2,Dyna4,May wk 5 - 24,
+2024-06-01,Muyideen,Favour Nnedu,F,Merchant,Biase,2348163187190.0,Uyanga,4.94,50000,2,Dyna4,May wk 5 - 24,34.66
+2024-06-01,Utuk,Ndueso Archibong,M,Merchant,Biase,2348133183799.0,Orida,2.12,45000,3,Ford2,May wk 5 - 24,4.0
+2024-06-01,Utuk,Ndueso Archibong,M,Merchant,Biase,2348133183799.0,Orida,1.74,45000,3,Ford2,May wk 5 - 24,4.0
+2024-06-01,Utuk,Micah Ita James,M,Merchant,Akamkpa,2349137877133.0,Small Iwuru,1.23,45000,3,Ford2,May wk 5 - 24,20.42
+2024-06-01,Utuk,Emem James Akpan,F,Merchant,Akamkpa,2348166991040.0,Ekpiriko,0.51,50000,2,SP-3PL,May wk 5 - 24,16.7
+2024-06-05,Andifon,Anthony Edidiong,M,Farmer,Biase,2347085444167.0,Umai,2.28,47000,2,Ford2,Jun wk 1 - 24,40.0
+2024-06-05,Muyideen,Namso Udoh,M,Merchant,Akamkpa,2348066071921.0,Uyanga,5.51,50000,2,Dyna4,Jun wk 1 - 24,34.66
+2024-06-05,Muyideen,Namso Udoh,M,Merchant,Akamkpa,2348066071921.0,Uyanga,8.73,50000,2,MB1,Jun wk 1 - 24,34.66
+2024-06-05,Muyideen,Edidiong Moses,M,Merchant,Biase,2347068905449.0,Big Iwuru,2.94,50000,2,Ford2,Jun wk 1 - 24,8.5
+2024-06-05,Muyideen,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Big Iwuru,5.9,50000,2,Dyna4,Jun wk 1 - 24,8.5
+2024-06-05,Muyideen,Edidiong Moses,M,Merchant,Biase,2347068905449.0,Big Iwuru,3.09,50000,2,Ford2,Jun wk 1 - 24,8.5
+2024-06-05,Utuk,Daniel Atiata,M,Farmer,Biase,2348146181251.0,Big Iwuru,7.92,44000,2,MB1,Jun wk 1 - 24,8.5
+2024-06-05,Muyideen,Michael Ikum,M,Merchant,Akamkpa,2348133704328.0,Ojor,8.67,50000,2,MB1,Jun wk 1 - 24,38.72
+2024-06-06,Joseph,Jumbo Adekanmi,M,Merchant,Akamkpa,2348037199794.0,Uyanga,5.52,46000,2,Dyna4,Jun wk 1 - 24,34.66
+2024-06-06,Joseph,Christiana Ebani,F,Farmer,Akamkpa,2349039922597.0,Uyanga,3.12,42000,3,Ford2,Jun wk 1 - 24,34.66
+2024-06-06,Joseph,Jumbo Adekanmi,M,Merchant,Akamkpa,2348037199794.0,Uyanga,5.45,46000,2,Dyna4,Jun wk 1 - 24,34.66
+2024-06-06,Muyideen,Onyenna Jerry,M,Merchant,Biase,2348064563331.0,Akpet Central,9.65,48000,1,MB1,Jun wk 1 - 24,50.48
+2024-06-06,Andifon,Onuka Uche Kalu,M,Farmer,Biase,2348034977697.0,Akpet Central,2.21,44000,2,Ford2,Jun wk 1 - 24,50.48
+2024-06-06,Muyideen,Edidiong Moses,M,Merchant,Biase,2347068905449.0,Betem,4.64,46000,2,MB1,Jun wk 1 - 24,19.8
+2024-06-06,Muyideen,Donald David,M,Merchant,Biase,2347088941199.0,Akpet Central,4.01,46000,2,Dyna4,Jun wk 1 - 24,50.48
+2024-06-07,Muyideen,Rachael Okon,F,Merchant,Akamkpa,2349061648619.0,Uyanga,2.07,50000,2,Ford2,Jun wk 1 - 24,34.66
+2024-06-07,Andifon,Solomon Monday,M,Farmer,Akamkpa,2348067065067.0,Ojor,2.38,44000,2,Ford2,Jun wk 1 - 24,38.72
+2024-06-07,Muyideen,Edidiong Moses,M,Merchant,Biase,2347068905449.0,Big Iwuru,2.32,46000,2,Ford2,Jun wk 1 - 24,8.5
+2024-06-07,Muyideen,Onyenna Jerry,M,Merchant,Biase,2348064563331.0,Akpet Central,3.76,46000,2,Dyna4,Jun wk 1 - 24,50.48
+2024-06-08,Muyideen,Donald David,M,Merchant,Biase,2347088941199.0,Akpet Central,2.57,48000,1,Ford2,Jun wk 1 - 24,50.48
+2024-06-08,Muyideen,Donald David,M,Merchant,Biase,2347088941199.0,Akpet Central,3.71,46000,2,Dyna4,Jun wk 1 - 24,50.48
+2024-06-08,Muyideen,Donald David,M,Merchant,Biase,2347088941199.0,Akpet Central,3.52,46000,2,Dyna4,Jun wk 1 - 24,50.48
+2024-06-08,Muyideen,Onyenna Jerry,M,Merchant,Biase,2348064563331.0,Akpet Central,2.71,46000,2,Ford2,Jun wk 1 - 24,50.48
+2024-06-10,Utuk,Aniebiet John Peter,M,Farmer,Biase,2349162608930.0,Ehom,6.27,44000,2,MB1,Jun wk 2 - 24,10.0
+2024-06-10,Utuk,Edu Udofia John,M,Farmer,Biase,2348134927998.0,Akwa-Ibami,3.97,44000,2,Dyna4,Jun wk 2 - 24,35.6
+2024-06-10,Joseph,Obot Udoh,M,Merchant,Biase,2349229010350.0,Igbofia,5.93,42000,3,MB1,Jun wk 2 - 24,40.48
+2024-06-11,Andifon,Nkanu Nkanu Elijah,M,Farmer,Biase,2349039574077.0,Ekpiriko,4.53,44000,2,Dyna4,Jun wk 2 - 24,16.7
+2024-06-11,Muyideen,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Big Iwuru,3.72,46000,2,Dyna4,Jun wk 2 - 24,8.5
+2024-06-11,Joseph,Jumbo Adekanmi,M,Merchant,Akamkpa,2348037199794.0,Big Iwuru,6.69,46000,2,MB1,Jun wk 2 - 24,8.5
+2024-06-11,Muyideen,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Big Iwuru,4.82,46000,2,Dyna4,Jun wk 2 - 24,8.5
+2024-06-11,Muyideen,Edidiong Moses,M,Merchant,Biase,2347068905449.0,Big Iwuru,4.98,46000,2,Dyna4,Jun wk 2 - 24,8.5
+2024-06-12,Andifon,Solomon George,M,Farmer,Biase,2349018647291.0,Betem,4.55,48000,1,Dyna4,Jun wk 2 - 24,19.8
+2024-06-12,Andifon,Solomon George,M,Farmer,Biase,2349018647291.0,Betem,3.94,48000,1,Dyna4,Jun wk 2 - 24,19.8
+2024-06-12,Utuk,Eunice Monday,M,Farmer,Biase,2349162402885.0,Orida,5.36,44000,2,MB1,Jun wk 2 - 24,4.0
+2024-06-12,Utuk,Godwin Okon,M,Farmer,Biase,2349061783739.0,Ndeanor,2.59,44000,2,Dyna4,Jun wk 2 - 24,4.0
+2024-06-12,Muyideen,Edidiong Moses,M,Merchant,Biase,2347068905449.0,Big Iwuru,5.93,46000,2,MB1,Jun wk 2 - 24,8.5
+2024-06-12,Muyideen,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Big Iwuru,4.99,46000,2,Dyna4,Jun wk 2 - 24,8.5
+2024-06-13,Muyideen,Namso Udoh,M,Merchant,Akamkpa,2348066071921.0,Uyanga,4.9,46000,2,Dyna4,Jun wk 2 - 24,34.66
+2024-06-13,Joseph,Jumbo Adekanmi,M,Merchant,Akamkpa,2348037199794.0,Uyanga,3.42,46000,2,Dyna4,Jun wk 2 - 24,34.66
+2024-06-13,Utuk,Rita Okon Eyo,F,Farmer,Akamkpa,2347069763596.0,Akwa-Ibami,9.53,44000,2,MB1,Jun wk 2 - 24,35.6
+2024-06-14,Muyideen,Donald David,M,Merchant,Biase,2347088941199.0,Akpet Central,2.88,46000,2,Dyna4,Jun wk 2 - 24,50.48
+2024-06-14,Muyideen,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Big Iwuru,4.18,46000,2,Dyna4,Jun wk 2 - 24,8.5
+2024-06-15,Utuk,Arit John,F,Farmer,Biase,2348104474608.0,Big Iwuru,2.31,44000,2,Ford2,Jun wk 2 - 24,8.5
+2024-06-15,Andifon,Onuka Uche Kalu,M,Farmer,Biase,2348034977697.0,Akpet Central,2.38,48000,1,Ford2,Jun wk 2 - 24,50.48
+2024-06-15,Muyideen,Edidiong Moses,M,Merchant,Biase,2347068905449.0,Big Iwuru,8.2,46000,2,MB1,Jun wk 2 - 24,8.5
+2024-06-15,Muyideen,Donald David,M,Merchant,Biase,2347088941199.0,Akpet Central,4.61,46000,2,Dyna4,Jun wk 2 - 24,50.48
+2024-06-17,Andifon,Peter Mendie,M,Farmer,Biase,2349164774134.0,Ehom,2.35,42000,3,Ford2,Jun wk 3 - 24,10.0
+2024-06-17,Utuk,Gabriel Etim Akpan,M,Farmer,Biase,2349138979212.0,Big Iwuru,2.25,42000,3,Ford2,Jun wk 3 - 24,8.5
+2024-06-17,Muyideen,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Big Iwuru,7.44,46000,2,MB1,Jun wk 3 - 24,8.5
+2024-06-18,Andifon,Mary Ekpottai,F,Farmer,Biase,2349069942788.0,Betem,1.99,48000,1,Ford2,Jun wk 3 - 24,19.8
+2024-06-18,Muyideen,Edidiong Moses,M,Merchant,Biase,2347068905449.0,Betem,2.11,46000,2,Ford2,Jun wk 3 - 24,19.8
+2024-06-18,Muyideen,Edidiong Moses,M,Merchant,Biase,2347068905449.0,Betem,2.41,46000,2,Ford2,Jun wk 3 - 24,19.8
+2024-06-18,Muyideen,Edidiong Moses,M,Merchant,Biase,2347068905449.0,Big Iwuru,2.0,46000,2,Ford2,Jun wk 3 - 24,8.5
+2024-06-18,Muyideen,Michael Ikum,M,Merchant,Akamkpa,2348133704328.0,Ojor,8.32,46000,2,MB1,Jun wk 3 - 24,38.72
+2024-06-19,Utuk,Friday Imoh,M,Farmer,Biase,2349069766781.0,Orida,9.07,44000,2,MB1,Jun wk 3 - 24,4.0
+2024-06-19,Utuk,Uduak Peter,M,Farmer,Biase,2349034398646.0,Big Iwuru,4.58,44000,2,Dyna3,Jun wk 3 - 24,8.5
+2024-06-19,Utuk,Archibong Chukwuemeka,M,Farmer,Akamkpa,2347032431608.0,Small Iwuru,1.95,41000,3,Ford2,Jun wk 3 - 24,20.42
+2024-06-19,Utuk,Martha Ogbudum,M,Farmer,Biase,2348034717610.0,Big Iwuru,4.07,42000,2,Dyna3,Jun wk 3 - 24,8.5
+2024-06-19,Muyideen,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Big Iwuru,4.92,46000,2,Dyna3,Jun wk 3 - 24,8.5
+2024-06-20,Andifon,Edet Umoren,M,Farmer,Biase,2348146789980.0,Betem,2.12,44000,2,Dyna3,Jun wk 3 - 24,19.8
+2024-06-20,Utuk,Imaobong Nsikak,M,Farmer,Biase,2348163080789.0,Big Iwuru,4.25,44000,2,Ford2,Jun wk 3 - 24,8.5
+2024-06-20,Muyideen,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Big Iwuru,2.75,46000,2,Ford2,Jun wk 3 - 24,8.5
+2024-06-20,Muyideen,Donald David,M,Merchant,Biase,2347088941199.0,Akpet Central,2.11,46000,2,Ford2,Jun wk 3 - 24,50.48
+2024-06-20,Muyideen,Onyenna Jerry,M,Merchant,Biase,2348064563331.0,Ukupeyere,7.61,46000,2,MB1,Jun wk 3 - 24,40.0
+2024-06-21,Muyideen,Rachael Okon,F,Merchant,Akamkpa,2349061648619.0,Uyanga,1.65,48000,1,Ford2,Jun wk 3 - 24,34.66
+2024-06-21,Muyideen,Namso Udoh,M,Merchant,Akamkpa,2348066071921.0,Uyanga,6.22,46000,2,Dyna3,Jun wk 3 - 24,34.66
+2024-06-21,Andifon,Sunday Okon,M,Farmer,Akamkpa,2348069191355.0,Ojor,9.47,44000,2,MB1,Jun wk 3 - 24,38.72
+2024-06-21,Muyideen,Donald David,M,Merchant,Biase,2347088941199.0,Akpet Central,2.1,46000,2,Ford2,Jun wk 3 - 24,50.48
+2024-06-22,Utuk,Mfon Etebong Friday,M,Farmer,Biase,2349063345197.0,Big Iwuru,2.33,42000,3,Ford2,Jun wk 3 - 24,8.5
+2024-06-22,Muyideen,Onyenna Jerry,M,Merchant,Biase,2348064563331.0,Akpet Central,2.74,46000,2,Ford2,Jun wk 3 - 24,50.48
+2024-06-22,Joseph,Jumbo Adekanmi,M,Merchant,Akamkpa,2348037199794.0,Uyanga,4.88,46000,2,Dyna3,Jun wk 3 - 24,34.66
+2024-06-22,Joseph,Bobby Umez,M,Farmer,Akamkpa,2349125202705.0,Uyanga,4.46,44000,2,Dyna3,Jun wk 3 - 24,34.66
+2024-06-22,Andifon,Mary Ekpoattai,F,Farmer,Biase,2349069942788.0,Betem,8.32,48000,1,MB1,Jun wk 3 - 24,19.8
+2024-06-22,Muyideen,Michael Ikum,M,Merchant,Akamkpa,2348133704328.0,Ojor,2.58,46000,2,Ford2,Jun wk 3 - 24,38.72
+2024-06-22,Muyideen,Abraham Udo,M,Merchant,Akamkpa,2348107978567.0,Ojor,4.53,46000,2,Dyna4,Jun wk 3 - 24,38.72
+2024-06-24,Muyideen,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Big Iwuru,2.36,46000,2,Ford2,Jun wk 4 - 24,8.5
+2024-06-24,Muyideen,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Big Iwuru,2.53,46000,2,Ford2,Jun wk 4 - 24,8.5
+2024-06-24,Muyideen,Edidiong Moses,M,Merchant,Biase,2347068905449.0,Big Iwuru,5.43,46000,2,Dyna4,Jun wk 4 - 24,8.5
+2024-06-24,Muyideen,Edidiong Moses,M,Merchant,Biase,2347068905449.0,Big Iwuru,4.5,46000,2,Dyna4,Jun wk 4 - 24,8.5
+2024-06-25,Andifon,Melia Ezekiel,F,Merchant,Biase,2347018713573.0,Orida,1.7,44000,2,Ford2,Jun wk 4 - 24,4.0
+2024-06-25,Muyideen,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Big Iwuru,0.6,46000,2,Ford2,Jun wk 4 - 24,8.5
+2024-06-25,Joseph,Jumbo Adekanmi,M,Merchant,Akamkpa,2348037199794.0,Uyanga,3.73,46000,2,Dyna4,Jun wk 4 - 24,34.66
+2024-06-26,Muyideen,Edidiong Moses,M,Merchant,Biase,2347068905449.0,Big Iwuru,2.31,46000,2,Ford2,Jun wk 4 - 24,8.5
+2024-06-26,Muyideen,Edidiong Moses,M,Merchant,Biase,2347068905449.0,Big Iwuru,2.31,46000,2,Ford2,Jun wk 4 - 24,8.5
+2024-06-26,Muyideen,Collins Ukam,M,Farmer,Biase,2347069365525.0,Betem,2.7,48000,1,Dyna4,Jun wk 4 - 24,19.8
+2024-06-27,Utuk,Etekom Adembem,M,Farmer,Akamkpa,2349167956869.0,Small Iwuru,2.85,42000,3,Ford2,Jun wk 4 - 24,20.42
+2024-06-27,Utuk,Abraham Chukwuemwka,M,Farmer,Akamkpa,2347032431608.0,Small Iwuru,1.79,42000,3,Ford2,Jun wk 4 - 24,20.42
+2024-06-27,Utuk,Friday Antai,M,Farmer,Biase,2347062774026.0,Big Iwuru,6.93,44000,2,Ford2,Jun wk 4 - 24,8.5
+2024-06-27,Muyideen,Edidiong Moses,M,Merchant,Biase,2347068905449.0,Big Iwuru,1.98,46000,2,Dyna4,Jun wk 4 - 24,8.5
+2024-06-28,Muyideen,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Big Iwuru,1.97,46000,2,Ford2,Jun wk 4 - 24,8.5
+2024-06-28,Muyideen,Akaninyene Ekanem,M,Merchant,Biase,2348164267908.0,Big Iwuru,2.03,46000,2,Ford2,Jun wk 4 - 24,8.5
+2024-06-28,Staff referral,Godwin Effiong,M,Farmer,Biase,2348132731422.0,Orida,6.04,44000,2,Dyna4,Jun wk 4 - 24,4.0
+2024-07-01,Utuk,Ime Eyo,M,Farmer,Biase,2349030909299.0,Idoma,6.04,46000,2,Dyna3,Jul wk 1 - 24,
+2024-07-01,Muyideen,Akaninyene Ekanem,M,Merchant+,Biase,2348164267908.0,Big Iwuru,3.26,48000,2,Dyna4,Jul wk 1 - 24,8.5
+2024-07-01,Muyideen,Namso Udoh,M,Merchant,Akamkpa,2348066071921.0,Uyanga,3.41,48000,2,Dyna4,Jul wk 1 - 24,34.66
+2024-07-01,Muyideen,Namso Udoh,M,Merchant,Akamkpa,2348066071921.0,Uyanga,5.91,48000,2,Dyna4,Jul wk 1 - 24,34.66
+2024-07-01,Joseph,Jumbo Adekanmi,M,Merchant,Akamkpa,2348037199794.0,Uyanga,6.23,48000,2,Dyna3,Jul wk 1 - 24,34.66
+2024-07-02,Muyideen,Namso Udoh,M,Merchant,Akamkpa,2348066071921.0,Uyanga,6.16,48000,2,Dyna4,Jul wk 1 - 24,34.66
+2024-07-02,Staff referral,Ndiana Emem,F,Farmer,Biase,2348100318671.0,Big Iwuru,2.47,46000,2,Ford2,Jul wk 1 - 24,8.5
+2024-07-02,Utuk,Clement Udoh Akpan,M,Farmer,Biase,2349024437844.0,Small Iwuru,4.81,46000,2,Dyna3,Jul wk 1 - 24,20.42
+2024-07-02,Muyideen,Edidiong Moses,M,Merchant+,Biase,2347068905449.0,Big Iwuru,5.95,46000,2,MB1,Jul wk 1 - 24,8.5
+2024-07-02,Utuk,Orok Paul,M,Farmer,Biase,2349020760260.0,Betem,1.47,46000,2,Ford2,Jul wk 1 - 24,19.8
+2024-07-02,Muyideen,Favour Nnedu,F,Merchant,Akamkpa,2348163187190.0,Uyanga,4.25,48000,2,Dyna4,Jul wk 1 - 24,34.66
+2024-07-02,Muyideen,Edidiong Moses,F,Merchant+,Biase,2347068905449.0,Big Iwuru,2.68,46000,2,Ford2,Jul wk 1 - 24,8.5
+2024-07-03,Utuk,Rita Okon Eyo,F,Farmer,Akamkpa,2347069763596.0,Akwa-Ibami,6.65,46000,2,Dyna4,Jul wk 1 - 24,35.6
+2024-07-03,Utuk,Emem James Akpan,F,Merchant,Biase,2348087072807.0,Umai,6.66,49000,1,MB1,Jul wk 1 - 24,40.0
+2024-07-03,Joseph,Jumbo Adekanmi,M,Merchant,Akamkpa,2348037199794.0,Uyanga,4.33,48000,2,Dyna3,Jul wk 1 - 24,34.66
+2024-07-03,Utuk,Nsidibe Ruth,F,Farmer,Biase,2347049714580.0,Big Iwuru,3.54,46000,2,Dyna4,Jul wk 1 - 24,8.5
+2024-07-03,Andifon,Sunday Kanu,M,Farmer,Biase,2349047636961.0,Ehom,2.6,46000,2,Ford2,Jul wk 1 - 24,10.0
+2024-07-03,Muyideen,Namso Udoh,M,Merchant,Akamkpa,2348066071921.0,Uyanga,5.82,48000,2,Dyna4,Jul wk 1 - 24,34.66
+2024-07-03,Joseph,Jumbo Adekanmi,M,Merchant,Akamkpa,2348037199794.0,Uyanga,2.03,48000,2,Ford2,Jul wk 1 - 24,34.66
+2024-07-04,Joseph,Obot Udoh,M,Merchant,Biase,2349129010350.0,Igbofia,7.45,46000,2,MB1,Jul wk 1 - 24,40.48
+2024-07-04,Utuk,Imesia Solomon,M,Farmer,Biase,2349165225967.0,Big Iwuru,3.77,46000,2,Dyna3,Jul wk 1 - 24,8.5
+2024-07-04,Staff referral,Emmanuel Archibong,M,Farmer,Biase,2348167064453.0,Big Iwuru,3.58,44000,3,Dyna4,Jul wk 1 - 24,8.5
+2024-07-04,Muyideen,Edidiong Moses,M,Merchant+,Biase,2347068905449.0,Big Iwuru,7.08,48000,2,Dyna4,Jul wk 1 - 24,8.5
+2024-07-05,Andifon,Mmadu Sunday,M,Farmer,Biase,2347036347816.0,Betem,2.41,46000,2,Ford2,Jul wk 1 - 24,19.8
+2024-07-05,Andifon,John Inyene,M,Farmer,Akamkpa,2348069191355.0,Ojor,6.83,46000,2,Dyna4,Jul wk 1 - 24,38.72
+2024-07-05,Direct visit,Oham Osang,M,Farmer,Biase,2348166479042.0,Igbofia,5.1,46000,2,MB1,Jul wk 1 - 24,40.48
+2024-07-05,Andifon,Solomon Monday,M,Farmer,Akamkpa,2348067065067.0,Ojor,2.35,44000,3,Ford2,Jul wk 1 - 24,38.72
+2024-07-06,Andifon,Blessing Michael,M,Farmer,Biase,2348120612779.0,Umai,6.19,46000,2,Dyna3,Jul wk 1 - 24,40.0
+2024-07-06,Utuk,Emem James Akpan,M,Merchant,Akamkpa,2348087072807.0,Uyanga,4.11,48000,2,Dyna4,Jul wk 1 - 24,34.66
+2024-07-06,Andifon,John Inyene,M,Farmer,Akamkpa,2348069191355.0,Ojor,2.15,44000,3,Ford2,Jul wk 1 - 24,38.72
+2024-07-06,Muyideen,Akaninyene Ekanem,M,Merchant+,Akamkpa,2348164267908.0,Betem,3.7,48000,2,Dyna4,Jul wk 1 - 24,19.8
+2024-07-08,Utuk,Emem James Akpan,F,Merchant,Akamkpa,2348087072807.0,Uyanga,4.84,48000,2,Dyna3,Jul wk 2 - 24,34.66
+2024-07-08,Muyideen,Akaninyene Ekanem,M,Merchant+,Biase,2348164267908.0,Betem,4.21,48000,2,Dyna4,Jul wk 2 - 24,19.8
+2024-07-08,Muyideen,Edidiong Moses,M,Merchant+,Biase,2347068905449.0,Betem,3.59,48000,2,Dyna3,Jul wk 2 - 24,19.8
+2024-07-09,Muyideen,Namso Udoh,M,Merchant,Akamkpa,2348066071921.0,Uyanga,5.65,49000,2,Dyna4,Jul wk 2 - 24,34.66
+2024-07-09,Muyideen,Namso Udoh,M,Merchant,Akamkpa,2348066071921.0,Uyanga,4.07,49000,2,Dyna4,Jul wk 2 - 24,34.66
+2024-07-10,Muyideen,Favour Nnedu,M,Merchant,Akamkpa,2348163187190.0,Uyanga,4.59,50000,2,Dyna4,Jul wk 2 - 24,34.66
+2024-07-10,Muyideen,Favour Nnedu,M,Merchant,Akamkpa,2348163187190.0,Uyanga,4.86,50000,2,Dyna4,Jul wk 2 - 24,34.66
+2024-07-11,Andifon,Upe Friday Upe,M,Farmer,Biase,2347069392568.0,Umai,3.32,48000,2,Dyna3,Jul wk 2 - 24,40.0
+2024-07-12,Andifon,Kingsley Nse,M,Farmer,Biase,2349162481862.0,Orida,3.19,48000,2,Dyna3,Jul wk 2 - 24,4.0
+2024-07-12,Joseph,Jumbo Adekanmi,M,Merchant,Akamkpa,2348037199794.0,Uyanga,4.12,49000,2,Dyna4,Jul wk 2 - 24,34.66
+2024-07-12,Muyideen,Akaninyene Ekanem,M,Merchant+,Biase,2348164267908.0,Small Iwuru,5.28,48000,2,Dyna4,Jul wk 2 - 24,20.42
+2024-07-12,Utuk,Emem James Akpan,F,Merchant,Akamkpa,2348087072807.0,Uyanga,4.94,49000,2,Dyna3,Jul wk 2 - 24,34.66
+2024-07-12,Joseph,Moses Imoh,M,Farmer,Akamkpa,2247025605615.0,Ojor,6.84,48000,2,MB1,Jul wk 2 - 24,38.72
+2024-07-13,Utuk,Grace Sylvester,F,Farmer,Biase,,Orida,3.54,48000,2,Dyna3,Jul wk 2 - 24,4.0
+2024-07-13,Utuk,Onyama Endang,M,Farmer,Biase,2348162313278.0,Small Iwuru,4.43,48000,2,Dyna4,Jul wk 2 - 24,20.42
+2024-07-13,Muyideen,Favour Nnedu,M,Merchant,Akamkpa,2348163187190.0,Uyanga,4.88,50000,2,Dyna4,Jul wk 2 - 24,34.66
+2024-07-14,Muyideen,Michael Ikum,M,Merchant+,Akamkpa,2348133704328.0,Ojor,7.85,46000,2,MB1,Jul wk 2 - 24,38.72
+2024-07-15,Utuk,Jeremiah Ben,M,Farmer,Biase,2348146181251.0,Big Iwuru,2.58,48000,2,Dyna3,Jul wk 3 - 24,8.5
+2024-07-15,Utuk,Dennis Michael,M,Merchant,Biase,2349063103151.0,Idoma,5.3,48000,2,Dyna4,Jul wk 3 - 24,16.86
+2024-07-16,Utuk,Prince Omini,M,Farmer,Biase,2348136682992.0,Big Iwuru,1.67,46000,3,Ford2,Jul wk 3 - 24,8.5
+2024-07-16,Andifon,Julius Ibe,M,Farmer,Biase,2347047501126.0,Akpet Central,6.73,48000,2,Dyna4,Jul wk 3 - 24,50.48
+2024-07-16,Muyideen,Akaninyene Ekanem,M,Merchant+,Biase,2348164267908.0,Big Iwuru,2.44,50000,2,Ford2,Jul wk 3 - 24,8.5
+2024-07-16,Muyideen,Akaninyene Ekanem,M,Merchant+,Biase,2348164267908.0,Big Iwuru,2.28,50000,2,Ford2,Jul wk 3 - 24,8.5
+2024-07-16,Utuk,Emem James Akpan,F,Merchant,Akamkpa,2348087072807.0,Ojor,2.46,50000,2,Dyna4,Jul wk 3 - 24,38.72
+2024-07-17,Andifon,Bassey Ejemot,M,Farmer,Biase,2347070677825.0,Betem,2.42,50000,1,Ford2,Jul wk 3 - 24,19.8
+2024-07-17,Andifon,Glory Jackson,F,Farmer,Biase,2349021050314.0,Umai,5.44,48000,2,Dyna4,Jul wk 3 - 24,40.0
+2024-07-17,Muyideen,Abraham Udo,M,Farmer,Akamkpa,2348107978567.0,Ojor,2.12,48000,2,Ford2,Jul wk 3 - 24,38.72
+2024-07-17,Andifon,Mary Ekpoattai,F,Farmer,Biase,2349069942788.0,Betem,4.98,48000,2,Dyna4,Jul wk 3 - 24,19.8
+2024-07-18,Joseph,Jumbo Adekanmi,M,Merchant,Akamkpa,2348037199794.0,Uyanga,2.8,49000,2,Ford2,Jul wk 3 - 24,34.66
+2024-07-18,Joseph,Obot Udoh,M,Merchant,Biase,2349129010350.0,Igbofia,3.59,46000,3,Dyna4,Jul wk 3 - 24,40.48
+2024-07-18,Muyideen,Favour Nnedu,F,Merchant,Akamkpa,2348163187190.0,Uyanga,4.78,50000,2,Dyna4,Jul wk 3 - 24,34.66
+2024-07-18,Andifon,Blessing Michael,F,Farmer,Biase,2348120612779.0,Umai,2.32,48000,2,Ford2,Jul wk 3 - 24,40.0
+2024-07-18,Utuk,Dennis Michael,M,Merchant,Biase,2349063103151.0,Idoma,6.73,48000,2,MB1,Jul wk 3 - 24,16.86
+2024-07-20,Muyideen,Namso Udoh,M,Merchant,Akamkpa,2348066071921.0,Uyanga,7.08,50000,2,Dyna4,Jul wk 3 - 24,34.66
+2024-07-20,Direct visit,Joseph Solomon,M,Farmer,Akamkpa,2349036040764.0,Uyanga,4.85,49000,2,MB1,Jul wk 3 - 24,34.66
+2024-07-20,Utuk,Emem James Akpan,F,Merchant,Akamkpa,2348087072807.0,Uyanga,2.4,50000,2,Ford2,Jul wk 3 - 24,34.66
+2024-07-22,Utuk,Emem James Akpan,F,Merchant,Akamkpa,2348087072807.0,Uyanga,2.27,50000,2,Ford2,Jul wk 4 - 24,34.66
+2024-07-22,Muyideen,Favour Nnedu,F,Merchant,Akamkpa,2348163187190.0,Uyanga,4.06,50000,2,Dyna4,Jul wk 4 - 24,34.66
+2024-07-22,Utuk,Emem James Akpan,F,Merchant,Akamkpa,2348087072807.0,Uyanga,1.68,50000,2,Ford2,Jul wk 4 - 24,34.66
+2024-07-22,Muyideen,Favour Nnedu,F,Merchant,Akamkpa,2348163187190.0,Uyanga,4.49,50000,2,Dyna4,Jul wk 4 - 24,34.66
+2024-07-22,Muyideen,Abraham Udo,M,Merchant,Akamkpa,2348107978567.0,Ojor,2.26,46000,3,Ford2,Jul wk 4 - 24,38.72
+2024-07-22,Andifon,Bassey Wisdom,M,Merchant,Biase,2347061921502.0,Akpanganang,6.14,46000,3,MB1,Jul wk 4 - 24,12.6
+2024-07-23,Utuk,John Sylvanus,M,Merchant,Biase,2348104176444.0,Small Iwuru,7.17,48000,2,MB1,Jul wk 4 - 24,20.42
+2024-07-23,Andifon,Etido Akpan,M,Farmer,Biase,2348109278868.0,Ndeanor,2.11,48000,2,Ford2,Jul wk 4 - 24,4.0
+2024-07-23,Utuk,Emem James Akpan,F,Merchant,Akamkpa,2348087072807.0,Uyanga,5.76,50000,2,Dyna4,Jul wk 4 - 24,34.66
+2024-07-23,Muyideen,Namso Udoh,M,Merchant,Biase,2348066071921.0,Small Iwuru,2.3,50000,2,Ford2,Jul wk 4 - 24,20.42
+2024-07-24,Muyideen,Namso Udoh,M,Merchant,Biase,2348066071921.0,Small Iwuru,5.84,50000,2,Dyna4,Jul wk 4 - 24,20.42
+2024-07-24,Utuk,Dennis Michael,M,Farmer,Biase,2349063103151.0,Idoma,1.96,48000,2,Ford2,Jul wk 4 - 24,16.86
+2024-07-24,Utuk,John Sylvanus,M,Farmer,Biase,2348104176444.0,Small Iwuru,2.44,48000,2,Ford2,Jul wk 4 - 24,20.42
+2024-07-24,Utuk,Emem James Akpan,F,Merchant,Akamkpa,2348087072807.0,Uyanga,2.45,50000,2,Ford2,Jul wk 4 - 24,34.66
+2024-07-25,Utuk,Emem James Akpan,F,Merchant,Akamkpa,2348087072807.0,Uyanga,2.32,50000,2,Ford2,Jul wk 4 - 24,34.66
+2024-07-25,Muyideen,Namso Udoh,M,Merchant,Akamkpa,2348066071921.0,Uyanga,4.57,50000,2,Dyna4,Jul wk 4 - 24,34.66
+2024-07-25,Utuk,Emem James Akpan,F,Merchant,Akamkpa,2348087072807.0,Uyanga,1.9,50000,2,Ford2,Jul wk 4 - 24,34.66
+2024-07-25,Muyideen,Akaninyene Ekanem,M,Merchant+,Biase,2348164267908.0,Big Iwuru,5.44,50000,2,Dyna4,Jul wk 4 - 24,8.5
+2024-07-26,Joseph,Henry Sunday,M,Farmer,Akamkpa,2349166103400.0,Uyanga,1.94,48000,2,Ford2,Jul wk 4 - 24,34.66
+2024-07-27,Muyideen,Collins Ukam,M,Farmer,Biase,2347069365525.0,Betem,2.43,50000,2,Ford2,Jul wk 4 - 24,19.8
+2024-07-27,Utuk,Nse Okon Bassey,M,Farmer,Biase,2347036347816.0,Betem,7.37,48000,2,Dyna4,Jul wk 4 - 24,19.8
+2024-07-29,Muyideen,Namso Udoh,M,Merchant,Akamkpa,2348066071921.0,Uyanga,5.46,51000,2,Dyna4,Aug wk 1 - 24,34.66
+2024-07-29,Muyideen,Namso Udoh,M,Merchant,Akamkpa,2348066071921.0,Uyanga,5.98,51000,2,Dyna4,Aug wk 1 - 24,34.66
+2024-07-29,Muyideen,Akaninyene Ekanem,M,Merchant+,Biase,2348164267908.0,Big Iwuru,2.46,50000,2,Ford2,Aug wk 1 - 24,8.5
+2024-07-30,Muyideen,Namso Udoh,M,Merchant,Akamkpa,2348066071921.0,Uyanga,7.04,51000,2,Dyna4,Aug wk 1 - 24,34.66
+2024-07-30,Muyideen,Akaninyene Ekanem,M,Merchant+,Biase,2348164267908.0,Big Iwuru,2.1,50000,2,Ford2,Aug wk 1 - 24,8.5
+2024-07-30,Utuk,Daniel Effiong,M,Farmer,Biase,2348162098170.0,Big Iwuru,9.42,51000,2,MB1,Aug wk 1 - 24,8.5
+2024-07-30,Muyideen,Akaninyene Ekanem,M,Merchant+,Biase,2348164267908.0,Big Iwuru,2.69,50000,2,Ford2,Aug wk 1 - 24,8.5
+2024-07-30,Muyideen,Favour Nnedu,F,Merchant,Akamkpa,2348163187190.0,Uyanga,4.78,51000,2,Dyna4,Aug wk 1 - 24,34.66
+2024-07-30,Andifon,Ijeoma John,F,Farmer,Biase,2348103042451.0,Akparavuni,1.43,53000,1,Ford2,Aug wk 1 - 24,20.92
+2024-07-31,Utuk,Ekaette Aniekan,F,Farmer,Biase,2349063757735.0,Orida,2.89,51000,2,Ford2,Aug wk 1 - 24,4.0
+2024-07-31,Andifon,Uwem Sunday,F,Farmer,Akamkpa,2348165106606.0,Uyanga,2.81,51000,2,Ford2,Aug wk 1 - 24,34.66
+2024-07-31,Muyideen,Favour Nnedu,F,Merchant,Akamkpa,2348163187190.0,Uyanga,6.57,52000,2,Dyna4,Aug wk 1 - 24,34.66
+2024-07-31,Joseph,Obot Udoh,M,Merchant,Biase,2349129010350.0,Igbofia,4.64,50000,3,Dyna4,Aug wk 1 - 24,40.48
+2024-07-31,Andifon,Uwem Sunday,F,Farmer,Akamkpa,2348165106606.0,Uyanga,2.45,51000,2,Ford2,Aug wk 1 - 24,34.66
+2024-08-01,Utuk,Aniebiet Johnson,M,Merchant,Biase,2348137572754.0,Idoma,7.02,53000,1,MB1,Aug wk 1 - 24,
+2024-08-01,Andifon,Ekaette Offiong,F,Farmer,Biase,2347068869058.0,Umai,5.02,50000,3,Dyna4,Aug wk 1 - 24,40.0
+2024-08-01,Andifon,Uwem Sunday,F,Farmer,Akamkpa,2348165106606.0,Uyanga,2.0,50000,3,Ford2,Aug wk 1 - 24,34.66
+2024-08-01,Andifon,Isaiah Anthony,M,Farmer,Biase,2348145311504.0,Betem,2.17,51000,2,Ford2,Aug wk 1 - 24,19.8
+2024-08-01,Andifon,Blessing Michael,F,Farmer,Biase,2348120612779.0,Umai,2.6,51000,2,Ford2,Aug wk 1 - 24,40.0
+2024-08-01,Andifon,Isaiah Anthony,M,Merchant,Biase,2348145311504.0,Betem,6.7,51000,2,Dyna4,Aug wk 1 - 24,19.8
+2024-08-02,Utuk,Aniebiet Johnson,M,Farmer,Biase,2348137572754.0,Idoma,5.64,51000,2,Dyna4,Aug wk 1 - 24,16.86
+2024-08-02,Muyideen,Abraham Udo,M,Merchant,Akamkpa,2348107978567.0,Ojor,6.39,50000,2,Dyna4,Aug wk 1 - 24,38.72
+2024-08-02,Muyideen,Abraham Udo,M,Merchant,Akamkpa,2348107978567.0,Ojor,4.95,50000,2,Dyna4,Aug wk 1 - 24,38.72
+2024-08-02,Andifon,Victor Udoessien,M,Farmer,Biase,2347065761949.0,Akparavuni,2.62,51000,2,Ford2,Aug wk 1 - 24,20.92
+2024-08-03,Utuk,Susan Ekpenyong,F,Farmer,Biase,2347066336804.0,Big Iwuru,1.89,51000,2,Ford2,Aug wk 1 - 24,8.5
+2024-08-03,Andifon,Isaiah Anthony,M,Farmer,Biase,2348145311504.0,Betem,1.48,51000,2,Ford2,Aug wk 1 - 24,19.8
+2024-08-03,Utuk,Rita Okon Eyo,F,Merchant,Biase,2348069783596.0,Akwa-Ibami,6.3,51000,2,Dyna4,Aug wk 1 - 24,35.6
+2024-08-03,Joseph,Glory Orji,F,Merchant,Akamkpa,2348138711663.0,Ojor,10.9,52000,2,MB1,Aug wk 1 - 24,38.72
+2024-08-03,Andifon,Isaiah Anthony,F,Farmer,Biase,2348145311504.0,Small Iwuru,2.61,51000,2,Dyna4,Aug wk 1 - 24,20.42
+2024-08-03,Andifon,Nsidibe Monday,F,Farmer,Akamkpa,2349161015765.0,Ojor,6.08,50000,3,Dyna3,Aug wk 1 - 24,38.72
+2024-08-05,Joseph,Jumbo Adekanmi,M,Merchant,Akamkpa,2348037199794.0,Uyanga,2.92,50000,2,Dyna4,Aug wk 2 - 24,34.66
+2024-08-05,Utuk,Chidiebere Augustine,M,Farmer,Biase,2347030810973.0,Orida,5.61,51000,2,Dyna3,Aug wk 2 - 24,4.0
+2024-08-05,Andifon,Nkanu Nkanu Elijah,M,Farmer,Biase,2349039574077.0,Ekpiriko,3.44,50000,3,Dyna4,Aug wk 2 - 24,16.7
+2024-08-05,Utuk,Ekaette Daniel,F,Farmer,Biase,2349163154651.0,Orida,6.61,51000,2,Dyna3,Aug wk 2 - 24,4.0
+2024-08-05,Joseph,Jumbo Adekanmi,M,Merchant,Akamkpa,2348037199794.0,Uyanga,1.12,50000,2,Ford2,Aug wk 2 - 24,34.66
+2024-08-05,Joseph,Jumbo Adekanmi,M,Merchant,Akamkpa,2348037199794.0,Uyanga,2.41,50000,2,Ford2,Aug wk 2 - 24,34.66
+2024-08-06,Utuk,Titus Asuquo,M,Farmer,Biase,2348105981773.0,Small Iwuru,4.16,51000,2,Dyna4,Aug wk 2 - 24,20.42
+2024-08-06,Utuk,Eno Sunday,F,Farmer,Biase,2347025708226.0,Ndeanor,4.18,51000,2,Dyna3,Aug wk 2 - 24,4.0
+2024-08-06,Muyideen,Abraham Udo,M,Farmer,Akamkpa,2348107978567.0,Ojor,5.86,50000,2,Dyna4,Aug wk 2 - 24,38.72
+2024-08-07,Utuk,Arit John,F,Farmer,Biase,2348162979059.0,Big Iwuru,3.01,53000,1,Dyna4,Aug wk 2 - 24,8.5
+2024-08-07,Muyideen,Akaninyene Ekanem,M,Merchant+,Biase,2348164267908.0,Big Iwuru,5.06,51000,2,Dyna4,Aug wk 2 - 24,8.5
+2024-08-07,Utuk,Godfrey Unor Ukam,M,Merchant,Biase,2347041656959.0,Abichi,5.16,51000,2,Dyna3,Aug wk 2 - 24,61.96
+2024-08-07,Muyideen,Favour Nnedu,M,Merchant,Akamkpa,2348163187190.0,Uyanga,6.69,52000,2,Dyna4,Aug wk 2 - 24,34.66
+2024-08-08,Utuk,Emem James Akpan,F,Merchant,Akamkpa,2348087072807.0,Uyanga,2.07,51000,2,Ford2,Aug wk 2 - 24,34.66
+2024-08-08,Utuk,Emem James Akpan,F,Merchant,Akamkpa,2348087072807.0,Uyanga,2.14,51000,2,Ford2,Aug wk 2 - 24,34.66
+2024-08-09,Utuk,Utibe Uwem,M,Farmer,Biase,2348038573965.0,Ayaba,4.0,51000,2,Dyna3,Aug wk 2 - 24,27.3
+2024-08-09,Muyideen,Namso Udoh,M,Merchant,Akamkpa,2348066071921.0,Uyanga,1.75,52000,2,Ford2,Aug wk 2 - 24,34.66
+2024-08-10,Andifon,Ubong Ikod Daniel,M,Merchant,Biase,2349043122249.0,Akpanganang,6.21,50000,2,Dyna3,Aug wk 2 - 24,12.6
+2024-08-12,Joseph,Jumbo Adekanmi,M,Merchant,Akamkpa,2348037199794.0,Uyanga,2.35,53000,2,Ford2,Aug wk 3 - 24,34.66
+2024-08-12,Joseph,Jumbo Adekanmi,M,Merchant,Akamkpa,2348037199794.0,Uyanga,4.97,53000,2,Dyna4,Aug wk 3 - 24,34.66
+2024-08-12,Utuk,Emem James Akpan,M,Merchant,Akamkpa,2348087072807.0,Ojor,3.47,52000,2,Dyna4,Aug wk 3 - 24,38.72
+2024-08-13,Joseph,Obot Udoh,M,Merchant,Biase,2349129010350.0,Igbofia,2.03,52000,3,Dyna4,Aug wk 3 - 24,40.48
+2024-08-13,Utuk,Emem James Akpan,F,Merchant,Akamkpa,2348087072807.0,Ojor,2.68,53000,2,Ford2,Aug wk 3 - 24,38.72
+2024-08-13,Utuk,Daniel Effiong,M,Farmer,Biase,2348162098170.0,Big Iwuru,6.06,53000,2,MB1,Aug wk 3 - 24,8.5
+2024-08-13,Utuk,Daniel Effiong,M,Farmer,Biase,2348162098170.0,Big Iwuru,10.16,53000,2,MB1,Aug wk 3 - 24,8.5
+2024-08-14,Muyideen,Donald David,M,Merchant,Biase,2347088941199.0,Akpet Central,5.53,54000,2,Dyna4,Aug wk 3 - 24,50.48
+2024-08-14,Staff referral,Eno Gift,F,Farmer,Biase,2348024197851.0,Idoma,2.73,53000,2,Ford2,Aug wk 3 - 24,16.86
+2024-08-15,Andifon,Onuka Uche Kalu,M,Farmer,Biase,2348034977697.0,Akpet Central,2.62,53000,2,Ford2,Aug wk 3 - 24,50.48
+2024-08-16,Andifon,Isaiah Anthony,M,Merchant,Biase,2348145311504.0,Betem,7.62,55000,2,Dyna4,Aug wk 3 - 24,19.8
+2024-08-19,Utuk,Emem James Akpan,F,Merchant,Akamkpa,2348087072807.0,Ojor,11.12,58000,2,MB1,Aug wk 4 - 24,38.72
+2024-08-20,Utuk,Emem James Akpan,F,Merchant,Akamkpa,2348087072807.0,Ojor,1.92,58000,2,Ford2,Aug wk 4 - 24,38.72
+2024-08-20,Muyideen,Abraham Udo,M,Merchant,Akamkpa,2348107978567.0,Ojor,4.01,54000,2,Dyna4,Aug wk 4 - 24,38.72
+2024-08-20,Utuk,Ekandem Asuquo,M,Merchant,Biase,2349038467089.0,Ayaba,7.31,58000,2,MB1,Aug wk 4 - 24,27.3
+2024-08-20,Muyideen,Mercy Elijah,F,Farmer,Biase,,Big Iwuru,2.22,53000,2,Ford2,Aug wk 4 - 24,8.5
+2024-08-21,Utuk,Ekandem Asuquo,M,Merchant,Biase,2349038467089.0,Ayaba,5.56,58000,2,Dyna4,Aug wk 4 - 24,27.3
+2024-08-21,Utuk,Daniel Atiata,M,Merchant,Biase,2348146181251.0,Big Iwuru,3.6,55000,2,Dyna4,Aug wk 4 - 24,8.5
+2024-08-21,Joseph,Patience Sunday,F,Farmer,Akamkpa,2349169400906.0,Uyanga,2.96,58000,2,Ford2,Aug wk 4 - 24,34.66
+2024-08-21,Utuk,Iniobong Udo,F,Merchant,Biase,2348106192317.0,Betem,10.25,58000,2,MB1,Aug wk 4 - 24,19.8
+2024-08-21,Utuk,Iniobong Udo,F,Merchant,Biase,2348106192317.0,Betem,4.77,58000,2,Dyna4,Aug wk 4 - 24,19.8
+2024-08-22,Andifon,Onuka Uche Kalu,M,Farmer,Biase,2348034977697.0,Akpet Central,2.49,55000,3,Ford2,Aug wk 4 - 24,50.48
+2024-08-22,Utuk,Ekandem Asuquo,M,Merchant,Biase,2349038467089.0,Ayaba,7.97,58000,2,MB1,Aug wk 4 - 24,27.3
+2024-08-22,Muyideen,Daniel Edem,M,Farmer,Biase,2349021681125.0,Akpet Central,5.94,55000,2,Dyna4,Aug wk 4 - 24,50.48
+2024-08-22,Andifon,Onuka Uche Kalu,M,Farmer,Biase,2348034977697.0,Akpet Central,1.5,55000,2,Ford2,Aug wk 4 - 24,50.48
+2024-08-23,Utuk,Joy Michael,F,Farmer,Akamkpa,2347068157263.0,Small Iwuru,2.62,56000,2,Ford2,Aug wk 4 - 24,20.42
+2024-08-23,Utuk,Emem James Akpan,F,Merchant,Akamkpa,2348087072807.0,Ojor,2.76,58000,2,Ford2,Aug wk 4 - 24,38.72
+2024-08-23,Utuk,Clement Etim,M,Farmer,Biase,2348135097688.0,Small Iwuru,6.59,57000,2,Dyna4,Aug wk 4 - 24,20.42
+2024-08-23,Utuk,Paul Sunday,M,Farmer,Biase,2349036651423.0,Small Iwuru,2.87,56000,2,Ford2,Aug wk 4 - 24,20.42
+2024-08-26,Utuk,Esuong Eyibio,M,Merchant,Akamkpa,2349133323677.0,Small Iwuru,5.37,58000,2,Dyna4,Aug wk 5 - 24,20.42
+2024-08-26,Utuk,Martina Esuong,F,Farmer,Akamkpa,2349133323677.0,Small Iwuru,2.54,58000,2,Ford2,Aug wk 5 - 24,20.42
+2024-08-26,Andifon,Okpoto Kenneth,M,Farmer,Biase,2349044014841.0,Orida,5.78,58000,2,Dyna4,Aug wk 5 - 24,4.0
+2024-08-27,Utuk,Power Eyo,M,Farmer,Biase,2348148765153.0,Betem,5.91,58000,2,Dyna4,Aug wk 5 - 24,19.8
+2024-08-27,Utuk,Helen Effiong,F,Farmer,Biase,2349045748532.0,Small Iwuru,1.74,57000,2,Ford2,Aug wk 5 - 24,20.42
+2024-08-27,Joseph,Obot Udoh,M,Merchant,Biase,2349129010350.0,Igbofia,5.93,53000,3,Dyna4,Aug wk 5 - 24,40.48
+2024-08-27,Muyideen,Collins Ukam,M,Merchant,Biase,2347069365525.0,Betem,2.38,58000,1,Ford2,Aug wk 5 - 24,19.8
+2024-08-28,Andifon,Chinyere Bassey,F,Farmer,Biase,2349012941253.0,Umai,3.19,58000,2,Ford2,Aug wk 5 - 24,40.0
+2024-08-28,Muyideen,Namso Udoh,M,Merchant,Akamkpa,2348066071921.0,Uyanga,6.46,60000,2,Dyna4,Aug wk 5 - 24,34.66
+2024-08-28,Utuk,Ubong Monday,M,Farmer,Biase,2347037310656.0,Idoma,7.92,59000,2,MB1,Aug wk 5 - 24,16.86
+2024-08-28,Muyideen,Favour Nnedu,F,Merchant,Akamkpa,2348163187190.0,Uyanga,2.49,65000,2,Ford2,Aug wk 5 - 24,34.66
+2024-08-29,Joseph,Jumbo Adekanmi,M,Merchant,Akamkpa,2348037199794.0,Akpet Central,1.01,60000,2,Ford2,Aug wk 5 - 24,50.48
+2024-08-29,Utuk,Daniel Inyang,M,Farmer,Biase,2348134461459.0,Idoma,5.57,59000,2,Dyna4,Aug wk 5 - 24,16.86
+2024-08-29,Muyideen,Rachael Okon,F,Merchant,Akamkpa,2349061648619.0,Uyanga,2.01,63000,1,Ford2,Aug wk 5 - 24,34.66
+2024-08-29,Utuk,Ubong Sunday,M,Farmer,Biase,2349165147412.0,Idoma,6.86,58000,2,Dyna4,Aug wk 5 - 24,16.86
+2024-08-30,Utuk,Ekandem Asuquo,M,Merchant,Biase,2349038467089.0,Ayaba,4.32,58000,2,Dyna4,Aug wk 5 - 24,27.3
+2024-08-30,Utuk,Emem James Akpan,F,Merchant,Akamkpa,2348087072807.0,Uyanga,2.49,58000,2,Ford2,Aug wk 5 - 24,34.66
+2024-08-30,Utuk,Ekandem Asuquo,M,Merchant,Biase,2349038467089.0,Ayaba,3.16,58000,2,Ford2,Aug wk 5 - 24,27.3
+2024-08-30,Utuk,Ekandem Asuquo,M,Merchant,Biase,2349038467089.0,Ayaba,2.25,58000,2,Ford2,Aug wk 5 - 24,27.3
+2024-08-30,Joseph,Jumbo Adekanmi,M,Merchant,Akamkpa,2348037199794.0,Uyanga,5.31,63000,2,Dyna4,Aug wk 5 - 24,34.66
+2024-08-31,Utuk,Emem James Akpan,F,Merchant,Akamkpa,2348087072807.0,Uyanga,1.97,58000,2,Ford2,Aug wk 5 - 24,34.66
+2024-08-31,Utuk,Ekandem Asuquo,M,Merchant,Biase,2349038467089.0,Ayaba,1.71,58000,2,Ford2,Aug wk 5 - 24,27.3
+2024-09-02,Utuk,Imaobong Nsikak,F,Farmer,Biase,,Big Iwuru,2.0,59000,2,Ford2,Sep wk 1 - 24,
+2024-09-02,Andifon,Bassey Wisdom,M,Farmer,Biase,2347061921502.0,Akpanganang,3.71,55000,2,Dyna4,Sep wk 1 - 24,
+2024-09-02,Muyideen,Favour Nnedu,F,Merchant,Akamkpa,2348163187190.0,Uyanga,2.45,65000,3,Ford2,Sep wk 1 - 24,34.66
+2024-09-03,Andifon,Sarah Bright,F,Farmer,Biase,2348169601931.0,Ibogo,4.98,59000,2,Dyna4,Sep wk 1 - 24,43.2
+2024-09-03,Andifon,Sarah Bright,F,Farmer,Biase,2348169601931.0,Ibogo,1.76,59000,2,Ford2,Sep wk 1 - 24,43.2
+2024-09-03,Andifon,Bassey Wisdom,M,Farmer,Biase,2347061921502.0,Akpanganang,3.37,55000,2,Dyna4,Sep wk 1 - 24,12.6
+2024-09-04,Joseph,Jumbo Adekanmi,M,Merchant,Akamkpa,2348037199794.0,Uyanga,5.56,63000,2,Dyna4,Sep wk 1 - 24,34.66
+2024-09-04,Joseph,Jumbo Adekanmi,M,Merchant,Akamkpa,2348037199794.0,Uyanga,2.87,63000,2,Ford2,Sep wk 1 - 24,34.66
+2024-09-05,Joseph,Jumbo Adekanmi,M,Merchant,Akamkpa,2348037199794.0,Uyanga,2.89,63000,2,Ford2,Sep wk 1 - 24,34.66
+2024-09-05,Utuk,Emem James Akpan,F,Merchant,Biase,2348087072807.0,Akwa-Ibami,6.66,58000,2,Dyna4,Sep wk 1 - 24,35.6
+2024-09-06,Utuk,Joseph James,M,Farmer,Biase,2347040540284.0,Big Iwuru,1.99,58000,2,Ford2,Sep wk 1 - 24,8.5
+2024-09-06,Utuk,Edet Ndarake,M,Farmer,Biase,2347065651947.0,Betem,3.28,615000,2,Dyna4,Sep wk 1 - 24,19.8
+2024-09-06,Muyideen,John E. Okon,M,Farmer,Akamkpa,2348064498571.0,Uyanga,2.88,60000,2,Ford2,Sep wk 1 - 24,34.66
+2024-09-06,Utuk,Edet Ndarake,M,Farmer,Biase,2347065651947.0,Betem,6.38,615000,2,Dyna4,Sep wk 1 - 24,19.8
+2024-09-07,Muyideen,Abraham Udoh,M,Merchant,Akamkpa,2348107978567.0,Ojor,4.76,58000,2,Dyna4,Sep wk 1 - 24,38.72
+2024-09-07,Muyideen,Daniel Edem,M,Farmer,Biase,2349021681125.0,Akpet Central,2.9,56000,2,Ford2,Sep wk 1 - 24,50.48
+2024-09-09,Muyideen,Akaninyene Ekanem,M,Merchant+,Biase,2348164267908.0,Big Iwuru,1.86,62000,2,Ford2,Sep wk 2 - 24,8.5
+2024-09-09,Muyideen,Sunday Etim,M,Farmer,Biase,2349021681125.0,Akpet Central,3.01,56000,2,Ford2,Sep wk 2 - 24,50.48
+2024-09-09,Muyideen,Sunday Etim,M,Farmer,Biase,2349021681125.0,Akpet Central,3.02,56000,2,Ford2,Sep wk 2 - 24,50.48
+2024-09-09,Utuk,Emem James Akpan,F,Merchant,Biase,2348087072807.0,Idoma,7.04,645000,2,Dyna4,Sep wk 2 - 24,16.86
+2024-09-10,Utuk,Onda Onda,M,Farmer,Biase,2349033033937.0,Betem,2.62,60000,2,Ford2,Sep wk 2 - 24,19.8
+2024-09-10,Utuk,Uduak Eyo,M,Farmer,Biase,2347066651947.0,Betem,9.05,615000,2,MB1,Sep wk 2 - 24,19.8
+2024-09-10,Muyideen,Favour Nnedu,F,Merchant,Akamkpa,2348163187190.0,Uyanga,2.71,65000,2,Ford2,Sep wk 2 - 24,34.66
+2024-09-11,Utuk,Jeremiah Ben,M,Farmer,Biase,2347032893664.0,Orida,2.53,62000,2,Ford2,Sep wk 2 - 24,4.0
+2024-09-11,Andifon,Egbai Egbai,M,Farmer,Base,2347031853290.0,Betem,2.9,58000,2,Ford2,Sep wk 2 - 24,19.8
+2024-09-12,Utuk,Emem James Akpan,F,Merchant,Akamkpa,2348087072807.0,Uyanga,2.52,645000,2,Ford2,Sep wk 2 - 24,34.66
+2024-09-12,Utuk,Nkpongonyong Uru,M,Farmer,Biase,2348028923225.0,Betem,5.93,62000,2,MB1,Sep wk 2 - 24,19.8
+2024-09-12,Andifon,Happiness Sunday,F,Farmer,Biase,2348162074690.0,Betem,2.73,60000,2,Ford2,Sep wk 2 - 24,19.8
+2024-09-13,Utuk,Edu Udofia John,M,Farmer,Biase,2348134927998.0,Akwa-Ibami,4.83,61000,2,Dyna4,Sep wk 2 - 24,35.6
+2024-09-13,Utuk,Ubong Matthew,M,Farmer,Biase,2349032906821.0,Small Iwuru,2.19,61000,2,Ford2,Sep wk 2 - 24,20.42
+2024-09-13,Utuk,Ubong Matthew,M,Farmer,Base,2349032906821.0,Small Iwuru,1.71,61000,2,Ford2,Sep wk 2 - 24,20.42
+2024-09-13,Utuk,Emem James Akpan,F,Merchant,Biase,2348087072807.0,Idoma,4.41,645000,2,Dyna4,Sep wk 2 - 24,16.86
+2024-09-14,Muyideen,Abraham Udoh,M,Merchant,Akamkpa,2348107978567.0,Ojor,4.54,59000,2,MB1,Sep wk 2 - 24,38.72
+2024-09-14,Andifon,Blessing Michael,F,Farmer,Biase,2348120612779.0,Umai,2.22,60000,3,Ford2,Sep wk 2 - 24,40.0
+2024-09-14,Muyideen,Namso Udoh,M,Farmer,Biase,2348066071921.0,Uyanga,5.34,62000,2,Dyna4,Sep wk 2 - 24,34.66
+2024-09-14,Utuk,Onda Mercy,M,Farmer,Biase,2349067951967.0,Betem,1.4,61000,2,Ford2,Sep wk 2 - 24,19.8
+2024-09-14,Utuk,Ekpor Charity,F,Farmer,Biase,2347032803501.0,Betem,5.98,62000,2,Dyna4,Sep wk 2 - 24,19.8
+2024-09-16,Muyideen,Favour Nnedu,F,Merchant,Akamkpa,2348163187190.0,Uyanga,2.8,65000,3,Ford2,Sep wk 3 - 24,34.66
+2024-09-16,Utuk,Imoh Patrick,M,Farmer,Biase,2349071306567.0,Small Iwuru,1.48,62000,2,Ford2,Sep wk 3 - 24,20.42
+2024-09-16,Utuk,Imoh Patrick,M,Farmer,Biase,2349071306567.0,Small Iwuru,1.71,62000,2,Ford2,Sep wk 3 - 24,20.42
+2024-09-16,Andifon,Gabriel James,M,Farmer,Biase,2349036141467.0,Betem,2.15,60000,2,Ford2,Sep wk 3 - 24,19.8
+2024-09-16,Muyideen,Collins Ukam,M,Farmer,Biase,2347069365525.0,Betem,8.42,60000,2,MB1,Sep wk 3 - 24,19.8
+2024-09-16,Utuk,Emem James Akpan,F,Merchant,Biase,2348087072807.0,Uyanga,5.41,645000,2,Dyna4,Sep wk 3 - 24,34.66
+2024-09-17,Muyideen,Namso Udoh,M,Merchant,Akamkpa,2348066071921.0,Uyanga,1.98,63000,2,Ford2,Sep wk 3 - 24,34.66
+2024-09-17,Utuk,Ernest Sunday,M,Farmer,Biase,2349063205915.0,Orida,9.16,63000,2,MB1,Sep wk 3 - 24,4.0
+2024-09-17,Utuk,Christopher Eyo,M,Farmer,Biase,2347040771504.0,Ndeacha,5.05,63000,2,Dyna4,Sep wk 3 - 24,17.16
+2024-09-17,Andifon,Oham Usang,M,Farmer,Biase,2347071945077.0,Betem,2.28,60000,2,Ford2,Sep wk 3 - 24,19.8
+2024-09-18,Utuk,Emem James Akpan,F,Merchant,Akamkpa,2348087072807.0,Uyanga,2.53,645000,2,Ford2,Sep wk 3 - 24,34.66
+2024-09-18,Utuk,Ekandem Asuquo,M,Merchant,Biase,2349038467089.0,Betem,10.22,65000,2,MB1,Sep wk 3 - 24,19.8
+2024-09-18,Joseph,Jumbo Adekanmi,M,Merchant,Akamkpa,2348037199794.0,Uyanga,5.17,645000,2,Dyna4,Sep wk 3 - 24,34.66
+2024-09-18,Andifon,Sarah Bright,F,Farmer,Biase,2348169601931.0,Ibogo,2.91,60000,2,Ford2,Sep wk 3 - 24,43.2
+2024-09-19,Andifon,Blessing Michael,F,Farmer,Biase,2348120612779.0,Umai,2.6,60000,2,Ford2,Sep wk 3 - 24,40.0
+2024-09-19,Utuk,Emem James Akpan,F,Merchant,Akamkpa,2348087072807.0,Uyanga,3.08,645000,2,Ford2,Sep wk 3 - 24,34.66
+2024-09-19,Andifon,Egbai Amang,M,Farmer,Biase,2348148519955.0,Ukupuyere,4.28,57000,2,Dyna4,Sep wk 3 - 24,40.0
+2024-09-19,Muyideen,Namso Udoh,M,Merchant,Akamkpa,2348066071921.0,Uyanga,7.92,65000,2,MB1,Sep wk 3 - 24,34.66
+2024-09-20,Utuk,Danel Offiong,M,Farmer,Biase,2348038573965.0,Ayaba,1.41,63000,2,Ford2,Sep wk 3 - 24,27.3
+2024-09-20,Andifon,Ekaette Offiong,F,Farmer,Biase,2347068869058.0,Umai,1.8,60000,2,Ford2,Sep wk 3 - 24,40.0
+2024-09-20,Utuk,Zacharaiah Udoh,M,Farmer,Biase,2349071162815.0,Ayaba,2.15,63000,2,Ford2,Sep wk 3 - 24,27.3
+2024-09-20,Joseph,Jumbo Adekanmi,M,Merchant,Akamkpa,2348037199794.0,Uyanga,6.33,645000,3,Dyna4,Sep wk 3 - 24,34.66
+2024-09-20,Utuk,Emem James Akpan,F,Merchant,Biase,2348087072807.0,Akwa-Ibami,6.14,645000,2,Dyna4,Sep wk 3 - 24,35.6
+2024-09-20,Muyideen,Namso Udoh,M,Merchant,Akamkpa,2348066071921.0,Uyanga,2.75,63000,3,Ford2,Sep wk 3 - 24,34.66
+2024-09-21,Joseph,Zelling Boniface,M,Farmer,Biase,2348149618784.0,Betem,5.04,62000,2,Dyna4,Sep wk 3 - 24,19.8
+2024-09-21,Muyideen,Martina Otei,F,Farmer,Biase,2347069626861.0,Betem,5.84,62000,2,Dyna4,Sep wk 3 - 24,19.8
+2024-09-21,Andifon,Sunday Onda,M,Farmer,Biase,2349165322757.0,Betem,2.2,60000,3,Ford2,Sep wk 3 - 24,19.8
+2024-09-21,Andifon,Martina Otei,F,Farmer,Biase,2347069626861.0,Betem,2.6,62000,2,Ford2,Sep wk 3 - 24,19.8
+2024-09-23,Utuk,Emem James Akpan,F,Merchant,Biase,2348087072807.0,Ojor,6.2,645000,2,Dyna4,Sep wk 4 - 24,38.72
+2024-09-24,Muyideen,Benson Ehom,M,Farmer,Biase,2348038621579.0,Akpet Central,6.51,64000,2,MB1,Sep wk 4 - 24,50.48
+2024-09-24,Direct visit,Samuel Daniel,M,Farmer,Biase,2349167038525.0,Owai,0.16,68000,2,SP-3PL,Sep wk 4 - 24,51.0
+2024-09-24,Andifon,Susan Ekpenyong,F,Farmer,Biase,2347066336804.0,Small Iwuru,5.07,63000,1,Dyna4,Sep wk 4 - 24,20.42
+2024-09-24,Muyideen,Benson Ehom,M,Farmer,Biase,2348038621579.0,Akpet Central,4.45,64000,2,MB1,Sep wk 4 - 24,50.48
+2024-09-25,Muyideen,Abraham Udoh,M,Merchant,Akamkpa,2348107978567.0,Ojor,2.54,62000,2,Dyna4,Sep wk 4 - 24,38.72
+2024-09-25,Utuk,Godwin Akwainyang,M,Farmer,Biase,2348037655070.0,Idoma,5.02,63000,2,Dyna4,Sep wk 4 - 24,16.86
+2024-09-25,Utuk,Ekandem Asuquo,M,Merchant,Biase,2349138467089.0,Ayaba,8.84,65000,2,MB1,Sep wk 4 - 24,27.3
+2024-09-26,Utuk,Francis Inyang,M,Farmer,Biase,2348137638864.0,Small Iwuru,3.97,63000,2,Dyna4,Sep wk 4 - 24,20.42
+2024-09-26,Direct visit,Mbauno Ogareh,M,Farmer,Biase,2347082768172.0,Small Iwuru,2.36,63000,2,Ford2,Sep wk 4 - 24,20.42
+2024-09-26,Joseph,Obot E. Udoh,M,Merchant,Biase,2349129010350.0,Igbofia,4.36,61000,2,Dyna4,Sep wk 4 - 24,40.48
+2024-09-26,Muyideen,Christopher David,M,Farmer,Biase,2349063740110.0,Akpet1,11.27,70000,1,MB2,Sep wk 4 - 24,50.48
+2024-09-26,Muyideen,Christopher David,M,Farmer,Biase,2349063740110.0,Akpet1,10.5,70000,1,MB1,Sep wk 4 - 24,50.48
+2024-09-27,Muyideen,Christopher David,M,Farmer,Biase,2349063740110.0,Akpet1,5.33,70000,1,MB1,Sep wk 4 - 24,50.48
+2024-09-28,Direct visit,Mbauno Ogareh,M,Farmer,Biase,2347082768172.0,Small Iwuru,2.64,63000,2,Ford2,Sep wk 4 - 24,20.42
+2024-09-29,Staff referral,Chidioke,M,Farmer,Akamkpa,2348139236263.0,Uyanga,9.25,65000,1,MB1,Sep wk 4 - 24,34.66
+2024-09-29,Joseph,Moses Imoh,M,Farmer,Akamkpa,2347025605615.0,Ojor,2.3,64000,2,Ford2,Sep wk 4 - 24,38.72
+2024-09-29,Joseph,Moses Imoh,M,Farmer,Akamkpa,2347025605615.0,Ojor,1.63,64000,2,Ford2,Sep wk 4 - 24,38.72
+2024-09-30,Utuk,Emem James Akpan,F,Merchant,Akamkpa,2348087072807.0,Uyanga,2.89,645000,2,Ford2,Oct wk 1 - 24,34.66
+2024-09-30,Utuk,Emem James Akpan,F,Merchant,Akamkpa,2348087072807.0,Ojor,2.76,645000,2,Ford2,Oct wk 1 - 24,38.72
+2024-09-30,Joseph,Zelling Boniface,M,Farmer,Biase,2348149618784.0,Betem,7.38,62000,2,Dyna4,Oct wk 1 - 24,19.8
+2024-10-02,Andifon,Unwana Sunday,F,Farmer,Biase,2349133368155.0,Betem,7.28,63000,2,Dyna4,Oct wk 1 - 24,
+2024-10-02,Andifon,David Umana,M,Farmer,Biase,2349120863393.0,Betem,9.0,63000,2,MB1,Oct wk 1 - 24,
+2024-10-02,Andifon,Unwana Sunday,F,Farmer,Biase,2349133368155.0,Betem,6.25,63000,2,Dyna4,Oct wk 1 - 24,
+2024-10-02,Andifon,Bassey Ejemot,M,Farmer,Biase,2347070677825.0,Betem,4.48,64000,1,Dyna4,Oct wk 1 - 24,19.8
+2024-10-03,Utuk,Ini Udohako,M,Farmer,Biase,2347066651947.0,Betem,6.45,63000,2,MB1,Oct wk 1 - 24,19.8
+2024-10-03,Andifon,Williams Aho,M,Farmer,Biase,2348137728004.0,Umai,2.44,60000,2,Ford2,Oct wk 1 - 24,40.0
+2024-10-04,Joseph,David Umana,M,Farmer,Biase,2349120863393.0,Betem,1.51,63000,2,Ford2,Oct wk 1 - 24,19.8
+2024-10-04,Andifon,Akaninyene Inyang,M,Farmer,Biase,2348162343070.0,Betem,9.74,63000,2,MB1,Oct wk 1 - 24,19.8
+2024-10-04,Andifon,Arikpo Onda,M,Farmer,Biase,2349165322757.0,Betem,1.79,62000,3,Ford2,Oct wk 1 - 24,19.8
+2024-10-04,Muyideen,Abraham Udoh,M,Merchant,Akamkpa,2348107978567.0,Ojor,2.3,62000,3,Ford2,Oct wk 1 - 24,38.72
+2024-10-05,Muyideen,Collins Ukam,M,Farmer,Biase,2347069365525.0,Betem,4.07,63000,2,MB1,Oct wk 1 - 24,19.8
+2024-10-07,Joseph,Moses Imoh,M,Farmer,Akamkpa,2347025605615.0,Ojor,7.86,65000,3,MB1,Oct wk 2 - 24,38.72
+2024-10-08,Utuk,Rita Okon Eyo,F,Farmer,Biase,2347069793596.0,Akwa-Ibami,6.95,63000,2,MB1,Oct wk 2 - 24,35.6
+2024-10-08,Muyideen,Namso Udoh,M,Merchant,Akamkpa,2348066071921.0,Uyanga,3.73,65000,3,Dyna4,Oct wk 2 - 24,34.66
+2024-10-09,Andifon,Blessing Michael,F,Farmer,Biase,2348120612779.0,Umai,2.15,62000,3,Ford2,Oct wk 2 - 24,40.0
+2024-10-09,Muyideen,Abraham Udoh,M,Merchant,Akamkpa,2348107978567.0,Ojor,6.34,63000,3,Dyna4,Oct wk 2 - 24,38.72
+2024-10-10,Joseph,Bobby Cash,M,Farmer,Akamkpa,2349125202705.0,Uyanga,1.7,64000,2,Ford2,Oct wk 2 - 24,34.66
+2024-10-11,Andifon,Ekaette Offiong,F,Farmer,Biase,2347068869058.0,Umai,2.83,62000,2,Ford2,Oct wk 2 - 24,40.0
+2024-10-11,Utuk,Friday Ekpenyong,M,Farmer,Biase,2349138851821.0,Betem,6.96,65000,2,MB1,Oct wk 2 - 24,19.8
+2024-10-12,Utuk,Ilem Ilem Edadi,M,Farmer,Biase,2347063694813.0,Betem,2.76,63000,2,Ford2,Oct wk 2 - 24,19.8
+2024-10-14,Utuk,Anietie Ekandem,M,Merchant,Biase,2348108548908.0,Betem,7.51,63000,2,Dyna4,Oct wk 3 - 24,19.8
+2024-10-14,Joseph,Anietie Ekandem,M,Merchant,Biase,2348108548908.0,Betem,7.22,63000,2,Dyna4,Oct wk 3 - 24,19.8
+2024-10-16,Utuk,Unwana Sunday,F,Farmer,Biase,2349065655843.0,Small Iwuru,2.05,64000,2,Ford2,Oct wk 3 - 24,20.42
+2024-10-16,Utuk,Unwana Sunday,F,Farmer,Biase,2349065655843.0,Small Iwuru,1.31,64000,2,Ford2,Oct wk 3 - 24,20.42
+2024-10-16,Utuk,Daniel David,F,Farmer,Biase,2348169846609.0,Betem,4.23,635000,2,Ford2,Oct wk 3 - 24,19.8
+2024-10-16,Muyideen,Glory Onda Bassey,F,Merchant,Biase,2348130620783.0,Betem,10.22,65000,2,MB1,Oct wk 3 - 24,19.8
+2024-10-17,Muyideen,Glory Onda Bassey,F,Merchant,Biase,2348130620783.0,Betem,8.63,65000,2,MB1,Oct wk 3 - 24,19.8
+2024-10-17,Andifon,Nelly Onda Bassey,F,Farmer,Biase,2347063783270.0,Betem,6.45,65000,2,Dyna4,Oct wk 3 - 24,19.8
+2024-10-17,Utuk,Jeremiah Akpan,M,Farmer,Biase,2347045277901.0,Small Iwuru,2.56,64000,2,Ford2,Oct wk 3 - 24,20.42
+2024-10-18,Andifon,Blessing Michael,F,Farmer,Biase,2348120612779.0,Umai,1.71,64000,3,Ford2,Oct wk 3 - 24,40.0
+2024-10-18,Utuk,Jeremiah Akpan,M,Farmer,Biase,2347045277901.0,Small Iwuru,6.51,64000,2,Dyna4,Oct wk 3 - 24,20.42
+2024-10-18,Andifon,Glory Mbakara,F,Farmer,Biase,2349133368155.0,Betem,2.67,65000,2,Ford2,Oct wk 3 - 24,19.8
+2024-10-18,Andifon,John Udoh,M,Farmer,Biase,2348130337917.0,Betem,3.78,62000,2,Dyna4,Oct wk 3 - 24,19.8
+2024-10-18,Utuk,Emem James Akpan,F,Merchant,Akamkpa,2348087072807.0,Ojor,9.06,66000,2,MB1,Oct wk 3 - 24,38.72
+2024-10-19,Utuk,Emem James Akpan,F,Merchant,Akamkpa,2348087072807.0,Ojor,6.71,66000,2,Dyna4,Oct wk 3 - 24,38.72
+2024-10-19,Utuk,Emem James Akpan,F,Merchant,Akamkpa,2348087072807.0,Ojor,2.95,66000,2,Ford2,Oct wk 3 - 24,38.72
+2024-10-19,Utuk,Emem James Akpan,F,Merchant,Akamkpa,2348087072807.0,Ojor,3.52,66000,2,Dyna4,Oct wk 3 - 24,38.72
+2024-10-19,Utuk,Ekandem Asuquo,M,Merchant,Biase,2349038467089.0,Ayaba,2.63,65000,2,Ford2,Oct wk 3 - 24,27.3
+2024-10-19,Utuk,Faith Ojebe,F,Farmer,Biase,2348067023516.0,Small Iwuru,3.78,64000,2,Dyna4,Oct wk 3 - 24,20.42
+2024-10-21,Utuk,Emem James Akpan,F,Merchant,Akamkpa,2348087072807.0,Ojor,7.29,66000,2,MB1,Oct wk 4 - 24,38.72
+2024-10-21,Utuk,Ubokobong Orok,M,Farmer,Biase,2348100954147.0,Betem,4.89,64000,2,Dyna4,Oct wk 4 - 24,19.8
+2024-10-22,Utuk,Emem James Akpan,F,Merchant,Biase,2348087072807.0,Umai,10.21,65000,2,MB1,Oct wk 4 - 24,40.0
+2024-10-22,Utuk,Emem James Akpan,F,Merchant,Biase,2348087072807.0,Umai,2.93,65000,2,Ford2,Oct wk 4 - 24,40.0
+2024-10-26,Andifon,Nenne Onda,F,Farmer,Biase,2349163249665.0,Ehom,9.83,69000,2,MB1,Oct wk 4 - 24,10.0
+2024-10-26,Muyideen,Onda Onda Ivang,M,Merchant,Biase,2348133690566.0,Ehom,6.76,69000,2,Dyna4,Oct wk 4 - 24,10.0
+2024-10-26,Muyideen,Onda Onda Ivang,M,Merchant,Biase,2348133690566.0,Ehom,5.45,69000,3,Dyna4,Oct wk 4 - 24,10.0
+2024-10-28,Muyideen,Namso Udoh,M,Merchant,Akamkpa,2348066071921.0,Uyanga,3.0,66000,3,Ford2,Oct wk 5 - 24,34.66
+2024-10-28,Andifon,Moses Lazarus,M,Farmer,Biase,2347070263599.0,Betem,6.57,64000,2,Dyna4,Oct wk 5 - 24,19.8
+2024-10-30,Andifon,Emmanuel Lawrence,M,Farmer,Biase,2349114739241.0,Umai,1.8,63000,2,Dyna4,Oct wk 5 - 24,40.0
+2024-10-30,Utuk,Emem James Akpan,F,Merchant,Akamkpa,2348087072807.0,Ojor,6.64,68000,2,MB1,Oct wk 5 - 24,38.72
+2024-10-30,Utuk,Ekaette Okon,F,Farmer,Biase,2347076156492.0,Idoma,2.7,68000,2,Dyna4,Oct wk 5 - 24,16.86
+2024-10-31,Muyideen,Namso Udoh,M,Merchant,Akamkpa,2348066071921.0,Uyanga,3.26,67000,2,Dyna4,Oct wk 5 - 24,34.66
+2024-10-31,Muyideen,Itoro Friday Daniel,F,Merchant,Biase,2347068931195.0,Akpet1,5.84,67000,3,Dyna4,Oct wk 5 - 24,50.48
+2024-11-01,Utuk,Daniel Effiong,M,Farmer,Biase,2348162098170.0,Big Iwuru,5.74,69000,2,Dyna4,Oct wk 5 - 24,
+2024-11-05,Direct visit,Peter Solomon,M,Farmer,Biase,2348107549310.0,Igbofia,1.73,75000,2,Dyna4,Nov wk 1 - 24,40.48
+2024-11-05,Utuk,Nimmong Monday,M,Farmer,Biase,2347041796309.0,Akpanganang,3.7,75000,2,Dyna4,Nov wk 1 - 24,12.6
+2024-11-05,Utuk,Enobong Monday,F,Farmer,Biase,2349160897419.0,Akpanganang,5.33,75000,2,Dyna4,Nov wk 1 - 24,12.6
+2024-11-06,Andifon,Blessing Michael,F,Farmer,Biase,2348120612779.0,Umai,1.65,70000,3,Ford2,Nov wk 1 - 24,40.0
+2024-11-06,Utuk,Enobong Monday,F,Farmer,Biase,2349160897419.0,Akpanganang,2.87,75000,2,Dyna4,Nov wk 1 - 24,12.6
+2024-11-06,Muyideen,Namso Udoh,M,Merchant,Akamkpa,2348066071921.0,Uyanga,7.66,80000,2,MB1,Nov wk 1 - 24,34.66
+2024-11-07,Utuk,Daniel Inyang,M,Farmer,Biase,2347073775395.0,Idoma,2.55,75000,3,Ford2,Nov wk 1 - 24,16.86
+2024-11-07,Muyideen,Supo Ubong Johnny,M,Farmer,Akamkpa,2347037197601.0,Uyanga,2.99,75000,2,Ford2,Nov wk 1 - 24,34.66
+2024-11-07,Utuk,Moses Enang,M,Farmer,Biase,2347037816818.0,Akpanganang,2.22,75000,2,Dyna4,Nov wk 1 - 24,12.6
+2024-11-08,Andifon,Nkoyo Lawrence,F,Farmer,Biase,2349041676674.0,Inyenekusung,4.91,725000,2,Dyna4,Nov wk 1 - 24,31.0
+2024-11-09,Andifon,Nkoyo Lawrence,F,Farmer,Biase,2349041676674.0,Inyenekusung,4.69,725000,2,Dyna4,Nov wk 1 - 24,31.0
+2024-11-11,Andifon,Bassey Ejemot,M,Farmer,Biase,2347070677825.0,Betem,3.3,70000,2,Ford2,Nov wk 2 - 24,19.8
+2024-11-11,Joseph,Jumbo Adekanmi,M,Merchant,Biase,2348037199794.0,Inyenekusung,2.19,80000,2,Dyna4,Nov wk 2 - 24,31.0
+2024-11-11,Andifon,Ebit Assem,M,Farmer,Biase,2349113022628.0,Umai,9.89,76000,2,MB1,Nov wk 2 - 24,40.0
+2024-11-11,Andifon,Ebit Assem,M,Farmer,Biase,2349113022628.0,Umai,2.38,76000,2,Ford2,Nov wk 2 - 24,40.0
+2024-11-11,Utuk,Grace Uwem,F,Farmer,Biase,2349038467089.0,Ayaba,1.55,85000,2,Ford2,Nov wk 2 - 24,27.3
+2024-11-12,Utuk,Ekandem Asuquo,M,Farmer,Biase,2349038467089.0,Ayaba,7.22,85000,2,MB1,Nov wk 2 - 24,27.3
+2024-11-12,Joseph,Shedrack K.,M,Farmer,Akamkpa,2349128524377.0,Uyanga,2.01,80000,2,Ford2,Nov wk 2 - 24,34.66
+2024-11-12,Utuk,Grace Uwem,F,Farmer,Biase,2349038467089.0,Ayaba,1.15,85000,3,Ford2,Nov wk 2 - 24,27.3
+2024-11-12,Utuk,Ekandem Asuquo,M,Farmer,Biase,2349038467089.0,Ikot Ekwor,3.74,85000,2,Dyna4,Nov wk 2 - 24,28.0
+2024-11-12,Utuk,Ekandem Asuquo,M,Farmer,Biase,2349038467089.0,Ikot Ekwor,2.94,85000,2,Dyna4,Nov wk 2 - 24,28.0
+2024-11-13,Staff referral,Igo Daniel,M,Farmer,Biase,,Akpanganang,4.16,82000,2,Dyna4,Nov wk 2 - 24,12.6
+2024-11-13,Joseph,Jumbo Adekanmi,M,Merchant,Biase,2348037199794.0,Igbofia,1.11,85000,2,Ford2,Nov wk 2 - 24,40.48
+2024-11-13,Utuk,Emem James Akpan,F,Merchant,Akamkpa,2348087072807.0,Uyanga,9.26,90000,2,MB1,Nov wk 2 - 24,34.66
+2024-11-13,Joseph,Jumbo Adekanmi,M,Merchant,Biase,2348037199794.0,Uyanga,2.0,85000,3,Ford2,Nov wk 2 - 24,34.66
+2024-11-14,Andifon,Bassey Wisdom,M,Farmer,Biase,2347061921502.0,Inyenekusung,5.31,82000,2,Dyna4,Nov wk 2 - 24,31.0
+2024-11-14,Joseph,Jumbo Adekanmi,M,Merchant,Biase,2348037199794.0,Umai,9.37,90000,2,MB1,Nov wk 2 - 24,40.0
+2024-11-14,Andifon,Bassey Wisdom,M,Farmer,Biase,2347061921502.0,Inyenekusung,5.97,82000,2,Dyna4,Nov wk 2 - 24,31.0
+2024-11-15,Utuk,Egwu Ajong,M,Farmer,Biase,2347034695430.0,Idoma,1.45,90000,2,Ford2,Nov wk 2 - 24,16.86
+2024-11-16,Andifon,Blessing Michael,F,Farmer,Biase,2348120612779.0,Umai,1.66,86000,2,Ford2,Nov wk 2 - 24,40.0
+2024-11-16,Andifon,Blessing Michael,F,Farmer,Biase,2348120612779.0,Umai,8.22,86000,2,MB1,Nov wk 2 - 24,40.0
+2024-11-16,Andifon,Blessing Michael,F,Farmer,Biase,2348120612779.0,Umai,2.65,86000,2,Ford2,Nov wk 2 - 24,40.0
+2024-11-18,Utuk,Emem James Akpan,F,Merchant,Biase,2347061921502.0,Umai,2.09,90000,2,Ford2,Nov wk 3 - 24,40.0
+2024-11-18,Joseph,Jumbo Adekanmi,M,Merchant,Biase,2348037199794.0,Umai,4.36,90000,2,Dyna4,Nov wk 3 - 24,40.0
+2024-11-18,Utuk,Emem James Akpan,F,Merchant,Biase,2348087072807.0,Idoma,1.78,90000,2,Ford2,Nov wk 3 - 24,16.86
+2024-11-19,Utuk,Daniel Inyang,M,Farmer,Biase,2347073775395.0,Idoma,3.03,90000,2,Dyna4,Nov wk 3 - 24,16.86
+2024-11-19,Staff referral,Aunzin Obo,M,Farmer,Biase,2347046186375.0,Ikot Ekwor,2.29,82000,2,Dyna4,Nov wk 3 - 24,28.0
+2024-11-20,Joseph,Jumbo Adekanmi,M,Merchant,Biase,2348037199794.0,Umai,5.43,90000,2,Dyna4,Nov wk 3 - 24,40.0
+2024-11-21,Utuk,Emem James Akpan,F,Merchant,Biase,2348087072807.0,Idoma,2.24,90000,2,Ford2,Nov wk 3 - 24,16.86
+2024-11-21,Andifon,Solomon George,M,Farmer,Biase,2349018647291.0,Betem,4.49,85000,2,Dyna4,Nov wk 3 - 24,19.8
+2024-11-21,Utuk,Emem James Akpan,F,Merchant,Biase,2348087072807.0,Idoma,2.39,90000,2,Ford2,Nov wk 3 - 24,16.86
+2024-11-21,Utuk,Bassey Sandy Echip,M,Farmer,Biase,2347065881384.0,Betem,2.61,90000,2,Ford2,Nov wk 3 - 24,19.8
+2024-11-21,Utuk,Iniobong Harry,F,Farmer,Biase,2348162352864.0,Small Iwuru,9.43,90000,2,MB1,Nov wk 3 - 24,20.42
+2024-11-21,Utuk,Iniobong Harry,F,Farmer,Biase,2348162352864.0,Small Iwuru,1.58,90000,2,Ford2,Nov wk 3 - 24,20.42
+2024-11-21,Joseph,Jumbo Adekanmi,M,Merchant,Akamkpa,2348037199794.0,Ifumkpa,6.05,90000,2,Dyna4,Nov wk 3 - 24,6.72
+2024-11-22,Utuk,Bassey Sandy Echip,M,Farmer,Biase,2348162352864.0,Betem,1.45,90000,2,Ford2,Nov wk 3 - 24,19.8
+2024-11-22,Utuk,Bassey Peter Echip,M,Farmer,Biase,2348162352864.0,Betem,4.63,90000,2,Dyna4,Nov wk 3 - 24,19.8
+2024-11-22,Joseph,Moses Imoh,M,Farmer,Akamkpa,2347025605615.0,Uyanga,8.16,90000,2,MB1,Nov wk 3 - 24,34.66
+2024-11-22,Joseph,Jumbo Adekanmi,M,Merchant,Akamkpa,2348037199794.0,Ifumkpa,3.42,90000,2,Dyna4,Nov wk 3 - 24,6.72
+2024-11-22,Andifon,Egbai Jacob,M,Farmer,Biase,2347069431849.0,Ibogo,2.07,90000,3,Ford2,Nov wk 3 - 24,43.2
+2024-11-23,Andifon,Chinyere Oham,F,Farmer,Biase,2347069365648.0,Betem,5.94,87000,2,Dyna4,Nov wk 3 - 24,19.8
+2024-11-23,Utuk,Ibangha Udo Akpan,M,Farmer,Biase,2348133579398.0,Ekpiriko,4.97,90000,2,Dyna4,Nov wk 3 - 24,16.7
+2024-11-23,Utuk,Benedict Agba,M,Farmer,Biase,2347047973855.0,Betem,5.78,90000,2,MB1,Nov wk 3 - 24,19.8
+2024-11-26,Utuk,Emem James Akpan,F,Merchant,Akamkpa,2348087072807.0,Ojor,1.6,90000,2,Ford2,Nov wk 4 - 24,38.72
+2024-11-26,Utuk,Ephraim Idongesit,M,Farmer,Biase,2348166791539.0,Ekpiriko,4.23,90000,3,Dyna4,Nov wk 4 - 24,16.7
+2024-11-27,Utuk,Emem James Akpan,F,Merchant,Akamkpa,2348087072807.0,Ifumkpa,5.68,90000,2,Dyna4,Nov wk 4 - 24,6.72
+2024-11-27,Utuk,Emem James Akpan,F,Merchant,Akamkpa,2348087072807.0,Ifumkpa,5.86,90000,2,MB1,Nov wk 4 - 24,6.72
+2024-11-27,Muyideen,Ndifon Ndoma,M,Farmer,Ikom,2348121059916.0,Okuni,15.26,91000,2,3PL,Nov wk 4 - 24,260.0
+2024-11-28,Utuk,Emem James Akpan,F,Merchant,Akamkpa,2348087072807.0,Ifumkpa,5.09,90000,2,Dyna4,Nov wk 4 - 24,6.72
+2024-11-28,Andifon,Blessing Michael,F,Farmer,Biase,2348120612779.0,Umai,2.3,88000,2,Ford2,Nov wk 4 - 24,40.0
+2024-11-28,Utuk,Emem James Akpan,F,Merchant,Akamkpa,2348087072807.0,Ifumkpa,5.46,90000,2,Dyna4,Nov wk 4 - 24,6.72
+2024-11-29,Andifon,Sunday Onda,M,Farmer,Biase,2349165322757.0,Betem,2.74,85000,2,Ford2,Nov wk 4 - 24,19.8
+2024-11-30,Andifon,Bassey Oku,M,Farmer,Akamkpa,2348166570782.0,Owai,5.2,90000,2,Dyna4,Nov wk 4 - 24,51.0
+2024-12-01,Joseph,Jumbo Adekanmi,M,Merchant,Akamkpa,2348037199794.0,Ifumkpa,3.93,90000,2,Dyna4,Nov wk 4 - 24,
+2024-12-01,Muyideen,Ndifon Ndoma,M,Farmer,Ikom,2348121059916.0,Okuni,13.37,91000,2,3PL,Nov wk 4 - 24,
+2024-12-02,Andifon,Arikpo Onda,M,Farmer,Biase,2349165322757.0,Betem,2.19,90000,2,Ford2,Dec wk 1 - 24,
+2024-12-02,Joseph,Victor Edet,M,Farmer,Biase,2347062909628.0,Inyenekusung,4.76,90000,2,Dyna4,Dec wk 1 - 24,31.0
+2024-12-03,Utuk,Ekandem Asuquo,M,Farmer,Biase,2349038467089.0,Ayaba,2.69,90000,2,Ford2,Dec wk 1 - 24,27.3
+2024-12-03,Utuk,Augustine Ubong,M,Farmer,Biase,2349165147412.0,Ayaba,2.16,90000,2,Ford2,Dec wk 1 - 24,27.3
+2024-12-03,Utuk,Ekandem Asuquo,M,Farmer,Biase,2349038467089.0,Ayaba,0.23,90000,2,Ford2,Dec wk 1 - 24,27.3
+2024-12-03,Utuk,Ekandem Asuquo,M,Farmer,Biase,2349038467089.0,Ayaba,0.92,90000,2,Ford2,Dec wk 1 - 24,27.3
+2024-12-04,Andifon,Daniel Oyama,M,Farmer,Biase,2347073857444.0,Owai,5.76,95000,1,Dyna4,Dec wk 1 - 24,51.0
+2024-12-04,Utuk,Daniel Effiong,M,Farmer,Biase,2348162098170.0,Big Iwuru,2.06,88000,3,Ford2,Dec wk 1 - 24,8.5
+2024-12-04,Utuk,Daniel Effiong,M,Farmer,Biase,2348162098170.0,Big Iwuru,1.45,88000,3,Ford2,Dec wk 1 - 24,8.5
+2024-12-05,Utuk,Itaya Asuquo,M,Farmer,Biase,,Ikot Abia,4.57,90000,2,Dyna4,Dec wk 1 - 24,28.04
+2024-12-05,Andifon,Bassey Wisdom,M,Farmer,Biase,2347061921502.0,Akpanganang,2.61,85000,2,Ford2,Dec wk 1 - 24,12.6
+2024-12-06,Utuk,Kojo Jeremiah,M,Farmer,Biase,2348103505172.0,Idoma,4.15,90000,1,Dyna4,Dec wk 1 - 24,16.86
+2024-12-10,Utuk,Emem James Akpan,M,Merchant,Akamkpa,2348087072807.0,Ifumkpa,4.43,90000,2,Dyna4,Dec wk 2 - 24,6.72
+2024-12-11,Andifon,Ayang Oku,M,Farmer,Akamkpa,2349060875951.0,Owai,6.36,90000,2,Dyna4,Dec wk 2 - 24,51.0
+2024-12-12,Andifon,Ayang Oku,M,Farmer,Akamkpa,2349060875951.0,Owai,2.66,90000,2,Dyna4,Dec wk 2 - 24,51.0
+2024-12-13,Andifon,Ayang Oku,M,Farmer,Akamkpa,2349060875951.0,Owai,4.82,90000,2,Dyna4,Dec wk 2 - 24,51.0
+2024-12-16,Utuk,Ekandem Asuquo,M,Farmer,Biase,2349038467089.0,Ayaba,1.42,90000,2,Ford2,Dec wk 3 - 24,27.3
+2024-12-16,Utuk,Grace Uwem,F,Farmer,Biase,2349038467089.0,Ayaba,0.31,90000,3,Ford2,Dec wk 3 - 24,27.3
+2024-12-16,Utuk,Ekandem Asuquo,M,Farmer,Biase,2349038467089.0,Ayaba,1.86,90000,2,Ford2,Dec wk 3 - 24,27.3
+2024-12-16,Utuk,Ekandem Asuquo,M,Farmer,Biase,2349038467089.0,Ayaba,1.62,90000,2,Ford2,Dec wk 3 - 24,27.3
+2024-12-16,Andifon,Mercy Oku,M,Farmer,Akamkpa,2347069095034.0,Owai,2.56,90000,2,Dyna4,Dec wk 3 - 24,51.0
+2024-12-16,Andifon,Noble Oku,F,Farmer,Akamkpa,2347069095034.0,Owai,5.5,100000,1,Dyna4,Dec wk 3 - 24,51.0
+2024-12-17,Utuk,Mbauno Ogareh,M,Farmer,Biase,2347082768170.0,Small Iwuru,2.14,92000,1,Ford2,Dec wk 3 - 24,20.42
+2024-12-17,Utuk,Mbauno Ogareh,M,Farmer,Biase,2347082768170.0,Small Iwuru,1.45,92000,1,Ford2,Dec wk 3 - 24,20.42
+2024-12-18,Andifon,Isep Ikey Isep,M,Farmer,Akamkpa,2348166481853.0,Owai,0.84,90000,2,Ford2,Dec wk 3 - 24,51.0
+2024-12-19,Andifon,Noble Oku,M,Farmer,Akamkoa,2347069095034.0,Owai,5.74,100000,1,Dyna4,Dec wk 3 - 24,51.0
+2025-01-14,Utuk,Aniedi Okon,M,Farmer,Biase,2348066757159.0,Betem,2.31,79000,1,Dyna4,Jan wk 3 - 25,19.8
+2025-01-15,Utuk,Bassey Sandy Echip,M,Farmer,Biase,2347065881384.0,Betem,2.03,79000,1,Ford2,Jan wk 3 - 25,19.8
+2025-01-17,Andifon,Obio Williams,M,Farmer,Akamkpa,2347026888716.0,Owai,4.59,80000,2,Dyna4,Jan wk 3 - 25,51.0
+2025-01-17,Andifon,Noble Oku,M,Farmer,Akamkpa,2347069095034.0,Owai,4.07,80000,1,Dyna4,Jan wk 3 - 25,51.0
+2025-01-18,Andifon,Noble Oku,M,Farmer,Akamkpa,2347069095034.0,Owai,2.34,80000,1,Dyna4,Jan wk 3 - 25,51.0
+2025-01-20,Andifon,Blessing Michael,F,Farmer,Biase,2348120612779.0,Umai,6.06,80000,1,Dyna4,Jan wk 4 - 25,40.0
+2025-01-21,Utuk,Ubong Augustine,M,Farmer,Biase,2349165147412.0,Ayaba,1.49,80000,1,Ford2,Jan wk 4 - 25,27.3
+2025-01-22,Utuk,Uwem Henry,M,Farmer,Biase,2349165147412.0,Ikot Ekwor,3.42,82000,1,Dyna4,Jan wk 4 - 25,28.0
+2025-01-23,Utuk,Egwu Ajong,M,Farmer,Biase,2347034695430.0,Idoma,2.38,85000,1,MB3,Jan wk 4 - 25,16.86
+2025-01-24,Utuk,Uka Goddy,M,Farmer,Biase,2349166150342.0,Akparavuni,1.82,85000,2,Ford2,Jan wk 4 - 25,20.92
+2025-01-24,Muyideen,Nelly Onda Bassey,F,Farmer,Biase,2348130620783.0,Betem,3.93,100000,2,Dyna4,Jan wk 4 - 25,19.8
+2025-01-25,Utuk,Oham Otei,M,Farmer,Biase,2347036851745.0,Akparavuni,0.97,85000,3,Ford2,Jan wk 4 - 25,20.92
+2025-01-28,Joseph,Joseph John,M,Farmer,Akamkpa,2349015572598.0,Ifumkpa,2.59,75000,2,Dyna4,Jan wk 5 - 25,6.72
+2025-01-28,Joseph,Moses Imoh,M,Farmer,Akamkpa,2347065391759.0,Ojor,4.74,100000,2,Dyna3,Jan wk 5 - 25,38.72
+2025-01-29,Utuk,Mbauno Ogareh,M,Farmer,Biase,2347082768170.0,Small Iwuru,2.84,93000,2,MB3,Jan wk 5 - 25,20.42
+2025-02-03,Joseph,Ibok Asuquo,M,Farmer,Akamkpa,2349136365833.0,Uyanga,5.49,102000,2,Dyna3,Feb wk 1 - 25,34.66
+2025-02-03,Joseph,Ibok Asuquo,M,Farmer,Akamkpa,2349136365833.0,Uyanga,3.93,102000,2,MB3,Feb wk 1 - 25,34.66
+2025-02-03,Muyideen,Favour Nnedu,F,Merchant,Akamkpa,2348163187190.0,Uyanga,4.55,102000,2,Dyna3,Feb wk 1 - 25,34.66
+2025-02-04,Akaninyene,Favour Bassey,F,Farmer,Biase,2349036811419.0,Big Iwuru,3.07,105000,3,MB3,Feb wk 1 - 25,8.5
+2025-02-04,Akaninyene,Favour Bassey,F,Farmer,Biase,2349036811419.0,Big Iwuru,2.98,105000,3,MB3,Feb wk 1 - 25,8.5
+2025-02-04,Muyideen,Supo. Ubong Johnny,M,Farmer,Akamkpa,2347037197601.0,Uyanga,2.58,98000,3,Ford2,Feb wk 1 - 25,34.66
+2025-02-04,Akaninyene,Innocent Lawrence,M,Farmer,Akamkpa,2348148279541.0,Nsan,4.8,110000,3,Dyna3,Feb wk 1 - 25,68.34
+2025-02-04,Muyideen,Favour Nnedu,F,Merchant,Akamkpa,2348163187190.0,Uyanga,4.15,102000,3,MB3,Feb wk 1 - 25,34.66
+2025-02-04,Utuk,Iniekong Itam,M,Farmer,Biase,2348062678836.0,Betem,1.39,95000,3,Ford2,Feb wk 1 - 25,19.8
+2025-02-05,Utuk,Enobong Ikpeme,F,Farmer,Biase,2349120722486.0,Small Iwuru,4.48,99000,3,Dyna3,Feb wk 1 - 25,20.42
+2025-02-05,Utuk,Uduak Peter,M,Farmer,Biase,2349034398646.0,Small Iwuru,1.96,95000,2,Ford2,Feb wk 1 - 25,20.42
+2025-02-05,Utuk,Iniobong Harry,F,Farmer,Biase,2348162352864.0,Small Iwuru,4.42,99000,2,MB3,Feb wk 1 - 25,20.42
+2025-02-05,Utuk,Enobong Ikpeme,F,Farmer,Biase,2349120722486.0,Small Iwuru,5.27,99000,2,Dyna3,Feb wk 1 - 25,20.42
+2025-02-05,Utuk,Emem James Akpan,F,Merchant,Biase,2348087072807.0,Idoma,1.99,95000,2,Ford2,Feb wk 1 - 25,16.86
+2025-02-05,Utuk,Ogban Justina,F,Farmer,Biase,2349166201382.0,Small Iwuru,2.52,99000,3,Ford2,Feb wk 1 - 25,20.42
+2025-02-06,Muyideen,Favour Nnedu,F,Merchant,Akamkpa,2348163187190.0,Uyanga,2.71,90000,3,Ford2,Feb wk 1 - 25,34.66
+2025-02-06,Muyideen,Namso Udoh,M,Merchant,Akamkpa,2348066071921.0,Uyanga,2.66,90000,3,MB3,Feb wk 1 - 25,34.66
+2025-02-06,Muyideen,Favour Nnedu,F,Merchant,Akamkpa,2348163187190.0,Uyanga,2.38,90000,2,Ford2,Feb wk 1 - 25,34.66
+2025-02-06,Muyideen,Abraham Udoh,M,Merchant,Akamkpa,2348107978567.0,Ojor,5.15,90000,2,Dyna3,Feb wk 1 - 25,38.72
+2025-02-06,Utuk,Emem James Akpan,F,Merchant,Akamkpa,2348087072807.0,Ifumkpa,4.09,77000,2,MB3,Feb wk 1 - 25,6.72
+2025-02-07,Joseph,Shedrack K.,M,Farmer,Akamkpa,2349128524377.0,Ojor,1.93,85000,1,Ford2,Feb wk 1 - 25,38.72
+2025-02-07,Utuk,Emem James Akpan,F,Merchant,Akamkpa,2348087072807.0,Ifumkpa,3.57,77000,1,MB3,Feb wk 1 - 25,6.72
+2025-02-08,Utuk,Daniel Inyang,M,Farmer,Biase,2347073775395.0,Idoma,2.32,83000,1,Ford2,Feb wk 1 - 25,16.86
+2025-02-08,Utuk,Udo Ibanga Akpan,M,Farmer,Biase,2348133197042.0,Ekpiriko,2.8,83000,3,Ford2,Feb wk 1 - 25,16.7
+2025-02-10,Muyideen,Abakum Jacob,M,Farmer,Akamkpa,2347044861747.0,Owai,1.91,85000,1,MB3,Feb wk 2 - 25,51.0
+2025-02-10,Muyideen,Abakum Jacob,M,Farmer,Akamkpa,2347044861747.0,Owai,2.23,85000,1,Dyna3,Feb wk 2 - 25,51.0
+2025-02-10,Utuk,Emem James Akpan,F,Merchant,Akamkpa,2348087072807.0,Ifumkpa,3.82,77000,1,MB3,Feb wk 2 - 25,6.72
+2025-02-11,Utuk,Enobong Ikpeme,F,Farmer,Biase,2349120722486.0,Small Iwuru,1.58,75000,2,Ford2,Feb wk 2 - 25,20.42
+2025-02-12,Utuk,Mbauno Ogareh,M,Farmer,Biase,2347082768170.0,Small Iwuru,2.88,75000,2,Ford2,Feb wk 2 - 25,20.42
+2025-02-13,Utuk,Glory Imoh,F,Farmer,Biase,2349164841420.0,Betem,2.58,75000,2,MB3,Feb wk 2 - 25,19.8
+2025-02-14,Utuk,Emem James Akpan,F,Merchant,Akamkpa,2348087072807.0,Uyanga,1.81,75000,3,Ford2,Feb wk 2 - 25,34.66
+2025-02-14,Muyideen,Favour Nnedu,F,Merchant,Akamkpa,2348163187190.0,Uyanga,3.8,75000,3,MB3,Feb wk 2 - 25,34.66
+2025-02-17,Utuk,Emem James Akpan,F,Merchant,Akamkpa,2348087072807.0,Ifumkpa,4.23,72000,2,MB3,Feb wk 3 - 25,6.72
+2025-02-19,Utuk,Enobong Ikpeme,F,Farmer,Biase,2349120722486.0,Small Iwuru,2.43,70000,3,Ford2,Feb wk 3 - 25,20.42
+2025-02-20,Muyideen,Favour Nnedu,F,Merchant,Akamkpa,2348163187190.0,Uyanga,4.24,82000,3,MB3,Feb wk 3 - 25,34.66
+2025-02-20,Muyideen,Favour Nnedu,F,Merchant,Akamkpa,2348163187190.0,Uyanga,2.59,82000,3,Ford2,Feb wk 3 - 25,34.66
+2025-02-21,Akaninyene,Ndifreke Eyo,M,Farmer,Biase,,Big Iwuru,2.11,75000,2,Ford2,Feb wk 3 - 25,8.5
+2025-02-21,Muyideen,Blessing Michael,F,Farmer,Biase,2348120612779.0,Umai,1.6,72000,2,Ford2,Feb wk 3 - 25,40.0
+2025-02-21,Utuk,Emem James Akpan,F,Merchant,Akamkpa,2348087072807.0,Ifumkpa,4.4,75000,3,MB3,Feb wk 3 - 25,6.72
+2025-02-21,Muyideen,Namso Udoh,M,Merchant,Akamkpa,2348066071921.0,Uyanga,1.63,80000,2,Ford2,Feb wk 3 - 25,34.66
+2025-02-22,Muyideen,Ekaette Offiong,F,Farmer,Biase,2347068869058.0,Umai,3.5,72000,3,MB3,Feb wk 3 - 25,40.0
+2025-02-22,Muyideen,Ekaette Offiong,F,Farmer,Biase,2347068869058.0,Umai,3.57,72000,2,MB3,Feb wk 3 - 25,40.0
+2025-02-22,Muyideen,Innocent Lawrence,M,Merchant,Akamkpa,2348148279541.0,Nsan,4.25,80000,2,Dyna3,Feb wk 3 - 25,68.34
+2025-02-24,Utuk,Godwin Daniel,M,Farmer,Biase,2348088993997.0,Akpanganang,2.32,85000,2,MB3,Feb wk 4 - 25,12.6
+2025-02-24,Akaninyene,Christian Effiong,M,Farmer,Biase,2348136575505.0,Big Iwuru,1.66,85000,2,Ford2,Feb wk 4 - 25,8.5
+2025-02-25,Utuk,Godwin Daniel,M,Farmer,Biase,2348088993997.0,Akpanganang,2.72,85000,3,MB3,Feb wk 4 - 25,12.6
+2025-02-25,Utuk,Grace Sunday M.,F,Farmer,Biase,2347065128465.0,Betem,2.63,82000,1,Ford2,Feb wk 4 - 25,19.8
+2025-02-26,Utuk,Emem James Akpan,F,Merchant,Akamkpa,2348087072807.0,Uyanga,3.09,85000,3,Dyna3,Feb wk 4 - 25,34.66
+2025-02-26,Utuk,Unwana Elijah,F,Farmer,Biase,2348103199918.0,Idoma,3.25,82000,2,MB3,Feb wk 4 - 25,16.86
+2025-02-27,Utuk,Unwana Elijah,F,Farmer,Biase,2348103199918.0,Idoma,1.59,83000,3,MB3,Feb wk 4 - 25,16.86
+2025-02-27,Muyideen,Abraham Udoh,M,Merchant,Biase,2348107978567.0,Ojor,2.91,85000,3,Ford2,Feb wk 4 - 25,38.72
+2025-02-27,Utuk,Dennis Michael,M,Farmer,Biase,2349063103151.0,Idoma,3.27,85000,2,MB3,Feb wk 4 - 25,16.86
+2025-02-27,Muyideen,Onuka Uche Kalu,M,Farmer,Biase,2348034977697.0,Umai,2.73,90000,2,Ford2,Feb wk 4 - 25,40.0
+2025-02-27,Muyideen,Onuka Uche Kalu,M,Farmer,Biase,2348034977697.0,Ibogo,2.17,90000,2,Ford2,Feb wk 4 - 25,43.2
+2025-02-27,Akaninyene,Ndiana Abasi,F,Farmer,Biase,,Big Iwuru,3.05,90000,3,Dyna3,Feb wk 4 - 25,8.5
+2025-02-28,Muyideen,Favour Nnedu,F,Merchant,Biase,2348163187190.0,Akwa-Ibami,3.51,90000,3,Dyna3,Feb wk 4 - 25,35.6
+2025-02-28,Utuk,Imoh Patrick,M,Farmer,Biase,2349071306567.0,Small Iwuru,2.28,90000,3,Ford2,Feb wk 4 - 25,20.42
+2025-02-28,Akaninyene,Happiness Okon,F,Farmer,Biase,2349167295170.0,Big Iwuru,1.77,90000,3,Ford2,Feb wk 4 - 25,8.5
+2025-02-28,Akaninyene,Johnson Emmanuel,M,Farmer,Biase,2349163271463.0,Big Iwuru,3.74,90000,3,Dyna3,Feb wk 4 - 25,8.5
+2025-02-28,Akaninyene,Happiness Okon,F,Farmer,Biase,2349167295170.0,Big Iwuru,1.41,90000,3,Ford2,Feb wk 4 - 25,8.5
+2025-03-01,Joseph,Ekure Shedrach,M,Farmer,Akamkpa,2349128524377.0,Ojor,2.77,90000,2,Ford2,Feb wk 4 - 25,
+2025-03-01,Utuk,Raphael William,M,Farmer,Biase,2347036769893.0,Ekpiriko,1.93,93000,2,Ford2,Feb wk 4 - 25,
+2025-03-01,Utuk,Emem James Akpan,F,Merchant,Akamkpa,2348087072807.0,Ifumkpa,4.11,90000,3,Dyna3,Feb wk 4 - 25,
+2025-03-01,Utuk,Emem James Akpan,F,Merchant,Akamkpa,2348087072807.0,Ifumkpa,4.21,90000,3,MB3,Feb wk 4 - 25,
+2025-03-01,Muyideen,Favour Nnedu,F,Merchant,Akamkpa,2348163187190.0,Uyanga,5.96,95000,3,Dyna3,Feb wk 4 - 25,
