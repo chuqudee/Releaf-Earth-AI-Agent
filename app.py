@@ -10,6 +10,7 @@ from sklearn.linear_model import LinearRegression
 import numpy as np
 import pickle
 import os
+from dotenv import load_dotenv
 
 # Access environment variables
 #app.config['SECRET_KEY'] = os.environ.get('SECRET_KEY', 'default-secret-key')  # Fallback if not set
