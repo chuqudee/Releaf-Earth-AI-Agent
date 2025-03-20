@@ -1,5 +1,5 @@
 Flask==2.2.3
-sqlite3==0.0.1
+sqlite3
 pandas==1.4.4
 plotly==5.10.0
 openai==0.27.8
