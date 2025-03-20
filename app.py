@@ -9,9 +9,15 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.linear_model import LinearRegression
 import numpy as np
 import pickle
+import os
 
-# Initialize OpenAI API
-openai.api_key = "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"
+# Access environment variables
+#app.config['SECRET_KEY'] = os.environ.get('SECRET_KEY', 'default-secret-key')  # Fallback if not set
+openai.api_key = os.environ.get('OPENAI_API_KEY')
+
+@app.route('/')
+def index():
+    return "Environment variables are set!"
 
 app = Flask(__name__)
 
