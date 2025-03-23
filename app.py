@@ -116,7 +116,107 @@ def format_response(df):
 def generate_insight_agent(sql_query, result_df):
     """Agent that generates natural language insights from SQL and results"""
     prompt = f"""
-    Analyze this SQL query and its results to provide professional business insights:
+            You are a Data Analyst for Releaf Earth Company.
+            Here is a brief overview of the data tables in their database
+
+            1. P1_Purchase (Palm Kernel Shell Purchases) Table: Tracks purchases of palm kernel shells from suppliers. 
+            Includes details like supplier name, gender, type (merchant or farmer), location (LGA, community), quantity supplied (tons), price per ton, and total price.
+            Also records vehicle (LMV) used for transport and distance covered.
+
+            2. P1_Delivery (Palm Kernel Shell Deliveries) Table: Tracks the delivery of P1 (palm kernel shells) and firewood. 
+            Includes source type (Farmers/Merchants), quantity delivered, vehicle used, LMV capacity, and week codes.
+            Some records have missing pickup location and coordinates.
+
+            3. Machinery_Expenses (Machinery Costs) Table: Records expenses related to production machinery. Includes spare parts purchased, fuel and diesel, quantity, unit cost, and total cost.
+            Tracks which department received the item.
+
+            4. LMV_Maintenance_Tracker (Vehicle Repairs) Table: Tracks vehicle maintenance issues, including. 
+            Reported issues, type of issue, maintenance actions, replaced parts, costs, technician, downtime hours, and maintenance status.
+            Some records have missing cost and technician details.
+
+            Insights:
+            Tracking Supply Chain: The data provides a full picture of palm kernel shell movement, from supplier purchase to delivery.
+            Operational Costs: The machinery expenses and vehicle maintenance records help track business operational efficiency and cost management.
+            Data Gaps: There are some missing values in coordinates, vehicle downtime, and maintenance costs.
+
+            Here is a description of the colums in their various data tables:
+            1. P1_Purchase (Palm Kernel Shell Purchases):
+              Description: Tracks purchases of palm kernel shells from suppliers.
+              Column Name	Description
+              date	Date of the purchase transaction.
+              rp	Responsible person handling the purchase.
+              name	Name of the supplier (farmer or merchant).
+              gender	Gender of the supplier (M/F).
+              supplier's_type	Type of supplier (Merchant or Farmer).
+              lga	Local Government Area (LGA) where the supplier is located.
+              phone_number	Contact number of the supplier.
+              community	Community name where the supplier is based.
+              p1_supplied_in_tons	Amount of palm kernel shells supplied (in tons).
+              p1_price_per_ton	Price per ton of palm kernel shells.
+              grade	Quality grade of the palm kernel shells.
+              lmv_used	Vehicle used for transportation (e.g., Ford2, Dyna2).
+              week_code	Weekly classification for tracking (e.g., "Jan wk 2 - 24").
+              distance_covered	Distance traveled by the vehicle to transport the purchase.
+              
+              2. P1_Delivery (Palm Kernel Shell Deliveries) Table:
+              Description: Tracks the delivery of palm kernel shells and other items.
+              Column Name	Description
+              date	Date of delivery.
+              ticket_no	Unique ticket number for tracking deliveries.
+              source	Source of the delivery (Farmers or Merchants).
+              items	Type of item delivered (e.g., P1 for palm kernel shells, Firewood).
+              uom	Unit of measurement (typically "tonnes").
+              description	Additional description (e.g., "SUBCHARGED / RETURNED").
+              quantity	Quantity of the item delivered.
+              lmv	Vehicle used for the delivery (e.g., Dyna1, Ford2).
+              lmv_capcacity	Maximum load capacity of the vehicle.
+              pick_up_location	Location where the item was picked up.
+              cordinates	Geographic coordinates of the pick-up location (often missing).
+              discovery_id	ID related to discovery tracking (unclear purpose).
+              week_code	Weekly classification for tracking deliveries.
+              
+              3. Machinery_Expenses (Machinery Costs) Table:
+              Description: Records expenses related to machinery maintenance and production.
+              Column Name	Description
+              date	Date of expense transaction.
+              ticket_no.	Unique ticket number for expense tracking.
+              receiver_department	Department receiving the machinery or spare parts.
+              item	Type of item purchased (e.g., Spares).
+              measurement	Unit of measurement (e.g., Pieces).
+              description	Details of the item (e.g., "Bolts & Nuts").
+              quantity	Number of units purchased.
+              unit_cost	Cost per unit of the item.
+              total_cost	Total cost (quantity × unit cost).
+              week_code	Weekly classification for tracking expenses.
+              
+              4. LMV_Maintenance_Tracker (Vehicle Repairs & Maintenance) table:
+              Description: Tracks maintenance and repairs of vehicles.
+              Column Name	Description
+              issue_#	Unique ID for the reported issue.
+              date_reported	Date the issue was reported.
+              reporter	Name of the person reporting the issue.
+              lmv	Vehicle associated with the issue (e.g., Dyna, Ford2).
+              issue_description	Brief description of the issue.
+              type_of_issue	Category of issue (e.g., Mechanical, Electrical).
+              type_of_maintenance	Type of maintenance (e.g., Corrective, Preventive).
+              diagnosis	Diagnosis of the issue.
+              maintenance_action(s)	Actions taken to fix the issue.
+              replace_parts?	Whether parts were replaced (Yes/No).
+              parts_to_be_replaced	Specific parts that needed replacement.
+              cost_of_parts	Cost of the parts replaced.
+              cost_of_maintenance	Labor cost of maintenance.
+              total_cost	Total cost (parts + maintenance).
+              technician	Name of the technician who performed maintenance.
+              start_date_of_maintenance	Date when maintenance started.
+              end_date_of_maintenance	Date when maintenance was completed.
+              time_on_down_time_(hrs)	Total downtime hours for the vehicle.
+              maintenance_status	Status of the maintenance (e.g., Complete, Not Started).
+              lmv_status	Current status of the vehicle after maintenance.
+              remarks	Additional notes on the maintenance.
+              week	Weekly classification for tracking repairs.
+
+    As a Data Analyst for Releaf Earth, your task is to
+    Analyze the SQL query and its query results on the database, to provide professional business insights:
     
     SQL Query: {sql_query}
     
@@ -134,7 +234,7 @@ def generate_insight_agent(sql_query, result_df):
     
     try:
         response = openai.chat.completions.create(
-            model="gpt-4",
+            model="gpt-4o",
             messages=[{"role": "user", "content": prompt}],
             temperature=0.2
         )
