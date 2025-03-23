@@ -223,12 +223,12 @@ def generate_insight_agent(sql_query, result_df):
     Query Results:
     {result_df.to_string()}
     
-    Provide a concise summary with:
+    Do not begin your response with interjections or adverbs.
+    Go staright to the point by Providing a concise summary with:
     1. Key numerical findings
     2. Notable patterns/trends
-    3. Data quality observations
-    4. Business implications
-    5. Recommended actions
+    3. Business implications
+    4. Recommended actions
     Use clear, non-technical language.
     """
     
