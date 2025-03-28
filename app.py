@@ -111,6 +111,8 @@ def generate_sql_query(user_input):
     The distance covered for every delivery trip is recorded in P1_Purchase table, in the "distance_covered" column. Use JOIN query to retrieve if neccessary.
     no need to use JOIN to calculate average kilometers per trip.
 
+    A supplier name in "name" column in P1_Purchase table, can perform more than one supply or transaction in a day or week. so their names can be duplicated in rows.
+
     Please note that the "date" column is an actual date datatype column, but the "week_code" column is a text datatype column. every value in the "week_code" column is passes as a string value.
     Be sure to understand what the "week_code" column values stand for. for example; 
     "Jan wk 1 - 24" means the first week of January in 2024.
