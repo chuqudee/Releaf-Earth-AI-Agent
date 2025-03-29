@@ -143,7 +143,7 @@ def generate_sql_query(user_input):
     
     try:
         response = openai.chat.completions.create(
-            model="gpt-4o",
+            model="gpt-4",
             messages=[{"role": "assistant", "content": schema_info}],
             temperature=0.1
         )
