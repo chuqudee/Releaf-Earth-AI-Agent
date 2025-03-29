@@ -304,8 +304,7 @@ def generate_insight_agent(sql_query, result_df):
     Go staright to the point by Providing a concise summary with:
     1. Key numerical findings
     2. Notable patterns/trends
-    3. Business implications
-    4. Recommended actions
+    3. Recommended actions
     Use clear, non-technical language.
     """
     
