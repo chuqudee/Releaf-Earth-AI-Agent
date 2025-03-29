@@ -138,7 +138,7 @@ def generate_sql_query(user_input):
     ORDER BY cost_per_ton DESC
     LIMIT 1;
 
-    Respond ONLY with the SQL query.
+    Respond ONLY with the SQL query. DO NOT include \n or ``` sql ``` in your responses.
     """.format(user_input=user_input)
     
     try:
@@ -147,7 +147,7 @@ def generate_sql_query(user_input):
             messages=[{"role": "assistant", "content": schema_info}],
             temperature=0.1
         )
-        return response.choices[0].message.content.strip()
+        return response.choices[0].message.content.strip().replace("\n", " ")
     except Exception as e:
         return f"Error generating SQL query: {str(e)}"
 
