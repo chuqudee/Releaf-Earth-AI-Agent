@@ -101,52 +101,63 @@
         function handleKeyPress(event) {
             if (event.key === "Enter") sendMessage();
         }
+
+        // Modify the sendMessage function
         function sendMessage() {
             const userInput = document.getElementById('user-input').value;
             const model = document.getElementById('model-select').value;
             if (userInput.trim() === "") return;
-        
+    
             const chatBox = document.getElementById('chat-box');
             chatBox.innerHTML += `<div class='message user-message'>${userInput}</div>`;
-        
+    
             axios.post('/ask', { query: userInput, model: model })
                 .then(response => {
                     const data = response.data;
                     document.getElementById("query-container").textContent = data.query;
-                
+            
                     // Add data result immediately
                     chatBox.innerHTML += `
                         <div class='message bot-message'>
                             ${data.result}
                         </div>
                     `;
-                
+            
                     // Create insight container
                     const insightDiv = document.createElement('div');
                     insightDiv.className = 'message bot-message insight-message';
                     insightDiv.innerHTML = '<strong>AI Analysis:</strong><br>';
                     chatBox.appendChild(insightDiv);
-                
-                    // Type out insight
-                    const contentDiv = document.createElement('div');
-                    insightDiv.appendChild(contentDiv);
-                
-                    typeMessage(data.insight, contentDiv).then(() => {
+            
+                    // Split insight into sentences
+                    const sentences = data.insight.split('. ');
+            
+                    // Type out sentences one by one
+                    const typeSentences = async () => {
+                        for (const sentence of sentences) {
+                            const sentenceDiv = document.createElement('div');
+                            insightDiv.appendChild(sentenceDiv);
+                    
+                            await typeMessage(sentence + '.', sentenceDiv);
+                        }
+                    };
+            
+                    typeSentences().then(() => {
                         updateChart(data.chart_data);
                         chatBox.scrollTop = chatBox.scrollHeight;
                     });
-                
+            
                     // Keep scrolling updated during typing
                     const scrollInterval = setInterval(() => {
                         chatBox.scrollTop = chatBox.scrollHeight;
                     }, 100);
-                
+            
                     setTimeout(() => clearInterval(scrollInterval), 5000);
                 })
                 .catch(() => {
                     chatBox.innerHTML += "<div class='message bot-message'>Error processing request.</div>";
                 });
-        
+    
             document.getElementById("user-input").value = "";
         }
 
